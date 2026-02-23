@@ -1,0 +1,601 @@
+customer_id,company_size,industry,subscription_tier,contract_type,account_manager_region,signup_date,referral_source
+MA00001,60,Finance,Professional,Monthly,West,2025-03-07,Content Marketing
+MA00002,31,Retail,Starter,Monthly,West,2021-03-27,Sales Outreach
+MA00003,58,Retail,Starter,Monthly,West,2024-11-13,Organic Search
+MA00004,124,Technology,Professional,Monthly,Northeast,2025-01-18,Partner Referral
+MA00005,6,Education,Enterprise,Multi-Year,West,2024-09-23,Content Marketing
+MA00006,412,Finance,Starter,Multi-Year,Southeast,2024-02-06,Organic Search
+MA00007,31,Finance,Enterprise,Multi-Year,Northeast,2022-10-02,Organic Search
+MA00008,26,Technology,Starter,Annual,Southeast,2025-07-29,Organic Search
+MA00009,15,Technology,Enterprise,Annual,Southeast,2024-10-03,Sales Outreach
+MA00010,167,Finance,Starter,Multi-Year,Northeast,2023-11-14,Conference
+MA00011,122,Education,,Monthly,Northeast,2023-05-18,Organic Search
+MA00012,243,Education,Starter,Monthly,Southeast,2023-02-09,Partner Referral
+MA00013,159,Finance,Professional,Annual,Southeast,2024-06-29,Partner Referral
+MA00014,74,Education,Starter,Annual,Southeast,2021-02-27,Organic Search
+MA00015,80,Retail,Enterprise,Annual,West,2022-10-11,Sales Outreach
+MA00016,167,Retail,Starter,Annual,Southeast,2025-11-03,Conference
+MA00017,19,Finance,Starter,Monthly,Southeast,2023-04-05,Partner Referral
+MA00018,51,Education,Enterprise,Annual,West,2023-05-30,Sales Outreach
+MA00019,86,Technology,Professional,Annual,Northeast,2023-09-12,Content Marketing
+MA00020,31,Technology,Starter,Multi-Year,Northeast,2021-07-20,Organic Search
+MA00021,129,Finance,Professional,Monthly,Northeast,2023-02-06,Sales Outreach
+MA00022,35,Technology,Professional,Multi-Year,West,2025-05-05,Sales Outreach
+MA00023,122,Finance,Enterprise,Annual,Northeast,2023-05-07,Content Marketing
+MA00024,64,Technology,Professional,Multi-Year,International,2022-02-03,Conference
+MA00025,95,Technology,Starter,Annual,Midwest,2025-05-01,Content Marketing
+MA00026,8,Healthcare,Professional,Annual,Northeast,2025-08-04,Content Marketing
+MA00027,19,Finance,Starter,Multi-Year,Northeast,2021-01-25,Organic Search
+MA00028,274,Healthcare,Professional,Monthly,International,2024-05-17,Conference
+MA00029,67,Manufacturing,Starter,Multi-Year,Northeast,2024-11-28,Organic Search
+MA00030,49,Finance,Professional,Annual,West,2024-08-09,Partner Referral
+MA00031,173,Manufacturing,Starter,Multi-Year,West,2024-10-12,Sales Outreach
+MA00032,134,Finance,,Monthly,Southeast,2023-01-26,Sales Outreach
+MA00033,51,Retail,Starter,Monthly,West,2024-09-20,Organic Search
+MA00034,25,Finance,Professional,Annual,Southeast,2023-08-01,Organic Search
+MA00035,574,Healthcare,Starter,Annual,West,2022-07-09,Sales Outreach
+MA00036,125,Finance,Starter,Annual,Southeast,2024-04-30,Sales Outreach
+MA00037,8,Education,Professional,Annual,Northeast,2025-03-06,Sales Outreach
+MA00038,149,Technology,Starter,Monthly,Midwest,2022-04-14,Sales Outreach
+MA00039,137,Finance,Enterprise,Annual,International,2022-12-09,Sales Outreach
+MA00040,144,Finance,Professional,Monthly,West,2023-04-30,Organic Search
+MA00041,33,Retail,Professional,Annual,International,2024-12-10,Organic Search
+MA00042,319,Manufacturing,Enterprise,Annual,Southeast,2025-12-25,Sales Outreach
+MA00043,22,Education,,Monthly,West,2023-08-25,Sales Outreach
+MA00044,233,Healthcare,Professional,Monthly,Southeast,2024-05-30,Conference
+MA00045,77,Healthcare,Professional,Annual,West,2024-05-29,Partner Referral
+MA00046,418,Education,Enterprise,Monthly,International,2024-05-26,Content Marketing
+MA00047,34,Retail,Enterprise,Monthly,Northeast,2022-04-20,Organic Search
+MA00048,125,Technology,Professional,Multi-Year,Southeast,2023-10-08,Organic Search
+MA00049,150,Education,Starter,Multi-Year,Midwest,2025-11-15,Sales Outreach
+MA00050,37,Finance,Professional,Annual,West,2023-08-31,Sales Outreach
+MA00051,55,Finance,Professional,Monthly,Northeast,2024-08-01,Partner Referral
+MA00052,33,Manufacturing,Starter,Monthly,Midwest,2023-01-21,Partner Referral
+MA00053,96,Technology,Starter,Multi-Year,West,2023-07-26,Sales Outreach
+MA00054,124,Education,Enterprise,Annual,West,2023-12-26,Organic Search
+MA00055,38,Retail,Starter,Annual,Southeast,2023-09-26,Sales Outreach
+MA00056,0,Retail,Enterprise,Multi-Year,Northeast,2022-02-27,Sales Outreach
+MA00057,27,Manufacturing,Enterprise,Multi-Year,Midwest,2024-04-29,Sales Outreach
+MA00058,29,Healthcare,Professional,Annual,Southeast,2025-04-13,Conference
+MA00059,5,Manufacturing,Starter,Monthly,Northeast,2025-11-26,Conference
+MA00060,13,Manufacturing,Starter,Annual,Midwest,2025-06-24,Sales Outreach
+MA00061,24,Manufacturing,Starter,Multi-Year,Northeast,2022-10-22,Partner Referral
+MA00062,62,Retail,Starter,Multi-Year,International,2022-02-06,Content Marketing
+MA00063,338,Technology,Professional,Annual,Southeast,2025-06-13,Partner Referral
+MA00064,75,Healthcare,Enterprise,Monthly,International,2022-05-13,Content Marketing
+MA00065,60,Finance,Professional,Multi-Year,International,2024-01-01,Organic Search
+MA00066,82,Finance,Professional,Annual,Midwest,2025-08-13,Sales Outreach
+MA00067,10,Retail,Enterprise,Annual,International,2024-10-25,Partner Referral
+MA00068,57,Finance,Professional,Multi-Year,Midwest,2024-09-13,Sales Outreach
+MA00069,19,Healthcare,Professional,Annual,Midwest,2024-07-19,Partner Referral
+MA00070,27,Manufacturing,Starter,Monthly,West,2022-07-06,Partner Referral
+MA00071,628,Retail,Starter,Multi-Year,Northeast,2023-08-25,Partner Referral
+MA00072,501,Retail,Professional,Annual,Northeast,2023-02-01,Conference
+MA00073,176,Healthcare,Professional,Multi-Year,West,2021-10-31,Partner Referral
+MA00074,104,Technology,Enterprise,Monthly,Southeast,2021-12-08,Sales Outreach
+MA00075,99,Retail,Professional,Multi-Year,West,2021-11-12,Content Marketing
+MA00076,17,Manufacturing,Professional,Multi-Year,Southeast,2024-08-06,Sales Outreach
+MA00077,12,Education,Starter,Annual,Midwest,2024-03-12,Sales Outreach
+MA00078,81,Healthcare,Starter,Annual,Southeast,2023-12-08,Partner Referral
+MA00079,31,Finance,Starter,Multi-Year,West,2024-12-12,Organic Search
+MA00080,21,Manufacturing,Professional,Monthly,West,2021-06-27,Conference
+MA00081,49,Manufacturing,Professional,Monthly,Northeast,2022-09-14,Partner Referral
+MA00082,50,Finance,Professional,Monthly,Southeast,2025-07-16,Sales Outreach
+MA00083,68,Manufacturing,Enterprise,Monthly,Midwest,2024-04-11,Conference
+MA00084,22,Technology,Starter,Multi-Year,Northeast,2021-10-19,Conference
+MA00085,55,Healthcare,Starter,Annual,Midwest,2024-06-19,Partner Referral
+MA00086,12,Technology,Professional,Annual,International,2024-01-25,Partner Referral
+MA00087,237,Finance,Enterprise,Monthly,Midwest,2025-02-08,Organic Search
+MA00088,337,Technology,Professional,Annual,International,2024-10-09,Partner Referral
+MA00089,14,Healthcare,Professional,Monthly,Northeast,2022-09-02,Conference
+MA00090,91,Healthcare,Enterprise,Monthly,West,2021-08-03,Sales Outreach
+MA00091,41,Education,Professional,Multi-Year,Northeast,2024-07-20,Conference
+MA00092,62,Technology,Starter,Annual,West,2022-06-23,Content Marketing
+MA00093,58,Retail,Professional,Annual,International,2025-05-13,Content Marketing
+MA00094,228,Manufacturing,Starter,Monthly,Northeast,2022-07-14,Content Marketing
+MA00095,106,Manufacturing,Starter,Annual,Midwest,2021-03-24,Sales Outreach
+MA00096,19,Technology,,Annual,West,2025-02-02,Sales Outreach
+MA00097,60,Technology,Professional,Annual,International,2025-01-17,Sales Outreach
+MA00098,53,Finance,Starter,Annual,West,2021-08-25,Conference
+MA00099,20,Healthcare,Starter,Annual,Southeast,2022-07-23,Partner Referral
+MA00100,69,Finance,Starter,Annual,West,2021-03-26,Organic Search
+MA00101,53,Education,Professional,Multi-Year,West,2021-02-15,Partner Referral
+MA00102,278,Retail,Professional,Multi-Year,International,2025-05-13,Content Marketing
+MA00103,43,Finance,Professional,Multi-Year,Northeast,2025-09-30,Content Marketing
+MA00104,92,Education,Starter,Monthly,West,2023-03-05,Sales Outreach
+MA00105,5,Manufacturing,,Annual,Southeast,2024-02-25,Organic Search
+MA00106,7,Manufacturing,Starter,Multi-Year,Southeast,2025-01-10,Organic Search
+MA00107,80,Finance,Starter,Multi-Year,Southeast,2025-01-17,Sales Outreach
+MA00108,63,Education,Professional,Monthly,International,2021-06-27,Sales Outreach
+MA00109,162,Retail,Starter,Multi-Year,Southeast,2024-03-20,Partner Referral
+MA00110,13,Technology,Professional,Annual,Southeast,2021-10-29,Partner Referral
+MA00111,38,Manufacturing,Professional,Monthly,Midwest,2023-06-29,Organic Search
+MA00112,5,Education,Professional,Annual,West,2023-10-18,Conference
+MA00113,20,Retail,Enterprise,Monthly,West,2022-03-31,Organic Search
+MA00114,32,Healthcare,Enterprise,Annual,West,2021-09-28,Sales Outreach
+MA00115,48,Education,Professional,Monthly,West,2021-04-07,Conference
+MA00116,28,Healthcare,Starter,Annual,Northeast,2025-01-17,Organic Search
+MA00117,171,Retail,Enterprise,Monthly,International,2024-04-21,Sales Outreach
+MA00118,9,Education,Professional,Annual,Northeast,2023-12-06,Organic Search
+MA00119,11,Finance,Professional,Annual,Southeast,2024-09-04,Content Marketing
+MA00120,94,Education,Starter,Annual,Midwest,2022-05-30,Conference
+MA00121,34,Finance,Professional,Monthly,Southeast,2025-12-03,Sales Outreach
+MA00122,271,Retail,Professional,Annual,International,2022-02-22,Partner Referral
+MA00123,124,Retail,Enterprise,Annual,West,2025-02-10,Organic Search
+MA00124,81,Retail,Starter,Monthly,West,2021-04-27,Sales Outreach
+MA00125,6,Retail,Professional,Annual,Midwest,2022-07-21,Sales Outreach
+MA00126,26,Finance,Professional,Multi-Year,Northeast,2025-01-07,Sales Outreach
+MA00127,75,Healthcare,Starter,Monthly,International,2025-05-22,Partner Referral
+MA00128,25,Manufacturing,,Monthly,Midwest,2025-09-26,Content Marketing
+MA00129,76,Education,Professional,Annual,Southeast,2022-09-07,Partner Referral
+MA00130,78,Technology,,Annual,Midwest,2022-08-19,Organic Search
+MA00131,20,Healthcare,Professional,Multi-Year,Midwest,2021-09-20,Partner Referral
+MA00132,14,Finance,,Annual,West,2021-09-01,Conference
+MA00133,174,Retail,Professional,Multi-Year,International,2025-06-30,Sales Outreach
+MA00134,57,Technology,Enterprise,Multi-Year,Northeast,2023-09-21,Sales Outreach
+MA00135,58,Technology,,Monthly,Southeast,2022-07-08,Partner Referral
+MA00136,173,Technology,Starter,Monthly,Midwest,2021-11-09,Organic Search
+MA00137,436,Manufacturing,Starter,Monthly,West,2024-08-21,Organic Search
+MA00138,5,Finance,Professional,Annual,West,2023-05-04,Conference
+MA00139,312,Finance,Enterprise,Annual,West,2024-06-27,Sales Outreach
+MA00140,180,Technology,,Multi-Year,Northeast,2022-09-24,Conference
+MA00141,38,Retail,Starter,Annual,Northeast,2023-03-24,Content Marketing
+MA00142,224,Finance,Professional,Annual,West,2023-05-04,Partner Referral
+MA00143,49,Education,Starter,Annual,Midwest,2024-03-04,Content Marketing
+MA00144,371,Finance,Professional,Monthly,Southeast,2025-03-28,Organic Search
+MA00145,214,Technology,Starter,Annual,International,2025-12-07,Content Marketing
+MA00146,89,Retail,Professional,Monthly,West,2024-02-28,Partner Referral
+MA00147,25,Healthcare,Enterprise,Annual,International,2021-12-29,Organic Search
+MA00148,60,Technology,Starter,Annual,Southeast,2024-12-11,Organic Search
+MA00149,19,Technology,Starter,Monthly,West,2023-03-09,Organic Search
+MA00150,23,Manufacturing,Starter,Monthly,Northeast,2024-12-19,Content Marketing
+MA00151,67,Healthcare,Starter,Annual,Northeast,2022-07-17,Partner Referral
+MA00152,46,Technology,Enterprise,Annual,Midwest,2024-05-25,Partner Referral
+MA00153,24,Technology,Starter,Monthly,Midwest,2022-06-29,Sales Outreach
+MA00154,395,Education,Professional,Annual,International,2023-01-26,Conference
+MA00155,28,Retail,Professional,Annual,Northeast,2022-06-16,Content Marketing
+MA00156,52,Technology,Starter,Annual,Southeast,2021-11-25,Sales Outreach
+MA00157,54,Manufacturing,Starter,Annual,Southeast,2023-08-01,Organic Search
+MA00158,5,Education,Professional,Annual,West,2024-12-24,Organic Search
+MA00159,1260,Retail,Professional,Monthly,Southeast,2023-09-22,Organic Search
+MA00160,27,Technology,Starter,Monthly,West,2023-03-13,Conference
+MA00161,132,Manufacturing,Starter,Monthly,Northeast,2023-03-14,Organic Search
+MA00162,5,Education,Professional,Multi-Year,Northeast,2023-09-29,Content Marketing
+MA00163,44,Finance,Professional,Monthly,Northeast,2025-11-10,Partner Referral
+MA00164,7,Retail,Enterprise,Annual,Northeast,2021-02-12,Sales Outreach
+MA00165,29,Healthcare,Starter,Monthly,Northeast,2022-03-10,Conference
+MA00166,249,Retail,Starter,Annual,Midwest,2025-06-03,Organic Search
+MA00167,139,Retail,,Monthly,Northeast,2023-12-11,Sales Outreach
+MA00168,114,Retail,Professional,Monthly,Midwest,2021-06-24,Content Marketing
+MA00169,99,Technology,Professional,Annual,International,2023-08-18,Sales Outreach
+MA00170,6,Retail,Professional,Annual,West,2022-11-03,Sales Outreach
+MA00171,13,Finance,Enterprise,Annual,Northeast,2023-11-30,Organic Search
+MA00172,105,Technology,Professional,Multi-Year,Midwest,2022-03-31,Organic Search
+MA00173,279,Education,Professional,Multi-Year,Northeast,2024-12-13,Organic Search
+MA00174,94,Education,,Annual,International,2021-09-24,Organic Search
+MA00175,108,Technology,Starter,Annual,West,2025-11-09,Sales Outreach
+MA00176,105,Technology,Professional,Annual,Midwest,2023-10-05,Content Marketing
+MA00177,126,Education,Starter,Annual,Midwest,2021-02-07,Sales Outreach
+MA00178,97,Finance,Starter,Annual,Midwest,2025-02-05,Organic Search
+MA00179,14,Retail,Enterprise,Annual,Midwest,2023-11-01,Sales Outreach
+MA00180,175,Finance,Enterprise,Annual,Northeast,2022-09-09,Organic Search
+MA00181,18,Retail,Starter,Annual,International,2021-03-05,Organic Search
+MA00182,9,Retail,Professional,Annual,Northeast,2024-02-13,Partner Referral
+MA00183,63,Healthcare,Professional,Annual,Southeast,2023-06-06,Sales Outreach
+MA00184,11,Education,Professional,Annual,Northeast,2024-01-18,Organic Search
+MA00185,14,Technology,Professional,Annual,International,2024-11-11,Organic Search
+MA00186,61,Finance,Enterprise,Monthly,West,2021-09-14,Conference
+MA00187,20,Finance,Professional,Monthly,West,2021-06-20,Conference
+MA00188,18,Technology,Professional,Monthly,West,2024-08-25,Organic Search
+MA00189,94,Retail,Enterprise,Monthly,West,2025-03-20,Content Marketing
+MA00190,206,Technology,Starter,Monthly,Southeast,2021-02-20,Partner Referral
+MA00191,131,Manufacturing,Professional,Annual,Southeast,2023-08-10,Organic Search
+MA00192,160,Technology,Starter,Annual,Midwest,2024-03-07,Partner Referral
+MA00193,9,Finance,Starter,Annual,International,2022-07-29,Sales Outreach
+MA00194,119,Technology,,Annual,Midwest,2025-12-27,Partner Referral
+MA00195,53,Technology,Starter,Annual,Southeast,2022-10-23,Conference
+MA00196,23,Healthcare,Professional,Monthly,Northeast,2025-09-11,Conference
+MA00197,-5,Retail,Professional,Monthly,Northeast,2023-07-02,Partner Referral
+MA00198,34,Education,Professional,Monthly,Southeast,2024-09-08,Sales Outreach
+MA00199,15,Technology,Professional,Annual,Midwest,2023-02-28,Content Marketing
+MA00200,5,Manufacturing,Starter,Annual,Southeast,2021-10-27,Content Marketing
+MA00201,85,Healthcare,Professional,Monthly,Midwest,2022-10-28,Sales Outreach
+MA00202,74,Technology,Professional,Monthly,Southeast,2022-09-30,Sales Outreach
+MA00203,269,Healthcare,Professional,Annual,West,2024-09-27,Organic Search
+MA00204,214,Retail,Starter,Annual,Southeast,2024-12-30,Partner Referral
+MA00205,68,Healthcare,Professional,Annual,West,2021-04-15,Organic Search
+MA00206,151,Technology,Enterprise,Annual,Midwest,2024-06-03,Content Marketing
+MA00207,346,Finance,Enterprise,Multi-Year,Midwest,2021-02-26,Content Marketing
+MA00208,23,Healthcare,Enterprise,Monthly,Northeast,2021-08-30,Organic Search
+MA00209,39,Manufacturing,Professional,Annual,Midwest,2025-10-27,Partner Referral
+MA00210,75,Retail,Enterprise,Annual,International,2023-12-07,Content Marketing
+MA00211,10,Finance,Professional,Monthly,Midwest,2022-08-05,Partner Referral
+MA00212,14,Education,Starter,Annual,International,2023-05-28,Partner Referral
+MA00213,120,Technology,Professional,Monthly,Southeast,2024-02-19,Content Marketing
+MA00214,32,Finance,Enterprise,Monthly,Southeast,2025-07-05,Conference
+MA00215,94,Healthcare,Professional,Annual,Midwest,2021-02-03,Sales Outreach
+MA00216,47,Finance,Starter,Annual,West,2023-01-25,Organic Search
+MA00217,240,Healthcare,Starter,Multi-Year,Northeast,2022-05-12,Sales Outreach
+MA00218,75,Education,Starter,Annual,West,2025-10-19,Sales Outreach
+MA00219,64,Finance,Professional,Multi-Year,West,2024-10-03,Sales Outreach
+MA00220,39,Retail,Professional,Multi-Year,Southeast,2024-01-13,Conference
+MA00221,15,Retail,Enterprise,Annual,Midwest,2022-07-16,Sales Outreach
+MA00222,8,Technology,Starter,Monthly,Northeast,2025-03-07,Conference
+MA00223,1340,Technology,Professional,Monthly,Southeast,2022-05-28,Organic Search
+MA00224,79,Healthcare,Professional,Monthly,West,2022-02-05,Content Marketing
+MA00225,187,Manufacturing,Professional,Monthly,Midwest,2021-10-25,Sales Outreach
+MA00226,18,Education,Starter,Multi-Year,Southeast,2023-06-02,Sales Outreach
+MA00227,95,Healthcare,Starter,Annual,Southeast,2023-12-28,Partner Referral
+MA00228,86,Education,Professional,Annual,West,2021-08-27,Sales Outreach
+MA00229,19,Technology,Enterprise,Monthly,Midwest,2023-11-22,Organic Search
+MA00230,615,Finance,Professional,Multi-Year,Midwest,2023-06-17,Content Marketing
+MA00231,327,Finance,Professional,Annual,Midwest,2024-09-23,Organic Search
+MA00232,45,Manufacturing,Professional,Annual,West,2021-12-21,Partner Referral
+MA00233,208,Finance,Starter,Annual,West,2025-08-10,Content Marketing
+MA00234,226,Manufacturing,Professional,Annual,Midwest,2021-07-04,Organic Search
+MA00235,110,Technology,Professional,Multi-Year,Southeast,2022-11-10,Conference
+MA00236,104,Finance,Enterprise,Annual,West,2021-05-09,Organic Search
+MA00237,65,Manufacturing,Professional,Annual,Northeast,2021-12-26,Sales Outreach
+MA00238,55,Technology,Professional,Monthly,West,2022-07-08,Organic Search
+MA00239,9,Retail,Professional,Monthly,West,2024-01-22,Conference
+MA00240,32,Finance,Starter,Annual,Northeast,2021-03-17,Sales Outreach
+MA00241,95,Technology,,Annual,Midwest,2021-08-30,Organic Search
+MA00242,40,Manufacturing,Starter,Annual,West,2022-11-29,Sales Outreach
+MA00243,205,Manufacturing,Enterprise,Monthly,West,2024-09-01,Partner Referral
+MA00244,61,Technology,Starter,Monthly,West,2022-02-20,Organic Search
+MA00245,20,Technology,Professional,Multi-Year,West,2025-04-11,Sales Outreach
+MA00246,12,Technology,Professional,Annual,International,2021-11-16,Conference
+MA00247,17,Manufacturing,Starter,Monthly,International,2021-09-05,Content Marketing
+MA00248,52,Technology,Professional,Annual,Midwest,2022-07-29,Conference
+MA00249,42,Healthcare,Professional,Monthly,Midwest,2021-10-01,Sales Outreach
+MA00250,5,Technology,Enterprise,Multi-Year,West,2021-09-24,Conference
+MA00251,104,Education,Professional,Annual,Northeast,2023-09-30,Conference
+MA00252,-5,Healthcare,,Annual,Northeast,2024-04-08,Partner Referral
+MA00253,23,Manufacturing,Enterprise,Annual,Northeast,2025-01-30,Conference
+MA00254,95,Healthcare,Professional,Annual,West,2023-05-28,Sales Outreach
+MA00255,21,Retail,Starter,Multi-Year,West,2021-07-01,Sales Outreach
+MA00256,260,Retail,Professional,Annual,Midwest,2023-01-02,Content Marketing
+MA00257,20,Finance,Professional,Multi-Year,Southeast,2022-05-06,Organic Search
+MA00258,44,Education,Professional,Annual,Southeast,2021-02-28,Partner Referral
+MA00259,307,Finance,Professional,Annual,Northeast,2023-03-24,Content Marketing
+MA00260,167,Finance,Professional,Monthly,West,2022-10-26,Sales Outreach
+MA00261,50000,Retail,Professional,Monthly,Southeast,2023-01-22,Content Marketing
+MA00262,240,Finance,Professional,Monthly,Midwest,2022-02-09,Organic Search
+MA00263,117,Retail,Professional,Monthly,Southeast,2023-11-28,Organic Search
+MA00264,195,Technology,Professional,Monthly,Midwest,2024-08-07,Organic Search
+MA00265,345,Technology,Enterprise,Multi-Year,West,2024-07-21,Sales Outreach
+MA00266,387,Retail,Professional,Annual,Southeast,2025-11-25,Partner Referral
+MA00267,18,Technology,Starter,Annual,Midwest,2021-07-06,Organic Search
+MA00268,20,Technology,Professional,Annual,West,2024-11-11,Content Marketing
+MA00269,103,Finance,Starter,Annual,Southeast,2022-12-17,Partner Referral
+MA00270,38,Retail,Professional,Monthly,Northeast,2021-06-11,Sales Outreach
+MA00271,5,Technology,Professional,Annual,International,2022-02-08,Organic Search
+MA00272,176,Healthcare,Enterprise,Annual,Northeast,2021-12-05,Partner Referral
+MA00273,11,Technology,Starter,Multi-Year,West,2025-01-01,Sales Outreach
+MA00274,38,Retail,Starter,Annual,Midwest,2024-02-09,Organic Search
+MA00275,24,Technology,Professional,Annual,Southeast,2025-12-29,Sales Outreach
+MA00276,35,Technology,Starter,Monthly,Northeast,2025-05-02,Partner Referral
+MA00277,115,Retail,Professional,Annual,Northeast,2021-10-28,Sales Outreach
+MA00278,6,Healthcare,Enterprise,Monthly,Midwest,2021-05-28,Organic Search
+MA00279,37,Finance,Professional,Monthly,Southeast,2024-07-07,Sales Outreach
+MA00280,8,Healthcare,Professional,Monthly,Midwest,2021-05-28,Sales Outreach
+MA00281,36,Retail,Starter,Annual,Northeast,2025-03-06,Partner Referral
+MA00282,74,Technology,Enterprise,Annual,Southeast,2022-06-11,Partner Referral
+MA00283,174,Healthcare,Professional,Annual,Northeast,2024-03-05,Partner Referral
+MA00284,40,Technology,Enterprise,Multi-Year,Southeast,2021-07-18,Partner Referral
+MA00285,1072,Technology,Starter,Annual,West,2024-08-15,Partner Referral
+MA00286,166,Retail,Professional,Monthly,Northeast,2025-07-08,Partner Referral
+MA00287,240,Technology,Enterprise,Annual,Southeast,2024-06-03,Conference
+MA00288,132,Healthcare,Professional,Annual,West,2021-05-22,Sales Outreach
+MA00289,40,Manufacturing,Professional,Annual,Midwest,2022-10-29,Organic Search
+MA00290,30,Healthcare,Starter,Annual,Northeast,2024-03-15,Sales Outreach
+MA00291,18,Technology,Starter,Multi-Year,Northeast,2024-03-15,Content Marketing
+MA00292,56,Finance,Professional,Annual,Southeast,2021-09-03,Sales Outreach
+MA00293,5,Finance,Enterprise,Multi-Year,Northeast,2024-04-17,Sales Outreach
+MA00294,30,Finance,Professional,Annual,Midwest,2025-12-09,Organic Search
+MA00295,52,Finance,Starter,Annual,Northeast,2022-04-27,Sales Outreach
+MA00296,10,Retail,Starter,Annual,International,2021-09-21,Partner Referral
+MA00297,15,Manufacturing,Professional,Monthly,Midwest,2021-07-07,Organic Search
+MA00298,88,Retail,Professional,Multi-Year,Midwest,2024-07-27,Organic Search
+MA00299,112,Education,Starter,Multi-Year,Midwest,2025-02-27,Organic Search
+MA00300,79,Healthcare,Professional,Monthly,Northeast,2024-06-25,Organic Search
+MA00301,5,Technology,Professional,Annual,West,2021-09-29,Organic Search
+MA00302,507,Education,Starter,Monthly,Midwest,2022-09-01,Sales Outreach
+MA00303,41,Technology,Enterprise,Monthly,Midwest,2022-10-01,Organic Search
+MA00304,2026,Finance,Starter,Multi-Year,West,2022-01-19,Partner Referral
+MA00305,51,Finance,Professional,Annual,Northeast,2023-04-13,Organic Search
+MA00306,104,Finance,Professional,Multi-Year,Midwest,2023-07-29,Sales Outreach
+MA00307,31,Healthcare,Professional,Multi-Year,Midwest,2022-10-25,Content Marketing
+MA00308,116,Technology,Enterprise,Monthly,Northeast,2021-03-15,Content Marketing
+MA00309,428,Technology,Starter,Annual,International,2023-03-24,Partner Referral
+MA00310,98,Retail,,Annual,Southeast,2023-11-15,Conference
+MA00311,184,Technology,Starter,Annual,Midwest,2024-07-10,Content Marketing
+MA00312,0,Retail,Professional,Multi-Year,Midwest,2022-04-22,Sales Outreach
+MA00313,7,Technology,Professional,Annual,Southeast,2024-11-10,Conference
+MA00314,117,Retail,Starter,Monthly,Northeast,2021-03-27,Conference
+MA00315,23,Finance,Professional,Multi-Year,Midwest,2025-11-19,Content Marketing
+MA00316,99,Healthcare,Professional,Monthly,West,2021-07-04,Organic Search
+MA00317,16,Education,Professional,Multi-Year,Midwest,2021-08-23,Organic Search
+MA00318,273,Education,Professional,Multi-Year,Southeast,2024-04-24,Conference
+MA00319,28,Healthcare,Professional,Annual,Midwest,2022-02-20,Conference
+MA00320,678,Manufacturing,Enterprise,Monthly,Northeast,2024-02-26,Organic Search
+MA00321,35,Healthcare,Starter,Annual,Southeast,2021-10-18,Partner Referral
+MA00322,155,Healthcare,Starter,Monthly,Southeast,2025-01-05,Organic Search
+MA00323,11,Technology,Professional,Annual,Northeast,2023-12-09,Organic Search
+MA00324,68,Technology,Professional,Monthly,Midwest,2021-07-24,Partner Referral
+MA00325,22,Technology,Starter,Annual,Midwest,2023-08-14,Sales Outreach
+MA00326,111,Retail,,Multi-Year,Northeast,2021-10-22,Conference
+MA00327,318,Finance,Enterprise,Monthly,Northeast,2021-06-18,Sales Outreach
+MA00328,211,Technology,Enterprise,Annual,International,2025-02-26,Sales Outreach
+MA00329,26,Education,Professional,Annual,Southeast,2021-08-08,Partner Referral
+MA00330,13,Finance,Enterprise,Monthly,West,2025-05-18,Organic Search
+MA00331,35,Healthcare,Professional,Annual,Southeast,2021-07-29,Sales Outreach
+MA00332,15,Finance,Professional,Monthly,West,2023-06-27,Partner Referral
+MA00333,189,Finance,Professional,Annual,Midwest,2022-09-29,Sales Outreach
+MA00334,82,Technology,Starter,Annual,Midwest,2021-09-03,Conference
+MA00335,110,Retail,Professional,Annual,Northeast,2025-07-27,Content Marketing
+MA00336,9,Finance,Professional,Monthly,West,2021-01-18,Partner Referral
+MA00337,16,Healthcare,Starter,Annual,West,2025-10-09,Partner Referral
+MA00338,17,Finance,Professional,Annual,West,2024-08-12,Conference
+MA00339,80,Finance,Starter,Multi-Year,Southeast,2023-05-26,Content Marketing
+MA00340,83,Retail,Starter,Multi-Year,Midwest,2022-02-03,Organic Search
+MA00341,5,Education,Enterprise,Annual,Southeast,2021-05-22,Sales Outreach
+MA00342,249,Finance,Starter,Annual,International,2024-05-30,Partner Referral
+MA00343,562,Finance,Enterprise,Annual,International,2024-09-11,Content Marketing
+MA00344,6,Technology,Professional,Monthly,International,2025-02-08,Content Marketing
+MA00345,18,Healthcare,Starter,Multi-Year,Northeast,2022-10-08,Content Marketing
+MA00346,134,Retail,Enterprise,Multi-Year,West,2022-06-17,Organic Search
+MA00347,21,Manufacturing,Enterprise,Annual,West,2022-03-08,Conference
+MA00348,34,Healthcare,Starter,Annual,West,2022-12-08,Organic Search
+MA00349,42,Technology,,Multi-Year,International,2025-02-04,Organic Search
+MA00350,6,Retail,Professional,Annual,Northeast,2023-08-20,Sales Outreach
+MA00351,27,Finance,Professional,Annual,Northeast,2021-07-28,Sales Outreach
+MA00352,12,Technology,Starter,Monthly,Northeast,2025-10-29,Conference
+MA00353,34,Technology,Professional,Annual,Southeast,2024-08-26,Organic Search
+MA00354,54,Healthcare,Starter,Monthly,Northeast,2022-03-11,Conference
+MA00355,74,Finance,Professional,Multi-Year,Midwest,2023-09-04,Sales Outreach
+MA00356,59,Retail,Starter,Annual,West,2023-07-27,Partner Referral
+MA00357,22,Healthcare,Professional,Monthly,Midwest,2025-05-17,Conference
+MA00358,69,Finance,Enterprise,Annual,Midwest,2021-02-15,Content Marketing
+MA00359,618,Technology,Professional,Monthly,Northeast,2025-10-12,Sales Outreach
+MA00360,19,Manufacturing,Starter,Annual,Northeast,2025-09-30,Content Marketing
+MA00361,5,Technology,Starter,Monthly,Midwest,2022-10-18,Organic Search
+MA00362,14,Education,Professional,Monthly,International,2024-04-13,Partner Referral
+MA00363,12,Healthcare,Starter,Monthly,West,2021-10-20,Conference
+MA00364,6,Retail,Enterprise,Multi-Year,West,2025-09-06,Sales Outreach
+MA00365,26,Education,Starter,Monthly,Northeast,2022-02-26,Partner Referral
+MA00366,18,Education,Starter,Multi-Year,West,2024-04-24,Organic Search
+MA00367,49,Finance,Professional,Multi-Year,Midwest,2024-07-07,Organic Search
+MA00368,96,Education,Enterprise,Monthly,Midwest,2024-07-08,Conference
+MA00369,996,Finance,Professional,Annual,International,2022-11-11,Sales Outreach
+MA00370,116,Technology,Starter,Monthly,International,2025-08-20,Partner Referral
+MA00371,49,Technology,Professional,Annual,West,2025-11-26,Conference
+MA00372,5,Retail,Professional,Annual,International,2025-05-08,Conference
+MA00373,8,Healthcare,Enterprise,Annual,Southeast,2021-06-03,Sales Outreach
+MA00374,12,Education,Professional,Monthly,West,2022-03-26,Partner Referral
+MA00375,35,Healthcare,Professional,Monthly,Northeast,2022-08-29,Organic Search
+MA00376,5,Manufacturing,Professional,Multi-Year,Midwest,2023-05-27,Content Marketing
+MA00377,66,Education,Enterprise,Monthly,International,2024-08-16,Conference
+MA00378,270,Education,Starter,Multi-Year,West,2025-01-09,Organic Search
+MA00379,98,Technology,Professional,Annual,Midwest,2023-07-18,Content Marketing
+MA00380,268,Education,Professional,Monthly,Midwest,2024-08-27,Sales Outreach
+MA00381,38,Healthcare,Professional,Annual,Midwest,2021-12-07,Sales Outreach
+MA00382,100,Finance,Enterprise,Annual,Southeast,2025-12-11,Organic Search
+MA00383,59,Manufacturing,Starter,Monthly,International,2024-12-13,Conference
+MA00384,123,Manufacturing,Professional,Annual,West,2024-01-01,Content Marketing
+MA00385,165,Manufacturing,Starter,Annual,Midwest,2025-05-25,Partner Referral
+MA00386,12,Retail,Starter,Monthly,West,2021-10-12,Content Marketing
+MA00387,9,Retail,Starter,Monthly,Midwest,2021-02-25,Content Marketing
+MA00388,15,Retail,Professional,Annual,Southeast,2022-03-21,Partner Referral
+MA00389,187,Manufacturing,Starter,Multi-Year,Midwest,2022-07-05,Conference
+MA00390,101,Healthcare,Enterprise,Annual,Southeast,2025-10-26,Content Marketing
+MA00391,184,Technology,Professional,Annual,Southeast,2023-11-23,Organic Search
+MA00392,18,Technology,Professional,Annual,Northeast,2023-02-12,Sales Outreach
+MA00393,50000,Finance,Enterprise,Monthly,Northeast,2022-02-14,Content Marketing
+MA00394,98,Technology,Enterprise,Multi-Year,West,2021-05-10,Sales Outreach
+MA00395,5,Technology,Enterprise,Monthly,Northeast,2025-09-14,Organic Search
+MA00396,33,Technology,Starter,Annual,Midwest,2024-10-10,Organic Search
+MA00397,80,Technology,Enterprise,Annual,Northeast,2025-07-06,Sales Outreach
+MA00398,72,Healthcare,Starter,Annual,West,2022-07-06,Partner Referral
+MA00399,21,Manufacturing,Professional,Monthly,Northeast,2025-08-21,Content Marketing
+MA00400,42,Education,Professional,Monthly,Northeast,2025-01-18,Organic Search
+MA00401,127,Retail,Starter,Annual,International,2021-07-02,Partner Referral
+MA00402,102,Healthcare,Starter,Monthly,West,2022-04-27,Sales Outreach
+MA00403,133,Retail,Professional,Annual,West,2023-12-08,Organic Search
+MA00404,89,Healthcare,Enterprise,Multi-Year,Midwest,2024-09-15,Organic Search
+MA00405,49,Healthcare,Professional,Annual,Northeast,2024-01-19,Sales Outreach
+MA00406,102,Finance,Enterprise,Monthly,Northeast,2021-05-19,Conference
+MA00407,43,Technology,Enterprise,Annual,West,2022-12-09,Organic Search
+MA00408,6,Finance,Enterprise,Multi-Year,West,2021-10-23,Sales Outreach
+MA00409,75,Technology,Professional,Multi-Year,Northeast,2025-12-17,Conference
+MA00410,9,Finance,Professional,Multi-Year,Midwest,2023-10-29,Content Marketing
+MA00411,13,Healthcare,Professional,Multi-Year,Northeast,2021-10-24,Organic Search
+MA00412,29,Healthcare,Starter,Annual,Northeast,2025-06-01,Organic Search
+MA00413,140,Retail,Professional,Multi-Year,Midwest,2025-09-27,Sales Outreach
+MA00414,44,Education,Starter,Annual,West,2021-08-07,Sales Outreach
+MA00415,776,Finance,,Annual,Midwest,2021-12-16,Sales Outreach
+MA00416,138,Manufacturing,Professional,Monthly,Midwest,2021-10-12,Organic Search
+MA00417,62,Retail,Starter,Multi-Year,Midwest,2024-04-27,Organic Search
+MA00418,5,Manufacturing,Enterprise,Annual,Northeast,2025-09-21,Partner Referral
+MA00419,144,Manufacturing,Enterprise,Monthly,Northeast,2025-10-25,Partner Referral
+MA00420,105,Retail,Professional,Annual,West,2022-02-05,Organic Search
+MA00421,99,Retail,Professional,Annual,Midwest,2022-08-12,Sales Outreach
+MA00422,66,Technology,Professional,Monthly,International,2025-01-11,Conference
+MA00423,38,Healthcare,Professional,Annual,International,2024-11-06,Conference
+MA00424,98,Finance,Starter,Monthly,Northeast,2022-09-02,Sales Outreach
+MA00425,18,Technology,Professional,Annual,Southeast,2025-04-22,Organic Search
+MA00426,13,Healthcare,Enterprise,Multi-Year,Midwest,2023-03-26,Conference
+MA00427,202,Manufacturing,Starter,Annual,Midwest,2023-08-21,Sales Outreach
+MA00428,27,Retail,Starter,Annual,Northeast,2025-04-17,Sales Outreach
+MA00429,29,Technology,Enterprise,Annual,Southeast,2024-07-03,Partner Referral
+MA00430,86,Retail,Professional,Annual,West,2024-03-25,Sales Outreach
+MA00431,459,Healthcare,Professional,Multi-Year,Southeast,2023-12-09,Organic Search
+MA00432,539,Technology,Enterprise,Multi-Year,Midwest,2022-05-25,Content Marketing
+MA00433,155,Technology,Starter,Monthly,West,2022-05-09,Organic Search
+MA00434,6,Finance,Professional,Monthly,West,2022-03-08,Partner Referral
+MA00435,270,Retail,Starter,Monthly,Northeast,2024-06-13,Content Marketing
+MA00436,425,Manufacturing,Professional,Annual,Southeast,2024-04-16,Sales Outreach
+MA00437,63,Technology,Starter,Annual,Northeast,2022-02-17,Partner Referral
+MA00438,135,Manufacturing,Starter,Annual,Midwest,2021-01-27,Partner Referral
+MA00439,16,Technology,Starter,Annual,West,2025-10-25,Organic Search
+MA00440,24,Finance,Starter,Multi-Year,Southeast,2023-12-14,Organic Search
+MA00441,48,Technology,Enterprise,Monthly,Northeast,2024-11-29,Sales Outreach
+MA00442,53,Finance,,Annual,Northeast,2022-02-07,Conference
+MA00443,50,Technology,Enterprise,Annual,West,2023-03-06,Content Marketing
+MA00444,86,Retail,Professional,Monthly,West,2024-05-16,Sales Outreach
+MA00445,45,Retail,Professional,Annual,West,2024-05-17,Conference
+MA00446,288,Healthcare,Professional,Annual,Southeast,2025-02-16,Sales Outreach
+MA00447,7,Healthcare,Starter,Annual,Northeast,2023-05-02,Partner Referral
+MA00448,278,Technology,,Annual,Southeast,2021-08-14,Content Marketing
+MA00449,201,Education,Starter,Monthly,West,2021-06-17,Content Marketing
+MA00450,56,Education,Professional,Monthly,Midwest,2024-09-26,Partner Referral
+MA00451,40,Healthcare,Professional,Monthly,Southeast,2025-03-27,Sales Outreach
+MA00452,127,Education,Starter,Annual,West,2022-03-27,Partner Referral
+MA00453,30,Technology,Starter,Monthly,Northeast,2021-04-13,Content Marketing
+MA00454,115,Technology,Professional,Monthly,Midwest,2022-01-26,Conference
+MA00455,71,Education,Enterprise,Annual,Midwest,2023-01-06,Sales Outreach
+MA00456,19,Technology,Starter,Annual,Southeast,2022-10-05,Partner Referral
+MA00457,337,Technology,Starter,Annual,Midwest,2024-12-22,Sales Outreach
+MA00458,147,Technology,Professional,Monthly,Southeast,2024-05-25,Content Marketing
+MA00459,78,Retail,Starter,Annual,International,2022-07-19,Partner Referral
+MA00460,473,Technology,Enterprise,Annual,West,2023-09-09,Sales Outreach
+MA00461,314,Finance,Professional,Monthly,Northeast,2024-03-08,Organic Search
+MA00462,44,Technology,Enterprise,Monthly,Midwest,2024-02-25,Content Marketing
+MA00463,66,Technology,Professional,Multi-Year,Southeast,2025-08-03,Content Marketing
+MA00464,71,Manufacturing,,Annual,West,2023-08-23,Sales Outreach
+MA00465,110,Healthcare,Starter,Annual,Midwest,2021-06-26,Partner Referral
+MA00466,162,Healthcare,Enterprise,Annual,Northeast,2022-08-31,Conference
+MA00467,89,Healthcare,,Multi-Year,Northeast,2022-03-06,Partner Referral
+MA00468,67,Education,Starter,Annual,Southeast,2021-12-15,Conference
+MA00469,11,Technology,Professional,Annual,International,2022-04-08,Organic Search
+MA00470,38,Technology,Professional,Monthly,Northeast,2021-08-25,Organic Search
+MA00471,34,Retail,Professional,Annual,Southeast,2023-05-06,Content Marketing
+MA00472,46,Technology,Starter,Annual,Southeast,2024-06-23,Partner Referral
+MA00473,23,Technology,Enterprise,Monthly,Northeast,2025-07-29,Sales Outreach
+MA00474,35,Healthcare,Starter,Annual,West,2023-07-01,Organic Search
+MA00475,14,Finance,Professional,Monthly,West,2023-02-23,Sales Outreach
+MA00476,57,Healthcare,Professional,Monthly,West,2023-10-19,Sales Outreach
+MA00477,13,Finance,Enterprise,Annual,Northeast,2025-02-24,Content Marketing
+MA00478,385,Finance,Starter,Monthly,West,2025-04-04,Partner Referral
+MA00479,35,Healthcare,Enterprise,Monthly,West,2025-10-13,Sales Outreach
+MA00480,302,Finance,Professional,Multi-Year,West,2021-06-01,Conference
+MA00481,48,Healthcare,Professional,Monthly,Southeast,2023-11-10,Content Marketing
+MA00482,62,Finance,Starter,Annual,Southeast,2021-08-19,Sales Outreach
+MA00483,328,Finance,Professional,Annual,Southeast,2025-11-02,Content Marketing
+MA00484,45,Healthcare,Professional,Multi-Year,Northeast,2024-09-22,Partner Referral
+MA00485,501,Technology,Professional,Monthly,West,2024-07-27,Organic Search
+MA00486,23,Technology,Professional,Multi-Year,Southeast,2022-11-27,Sales Outreach
+MA00487,100,Retail,Professional,Annual,Midwest,2023-08-02,Conference
+MA00488,119,Technology,Professional,Multi-Year,Southeast,2023-02-17,Partner Referral
+MA00489,64,Retail,Enterprise,Annual,International,2022-07-10,Content Marketing
+MA00490,28,Education,Starter,Monthly,Midwest,2025-01-21,Organic Search
+MA00491,315,Technology,Starter,Annual,Northeast,2023-10-18,Content Marketing
+MA00492,36,Finance,Professional,Annual,Northeast,2025-11-05,Organic Search
+MA00493,61,Retail,Professional,Annual,Midwest,2023-05-10,Organic Search
+MA00494,10,Healthcare,Enterprise,Monthly,Southeast,2022-03-22,Sales Outreach
+MA00495,52,Technology,Enterprise,Monthly,West,2025-09-01,Organic Search
+MA00496,7,Healthcare,Starter,Annual,Southeast,2021-12-07,Conference
+MA00497,233,Finance,Professional,Annual,Midwest,2023-09-25,Content Marketing
+MA00498,111,Finance,Starter,Multi-Year,Midwest,2022-02-23,Organic Search
+MA00499,309,Retail,Enterprise,Multi-Year,Northeast,2023-05-06,Organic Search
+MA00500,51,Technology,Professional,Annual,Midwest,2025-07-03,Conference
+MA00501,205,Retail,Starter,Multi-Year,International,2023-11-07,Conference
+MA00502,327,Education,Professional,Monthly,West,2023-06-24,Organic Search
+MA00503,17,Technology,Enterprise,Multi-Year,West,2024-07-17,Organic Search
+MA00504,28,Technology,Enterprise,Monthly,West,2021-12-29,Organic Search
+MA00505,20,Retail,,Multi-Year,Northeast,2021-01-23,Partner Referral
+MA00506,148,Technology,Professional,Annual,West,2024-02-12,Conference
+MA00507,202,Healthcare,,Annual,Southeast,2021-02-06,Organic Search
+MA00508,109,Healthcare,Starter,Annual,Midwest,2025-04-29,Partner Referral
+MA00509,15,Healthcare,Enterprise,Monthly,Midwest,2024-12-04,Sales Outreach
+MA00510,50,Education,Professional,Annual,Midwest,2024-06-12,Organic Search
+MA00511,41,Healthcare,Professional,Annual,Southeast,2024-07-06,Sales Outreach
+MA00512,75000,Technology,Professional,Annual,Northeast,2023-08-28,Partner Referral
+MA00513,220,Technology,Professional,Annual,Northeast,2024-06-14,Partner Referral
+MA00514,674,Technology,Enterprise,Monthly,Southeast,2022-05-13,Conference
+MA00515,433,Retail,Enterprise,Annual,International,2022-01-09,Sales Outreach
+MA00516,26,Finance,,Annual,West,2023-11-06,Organic Search
+MA00517,239,Retail,Professional,Monthly,Southeast,2021-04-06,Partner Referral
+MA00518,5,Retail,Professional,Annual,Southeast,2024-12-02,Content Marketing
+MA00519,12,Education,Professional,Annual,Northeast,2022-10-01,Partner Referral
+MA00520,106,Retail,Enterprise,Monthly,Midwest,2024-06-11,Sales Outreach
+MA00521,21,Finance,Professional,Annual,Northeast,2025-11-12,Sales Outreach
+MA00522,38,Finance,Starter,Annual,International,2025-03-17,Sales Outreach
+MA00523,436,Retail,Professional,Monthly,Northeast,2022-02-01,Sales Outreach
+MA00524,43,Technology,Professional,Annual,Southeast,2023-01-27,Organic Search
+MA00525,116,Manufacturing,Starter,Annual,Northeast,2025-09-29,Partner Referral
+MA00526,44,Finance,Professional,Annual,Northeast,2021-01-10,Conference
+MA00527,119,Retail,Professional,Annual,Midwest,2024-02-02,Organic Search
+MA00528,164,Healthcare,Professional,Monthly,International,2021-11-17,Sales Outreach
+MA00529,42,Retail,Starter,Annual,Midwest,2022-04-21,Organic Search
+MA00530,20,Technology,Starter,Annual,Midwest,2021-12-08,Conference
+MA00531,116,Healthcare,Professional,Annual,West,2025-12-25,Partner Referral
+MA00532,13,Education,Enterprise,Annual,Southeast,2023-08-29,Content Marketing
+MA00533,186,Technology,Starter,Monthly,Southeast,2023-08-22,Content Marketing
+MA00534,79,Manufacturing,Starter,Monthly,Midwest,2023-04-29,Conference
+MA00535,127,Manufacturing,Enterprise,Annual,Northeast,2023-12-30,Organic Search
+MA00536,8,Technology,Starter,Annual,Northeast,2022-01-23,Sales Outreach
+MA00537,326,Retail,Professional,Monthly,Southeast,2022-10-10,Sales Outreach
+MA00538,32,Healthcare,Professional,Monthly,West,2022-06-21,Conference
+MA00539,33,Manufacturing,Professional,Annual,Midwest,2023-05-07,Organic Search
+MA00540,6,Healthcare,Professional,Multi-Year,West,2023-08-24,Content Marketing
+MA00541,32,Technology,Enterprise,Annual,Northeast,2021-12-29,Organic Search
+MA00542,16,Technology,Starter,Monthly,Southeast,2025-07-30,Partner Referral
+MA00543,182,Finance,Professional,Multi-Year,Southeast,2022-08-06,Organic Search
+MA00544,36,Finance,,Monthly,Midwest,2023-01-25,Sales Outreach
+MA00545,23,Manufacturing,Starter,Annual,Midwest,2021-06-27,Partner Referral
+MA00546,224,Healthcare,,Multi-Year,International,2023-11-07,Partner Referral
+MA00547,9,Retail,Professional,Annual,Northeast,2025-05-02,Content Marketing
+MA00548,12,Technology,Enterprise,Annual,Southeast,2025-05-27,Organic Search
+MA00549,23,Healthcare,Professional,Annual,International,2022-04-27,Partner Referral
+MA00550,204,Healthcare,Starter,Annual,Southeast,2022-04-27,Partner Referral
+MA00551,22,Retail,,Annual,Midwest,2022-07-31,Conference
+MA00552,49,Technology,Enterprise,Annual,Northeast,2021-11-24,Content Marketing
+MA00553,24,Technology,Professional,Multi-Year,Midwest,2022-08-18,Partner Referral
+MA00554,13,Retail,Starter,Monthly,Northeast,2023-03-10,Sales Outreach
+MA00555,37,Technology,Starter,Monthly,Northeast,2024-02-11,Organic Search
+MA00556,66,Retail,Starter,Monthly,Midwest,2025-04-07,Conference
+MA00557,10,Manufacturing,Professional,Annual,Southeast,2025-01-19,Sales Outreach
+MA00558,52,Education,Starter,Annual,Midwest,2022-10-14,Content Marketing
+MA00559,5,Retail,Starter,Annual,West,2023-03-19,Partner Referral
+MA00560,15,Finance,Starter,Annual,Northeast,2024-02-14,Partner Referral
+MA00561,144,Finance,Professional,Monthly,Northeast,2024-09-08,Sales Outreach
+MA00562,39,Healthcare,Starter,Monthly,Midwest,2023-10-26,Sales Outreach
+MA00563,110,Technology,Starter,Monthly,Northeast,2024-07-01,Sales Outreach
+MA00564,195,Manufacturing,Enterprise,Annual,International,2022-03-01,Sales Outreach
+MA00565,114,Education,Starter,Monthly,West,2025-02-15,Conference
+MA00566,75000,Healthcare,Enterprise,Monthly,Midwest,2024-03-14,Sales Outreach
+MA00567,120,Retail,Professional,Annual,Southeast,2025-11-15,Partner Referral
+MA00568,61,Finance,Professional,Multi-Year,Northeast,2023-09-28,Sales Outreach
+MA00569,34,Technology,Professional,Annual,West,2022-08-01,Content Marketing
+MA00570,126,Retail,Starter,Annual,Northeast,2022-03-07,Content Marketing
+MA00571,88,Education,Enterprise,Multi-Year,Northeast,2022-03-07,Organic Search
+MA00572,66,Technology,Starter,Annual,West,2023-10-26,Content Marketing
+MA00573,335,Retail,Starter,Annual,Northeast,2024-03-11,Sales Outreach
+MA00574,81,Finance,Starter,Annual,International,2025-08-10,Partner Referral
+MA00575,913,Technology,Professional,Multi-Year,International,2021-09-28,Content Marketing
+MA00576,11,Technology,Starter,Monthly,West,2024-02-08,Organic Search
+MA00577,184,Healthcare,Professional,Monthly,Southeast,2021-10-31,Organic Search
+MA00578,58,Retail,Enterprise,Multi-Year,Southeast,2021-01-22,Sales Outreach
+MA00579,179,Education,Professional,Annual,International,2022-09-27,Content Marketing
+MA00580,34,Manufacturing,Enterprise,Annual,Northeast,2025-12-10,Sales Outreach
+MA00581,301,Retail,Starter,Monthly,Midwest,2024-11-13,Content Marketing
+MA00582,250,Finance,Professional,Annual,International,2022-09-02,Partner Referral
+MA00583,105,Technology,Enterprise,Annual,Midwest,2021-02-19,Conference
+MA00584,26,Manufacturing,Starter,Monthly,Midwest,2023-06-15,Sales Outreach
+MA00585,58,Technology,Enterprise,Monthly,Southeast,2025-09-21,Conference
+MA00586,24,Technology,Professional,Monthly,International,2021-01-23,Conference
+MA00587,59,Retail,Starter,Annual,International,2024-07-07,Partner Referral
+MA00588,8,Technology,Enterprise,Monthly,West,2024-03-06,Sales Outreach
+MA00589,14,Education,,Annual,International,2023-04-16,Organic Search
+MA00590,10,Finance,Professional,Multi-Year,Midwest,2022-02-03,Content Marketing
+MA00591,172,Retail,Enterprise,Multi-Year,Northeast,2021-06-23,Partner Referral
+MA00592,74,Technology,Starter,Annual,Southeast,2022-09-23,Conference
+MA00593,9,Manufacturing,Enterprise,Monthly,Northeast,2021-12-02,Partner Referral
+MA00594,41,Manufacturing,Enterprise,Multi-Year,Southeast,2024-08-30,Partner Referral
+MA00595,260,Retail,Starter,Annual,International,2023-02-05,Conference
+MA00596,45,Healthcare,Professional,Multi-Year,Southeast,2022-06-03,Sales Outreach
+MA00597,12,Technology,Professional,Annual,Northeast,2024-02-03,Partner Referral
+MA00598,25,Retail,Professional,Monthly,Northeast,2023-08-27,Sales Outreach
+MA00599,68,Manufacturing,Starter,Multi-Year,Northeast,2024-08-15,Sales Outreach
+MA00600,218,Finance,Starter,Monthly,West,2024-10-23,Content Marketing
