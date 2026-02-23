@@ -1,0 +1,2424 @@
+[
+  {
+    "review_id": "R001",
+    "product": "Hawaiian Kona",
+    "rating": 4.1,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Emily Lewis",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "chocolate"
+    ],
+    "date": "2025-08-31"
+  },
+  {
+    "review_id": "R002",
+    "product": "Cold Brew Concentrate",
+    "rating": 4.1,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Ethan Scott",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "cold-brew",
+      "gift-worthy"
+    ],
+    "date": "2025-11-02"
+  },
+  {
+    "review_id": "R003",
+    "product": "Brazil Santos",
+    "rating": 2.0,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Holly Allen",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast"
+    ],
+    "date": "2025-05-14"
+  },
+  {
+    "review_id": "R004",
+    "product": "Nitro Cold Brew",
+    "rating": 2.5,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Xena Clark",
+      "location": "Miami, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "gift-worthy",
+      "single-origin"
+    ],
+    "date": "2025-10-12"
+  },
+  {
+    "review_id": "R005",
+    "product": "Hawaiian Kona",
+    "rating": null,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Diana Moore",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast",
+      "fruity"
+    ],
+    "date": "2025-03-05"
+  },
+  {
+    "review_id": "R006",
+    "product": "Guatemala Antigua",
+    "rating": 3.2,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Uma Campbell",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [],
+    "date": "2025-11-10"
+  },
+  {
+    "review_id": "R007",
+    "product": "Caramel Pecan",
+    "rating": 4.5,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Xena Torres",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "nutty"
+    ],
+    "date": "2025-02-04"
+  },
+  {
+    "review_id": "R008",
+    "product": "Java Estate",
+    "rating": null,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Frank Carter",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty",
+      "everyday",
+      "smooth"
+    ],
+    "date": "2025-10-07"
+  },
+  {
+    "review_id": "R009",
+    "product": "Guatemala Antigua",
+    "rating": 2.8,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Julia Garcia",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [],
+    "date": "2025-11-27"
+  },
+  {
+    "review_id": "R010",
+    "product": "Java Estate",
+    "rating": 1.9,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Ethan Williams",
+      "location": "Orlando, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "cold-brew",
+      "medium-roast"
+    ],
+    "date": "2025-06-15"
+  },
+  {
+    "review_id": "R011",
+    "product": "Vanilla Hazelnut",
+    "rating": 1.1,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Xena Jackson",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "chocolate"
+    ],
+    "date": "2025-04-13"
+  },
+  {
+    "review_id": "R012",
+    "product": "Ethiopian Yirgacheffe",
+    "rating": 3.3,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Wendy Hall",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "smooth"
+    ],
+    "date": "2025-03-19"
+  },
+  {
+    "review_id": "R013",
+    "product": "Jamaican Blue Mountain",
+    "rating": 3.0,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Rachel Scott",
+      "location": "Austin, TX",
+      "verified_purchase": false
+    },
+    "tags": [
+      "medium-roast",
+      "smooth",
+      "bold"
+    ],
+    "date": "2025-05-14"
+  },
+  {
+    "review_id": "R014",
+    "product": "Decaf Colombian",
+    "rating": 1.8,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Mason Adams",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth"
+    ],
+    "date": "2025-04-13"
+  },
+  {
+    "review_id": "R015",
+    "product": "Brazil Santos",
+    "rating": 2.9,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Luna Martin",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "fruity",
+      "earthy"
+    ],
+    "date": "2025-01-07"
+  },
+  {
+    "review_id": "R016",
+    "product": "Decaf House Blend",
+    "rating": 2.8,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Vince Harris",
+      "location": "Nashville, TN",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "cold-brew"
+    ],
+    "date": "2025-10-15"
+  },
+  {
+    "review_id": "R017",
+    "product": "Java Estate",
+    "rating": 4.5,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Emily Flores",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity"
+    ],
+    "date": "2025-05-21"
+  },
+  {
+    "review_id": "R018",
+    "product": "Caramel Pecan",
+    "rating": null,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Karen Miller",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "nutty",
+      "earthy",
+      "smooth"
+    ],
+    "date": "2025-12-01"
+  },
+  {
+    "review_id": "R019",
+    "product": "Jamaican Blue Mountain",
+    "rating": 4.7,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Jack Taylor",
+      "location": "Portland, OR",
+      "verified_purchase": false
+    },
+    "tags": [
+      "floral",
+      "fruity"
+    ],
+    "date": "2025-09-01"
+  },
+  {
+    "review_id": "R020",
+    "product": "Decaf Colombian",
+    "rating": null,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Luna Hall",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy"
+    ],
+    "date": "2025-04-21"
+  },
+  {
+    "review_id": "R021",
+    "product": "Decaf House Blend",
+    "rating": 1.7,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Bella Robinson",
+      "location": "Seattle, WA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty"
+    ],
+    "date": "2025-05-24"
+  },
+  {
+    "review_id": "R022",
+    "product": "Hawaiian Kona",
+    "rating": 4.9,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Bob Nelson",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity",
+      "chocolate",
+      "blend",
+      "light-roast"
+    ],
+    "date": "2025-08-11"
+  },
+  {
+    "review_id": "R023",
+    "product": "Colombian Supremo",
+    "rating": 3.4,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Sam White",
+      "location": "Miami, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "dark-roast",
+      "cold-brew"
+    ],
+    "date": "2025-10-10"
+  },
+  {
+    "review_id": "R024",
+    "product": "House Blend",
+    "rating": 2.5,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Leo Nguyen",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "blend"
+    ],
+    "date": "2025-07-04"
+  },
+  {
+    "review_id": "R025",
+    "product": "Guatemala Antigua",
+    "rating": 2.8,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Victor Thompson",
+      "location": "Portland, OR",
+      "verified_purchase": false
+    },
+    "tags": [
+      "chocolate",
+      "medium-roast"
+    ],
+    "date": "2025-09-17"
+  },
+  {
+    "review_id": "R026",
+    "product": "Espresso Classico",
+    "rating": 4.4,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Ivan Green",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "nutty"
+    ],
+    "date": "2025-08-03"
+  },
+  {
+    "review_id": "R027",
+    "product": "Vanilla Hazelnut",
+    "rating": 2.0,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Grace Torres",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "medium-roast"
+    ],
+    "date": "2025-09-08"
+  },
+  {
+    "review_id": "R028",
+    "product": "Chocolate Raspberry",
+    "rating": 1.9,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Zara King",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic"
+    ],
+    "date": "2025-11-24"
+  },
+  {
+    "review_id": "R029",
+    "product": "Brazil Santos",
+    "rating": 3.0,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Ursula Smith",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "single-origin",
+      "earthy"
+    ],
+    "date": "2025-04-18"
+  },
+  {
+    "review_id": "R030",
+    "product": "Ethiopian Yirgacheffe",
+    "rating": 1.5,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Bob Johnson",
+      "location": "Charlotte, NC",
+      "verified_purchase": false
+    },
+    "tags": [
+      "nutty"
+    ],
+    "date": "2025-05-10"
+  },
+  {
+    "review_id": "R031",
+    "product": "French Roast",
+    "rating": 2.4,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Alice Hall",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "chocolate",
+      "medium-roast",
+      "acidic"
+    ],
+    "date": "2025-01-17"
+  },
+  {
+    "review_id": "R032",
+    "product": "Decaf House Blend",
+    "rating": 2.7,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Yuki Carter",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "fruity",
+      "smooth"
+    ],
+    "date": "2025-01-20"
+  },
+  {
+    "review_id": "R033",
+    "product": "Hawaiian Kona",
+    "rating": 2.0,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Ivan Garcia",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy"
+    ],
+    "date": "2025-07-14"
+  },
+  {
+    "review_id": "R034",
+    "product": "Colombian Supremo",
+    "rating": 1.9,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Uma Martin",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity",
+      "gift-worthy"
+    ],
+    "date": "2025-02-05"
+  },
+  {
+    "review_id": "R035",
+    "product": "French Roast",
+    "rating": null,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Ivan Adams",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "bold",
+      "gift-worthy",
+      "earthy",
+      "blend"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "review_id": "R036",
+    "product": "Guatemala Antigua",
+    "rating": 2.9,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Emily Gonzalez",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "chocolate"
+    ],
+    "date": "2025-06-04"
+  },
+  {
+    "review_id": "R037",
+    "product": "Decaf House Blend",
+    "rating": 4.2,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Olivia Rivera",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy",
+      "cold-brew"
+    ],
+    "date": "2025-11-06"
+  },
+  {
+    "review_id": "R038",
+    "product": "House Blend",
+    "rating": 3.5,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Bob Rivera",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet"
+    ],
+    "date": "2025-08-12"
+  },
+  {
+    "review_id": "R039",
+    "product": "Hawaiian Kona",
+    "rating": 2.6,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Reed Thompson",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral",
+      "fruity"
+    ],
+    "date": "2025-03-24"
+  },
+  {
+    "review_id": "R040",
+    "product": "Chocolate Raspberry",
+    "rating": 2.9,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Xavier Scott",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral",
+      "chocolate",
+      "cold-brew",
+      "gift-worthy"
+    ],
+    "date": "2025-03-17"
+  },
+  {
+    "review_id": "R041",
+    "product": "Morning Sunrise Blend",
+    "rating": 1.5,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "David Allen",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast"
+    ],
+    "date": "2025-03-12"
+  },
+  {
+    "review_id": "R042",
+    "product": "Brazil Santos",
+    "rating": 2.9,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Mia Nelson",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty",
+      "earthy",
+      "medium-roast",
+      "cold-brew"
+    ],
+    "date": "2025-09-19"
+  },
+  {
+    "review_id": "R043",
+    "product": "Sumatra Mandheling",
+    "rating": 3.5,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Kyle Hernandez",
+      "location": "Tallahassee, FL",
+      "verified_purchase": false
+    },
+    "tags": [],
+    "date": "2025-01-31"
+  },
+  {
+    "review_id": "R044",
+    "product": "French Roast",
+    "rating": 2.6,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Bob Gonzalez",
+      "location": "Austin, TX",
+      "verified_purchase": false
+    },
+    "tags": [
+      "earthy",
+      "everyday"
+    ],
+    "date": "2025-11-11"
+  },
+  {
+    "review_id": "R045",
+    "product": "Nitro Cold Brew",
+    "rating": 3.0,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Karen Thomas",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "blend"
+    ],
+    "date": "2025-02-03"
+  },
+  {
+    "review_id": "R046",
+    "product": "Nitro Cold Brew",
+    "rating": 2.6,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Carol White",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "medium-roast",
+      "gift-worthy"
+    ],
+    "date": "2025-06-07"
+  },
+  {
+    "review_id": "R047",
+    "product": "Caramel Pecan",
+    "rating": 2.9,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Tyler Scott",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "nutty",
+      "earthy"
+    ],
+    "date": "2025-11-19"
+  },
+  {
+    "review_id": "R048",
+    "product": "Vanilla Hazelnut",
+    "rating": 4.6,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Olivia Lee",
+      "location": "Nashville, TN",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "medium-roast",
+      "sweet"
+    ],
+    "date": "2025-12-13"
+  },
+  {
+    "review_id": "R049",
+    "product": "Brazil Santos",
+    "rating": 4.2,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Yosef Flores",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast",
+      "smooth",
+      "single-origin"
+    ],
+    "date": "2025-08-25"
+  },
+  {
+    "review_id": "R050",
+    "product": "Jamaican Blue Mountain",
+    "rating": 3.4,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Oscar Thomas",
+      "location": "Sarasota, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "everyday",
+      "dark-roast"
+    ],
+    "date": "2025-05-06"
+  },
+  {
+    "review_id": "R051",
+    "product": "Decaf Colombian",
+    "rating": 2.0,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Ivan Perez",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "fruity",
+      "chocolate",
+      "floral"
+    ],
+    "date": "2025-05-11"
+  },
+  {
+    "review_id": "R052",
+    "product": "Caramel Pecan",
+    "rating": 1.8,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Rachel Allen",
+      "location": "Seattle, WA",
+      "verified_purchase": false
+    },
+    "tags": [
+      "floral",
+      "everyday",
+      "smooth",
+      "gift-worthy"
+    ],
+    "date": "2025-06-10"
+  },
+  {
+    "review_id": "R053",
+    "product": "Colombian Supremo",
+    "rating": null,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Carol Jones",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "blend"
+    ],
+    "date": "2025-04-15"
+  },
+  {
+    "review_id": "R054",
+    "product": "Kenya AA",
+    "rating": 2.1,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Victor Flores",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "acidic",
+      "nutty"
+    ],
+    "date": "2025-01-12"
+  },
+  {
+    "review_id": "R055",
+    "product": "French Roast",
+    "rating": 4.8,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Noah Wright",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "floral",
+      "chocolate"
+    ],
+    "date": "2025-05-07"
+  },
+  {
+    "review_id": "R056",
+    "product": "Costa Rica Tarrazu",
+    "rating": 1.4,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Leo Anderson",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "gift-worthy",
+      "floral",
+      "everyday"
+    ],
+    "date": "2025-02-21"
+  },
+  {
+    "review_id": "R057",
+    "product": "Guatemala Antigua",
+    "rating": 1.1,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Willa Harris",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "blend",
+      "medium-roast",
+      "bold",
+      "fruity"
+    ],
+    "date": "2025-09-13"
+  },
+  {
+    "review_id": "R058",
+    "product": "Brazil Santos",
+    "rating": 3.4,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Xavier Martinez",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "smooth"
+    ],
+    "date": "2025-04-22"
+  },
+  {
+    "review_id": "R059",
+    "product": "Jamaican Blue Mountain",
+    "rating": 4.8,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Olivia Harris",
+      "location": "Chicago, IL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "nutty",
+      "gift-worthy"
+    ],
+    "date": "2025-01-12"
+  },
+  {
+    "review_id": "R060",
+    "product": "Decaf House Blend",
+    "rating": 4.6,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Bella Campbell",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "sweet",
+      "bold"
+    ],
+    "date": "2025-05-14"
+  },
+  {
+    "review_id": "R061",
+    "product": "Nitro Cold Brew",
+    "rating": 4.4,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Holly Hill",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty",
+      "bold"
+    ],
+    "date": "2025-02-17"
+  },
+  {
+    "review_id": "R062",
+    "product": "Vanilla Hazelnut",
+    "rating": 2.2,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Quinn Lewis",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [],
+    "date": "2025-06-09"
+  },
+  {
+    "review_id": "R063",
+    "product": "Cold Brew Concentrate",
+    "rating": 2.2,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "David Torres",
+      "location": "Clearwater, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "acidic",
+      "fruity"
+    ],
+    "date": "2025-04-11"
+  },
+  {
+    "review_id": "R064",
+    "product": "Hawaiian Kona",
+    "rating": 4.1,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Leo Wright",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy",
+      "bold"
+    ],
+    "date": "2025-05-06"
+  },
+  {
+    "review_id": "R065",
+    "product": "Hawaiian Kona",
+    "rating": 2.6,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Gavin Johnson",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy",
+      "acidic"
+    ],
+    "date": "2025-11-08"
+  },
+  {
+    "review_id": "R066",
+    "product": "Java Estate",
+    "rating": 3.9,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Diana Lopez",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty"
+    ],
+    "date": "2025-07-13"
+  },
+  {
+    "review_id": "R067",
+    "product": "Decaf House Blend",
+    "rating": 3.2,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Sofia Carter",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "dark-roast",
+      "single-origin",
+      "light-roast"
+    ],
+    "date": "2025-10-23"
+  },
+  {
+    "review_id": "R068",
+    "product": "Vanilla Hazelnut",
+    "rating": 1.5,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Aiden Hernandez",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "floral",
+      "cold-brew"
+    ],
+    "date": "2025-07-31"
+  },
+  {
+    "review_id": "R069",
+    "product": "Decaf House Blend",
+    "rating": 1.9,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Mia Carter",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "earthy"
+    ],
+    "date": "2025-11-29"
+  },
+  {
+    "review_id": "R070",
+    "product": "Java Estate",
+    "rating": 2.6,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Caleb Taylor",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "earthy"
+    ],
+    "date": "2025-08-01"
+  },
+  {
+    "review_id": "R071",
+    "product": "Nitro Cold Brew",
+    "rating": 1.2,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Grace Jackson",
+      "location": "Austin, TX",
+      "verified_purchase": false
+    },
+    "tags": [],
+    "date": "2025-09-20"
+  },
+  {
+    "review_id": "R072",
+    "product": "Decaf House Blend",
+    "rating": 1.8,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Emily Thompson",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral"
+    ],
+    "date": "2025-03-16"
+  },
+  {
+    "review_id": "R073",
+    "product": "Vanilla Hazelnut",
+    "rating": 1.1,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Noah Green",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "medium-roast",
+      "earthy",
+      "bold"
+    ],
+    "date": "2025-01-27"
+  },
+  {
+    "review_id": "R074",
+    "product": "Decaf House Blend",
+    "rating": 3.7,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Bella Carter",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy"
+    ],
+    "date": "2025-07-13"
+  },
+  {
+    "review_id": "R075",
+    "product": "Nitro Cold Brew",
+    "rating": 4.0,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Rachel Martinez",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet",
+      "single-origin",
+      "floral",
+      "fruity"
+    ],
+    "date": "2025-01-23"
+  },
+  {
+    "review_id": "R076",
+    "product": "Caramel Pecan",
+    "rating": 2.7,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Mia Clark",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity",
+      "nutty"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "review_id": "R077",
+    "product": "Sumatra Mandheling",
+    "rating": 4.7,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Olivia Robinson",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast",
+      "dark-roast",
+      "blend",
+      "acidic"
+    ],
+    "date": "2025-05-13"
+  },
+  {
+    "review_id": "R078",
+    "product": "Espresso Classico",
+    "rating": 3.1,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Oscar Nelson",
+      "location": "Nashville, TN",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "cold-brew",
+      "blend"
+    ],
+    "date": "2025-01-12"
+  },
+  {
+    "review_id": "R079",
+    "product": "Jamaican Blue Mountain",
+    "rating": 1.2,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Fiona Campbell",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral",
+      "earthy",
+      "sweet"
+    ],
+    "date": "2025-04-25"
+  },
+  {
+    "review_id": "R080",
+    "product": "Decaf Colombian",
+    "rating": 2.7,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Jack Miller",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "nutty",
+      "floral"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "review_id": "R081",
+    "product": "Espresso Classico",
+    "rating": 4.3,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "David Ramirez",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast"
+    ],
+    "date": "2025-07-09"
+  },
+  {
+    "review_id": "R082",
+    "product": "Decaf House Blend",
+    "rating": 2.6,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Zara Nguyen",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "bold",
+      "medium-roast"
+    ],
+    "date": "2025-03-23"
+  },
+  {
+    "review_id": "R083",
+    "product": "Kenya AA",
+    "rating": null,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Frank Garcia",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "earthy"
+    ],
+    "date": "2025-01-27"
+  },
+  {
+    "review_id": "R084",
+    "product": "Morning Sunrise Blend",
+    "rating": 3.7,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Sofia Baker",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [],
+    "date": "2025-10-26"
+  },
+  {
+    "review_id": "R085",
+    "product": "Brazil Santos",
+    "rating": null,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Karen Sanchez",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast"
+    ],
+    "date": "2025-03-12"
+  },
+  {
+    "review_id": "R086",
+    "product": "Nitro Cold Brew",
+    "rating": 3.0,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Yosef Hall",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin"
+    ],
+    "date": "2025-06-23"
+  },
+  {
+    "review_id": "R087",
+    "product": "Morning Sunrise Blend",
+    "rating": 3.6,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Gavin Martin",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "medium-roast"
+    ],
+    "date": "2025-04-18"
+  },
+  {
+    "review_id": "R088",
+    "product": "Sumatra Mandheling",
+    "rating": 1.6,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "David Nguyen",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast"
+    ],
+    "date": "2025-06-20"
+  },
+  {
+    "review_id": "R089",
+    "product": "House Blend",
+    "rating": 4.7,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Aiden Davis",
+      "location": null,
+      "verified_purchase": false
+    },
+    "tags": [
+      "dark-roast"
+    ],
+    "date": "2025-03-22"
+  },
+  {
+    "review_id": "R090",
+    "product": "Hawaiian Kona",
+    "rating": 2.9,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Yuki Lopez",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "earthy",
+      "blend"
+    ],
+    "date": "2025-06-17"
+  },
+  {
+    "review_id": "R091",
+    "product": "Caramel Pecan",
+    "rating": null,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Tyler Lopez",
+      "location": "Tampa, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "nutty",
+      "everyday",
+      "gift-worthy",
+      "bold"
+    ],
+    "date": "2025-03-17"
+  },
+  {
+    "review_id": "R092",
+    "product": "Decaf House Blend",
+    "rating": 2.7,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Rachel Gonzalez",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast",
+      "dark-roast",
+      "bold"
+    ],
+    "date": "2025-01-02"
+  },
+  {
+    "review_id": "R093",
+    "product": "Brazil Santos",
+    "rating": 3.7,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Noah Martinez",
+      "location": "Nashville, TN",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "single-origin",
+      "gift-worthy"
+    ],
+    "date": "2025-09-28"
+  },
+  {
+    "review_id": "R094",
+    "product": "House Blend",
+    "rating": null,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Yosef Campbell",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "chocolate",
+      "earthy"
+    ],
+    "date": "2025-06-20"
+  },
+  {
+    "review_id": "R095",
+    "product": "Sumatra Mandheling",
+    "rating": 4.7,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Ethan Clark",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "gift-worthy",
+      "earthy"
+    ],
+    "date": "2025-06-03"
+  },
+  {
+    "review_id": "R096",
+    "product": "Caramel Pecan",
+    "rating": 1.0,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Quinn Sanchez",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "single-origin",
+      "fruity",
+      "smooth"
+    ],
+    "date": "2025-01-25"
+  },
+  {
+    "review_id": "R097",
+    "product": "Chocolate Raspberry",
+    "rating": 4.1,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Aiden Johnson",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "floral"
+    ],
+    "date": "2025-05-01"
+  },
+  {
+    "review_id": "R098",
+    "product": "Costa Rica Tarrazu",
+    "rating": 1.1,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Ivan Adams",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "fruity"
+    ],
+    "date": "2025-02-20"
+  },
+  {
+    "review_id": "R099",
+    "product": "Jamaican Blue Mountain",
+    "rating": 1.6,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Reed Taylor",
+      "location": "Seattle, WA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "floral"
+    ],
+    "date": "2025-05-28"
+  },
+  {
+    "review_id": "R100",
+    "product": "Sumatra Mandheling",
+    "rating": 4.4,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Emily Martinez",
+      "location": "Jacksonville, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "sweet"
+    ],
+    "date": "2025-04-02"
+  },
+  {
+    "review_id": "R101",
+    "product": "Chocolate Raspberry",
+    "rating": 2.9,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Diana Allen",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast"
+    ],
+    "date": "2025-02-17"
+  },
+  {
+    "review_id": "R102",
+    "product": "Hawaiian Kona",
+    "rating": 5.0,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Vince Johnson",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "smooth"
+    ],
+    "date": "2025-09-03"
+  },
+  {
+    "review_id": "R103",
+    "product": "Espresso Classico",
+    "rating": 1.4,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Yuki Carter",
+      "location": "Seattle, WA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "bold",
+      "floral",
+      "light-roast"
+    ],
+    "date": "2025-11-23"
+  },
+  {
+    "review_id": "R104",
+    "product": "Java Estate",
+    "rating": 3.2,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Reed Roberts",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "chocolate",
+      "fruity"
+    ],
+    "date": "2025-08-20"
+  },
+  {
+    "review_id": "R105",
+    "product": "Morning Sunrise Blend",
+    "rating": 4.0,
+    "review_text": "Absolutely love this coffee! Rich and smooth.",
+    "reviewer": {
+      "name": "Priya Perez",
+      "location": "Seattle, WA",
+      "verified_purchase": false
+    },
+    "tags": [
+      "nutty",
+      "earthy",
+      "blend",
+      "chocolate"
+    ],
+    "date": "2025-11-01"
+  },
+  {
+    "review_id": "R106",
+    "product": "Decaf House Blend",
+    "rating": 1.5,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Fiona Scott",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "light-roast",
+      "sweet"
+    ],
+    "date": "2025-08-06"
+  },
+  {
+    "review_id": "R107",
+    "product": "Jamaican Blue Mountain",
+    "rating": 4.3,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Reed Rodriguez",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty",
+      "dark-roast",
+      "chocolate",
+      "acidic"
+    ],
+    "date": "2025-06-07"
+  },
+  {
+    "review_id": "R108",
+    "product": "Jamaican Blue Mountain",
+    "rating": 4.5,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Uma Lopez",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast"
+    ],
+    "date": "2025-02-28"
+  },
+  {
+    "review_id": "R109",
+    "product": "Kenya AA",
+    "rating": 3.3,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Leo Torres",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast",
+      "nutty",
+      "single-origin"
+    ],
+    "date": "2025-12-31"
+  },
+  {
+    "review_id": "R110",
+    "product": "Jamaican Blue Mountain",
+    "rating": 1.4,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Julia Nelson",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "light-roast"
+    ],
+    "date": "2025-08-04"
+  },
+  {
+    "review_id": "R111",
+    "product": "Guatemala Antigua",
+    "rating": 1.4,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Emily Miller",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "floral",
+      "earthy"
+    ],
+    "date": "2025-03-23"
+  },
+  {
+    "review_id": "R112",
+    "product": "Sumatra Mandheling",
+    "rating": 3.6,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Victor Hernandez",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity"
+    ],
+    "date": "2025-08-29"
+  },
+  {
+    "review_id": "R113",
+    "product": "Vanilla Hazelnut",
+    "rating": 3.7,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Paul Clark",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "acidic"
+    ],
+    "date": "2025-01-31"
+  },
+  {
+    "review_id": "R114",
+    "product": "Vanilla Hazelnut",
+    "rating": 2.6,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Sam Thompson",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet",
+      "acidic",
+      "light-roast"
+    ],
+    "date": "2025-03-05"
+  },
+  {
+    "review_id": "R115",
+    "product": "Ethiopian Yirgacheffe",
+    "rating": 4.0,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Henry Sanchez",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral",
+      "acidic"
+    ],
+    "date": "2025-03-09"
+  },
+  {
+    "review_id": "R116",
+    "product": "Colombian Supremo",
+    "rating": 1.5,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Vince Jones",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity"
+    ],
+    "date": "2025-11-30"
+  },
+  {
+    "review_id": "R117",
+    "product": "House Blend",
+    "rating": 2.8,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Grace Perez",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast"
+    ],
+    "date": "2025-06-16"
+  },
+  {
+    "review_id": "R118",
+    "product": "Hawaiian Kona",
+    "rating": 4.4,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Caleb Nelson",
+      "location": "Sarasota, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "acidic",
+      "everyday"
+    ],
+    "date": "2025-09-08"
+  },
+  {
+    "review_id": "R119",
+    "product": "House Blend",
+    "rating": 4.1,
+    "review_text": "Unique flavor profile. Very interesting.",
+    "reviewer": {
+      "name": "Diana Hernandez",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "light-roast",
+      "floral",
+      "smooth"
+    ],
+    "date": "2025-02-26"
+  },
+  {
+    "review_id": "R120",
+    "product": "House Blend",
+    "rating": 4.1,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Yosef Smith",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "light-roast",
+      "medium-roast",
+      "floral"
+    ],
+    "date": "2025-08-19"
+  },
+  {
+    "review_id": "R121",
+    "product": "French Roast",
+    "rating": 1.9,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Rachel Hernandez",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "single-origin"
+    ],
+    "date": "2025-04-23"
+  },
+  {
+    "review_id": "R122",
+    "product": "Guatemala Antigua",
+    "rating": 3.1,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Henry Moore",
+      "location": "Austin, TX",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "fruity",
+      "chocolate"
+    ],
+    "date": "2025-10-18"
+  },
+  {
+    "review_id": "R123",
+    "product": "Hawaiian Kona",
+    "rating": 3.5,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Paul Carter",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast"
+    ],
+    "date": "2025-12-20"
+  },
+  {
+    "review_id": "R124",
+    "product": "Decaf House Blend",
+    "rating": 3.9,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Mia Lopez",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet",
+      "smooth",
+      "medium-roast"
+    ],
+    "date": "2025-07-25"
+  },
+  {
+    "review_id": "R125",
+    "product": "Morning Sunrise Blend",
+    "rating": 3.5,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Grace Harris",
+      "location": "Chicago, IL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "medium-roast"
+    ],
+    "date": "2025-07-02"
+  },
+  {
+    "review_id": "R126",
+    "product": "Java Estate",
+    "rating": 3.8,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Bella Scott",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "acidic",
+      "blend"
+    ],
+    "date": "2025-01-23"
+  },
+  {
+    "review_id": "R127",
+    "product": "Sumatra Mandheling",
+    "rating": 3.9,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Grace Baker",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "dark-roast",
+      "floral"
+    ],
+    "date": "2025-01-19"
+  },
+  {
+    "review_id": "R128",
+    "product": "Hawaiian Kona",
+    "rating": 4.6,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Priya Nguyen",
+      "location": "Portland, OR",
+      "verified_purchase": true
+    },
+    "tags": [
+      "floral",
+      "nutty"
+    ],
+    "date": "2025-05-09"
+  },
+  {
+    "review_id": "R129",
+    "product": "Java Estate",
+    "rating": 3.2,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Carol Walker",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday"
+    ],
+    "date": "2025-04-21"
+  },
+  {
+    "review_id": "R130",
+    "product": "Vanilla Hazelnut",
+    "rating": 1.0,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Luna Anderson",
+      "location": "Atlanta, GA",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "bold",
+      "fruity"
+    ],
+    "date": "2025-02-19"
+  },
+  {
+    "review_id": "R131",
+    "product": "Brazil Santos",
+    "rating": 3.9,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Leo Hernandez",
+      "location": "Tallahassee, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "smooth",
+      "earthy"
+    ],
+    "date": "2025-06-01"
+  },
+  {
+    "review_id": "R132",
+    "product": "Guatemala Antigua",
+    "rating": 2.5,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Carol Davis",
+      "location": "Sarasota, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "blend",
+      "earthy",
+      "dark-roast"
+    ],
+    "date": "2025-02-02"
+  },
+  {
+    "review_id": "R133",
+    "product": "Costa Rica Tarrazu",
+    "rating": null,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Xavier Williams",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "bold"
+    ],
+    "date": "2025-04-19"
+  },
+  {
+    "review_id": "R134",
+    "product": "Costa Rica Tarrazu",
+    "rating": 4.5,
+    "review_text": "Perfect morning brew. Will definitely order again.",
+    "reviewer": {
+      "name": "Rachel Rivera",
+      "location": "Nashville, TN",
+      "verified_purchase": false
+    },
+    "tags": [
+      "gift-worthy",
+      "blend"
+    ],
+    "date": "2025-03-30"
+  },
+  {
+    "review_id": "R135",
+    "product": "Hawaiian Kona",
+    "rating": 1.8,
+    "review_text": "Best single-origin I've had in years.",
+    "reviewer": {
+      "name": "Mason Wilson",
+      "location": "Tampa, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty",
+      "floral",
+      "single-origin",
+      "dark-roast"
+    ],
+    "date": "2025-03-06"
+  },
+  {
+    "review_id": "R136",
+    "product": "Kenya AA",
+    "rating": 4.6,
+    "review_text": "Outstanding cold brew. Smooth with chocolate notes.",
+    "reviewer": {
+      "name": "Julia Walker",
+      "location": "Denver, CO",
+      "verified_purchase": true
+    },
+    "tags": [
+      "chocolate",
+      "bold"
+    ],
+    "date": "2025-10-03"
+  },
+  {
+    "review_id": "R137",
+    "product": "Colombian Supremo",
+    "rating": 2.0,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Gavin Hill",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet"
+    ],
+    "date": "2025-05-14"
+  },
+  {
+    "review_id": "R138",
+    "product": "House Blend",
+    "rating": 4.2,
+    "review_text": "Decent quality, nothing extraordinary.",
+    "reviewer": {
+      "name": "Fiona Wilson",
+      "location": "St. Petersburg, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew"
+    ],
+    "date": "2025-03-17"
+  },
+  {
+    "review_id": "R139",
+    "product": "Chocolate Raspberry",
+    "rating": 2.8,
+    "review_text": "Good everyday coffee. Consistent quality.",
+    "reviewer": {
+      "name": "Frank Mitchell",
+      "location": "Nashville, TN",
+      "verified_purchase": true
+    },
+    "tags": [
+      "fruity",
+      "chocolate",
+      "single-origin"
+    ],
+    "date": "2025-01-06"
+  },
+  {
+    "review_id": "R140",
+    "product": "Ethiopian Yirgacheffe",
+    "rating": 4.0,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Frank Lee",
+      "location": "Clearwater, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "nutty"
+    ],
+    "date": "2025-12-19"
+  },
+  {
+    "review_id": "R141",
+    "product": "Chocolate Raspberry",
+    "rating": 4.1,
+    "review_text": "Arrived fresh and well-packaged.",
+    "reviewer": {
+      "name": "Priya White",
+      "location": "Orlando, FL",
+      "verified_purchase": false
+    },
+    "tags": [
+      "earthy"
+    ],
+    "date": "2025-06-30"
+  },
+  {
+    "review_id": "R142",
+    "product": "Vanilla Hazelnut",
+    "rating": 2.0,
+    "review_text": "Great aroma, but a bit too acidic for my taste.",
+    "reviewer": {
+      "name": "Priya Jackson",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "everyday",
+      "light-roast"
+    ],
+    "date": "2025-09-09"
+  },
+  {
+    "review_id": "R143",
+    "product": "Jamaican Blue Mountain",
+    "rating": null,
+    "review_text": "Wonderful fruity notes. Very complex flavor.",
+    "reviewer": {
+      "name": "Gavin Flores",
+      "location": "Orlando, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "gift-worthy",
+      "fruity",
+      "everyday",
+      "light-roast"
+    ],
+    "date": "2025-01-26"
+  },
+  {
+    "review_id": "R144",
+    "product": "Morning Sunrise Blend",
+    "rating": 2.4,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Oscar Perez",
+      "location": "Miami, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "cold-brew"
+    ],
+    "date": "2025-10-16"
+  },
+  {
+    "review_id": "R145",
+    "product": "Vanilla Hazelnut",
+    "rating": 3.6,
+    "review_text": "A little pricey but worth every penny.",
+    "reviewer": {
+      "name": "Olivia Lee",
+      "location": null,
+      "verified_purchase": true
+    },
+    "tags": [
+      "single-origin",
+      "chocolate"
+    ],
+    "date": "2025-10-10"
+  },
+  {
+    "review_id": "R146",
+    "product": "Brazil Santos",
+    "rating": 3.5,
+    "review_text": "My go-to order. Always reliable.",
+    "reviewer": {
+      "name": "Paul Clark",
+      "location": "Portland, OR",
+      "verified_purchase": false
+    },
+    "tags": [],
+    "date": "2025-02-01"
+  },
+  {
+    "review_id": "R147",
+    "product": "French Roast",
+    "rating": 4.6,
+    "review_text": "Would make a great gift for coffee lovers.",
+    "reviewer": {
+      "name": "Quinn King",
+      "location": "Jacksonville, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "sweet"
+    ],
+    "date": "2025-11-17"
+  },
+  {
+    "review_id": "R148",
+    "product": "Chocolate Raspberry",
+    "rating": 3.1,
+    "review_text": "Didn't meet my expectations. Somewhat bland.",
+    "reviewer": {
+      "name": "Ethan Young",
+      "location": "Tallahassee, FL",
+      "verified_purchase": true
+    },
+    "tags": [
+      "cold-brew",
+      "nutty"
+    ],
+    "date": "2025-07-24"
+  },
+  {
+    "review_id": "R149",
+    "product": "French Roast",
+    "rating": 3.9,
+    "review_text": "Too bitter for me. Prefer a lighter roast.",
+    "reviewer": {
+      "name": "Nora Baker",
+      "location": "Charlotte, NC",
+      "verified_purchase": true
+    },
+    "tags": [
+      "blend",
+      "light-roast",
+      "nutty"
+    ],
+    "date": "2025-01-11"
+  },
+  {
+    "review_id": "R150",
+    "product": "Morning Sunrise Blend",
+    "rating": 1.9,
+    "review_text": "Best single-origin I've had in years.",
+    "reviewer": {
+      "name": "Vince Campbell",
+      "location": "Seattle, WA",
+      "verified_purchase": false
+    },
+    "tags": [
+      "nutty",
+      "gift-worthy",
+      "blend"
+    ],
+    "date": "2025-01-21"
+  }
+]

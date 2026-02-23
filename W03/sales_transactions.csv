@@ -1,0 +1,509 @@
+transaction_id,date,store_name,customer_name,customer_email,product_name,category,quantity,unit_price,total_price,payment_method
+TX1266,2025-09-08,Horizon - Jax Riverside,Frank Adams,,Morning Sunrise Blend,Blend,4,12.99,51.96,Mobile Pay
+TX1091,2025-10-29,Horizon - St. Pete Central,Bob Lopez,bob_lopez7@yahoo.com,Horizon Tumbler (16 oz),Merchandise,4,22.0,88.0,Credit Card
+TX1441,2025-01-20,Horizon - Miami Beach,Frank Lewis,franklewis4@hotmail.com,Gooseneck Kettle,Equipment,5,44.99,224.95,Cash
+TX1161,2025-06-21,Horizon - Jax Riverside,Diana Adams,dianaadams68@hotmail.com,Gooseneck Kettle,Equipment,2,44.99,89.98,Mobile Pay
+TX1087,2025-12-02,Horizon - Hyde Park,Fiona Flores,fiona_flores36@gmail.com,Matcha Powder,Tea & Other,3,24.99,74.97,Mobile Pay
+TX1066,2025-07-30,Horizon - Clearwater,Sam Nelson,sam_nelson98@icloud.com,Colombian Supremo,Single Origin,4,14.99,59.96,Cash
+TX1024,2025-06-28,Horizon - Hyde Park,Paul White,paul_white21@hotmail.com,French Press (32 oz),Equipment,5,29.99,149.95,Credit Card
+TX1131,2025-06-30,Horizon - Sarasota Bay,Rachel Green,rachel.green10@hotmail.com,Morning Sunrise Blend,Blend,5,12.99,64.95,Debit Card
+TX1363,2025-07-02,Horizon - Orlando Mills,Yosef Miller,yosef.miller11@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Credit Card
+TX1030,2025-01-20,Horizon - Clearwater,Olivia Gonzalez,olivia_gonzalez45@outlook.com,French Press (32 oz),Equipment,2,29.99,59.98,Debit Card
+TX1203,2025-01-23,Horizon - Sarasota Bay,Xena Perez,xena_perez14@gmail.com,Kenya AA,Single Origin,3,17.99,53.97,Debit Card
+TX1104,2025-02-06,Horizon - Sarasota Bay,Willa Williams,willa_williams3@hotmail.com,Aeropress,Equipment,1,39.99,39.99,Mobile Pay
+TX1110,2025-11-11,Horizon - Sarasota Bay,Diana Nguyen,diananguyen95@gmail.com,Decaf Colombian,Decaf,5,14.99,74.95,Cash
+TX1476,05/13/2025,Horizon - Hyde Park,Carol Jones,carol.jones74@outlook.com,Horizon Mug (12 oz),Merchandise,4,14.0,56.0,Mobile Pay
+TX1334,2025-07-04,Horizon - Orlando Mills,Sofia Campbell,sofia_campbell62@hotmail.com,Decaf Colombian,Decaf,3,14.99,44.97,Mobile Pay
+TX1439,2025-03-18,Horizon - Jax Riverside,Bob Perez,bob_perez81@icloud.com,French Press (32 oz),Equipment,2,29.99,59.98,Mobile Pay
+TX1175,2025-05-02,Horizon - Jax Riverside,Jack Nelson,jacknelson29@hotmail.com,Jamaican Blue Mountain,Single Origin,3,49.99,149.97,Debit Card
+TX1369,2025-10-18,Horizon - Downtown Tampa,Zara Miller,zaramiller21@gmail.com,Brazil Santos,Single Origin,3,13.99,41.97,Credit Card
+TX1418,2025-05-21,Horizon - Orlando Mills,Yosef Gonzalez,yosef.gonzalez17@yahoo.com,Ethiopian Yirgacheffe,Single Origin,5,16.99,84.95,Debit Card
+TX1118,2025-10-20,Horizon - Clearwater,Diana Roberts,diana_roberts49@icloud.com,Vanilla Hazelnut,Flavored,4,13.99,55.96,Debit Card
+TX1492,2025-02-23,Horizon - Downtown Tampa,Ivan Lopez,ivan.lopez4@hotmail.com,Vanilla Hazelnut,Flavored,1,13.99,13.99,Debit Card
+TX1372,2025-08-04,Horizon - Sarasota Bay,Emily Garcia,emily.garcia44@yahoo.com,Espresso Classico,Blend,3,14.49,43.47,Cash
+TX1271,2025-01-07,Horizon - Sarasota Bay,Henry Clark,henry.clark19@icloud.com,Caramel Pecan,Flavored,5,14.49,72.45,Credit Card
+TX1367,2025-07-06,Horizon - Sarasota Bay,Rachel Lewis,rachel.lewis74@yahoo.com,Caramel Pecan,Flavored,2,14.49,28.98,Cash
+TX1481,2025-05-03,Horizon - Clearwater,Yuki Jones,yukijones83@outlook.com,Decaf House Blend,Decaf,5,12.99,64.95,Mobile Pay
+TX1120,2025-08-12,Horizon - Hyde Park,Olivia Lewis,olivia_lewis4@hotmail.com,Colombian Supremo,Single Origin,4,14.99,59.96,Debit Card
+TX1064,2025-06-15,Horizon - Jax Riverside,Bob Garcia,bob.garcia87@icloud.com,Caramel Pecan,Flavored,1,14.49,14.49,Cash
+TX1385,2025-12-07,Horizon - Miami Beach,Ethan Harris,ethanharris40@outlook.com,Costa Rica Tarrazu,Single Origin,1,16.49,16.49,Credit Card
+TX1412,2025-11-29,Horizon - Sarasota Bay,Olivia Harris,oliviaharris91@gmail.com,Gooseneck Kettle,Equipment,3,44.99,134.97,Credit Card
+TX1438,2025-01-29,Horizon - Jax Riverside,Kyle Campbell,kylecampbell41@icloud.com,Chocolate Raspberry,Flavored,1,13.99,13.99,Cash
+TX1026,05/16/2025,Horizon - Clearwater,Quinn Brown,quinn.brown82@hotmail.com,French Press (32 oz),Equipment,3,29.99,89.97,Cash
+TX1055,2025-10-02,Horizon - Orlando Mills,Mia Wilson,miawilson62@outlook.com,Horizon Tumbler (16 oz),Merchandise,5,22.0,110.0,Cash
+TX1301,2025-07-14,Horizon - St. Pete Central,Nora Johnson,norajohnson94@yahoo.com,Decaf House Blend,Decaf,4,12.99,51.96,Mobile Pay
+TX1061,2025-08-29,Horizon - Jax Riverside,Carol Anderson,carol_anderson91@outlook.com,Matcha Powder,Tea & Other,4,24.99,99.96,Debit Card
+TX1102,2025-05-26,Horizon - Clearwater,Holly Nelson,holly_nelson6@yahoo.com,French Roast,Blend,5,13.49,67.45,Debit Card
+TX1218,2025-12-13,Horizon - Sarasota Bay,Fiona Martinez,fionamartinez81@outlook.com,Nitro Cold Brew,Ready-to-Drink,4,21.99,87.96,Credit Card
+TX1337,2025-03-10,Horizon - Clearwater,Gavin Allen,gavin.allen51@outlook.com,Vanilla Hazelnut,Flavored,1,13.99,13.99,Debit Card
+TX1200,2025-10-16,Horizon - Miami Beach,Luna Wright,luna.wright88@icloud.com,Ethiopian Yirgacheffe,Single Origin,4,16.99,67.96,Debit Card
+TX1495,2025-04-14,Horizon - St. Pete Central,Iris Williams,iriswilliams73@gmail.com,Hawaiian Kona,Single Origin,2,29.99,59.98,Mobile Pay
+TX1489,2025-09-13,Horizon - Hyde Park,Oscar Martin,oscar_martin54@gmail.com,Chocolate Raspberry,Flavored,2,13.99,27.98,Credit Card
+TX1338,2025-10-17,Horizon - Orlando Mills,Willa Campbell,willa_campbell46@gmail.com,Java Estate,Single Origin,4,15.99,63.96,Cash
+TX1484,2025-10-30,Horizon - Hyde Park,Grace Davis,grace_davis77@icloud.com,Java Estate,Single Origin,1,15.99,15.99,Mobile Pay
+TX1128,2025-07-23,Horizon - Clearwater,Quinn Williams,quinnwilliams25@outlook.com,Morning Sunrise Blend,Blend,1,12.99,12.99,Cash
+TX1111,2025-08-19,Horizon - Hyde Park,Victor Rivera,victor.rivera65@yahoo.com,Colombian Supremo,Single Origin,2,14.99,29.98,Mobile Pay
+TX1186,2025-12-24,Horizon - Sarasota Bay,Leo Miller,leo.miller68@yahoo.com,Java Estate,Single Origin,2,15.99,31.98,Cash
+TX1282,2025-06-02,Horizon - Miami Beach,Jack King,jack.king8@icloud.com,French Roast,Blend,3,13.49,40.47,Credit Card
+TX1442,2025-06-17,Horizon - Orlando Mills,Yosef Miller,,Brazil Santos,Single Origin,1,13.99,13.99,Credit Card
+TX1244,2025-07-28,Horizon - Hyde Park,Ivan Thompson,ivan.thompson58@outlook.com,Decaf Colombian,Decaf,3,14.99,44.97,Credit Card
+TX1362,2025-05-18,Horizon - Orlando Mills,Willa Baker,willa.baker64@yahoo.com,Java Estate,Single Origin,2,15.99,31.98,Debit Card
+TX1292,2025-04-07,Horizon - Orlando Mills,Zara Johnson,zara.johnson29@yahoo.com,Brazil Santos,Single Origin,1,13.99,13.99,Debit Card
+TX1384,2025-05-09,Horizon - Sarasota Bay,Alice Davis,alicedavis32@hotmail.com,Horizon Mug (12 oz),Merchandise,4,14.0,56.0,Credit Card
+TX1169,2025-05-11,Horizon - Downtown Tampa,Willa Wilson,willawilson10@gmail.com,House Blend,Blend,3,11.99,35.97,Credit Card
+TX1051,2025-06-15,Horizon - Miami Beach,Frank Moore,,Caramel Pecan,Flavored,5,14.49,72.45,Cash
+TX1049,2025-10-17,Horizon - Downtown Tampa,Wendy Wright,wendy_wright85@outlook.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Credit Card
+TX1464,2025-01-27,Horizon - Jax Riverside,Willa Flores,willa.flores37@hotmail.com,Sumatra Mandheling,Single Origin,2,15.99,31.98,Cash
+TX1312,2025-08-20,Horizon - Orlando Mills,Iris Clark,irisclark90@icloud.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Debit Card
+TX1006,2025-11-22,Horizon - Orlando Mills,Ivan Campbell,ivan.campbell21@hotmail.com,French Roast,Blend,3,13.49,40.47,Debit Card
+TX1286,2025-03-02,Horizon - Clearwater,David Green,davidgreen75@icloud.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Credit Card
+TX1293,2025-07-12,Horizon - Jax Riverside,Yosef Wright,,Colombian Supremo,Single Origin,1,14.99,14.99,Credit Card
+TX1009,2025-03-12,Horizon - Clearwater,Frank Carter,frank.carter15@yahoo.com,Nitro Cold Brew,Ready-to-Drink,2,21.99,43.98,Mobile Pay
+TX1324,2025-06-01,Horizon - Miami Beach,Uma Allen,uma.allen13@yahoo.com,Horizon Mug (12 oz),Merchandise,5,14.0,70.0,Credit Card
+TX1081,12/04/2025,Horizon - Orlando Mills,Oscar Miller,oscarmiller83@gmail.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Cash
+TX1259,2025-10-17,Horizon - Hyde Park,Fiona Martinez,fiona_martinez96@gmail.com,Java Estate,Single Origin,3,15.99,47.97,Debit Card
+TX1138,2025-11-25,Horizon - Hyde Park,Caleb Robinson,calebrobinson67@outlook.com,Guatemala Antigua,Single Origin,5,15.49,77.45,Debit Card
+TX1423,2025-05-27,Horizon - Clearwater,Karen Ramirez,karen_ramirez79@gmail.com,Matcha Powder,Tea & Other,5,24.99,124.95,Mobile Pay
+TX1498,2025-10-21,Horizon - Downtown Tampa,Aiden Williams,aiden.williams61@icloud.com,Colombian Supremo,Single Origin,4,14.99,59.96,Mobile Pay
+TX1016,2025-04-20,Horizon - Orlando Mills,Vince Torres,vincetorres61@yahoo.com,Pour-Over Kit,Equipment,4,34.99,139.96,Debit Card
+TX1253,2025-01-29,Horizon - Miami Beach,Kyle Harris,kyle_harris23@yahoo.com,Java Estate,Single Origin,5,15.99,79.95,Cash
+TX1160,2025-03-31,Horizon - Sarasota Bay,Leo Williams,leo_williams64@yahoo.com,Aeropress,Equipment,3,39.99,119.97,Credit Card
+TX1213,2025-04-23,Horizon - Jax Riverside,Carol Moore,carol.moore69@outlook.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Mobile Pay
+TX1460,2025-01-04,Horizon - Clearwater,Vince Thomas,vincethomas65@outlook.com,House Blend,Blend,5,11.99,59.95,Credit Card
+TX1371,2025-09-19,Horizon - Clearwater,Yosef Mitchell,yosef_mitchell11@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,3,18.99,56.97,Debit Card
+TX1475,2025-02-05,Horizon - Clearwater,Mia Flores,mia_flores23@hotmail.com,Kenya AA,Single Origin,2,17.99,35.98,Mobile Pay
+TX1325,2025-12-17,Horizon - Sarasota Bay,Grace Wilson,,Nitro Cold Brew,Ready-to-Drink,1,21.99,21.99,Debit Card
+TX1237,2025-01-19,Horizon - Sarasota Bay,Olivia Lee,olivia.lee54@outlook.com,Hawaiian Kona,Single Origin,1,29.99,29.99,Credit Card
+TX1184,12/09/2025,Horizon - Downtown Tampa,Xena Smith,xena_smith18@yahoo.com,Sumatra Mandheling,Single Origin,2,15.99,31.98,Mobile Pay
+TX1343,2025-03-07,Horizon - Orlando Mills,Iris Green,irisgreen6@icloud.com,Guatemala Antigua,Single Origin,1,15.49,15.49,Debit Card
+TX1062,2025-12-05,Horizon - Miami Beach,Bella Davis,belladavis29@yahoo.com,Aeropress,Equipment,3,39.99,119.97,Credit Card
+TX1303,2025-03-18,Horizon - Downtown Tampa,Alice Adams,alice.adams65@hotmail.com,Burr Grinder,Equipment,4,59.99,239.96,Credit Card
+TX1436,2025-06-03,Horizon - St. Pete Central,Yosef Smith,yosef.smith88@outlook.com,Espresso Classico,Blend,4,14.49,57.96,Credit Card
+TX1402,03/30/2025,Horizon - Clearwater,Tyler Hall,tylerhall13@icloud.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Mobile Pay
+TX1010,2025-08-28,Horizon - Jax Riverside,Julia Smith,juliasmith93@gmail.com,Chai Latte Mix,Tea & Other,5,10.99,54.95,Cash
+TX1454,2025-11-22,Horizon - Downtown Tampa,Xena Martinez,xenamartinez20@hotmail.com,Chocolate Raspberry,Flavored,3,13.99,41.97,Mobile Pay
+TX1222,2025-04-14,Horizon - Orlando Mills,Priya Martin,priya.martin36@gmail.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Cash
+TX1153,2025-07-30,Horizon - Clearwater,Willa Campbell,willa.campbell91@yahoo.com,Vanilla Hazelnut,Flavored,2,13.99,27.98,Mobile Pay
+TX1167,2025-10-16,Horizon - Hyde Park,David Scott,davidscott26@icloud.com,Chocolate Raspberry,Flavored,2,13.99,27.98,Mobile Pay
+TX1125,2025-10-06,Horizon - Downtown Tampa,Yuki Walker,yuki.walker82@hotmail.com,Morning Sunrise Blend,Blend,3,12.99,38.97,Cash
+TX1302,2025-01-07,Horizon - Miami Beach,Reed Perez,reedperez67@icloud.com,Kenya AA,Single Origin,4,17.99,71.96,Debit Card
+TX1389,2025-12-19,Horizon - Sarasota Bay,Wendy Campbell,wendy.campbell33@gmail.com,Decaf House Blend,Decaf,4,12.99,51.96,Mobile Pay
+TX1365,07/21/2025,Horizon - Orlando Mills,Diana Davis,dianadavis67@hotmail.com,Espresso Classico,Blend,1,14.49,14.49,Debit Card
+TX1393,2025-03-08,Horizon - Orlando Mills,Carol Gonzalez,carol.gonzalez63@yahoo.com,Kenya AA,Single Origin,1,17.99,17.99,Mobile Pay
+TX1129,2025-07-24,Horizon - Clearwater,Yuki Perez,yuki.perez64@hotmail.com,Morning Sunrise Blend,Blend,5,12.99,64.95,Credit Card
+TX1261,2025-08-03,Horizon - Orlando Mills,Aiden Young,aiden_young45@icloud.com,French Roast,Blend,1,13.49,13.49,Debit Card
+TX1328,2025-12-18,Horizon - Jax Riverside,Mason Garcia,mason_garcia98@hotmail.com,French Roast,Blend,4,13.49,53.96,Credit Card
+TX1133,2025-07-10,Horizon - Clearwater,Xena Jones,xenajones18@icloud.com,Morning Sunrise Blend,Blend,4,12.99,51.96,Cash
+TX1434,2025-09-12,Horizon - Clearwater,Leo Flores,leo.flores91@outlook.com,Brazil Santos,Single Origin,1,13.99,13.99,Mobile Pay
+TX1141,2025-06-22,Horizon - Downtown Tampa,Bob Garcia,bob.garcia83@icloud.com,Hawaiian Kona,Single Origin,2,29.99,59.98,Mobile Pay
+TX1289,11/11/2025,Horizon - Sarasota Bay,Oscar Ramirez,oscar_ramirez55@hotmail.com,French Roast,Blend,1,13.49,13.49,Debit Card
+TX1044,2025-11-15,Horizon - Downtown Tampa,Zara Nguyen,zaranguyen85@gmail.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Mobile Pay
+TX1053,2025-05-04,Horizon - Clearwater,Priya Rivera,priya_rivera58@gmail.com,Sumatra Mandheling,Single Origin,3,15.99,47.97,Debit Card
+TX1300,2025-08-04,Horizon - Orlando Mills,Henry Rodriguez,henryrodriguez93@gmail.com,Burr Grinder,Equipment,2,59.99,119.98,Mobile Pay
+TX1265,2025-05-31,Horizon - Clearwater,Mia Miller,mia.miller27@yahoo.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Mobile Pay
+TX1199,2025-06-13,Horizon - Jax Riverside,Willa Hall,willahall63@icloud.com,Pour-Over Kit,Equipment,2,34.99,69.98,Cash
+TX1223,11/17/2025,Horizon - Jax Riverside,Vince Hall,vince.hall55@gmail.com,Matcha Powder,Tea & Other,1,24.99,24.99,Mobile Pay
+TX1327,01/09/2025,Horizon - Sarasota Bay,Sofia Davis,sofiadavis1@icloud.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Credit Card
+TX1441,2025-01-20,Horizon - Miami Beach,Frank Lewis,franklewis4@hotmail.com,Gooseneck Kettle,Equipment,5,44.99,224.95,Cash
+TX1212,2025-04-10,Horizon - Sarasota Bay,Julia Allen,juliaallen64@hotmail.com,Chai Latte Mix,Tea & Other,4,10.99,43.96,Mobile Pay
+TX1019,03/27/2025,Horizon - Sarasota Bay,Fiona Walker,fiona.walker52@gmail.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Mobile Pay
+TX1456,2025-10-09,Horizon - Downtown Tampa,Alice Rivera,alicerivera46@gmail.com,Burr Grinder,Equipment,3,59.99,179.97,Debit Card
+TX1173,2025-01-09,Horizon - Miami Beach,Noah Jones,noah.jones77@gmail.com,Decaf Colombian,Decaf,5,14.99,74.95,Credit Card
+TX1326,2025-02-07,Horizon - Downtown Tampa,Leo Taylor,leotaylor10@icloud.com,French Press (32 oz),Equipment,2,29.99,59.98,Mobile Pay
+TX1069,2025-04-26,Horizon - Hyde Park,Diana Davis,dianadavis20@hotmail.com,Aeropress,Equipment,3,39.99,119.97,Cash
+TX1136,2025-12-25,Horizon - Orlando Mills,Xavier Allen,,Pour-Over Kit,Equipment,2,34.99,69.98,Mobile Pay
+TX1130,2025-04-03,Horizon - Jax Riverside,Uma Miller,uma.miller42@outlook.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Mobile Pay
+TX1251,2025-07-15,Horizon - St. Pete Central,Ethan Wright,,Vanilla Hazelnut,Flavored,3,13.99,41.97,Debit Card
+TX1250,2025-09-13,Horizon - Sarasota Bay,Julia Walker,julia.walker12@outlook.com,French Roast,Blend,2,13.49,26.98,Debit Card
+TX1179,2025-10-14,Horizon - Miami Beach,Ethan Wilson,ethan_wilson39@gmail.com,Brazil Santos,Single Origin,2,13.99,27.98,Credit Card
+TX1416,2025-04-14,Horizon - Orlando Mills,Tina Hall,tinahall68@yahoo.com,House Blend,Blend,2,11.99,23.98,Debit Card
+TX1039,2025-08-26,Horizon - St. Pete Central,Xena Lewis,xenalewis93@icloud.com,House Blend,Blend,5,11.99,59.95,Debit Card
+TX1103,2025-05-11,Horizon - Jax Riverside,Uma Davis,uma.davis64@hotmail.com,Costa Rica Tarrazu,Single Origin,2,16.49,32.98,Debit Card
+TX1353,2025-09-18,Horizon - Sarasota Bay,Victor Scott,victorscott90@gmail.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Credit Card
+TX1231,2025-05-27,Horizon - Sarasota Bay,Bella Hall,bella_hall11@icloud.com,Chocolate Raspberry,Flavored,5,13.99,69.95,Credit Card
+TX1323,2025-02-28,Horizon - Sarasota Bay,Quinn Wright,quinnwright37@gmail.com,Aeropress,Equipment,5,39.99,199.95,Cash
+TX1041,2025-02-11,Horizon - Orlando Mills,Jack Anderson,jack_anderson89@yahoo.com,Matcha Powder,Tea & Other,2,24.99,49.98,Mobile Pay
+TX1159,2025-09-02,Horizon - Miami Beach,Xena Jackson,xena_jackson37@gmail.com,Aeropress,Equipment,1,39.99,39.99,Debit Card
+TX1196,2025-03-13,Horizon - Jax Riverside,Tina Moore,tina_moore19@gmail.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Cash
+TX1140,2025-10-10,Horizon - Jax Riverside,Iris Green,iris_green79@icloud.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Debit Card
+TX1339,2025-07-04,Horizon - Sarasota Bay,Ethan Robinson,ethan.robinson6@outlook.com,Kenya AA,Single Origin,5,17.99,89.95,Cash
+TX1347,2025-11-04,Horizon - Downtown Tampa,Ivan Allen,ivan.allen12@hotmail.com,Chai Latte Mix,Tea & Other,2,10.99,21.98,Credit Card
+TX1047,2025-12-25,Horizon - Jax Riverside,Yosef White,yosef.white78@icloud.com,Horizon Tumbler (16 oz),Merchandise,1,22.0,22.0,Debit Card
+TX1050,2025-07-05,Horizon - Clearwater,Ursula Martinez,ursula_martinez23@icloud.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Mobile Pay
+TX1414,2025-05-01,Horizon - Jax Riverside,David Green,david_green50@gmail.com,Chocolate Raspberry,Flavored,3,13.99,41.97,Cash
+TX1020,2025-08-05,Horizon - Clearwater,Jack Gonzalez,jack_gonzalez28@gmail.com,Caramel Pecan,Flavored,5,14.49,72.45,Cash
+TX1428,2025-01-07,Horizon - Clearwater,Fiona Young,fionayoung1@icloud.com,Gooseneck Kettle,Equipment,4,44.99,179.96,Mobile Pay
+TX1474,2025-06-15,Horizon - Jax Riverside,Karen Roberts,karen.roberts36@gmail.com,French Roast,Blend,4,13.49,53.96,Credit Card
+TX1284,2025-12-10,Horizon - St. Pete Central,Gavin Martin,gavin.martin85@icloud.com,Costa Rica Tarrazu,Single Origin,3,16.49,49.47,Debit Card
+TX1238,2025-09-22,Horizon - Downtown Tampa,Zara Jones,zara_jones37@outlook.com,Espresso Classico,Blend,1,14.49,14.49,Credit Card
+TX1446,2025-03-08,Horizon - Downtown Tampa,Ethan Baker,ethan.baker14@hotmail.com,Colombian Supremo,Single Origin,1,14.99,14.99,Debit Card
+TX1180,2025-12-23,Horizon - Miami Beach,Zara Thomas,zarathomas42@outlook.com,French Roast,Blend,4,13.49,53.96,Cash
+TX1209,2025-11-09,Horizon - Sarasota Bay,Luna Davis,luna_davis46@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Cash
+TX1014,2025-12-20,Horizon - Miami Beach,Ursula Martin,ursula_martin86@outlook.com,Decaf Colombian,Decaf,5,14.99,74.95,Debit Card
+TX1192,2025-06-17,Horizon - Downtown Tampa,Oscar Moore,oscar_moore63@yahoo.com,Morning Sunrise Blend,Blend,5,12.99,64.95,Mobile Pay
+TX1406,2025-03-11,Horizon - Clearwater,Julia Gonzalez,julia_gonzalez51@icloud.com,Brazil Santos,Single Origin,5,13.99,69.95,Debit Card
+TX1463,2025-06-19,Horizon - Sarasota Bay,Wendy Jackson,wendy_jackson22@gmail.com,Matcha Powder,Tea & Other,5,24.99,124.95,Cash
+TX1468,2025-09-01,Horizon - Miami Beach,Yuki Baker,,Hawaiian Kona,Single Origin,2,29.99,59.98,Mobile Pay
+TX1082,2025-08-01,Horizon - Orlando Mills,Mia Rodriguez,miarodriguez47@icloud.com,Vanilla Hazelnut,Flavored,3,13.99,41.97,Cash
+TX1038,2025-03-17,Horizon - Downtown Tampa,Xena Roberts,xena.roberts55@yahoo.com,Costa Rica Tarrazu,Single Origin,5,16.49,82.45,Debit Card
+TX1015,2025-04-28,Horizon - Miami Beach,Alice Jones,alicejones81@gmail.com,Java Estate,Single Origin,1,15.99,15.99,Cash
+TX1162,2025-08-23,Horizon - Jax Riverside,Ursula Lopez,ursula.lopez95@outlook.com,Pour-Over Kit,Equipment,3,34.99,104.97,Debit Card
+TX1306,2025-11-23,Horizon - Jax Riverside,Gavin Scott,gavin.scott84@hotmail.com,Espresso Classico,Blend,3,14.49,43.47,Debit Card
+TX1285,2025-04-04,Horizon - St. Pete Central,Priya Garcia,priya.garcia46@yahoo.com,Horizon Tumbler (16 oz),Merchandise,3,22.0,66.0,Cash
+TX1005,2025-02-10,Horizon - Miami Beach,Grace Harris,grace_harris59@outlook.com,Costa Rica Tarrazu,Single Origin,3,16.49,49.47,Cash
+TX1421,2025-08-23,Horizon - Miami Beach,Bella Sanchez,bella.sanchez78@hotmail.com,Horizon Tumbler (16 oz),Merchandise,3,22.0,66.0,Credit Card
+TX1132,2025-08-13,Horizon - Downtown Tampa,Iris Jones,iris.jones83@outlook.com,Morning Sunrise Blend,Blend,4,12.99,51.96,Credit Card
+TX1254,10/18/2025,Horizon - Orlando Mills,Kyle Gonzalez,kyle_gonzalez70@outlook.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Credit Card
+TX1319,2025-09-21,Horizon - Hyde Park,Yuki Williams,,Hawaiian Kona,Single Origin,2,29.99,59.98,Cash
+TX1220,2025-07-03,Horizon - Hyde Park,Ivan Sanchez,ivan.sanchez55@yahoo.com,Decaf House Blend,Decaf,3,12.99,38.97,Cash
+TX1067,2025-09-21,Horizon - Downtown Tampa,Reed Wright,reed_wright53@gmail.com,Brazil Santos,Single Origin,5,13.99,69.95,Mobile Pay
+TX1112,2025-05-25,Horizon - Sarasota Bay,Aiden Roberts,aiden_roberts87@icloud.com,Colombian Supremo,Single Origin,3,14.99,44.97,Credit Card
+TX1145,2025-04-08,Horizon - Orlando Mills,Fiona Allen,fiona_allen64@outlook.com,Decaf House Blend,Decaf,1,12.99,12.99,Mobile Pay
+TX1124,2025-05-30,Horizon - Sarasota Bay,Alice Flores,alice_flores31@icloud.com,House Blend,Blend,2,11.99,23.98,Credit Card
+TX1370,2025-10-14,Horizon - Jax Riverside,Wendy Johnson,wendy_johnson16@outlook.com,Burr Grinder,Equipment,5,59.99,299.95,Debit Card
+TX1093,2025-12-18,Horizon - Hyde Park,Fiona Rivera,fiona_rivera10@gmail.com,Espresso Classico,Blend,5,14.49,72.45,Debit Card
+TX1225,2025-06-10,Horizon - St. Pete Central,Tina Rodriguez,tina_rodriguez97@yahoo.com,Nitro Cold Brew,Ready-to-Drink,2,21.99,43.98,Credit Card
+TX1321,2025-04-05,Horizon - Hyde Park,Gavin Hernandez,gavin_hernandez70@icloud.com,French Roast,Blend,1,13.49,13.49,Debit Card
+TX1240,2025-10-05,Horizon - St. Pete Central,Oscar Hall,oscar.hall43@gmail.com,Horizon Mug (12 oz),Merchandise,4,14.0,56.0,Cash
+TX1001,2025-11-24,Horizon - Hyde Park,Bob Mitchell,bob_mitchell32@yahoo.com,Guatemala Antigua,Single Origin,1,15.49,15.49,Credit Card
+TX1031,2025-05-23,Horizon - St. Pete Central,Priya Allen,priya_allen87@icloud.com,Espresso Classico,Blend,1,14.49,14.49,Cash
+TX1008,2025-11-26,Horizon - Clearwater,Jack Taylor,jack.taylor32@icloud.com,Chocolate Raspberry,Flavored,3,13.99,41.97,Mobile Pay
+TX1311,2025-02-23,Horizon - Sarasota Bay,Reed Hill,reedhill42@icloud.com,Gooseneck Kettle,Equipment,4,44.99,179.96,Debit Card
+TX1166,2025-07-11,Horizon - Sarasota Bay,Tyler Scott,tyler_scott97@icloud.com,Pour-Over Kit,Equipment,2,34.99,69.98,Credit Card
+TX1195,2025-11-02,Horizon - St. Pete Central,Yuki Smith,yuki_smith53@hotmail.com,Horizon Mug (12 oz),Merchandise,1,14.0,14.0,Debit Card
+TX1046,2025-11-30,Horizon - Downtown Tampa,Xena Johnson,xena.johnson26@gmail.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Mobile Pay
+TX1309,2025-08-23,Horizon - Miami Beach,Ursula Perez,ursula.perez97@hotmail.com,Colombian Supremo,Single Origin,5,14.99,74.95,Mobile Pay
+TX1236,2025-03-01,Horizon - Miami Beach,Willa Allen,willa.allen6@gmail.com,Java Estate,Single Origin,1,15.99,15.99,Mobile Pay
+TX1361,2025-10-02,Horizon - Downtown Tampa,Tyler Taylor,tyler.taylor37@gmail.com,French Roast,Blend,3,13.49,40.47,Debit Card
+TX1388,2025-01-31,Horizon - St. Pete Central,Priya Martinez,priyamartinez69@gmail.com,Guatemala Antigua,Single Origin,4,15.49,61.96,Cash
+TX1032,2025-02-25,Horizon - Sarasota Bay,Wendy Campbell,wendy_campbell56@icloud.com,Vanilla Hazelnut,Flavored,1,N/A,N/A,Debit Card
+TX1121,2025-06-13,Horizon - Hyde Park,Ursula Adams,ursula_adams19@yahoo.com,Colombian Supremo,Single Origin,3,14.99,44.97,Mobile Pay
+TX1374,2025-08-31,Horizon - Downtown Tampa,Bob Roberts,bob_roberts68@gmail.com,Kenya AA,Single Origin,3,17.99,53.97,Credit Card
+TX1210,2025-06-10,Horizon - Hyde Park,Paul Martin,paul.martin24@outlook.com,Matcha Powder,Tea & Other,2,24.99,49.98,Mobile Pay
+TX1077,2025-07-30,Horizon - Orlando Mills,Karen Lopez,karen.lopez79@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Debit Card
+TX1413,2025-12-31,Horizon - Downtown Tampa,Carol Thomas,carolthomas40@outlook.com,Decaf House Blend,Decaf,4,12.99,51.96,Credit Card
+TX1490,2025-09-17,Horizon - Miami Beach,Diana Roberts,dianaroberts85@yahoo.com,Hawaiian Kona,Single Origin,1,29.99,29.99,Debit Card
+TX1001,2025-11-24,Horizon - Hyde Park,Bob Mitchell,bob_mitchell32@yahoo.com,Guatemala Antigua,Single Origin,1,15.49,15.49,Credit Card
+TX1007,2025-04-28,Horizon - Downtown Tampa,Uma Sanchez,uma_sanchez9@yahoo.com,Aeropress,Equipment,5,39.99,199.95,Cash
+TX1356,2025-12-24,Horizon - Miami Beach,Nora Hernandez,norahernandez5@outlook.com,Java Estate,Single Origin,1,15.99,15.99,Credit Card
+TX1205,2025-09-24,Horizon - Clearwater,Wendy Walker,,Espresso Classico,Blend,1,14.49,14.49,Credit Card
+TX1296,2025-10-08,Horizon - Clearwater,Noah Hall,noah_hall43@yahoo.com,Ethiopian Yirgacheffe,Single Origin,1,16.99,16.99,Credit Card
+TX1127,2025-08-26,Horizon - Clearwater,Oscar Lopez,oscar.lopez9@hotmail.com,Colombian Supremo,Single Origin,3,14.99,44.97,Debit Card
+TX1193,2025-11-13,Horizon - Jax Riverside,Paul Rivera,paul.rivera11@outlook.com,Guatemala Antigua,Single Origin,4,15.49,61.96,Debit Card
+TX1379,2025-10-08,Horizon - St. Pete Central,Mia Clark,miaclark56@hotmail.com,Java Estate,Single Origin,2,15.99,31.98,Mobile Pay
+TX1221,09/06/2025,Horizon - St. Pete Central,Sofia Carter,sofia.carter6@gmail.com,Nitro Cold Brew,Ready-to-Drink,-4,21.99,-87.96,Debit Card
+TX1380,2025-11-17,Horizon - Miami Beach,Holly Carter,hollycarter89@outlook.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Mobile Pay
+TX1126,2025-11-18,Horizon - Hyde Park,Yosef Nguyen,yosefnguyen97@outlook.com,Guatemala Antigua,Single Origin,1,15.49,15.49,Cash
+TX1401,2025-05-16,Horizon - St. Pete Central,Luna Thomas,luna.thomas33@outlook.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Debit Card
+TX1307,2025-11-04,Horizon - Clearwater,Ursula Nelson,,Kenya AA,Single Origin,1,17.99,17.99,Debit Card
+TX1098,2025-04-25,Horizon - Hyde Park,Wendy Scott,wendy_scott15@outlook.com,Caramel Pecan,Flavored,2,14.49,28.98,Credit Card
+TX1279,2025-05-18,Horizon - Sarasota Bay,Gavin Johnson,gavinjohnson2@hotmail.com,Aeropress,Equipment,2,39.99,79.98,Credit Card
+TX1052,2025-04-19,Horizon - St. Pete Central,Quinn Perez,quinn_perez77@outlook.com,Chocolate Raspberry,Flavored,1,13.99,13.99,Debit Card
+TX1242,2025-02-13,Horizon - Hyde Park,Gavin Rodriguez,gavinrodriguez51@gmail.com,Caramel Pecan,Flavored,5,14.49,72.45,Debit Card
+TX1215,2025-01-17,Horizon - Clearwater,Quinn Thompson,quinn.thompson57@gmail.com,Horizon Mug (12 oz),Merchandise,2,14.0,28.0,Cash
+TX1344,2025-11-23,Horizon - Downtown Tampa,Vince Campbell,vincecampbell37@gmail.com,Brazil Santos,Single Origin,4,13.99,55.96,Mobile Pay
+TX1182,2025-10-27,Horizon - Sarasota Bay,Sam Martinez,sam.martinez43@yahoo.com,French Roast,Blend,5,13.49,67.45,Mobile Pay
+TX1375,05/07/2025,Horizon - Jax Riverside,Caleb Green,caleb.green17@icloud.com,French Press (32 oz),Equipment,2,29.99,59.98,Cash
+TX1420,2025-01-08,Horizon - Jax Riverside,Aiden Anderson,aidenanderson86@yahoo.com,Horizon Mug (12 oz),Merchandise,2,14.0,28.0,Mobile Pay
+TX1268,2025-07-18,Horizon - Sarasota Bay,Ivan Baker,ivan_baker74@yahoo.com,Decaf House Blend,Decaf,3,12.99,38.97,Credit Card
+TX1269,2025-12-13,Horizon - Orlando Mills,Henry Carter,henry_carter23@yahoo.com,Brazil Santos,Single Origin,2,13.99,27.98,Mobile Pay
+TX1070,2025-08-22,Horizon - Orlando Mills,Yuki Gonzalez,yukigonzalez66@yahoo.com,Burr Grinder,Equipment,1,59.99,59.99,Mobile Pay
+TX1305,2025-08-17,Horizon - St. Pete Central,Henry Young,henryyoung84@gmail.com,Kenya AA,Single Origin,4,17.99,71.96,Credit Card
+TX1395,2025-08-01,Horizon - St. Pete Central,Ursula Brown,ursulabrown35@icloud.com,Colombian Supremo,Single Origin,1,14.99,14.99,Credit Card
+TX1002,2025-04-30,Horizon - Downtown Tampa,Julia Gonzalez,juliagonzalez84@icloud.com,House Blend,Blend,-2,11.99,-23.98,Cash
+TX1247,2025-04-24,Horizon - Orlando Mills,Mia Sanchez,,Caramel Pecan,Flavored,5,14.49,72.45,Credit Card
+TX1444,2025-05-27,Horizon - Jax Riverside,Ivan Lee,,Hawaiian Kona,Single Origin,2,29.99,59.98,Credit Card
+TX1194,2025-01-03,Horizon - Jax Riverside,Caleb White,caleb_white14@yahoo.com,Sumatra Mandheling,Single Origin,2,15.99,31.98,Mobile Pay
+TX1299,2025-08-13,Horizon - Jax Riverside,Vince Garcia,vince_garcia44@yahoo.com,Kenya AA,Single Origin,4,17.99,71.96,Mobile Pay
+TX1321,2025-04-05,Horizon - Hyde Park,Gavin Hernandez,gavin_hernandez70@icloud.com,French Roast,Blend,1,13.49,13.49,Debit Card
+TX1342,2025-03-02,Horizon - Miami Beach,Aiden Perez,aidenperez15@hotmail.com,Chai Latte Mix,Tea & Other,4,10.99,43.96,Debit Card
+TX1135,2025-03-30,Horizon - Clearwater,Frank Baker,frank_baker86@outlook.com,Matcha Powder,Tea & Other,1,24.99,24.99,Cash
+TX1453,2025-06-07,Horizon - Sarasota Bay,Emily Hill,emily.hill88@icloud.com,Horizon Mug (12 oz),Merchandise,4,14.0,56.0,Credit Card
+TX1396,2025-04-29,Horizon - Sarasota Bay,Mia Gonzalez,miagonzalez85@yahoo.com,Caramel Pecan,Flavored,2,14.49,28.98,Mobile Pay
+TX1054,2025-09-29,Horizon - St. Pete Central,Bella Mitchell,bellamitchell43@outlook.com,Matcha Powder,Tea & Other,4,24.99,99.96,Cash
+TX1322,2025-11-13,Horizon - Clearwater,Julia Carter,juliacarter2@gmail.com,Chai Latte Mix,Tea & Other,3,10.99,32.97,Debit Card
+TX1452,2025-10-06,Horizon - Miami Beach,Leo Nelson,leonelson10@icloud.com,French Press (32 oz),Equipment,4,29.99,119.96,Mobile Pay
+TX1154,2025-09-30,Horizon - St. Pete Central,Ivan Thompson,ivanthompson99@outlook.com,Cold Brew Concentrate,Ready-to-Drink,4,18.99,75.96,Debit Card
+TX1391,2025-09-17,Horizon - Sarasota Bay,Vince Lopez,vince.lopez80@outlook.com,Horizon Mug (12 oz),Merchandise,5,14.0,70.0,Credit Card
+TX1443,11/01/2025,Horizon - Hyde Park,Victor Robinson,victor.robinson14@icloud.com,Horizon Mug (12 oz),Merchandise,3,14.0,42.0,Cash
+TX1036,2025-08-31,Horizon - Orlando Mills,Reed Garcia,reed_garcia66@icloud.com,Espresso Classico,Blend,1,14.49,14.49,Debit Card
+TX1472,2025-01-18,Horizon - Downtown Tampa,Nora Garcia,nora.garcia77@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Credit Card
+TX1233,2025-08-21,Horizon - Downtown Tampa,Tina Nelson,tinanelson85@yahoo.com,Kenya AA,Single Origin,1,17.99,17.99,Credit Card
+TX1109,2025-10-30,Horizon - Downtown Tampa,Wendy Allen,wendy.allen40@hotmail.com,Decaf Colombian,Decaf,1,14.99,14.99,Cash
+TX1316,2025-12-12,Horizon - Miami Beach,Willa Adams,willaadams50@yahoo.com,Vanilla Hazelnut,Flavored,3,13.99,41.97,Credit Card
+TX1449,2025-07-20,Horizon - Orlando Mills,Tyler Nelson,tyler_nelson42@hotmail.com,Decaf House Blend,Decaf,1,12.99,12.99,Credit Card
+TX1207,2025-12-03,Horizon - Sarasota Bay,Zara Johnson,zarajohnson79@yahoo.com,Decaf Colombian,Decaf,5,14.99,74.95,Credit Card
+TX1408,2025-08-15,Horizon - Orlando Mills,Caleb Williams,caleb.williams26@outlook.com,Guatemala Antigua,Single Origin,1,15.49,15.49,Credit Card
+TX1074,2025-03-15,Horizon - Sarasota Bay,Priya Martinez,priya.martinez61@outlook.com,Espresso Classico,Blend,5,14.49,72.45,Credit Card
+TX1424,2025-02-27,Horizon - Orlando Mills,Yosef Nguyen,yosefnguyen70@yahoo.com,French Roast,Blend,4,13.49,53.96,Credit Card
+TX1465,2025-05-12,Horizon - Downtown Tampa,Willa Davis,willadavis23@icloud.com,Horizon Tumbler (16 oz),Merchandise,2,22.0,44.0,Cash
+TX1491,2025-04-01,Horizon - Orlando Mills,Reed Williams,reed.williams83@outlook.com,Jamaican Blue Mountain,Single Origin,2,49.99,99.98,Cash
+TX1308,2025-05-30,Horizon - St. Pete Central,Tyler Miller,tyler.miller22@hotmail.com,Guatemala Antigua,Single Origin,4,15.49,61.96,Debit Card
+TX1313,2025-06-26,Horizon - Orlando Mills,Ursula Adams,ursula.adams65@icloud.com,Matcha Powder,Tea & Other,3,24.99,74.97,Cash
+TX1359,2025-09-20,Horizon - Jax Riverside,Ivan Torres,ivan_torres89@hotmail.com,French Roast,Blend,5,13.49,67.45,Debit Card
+TX1483,2025-12-01,Horizon - Downtown Tampa,Ethan Flores,ethan.flores32@yahoo.com,Ethiopian Yirgacheffe,Single Origin,2,16.99,33.98,Cash
+TX1403,2025-06-28,Horizon - Sarasota Bay,Aiden Davis,aiden.davis96@icloud.com,Aeropress,Equipment,1,39.99,39.99,Mobile Pay
+TX1023,07/22/2025,Horizon - Orlando Mills,Reed Adams,reed_adams59@outlook.com,Aeropress,Equipment,1,39.99,39.99,Credit Card
+TX1144,2025-05-07,Horizon - Orlando Mills,Grace Brown,grace_brown50@icloud.com,House Blend,Blend,2,11.99,23.98,Debit Card
+TX1224,2025-08-16,Horizon - Downtown Tampa,Alice Hall,alice_hall16@hotmail.com,Matcha Powder,Tea & Other,2,24.99,49.98,Debit Card
+TX1115,2025-09-06,Horizon - Miami Beach,Olivia Rodriguez,olivia.rodriguez10@outlook.com,Burr Grinder,Equipment,1,59.99,59.99,Credit Card
+TX1335,2025-05-24,Horizon - Orlando Mills,Ivan Gonzalez,ivan_gonzalez94@gmail.com,Horizon Tumbler (16 oz),Merchandise,1,22.0,22.0,Credit Card
+TX1368,2025-04-11,Horizon - Orlando Mills,Willa Martinez,willa_martinez2@yahoo.com,House Blend,Blend,4,11.99,47.96,Cash
+TX1089,2025-01-11,Horizon - Downtown Tampa,Victor Thomas,victor.thomas73@yahoo.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Debit Card
+TX1073,2025-12-06,Horizon - Orlando Mills,Fiona Williams,fiona.williams65@icloud.com,Espresso Classico,Blend,1,N/A,N/A,Mobile Pay
+TX1004,2025-08-24,Horizon - Hyde Park,Yuki Garcia,,Gooseneck Kettle,Equipment,3,44.99,134.97,Credit Card
+TX1096,2025-03-20,Horizon - Clearwater,Emily Garcia,emily.garcia12@hotmail.com,Kenya AA,Single Origin,3,17.99,53.97,Credit Card
+TX1099,2025-01-15,Horizon - Orlando Mills,Rachel Hall,rachel_hall44@outlook.com,Ethiopian Yirgacheffe,Single Origin,2,16.99,33.98,Mobile Pay
+TX1325,2025-12-17,Horizon - Sarasota Bay,Grace Wilson,,Nitro Cold Brew,Ready-to-Drink,1,21.99,21.99,Debit Card
+TX1500,2025-06-06,Horizon - Orlando Mills,Ursula Robinson,ursularobinson96@icloud.com,Ethiopian Yirgacheffe,Single Origin,4,16.99,67.96,Debit Card
+TX1329,2025-07-20,Horizon - Jax Riverside,Oscar Martinez,oscar_martinez87@outlook.com,Ethiopian Yirgacheffe,Single Origin,-5,16.99,-84.95,Debit Card
+TX1204,2025-10-29,Horizon - Orlando Mills,Wendy Johnson,wendy_johnson14@outlook.com,House Blend,Blend,1,11.99,11.99,Debit Card
+TX1185,11/12/2025,Horizon - Clearwater,Reed Young,reed.young1@icloud.com,Chocolate Raspberry,Flavored,4,13.99,55.96,Cash
+TX1315,2025-05-17,Horizon - Orlando Mills,Sam Baker,sam_baker19@gmail.com,Matcha Powder,Tea & Other,3,24.99,74.97,Credit Card
+TX1262,2025-05-31,Horizon - Downtown Tampa,Uma Taylor,uma.taylor10@outlook.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Credit Card
+TX1320,2025-01-21,Horizon - Orlando Mills,Uma Hill,uma.hill81@icloud.com,French Press (32 oz),Equipment,3,29.99,89.97,Cash
+TX1252,2025-05-24,Horizon - Downtown Tampa,Ethan King,ethan_king99@icloud.com,Java Estate,Single Origin,2,15.99,31.98,Debit Card
+TX1276,2025-09-26,Horizon - Downtown Tampa,Leo Gonzalez,leo.gonzalez8@yahoo.com,Colombian Supremo,Single Origin,4,14.99,59.96,Cash
+TX1202,2025-07-25,Horizon - Sarasota Bay,Ivan Williams,ivan_williams90@icloud.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Debit Card
+TX1263,2025-11-01,Horizon - Clearwater,Ursula Johnson,ursula_johnson84@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,4,18.99,75.96,Credit Card
+TX1409,2025-05-28,Horizon - Downtown Tampa,Victor Hall,victor.hall40@hotmail.com,Decaf House Blend,Decaf,1,12.99,12.99,Debit Card
+TX1448,2025-12-24,Horizon - Clearwater,Grace Robinson,grace_robinson88@hotmail.com,Decaf House Blend,Decaf,2,12.99,25.98,Debit Card
+TX1043,2025-08-03,Horizon - Miami Beach,Fiona Anderson,fiona_anderson56@hotmail.com,Ethiopian Yirgacheffe,Single Origin,4,16.99,67.96,Mobile Pay
+TX1376,2025-10-04,Horizon - Jax Riverside,Julia Lewis,julia.lewis90@icloud.com,Costa Rica Tarrazu,Single Origin,5,16.49,82.45,Mobile Pay
+TX1101,2025-01-26,Horizon - Hyde Park,Rachel Lewis,rachellewis55@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,4,18.99,75.96,Debit Card
+TX1143,2025-06-24,Horizon - Orlando Mills,Uma Rivera,uma_rivera94@outlook.com,French Roast,Blend,2,13.49,26.98,Credit Card
+TX1114,2025-10-14,Horizon - Sarasota Bay,Priya Perez,priya.perez86@icloud.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Credit Card
+TX1427,2025-01-27,Horizon - Sarasota Bay,Tina Martin,tinamartin99@hotmail.com,Jamaican Blue Mountain,Single Origin,-2,49.99,-99.98,Debit Card
+TX1100,2025-02-16,Horizon - Miami Beach,Yuki Clark,yuki_clark44@yahoo.com,Morning Sunrise Blend,Blend,3,12.99,38.97,Credit Card
+TX1482,2025-06-22,Horizon - Downtown Tampa,Zara Davis,zara.davis84@icloud.com,Decaf Colombian,Decaf,5,14.99,74.95,Debit Card
+TX1366,2025-05-13,Horizon - Orlando Mills,Julia Taylor,julia.taylor35@hotmail.com,Cold Brew Concentrate,Ready-to-Drink,3,18.99,56.97,Mobile Pay
+TX1048,2025-06-09,Horizon - Sarasota Bay,Zara Rivera,zara.rivera10@icloud.com,Matcha Powder,Tea & Other,2,24.99,49.98,Cash
+TX1183,2025-09-08,Horizon - Clearwater,Diana Hernandez,dianahernandez46@yahoo.com,Guatemala Antigua,Single Origin,5,15.49,77.45,Credit Card
+TX1229,2025-07-17,Horizon - Hyde Park,Paul Young,paulyoung77@gmail.com,Vanilla Hazelnut,Flavored,1,13.99,13.99,Cash
+TX1113,2025-12-03,Horizon - Orlando Mills,Victor Garcia,victorgarcia85@yahoo.com,Aeropress,Equipment,3,39.99,119.97,Mobile Pay
+TX1206,2025-03-26,Horizon - Miami Beach,Holly Lopez,hollylopez21@outlook.com,Chocolate Raspberry,Flavored,4,13.99,55.96,Debit Card
+TX1310,2025-09-13,Horizon - Downtown Tampa,Holly Mitchell,holly.mitchell71@hotmail.com,French Press (32 oz),Equipment,5,29.99,149.95,Debit Card
+TX1158,01/27/2025,Horizon - Hyde Park,Aiden Perez,aidenperez61@gmail.com,Chai Latte Mix,Tea & Other,2,10.99,21.98,Debit Card
+TX1480,2025-06-03,Horizon - Sarasota Bay,Grace Green,,Sumatra Mandheling,Single Origin,4,15.99,63.96,Debit Card
+TX1283,2025-08-03,Horizon - Sarasota Bay,Yuki Mitchell,yuki.mitchell75@icloud.com,French Press (32 oz),Equipment,2,29.99,59.98,Debit Card
+TX1072,08/22/2025,Horizon - St. Pete Central,Mia Hall,mia.hall74@hotmail.com,Java Estate,Single Origin,4,15.99,63.96,Mobile Pay
+TX1470,2025-05-19,Horizon - Jax Riverside,Grace Taylor,gracetaylor75@hotmail.com,Decaf Colombian,Decaf,2,14.99,29.98,Debit Card
+TX1246,2025-07-27,Horizon - Clearwater,Julia Mitchell,juliamitchell32@gmail.com,Decaf Colombian,Decaf,1,14.99,14.99,Debit Card
+TX1400,2025-04-24,Horizon - Miami Beach,Uma Johnson,umajohnson36@icloud.com,Vanilla Hazelnut,Flavored,5,13.99,69.95,Debit Card
+TX1174,2025-10-04,Horizon - Miami Beach,Xena Roberts,xena.roberts18@icloud.com,Jamaican Blue Mountain,Single Origin,2,49.99,99.98,Cash
+TX1227,2025-06-11,Horizon - Orlando Mills,Paul Moore,paulmoore11@yahoo.com,Chocolate Raspberry,Flavored,5,13.99,69.95,Cash
+TX1290,2025-09-29,Horizon - Miami Beach,Bob Baker,bob.baker81@yahoo.com,Java Estate,Single Origin,3,15.99,47.97,Credit Card
+TX1417,2025-03-02,Horizon - Orlando Mills,Uma Martinez,umamartinez4@outlook.com,Gooseneck Kettle,Equipment,4,44.99,179.96,Cash
+TX1294,2025-03-05,Horizon - Jax Riverside,Ethan Hall,ethan.hall27@gmail.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Cash
+TX1149,2025-01-20,Horizon - Orlando Mills,Ursula Perez,ursula_perez67@hotmail.com,Guatemala Antigua,Single Origin,5,15.49,77.45,Debit Card
+TX1445,2025-04-16,Horizon - St. Pete Central,Julia Lee,julia_lee19@outlook.com,Caramel Pecan,Flavored,2,14.49,28.98,Cash
+TX1190,2025-04-17,Horizon - Orlando Mills,Xena Rivera,xena_rivera10@outlook.com,Costa Rica Tarrazu,Single Origin,5,16.49,82.45,Mobile Pay
+TX1170,2025-01-17,Horizon - Jax Riverside,Aiden Lopez,aiden.lopez99@hotmail.com,Morning Sunrise Blend,Blend,4,12.99,51.96,Mobile Pay
+TX1260,2025-12-10,Horizon - St. Pete Central,Caleb Smith,caleb_smith27@yahoo.com,Matcha Powder,Tea & Other,1,24.99,24.99,Credit Card
+TX1280,2025-12-31,Horizon - Jax Riverside,Bella Harris,bella_harris59@outlook.com,Brazil Santos,Single Origin,-4,13.99,-55.96,Mobile Pay
+TX1003,2025-12-24,Horizon - Sarasota Bay,Victor Moore,victor.moore28@outlook.com,Kenya AA,Single Origin,1,17.99,17.99,Cash
+TX1080,2025-01-05,Horizon - Downtown Tampa,Mason Mitchell,mason_mitchell37@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,3,18.99,56.97,Debit Card
+TX1164,2025-05-17,Horizon - St. Pete Central,Tina Nguyen,tinanguyen74@gmail.com,Hawaiian Kona,Single Origin,3,29.99,89.97,Credit Card
+TX1497,2025-08-25,Horizon - Jax Riverside,Alice Campbell,alice_campbell95@yahoo.com,Java Estate,Single Origin,3,15.99,47.97,Debit Card
+TX1075,2025-07-14,Horizon - St. Pete Central,Oscar Rivera,oscar_rivera70@gmail.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Cash
+TX1256,2025-09-27,Horizon - St. Pete Central,Emily White,emilywhite85@hotmail.com,Caramel Pecan,Flavored,1,14.49,14.49,Cash
+TX1208,2025-02-02,Horizon - Hyde Park,Ivan Lopez,ivan_lopez42@yahoo.com,Decaf Colombian,Decaf,1,14.99,14.99,Mobile Pay
+TX1013,2025-09-30,Horizon - Orlando Mills,Iris Nelson,iris_nelson71@yahoo.com,Hawaiian Kona,Single Origin,5,29.99,149.95,Mobile Pay
+TX1426,2025-09-19,Horizon - Orlando Mills,Yuki Scott,yuki_scott6@yahoo.com,Aeropress,Equipment,3,39.99,119.97,Debit Card
+TX1155,2025-06-02,Horizon - Jax Riverside,Ursula Wilson,ursulawilson91@hotmail.com,Espresso Classico,Blend,4,14.49,57.96,Cash
+TX1274,2025-05-24,Horizon - Clearwater,Tyler Baker,tyler.baker30@yahoo.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Cash
+TX1084,2025-03-05,Horizon - Clearwater,Xavier Baker,xavierbaker87@outlook.com,Caramel Pecan,Flavored,4,14.49,57.96,Cash
+TX1477,2025-12-07,Horizon - Sarasota Bay,Rachel Martinez,rachelmartinez43@hotmail.com,Caramel Pecan,Flavored,1,14.49,14.49,Mobile Pay
+TX1230,2025-07-07,Horizon - Orlando Mills,Xena Walker,xena.walker3@icloud.com,Sumatra Mandheling,Single Origin,1,15.99,15.99,Credit Card
+TX1437,2025-12-11,Horizon - Clearwater,Ethan Williams,ethanwilliams18@hotmail.com,Guatemala Antigua,Single Origin,4,15.49,61.96,Cash
+TX1479,2025-11-28,Horizon - Hyde Park,Xavier Wright,xavier_wright11@hotmail.com,Horizon Mug (12 oz),Merchandise,3,14.0,42.0,Debit Card
+TX1431,2025-01-19,Horizon - Hyde Park,Yosef Martin,yosef_martin48@hotmail.com,French Press (32 oz),Equipment,1,29.99,29.99,Credit Card
+TX1330,2025-10-03,Horizon - Hyde Park,Tina Wilson,tinawilson95@outlook.com,Brazil Santos,Single Origin,4,13.99,55.96,Debit Card
+TX1018,2025-08-05,Horizon - Orlando Mills,Rachel Robinson,rachel.robinson10@hotmail.com,Pour-Over Kit,Equipment,5,34.99,174.95,Credit Card
+TX1462,2025-11-19,Horizon - Hyde Park,Sofia Green,sofiagreen75@outlook.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Credit Card
+TX1106,2025-07-22,Horizon - Jax Riverside,Willa Perez,willa.perez43@yahoo.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Debit Card
+TX1095,2025-04-21,Horizon - Sarasota Bay,Caleb Anderson,caleb_anderson44@hotmail.com,French Roast,Blend,4,13.49,53.96,Cash
+TX1190,2025-04-17,Horizon - Orlando Mills,Xena Rivera,xena_rivera10@outlook.com,Costa Rica Tarrazu,Single Origin,5,16.49,82.45,Mobile Pay
+TX1352,2025-06-07,Horizon - St. Pete Central,Yosef Rivera,yosef_rivera95@yahoo.com,Burr Grinder,Equipment,1,59.99,59.99,Mobile Pay
+TX1226,2025-04-20,Horizon - Orlando Mills,Aiden Flores,aidenflores57@yahoo.com,Sumatra Mandheling,Single Origin,1,15.99,15.99,Credit Card
+TX1065,2025-09-23,Horizon - Clearwater,Rachel Lopez,rachellopez56@hotmail.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Cash
+TX1493,2025-04-12,Horizon - St. Pete Central,Olivia Roberts,olivia.roberts42@yahoo.com,Kenya AA,Single Origin,2,17.99,35.98,Debit Card
+TX1163,2025-08-07,Horizon - St. Pete Central,Frank Sanchez,,Guatemala Antigua,Single Origin,4,15.49,61.96,Debit Card
+TX1022,2025-10-24,Horizon - Downtown Tampa,Nora Garcia,nora_garcia85@icloud.com,Caramel Pecan,Flavored,5,14.49,72.45,Cash
+TX1060,2025-02-20,Horizon - Miami Beach,Oscar Wilson,oscar_wilson85@gmail.com,Costa Rica Tarrazu,Single Origin,2,16.49,32.98,Credit Card
+TX1122,2025-08-18,Horizon - Downtown Tampa,Frank Johnson,frank_johnson28@yahoo.com,Chocolate Raspberry,Flavored,5,13.99,69.95,Credit Card
+TX1340,2025-03-31,Horizon - Sarasota Bay,Priya Harris,priya_harris76@gmail.com,Vanilla Hazelnut,Flavored,3,13.99,41.97,Debit Card
+TX1079,2025-06-04,Horizon - Miami Beach,Yuki Walker,,Caramel Pecan,Flavored,3,14.49,43.47,Cash
+TX1467,2025-11-23,Horizon - Orlando Mills,Noah Torres,noahtorres45@gmail.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Credit Card
+TX1094,2025-06-16,Horizon - Sarasota Bay,Mason King,mason_king59@icloud.com,Cold Brew Concentrate,Ready-to-Drink,4,18.99,75.96,Credit Card
+TX1147,2025-07-26,Horizon - St. Pete Central,Carol Sanchez,carol.sanchez73@icloud.com,Brazil Santos,Single Origin,3,13.99,41.97,Credit Card
+TX1275,2025-04-07,Horizon - Clearwater,Noah Clark,noahclark63@icloud.com,Burr Grinder,Equipment,3,59.99,179.97,Debit Card
+TX1083,2025-06-01,Horizon - St. Pete Central,Henry Robinson,henry.robinson19@yahoo.com,Burr Grinder,Equipment,4,59.99,239.96,Cash
+TX1471,2025-06-10,Horizon - Downtown Tampa,Sofia Smith,sofia.smith2@hotmail.com,Kenya AA,Single Origin,5,17.99,89.95,Mobile Pay
+TX1086,2025-09-10,Horizon - Hyde Park,Grace Thomas,gracethomas18@hotmail.com,Decaf Colombian,Decaf,3,14.99,44.97,Mobile Pay
+TX1234,2025-05-13,Horizon - Orlando Mills,Xavier Rodriguez,xavierrodriguez35@gmail.com,Horizon Mug (12 oz),Merchandise,1,14.0,14.0,Mobile Pay
+TX1146,06/30/2025,Horizon - Downtown Tampa,David Jackson,david_jackson77@hotmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Credit Card
+TX1440,2025-06-07,Horizon - St. Pete Central,Ursula Williams,ursula_williams53@gmail.com,Decaf House Blend,Decaf,2,12.99,25.98,Cash
+TX1398,2025-06-30,Horizon - St. Pete Central,Julia Lee,julia_lee53@hotmail.com,French Press (32 oz),Equipment,3,29.99,89.97,Debit Card
+TX1025,2025-02-23,Horizon - Orlando Mills,Quinn Davis,quinn.davis96@icloud.com,Guatemala Antigua,Single Origin,3,15.49,46.47,Debit Card
+TX1405,2025-03-09,Horizon - St. Pete Central,Frank Walker,frankwalker96@gmail.com,Chocolate Raspberry,Flavored,4,13.99,55.96,Mobile Pay
+TX1432,2025-05-21,Horizon - St. Pete Central,Holly Clark,hollyclark27@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Credit Card
+TX1248,2025-08-16,Horizon - Orlando Mills,Frank Perez,frank.perez6@hotmail.com,Colombian Supremo,Single Origin,2,14.99,29.98,Mobile Pay
+TX1117,2025-08-16,Horizon - Jax Riverside,Xena Mitchell,xena_mitchell30@icloud.com,Java Estate,Single Origin,3,15.99,47.97,Mobile Pay
+TX1134,2025-09-13,Horizon - Sarasota Bay,Julia Davis,julia_davis34@hotmail.com,Brazil Santos,Single Origin,5,13.99,69.95,Mobile Pay
+TX1088,2025-12-18,Horizon - St. Pete Central,Ivan Adams,ivan_adams8@hotmail.com,Hawaiian Kona,Single Origin,2,29.99,59.98,Mobile Pay
+TX1157,2025-10-03,Horizon - Jax Riverside,Julia Hall,julia_hall18@gmail.com,Cold Brew Concentrate,Ready-to-Drink,5,18.99,94.95,Credit Card
+TX1387,2025-10-25,Horizon - Clearwater,Tyler Hill,tyler.hill48@gmail.com,Java Estate,Single Origin,2,15.99,31.98,Cash
+TX1291,2025-01-24,Horizon - Jax Riverside,Sam Robinson,samrobinson67@icloud.com,Vanilla Hazelnut,Flavored,3,13.99,41.97,Debit Card
+TX1156,2025-07-22,Horizon - St. Pete Central,Yosef Martinez,yosef_martinez6@outlook.com,Matcha Powder,Tea & Other,1,24.99,24.99,Mobile Pay
+TX1415,2025-07-15,Horizon - Miami Beach,Aiden Thomas,aidenthomas20@hotmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Debit Card
+TX1383,2025-09-13,Horizon - St. Pete Central,Diana Hall,diana.hall43@gmail.com,French Press (32 oz),Equipment,2,29.99,59.98,Mobile Pay
+TX1281,2025-07-11,Horizon - Jax Riverside,Tina Baker,tina.baker62@gmail.com,Espresso Classico,Blend,3,14.49,43.47,Cash
+TX1238,2025-09-22,Horizon - Downtown Tampa,Zara Jones,zara_jones37@outlook.com,Espresso Classico,Blend,1,14.49,14.49,Credit Card
+TX1399,07/04/2025,Horizon - Clearwater,Caleb Sanchez,caleb.sanchez93@gmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Debit Card
+TX1341,2025-09-07,Horizon - Clearwater,Mason Smith,masonsmith18@hotmail.com,Costa Rica Tarrazu,Single Origin,2,16.49,32.98,Cash
+TX1304,2025-05-23,Horizon - Downtown Tampa,Gavin Anderson,gavinanderson83@hotmail.com,French Roast,Blend,2,13.49,26.98,Mobile Pay
+TX1429,01/04/2025,Horizon - Miami Beach,Julia Moore,juliamoore81@icloud.com,French Press (32 oz),Equipment,2,29.99,59.98,Debit Card
+TX1168,2025-02-16,Horizon - Clearwater,David Robinson,david.robinson66@hotmail.com,Decaf Colombian,Decaf,5,14.99,74.95,Mobile Pay
+TX1373,2025-07-05,Horizon - Clearwater,Aiden Hernandez,aiden.hernandez3@yahoo.com,Horizon Tumbler (16 oz),Merchandise,2,22.0,44.0,Credit Card
+TX1336,2025-04-19,Horizon - Downtown Tampa,Julia Taylor,juliataylor70@hotmail.com,Nitro Cold Brew,Ready-to-Drink,2,21.99,43.98,Debit Card
+TX1176,2025-06-26,Horizon - Sarasota Bay,Holly Lee,hollylee54@hotmail.com,Guatemala Antigua,Single Origin,3,15.49,46.47,Mobile Pay
+TX1297,2025-02-16,Horizon - Hyde Park,Vince Campbell,vince.campbell33@yahoo.com,Decaf Colombian,Decaf,3,14.99,44.97,Credit Card
+TX1211,2025-09-07,Horizon - Orlando Mills,Julia Hernandez,julia_hernandez37@yahoo.com,Costa Rica Tarrazu,Single Origin,3,16.49,49.47,Credit Card
+TX1457,2025-12-31,Horizon - Sarasota Bay,Zara Harris,zara_harris70@yahoo.com,Chai Latte Mix,Tea & Other,2,10.99,21.98,Debit Card
+TX1381,2025-02-26,Horizon - Clearwater,Nora Lewis,,Decaf House Blend,Decaf,2,12.99,25.98,Debit Card
+TX1394,2025-05-12,Horizon - Downtown Tampa,Xavier Anderson,xavieranderson92@gmail.com,Ethiopian Yirgacheffe,Single Origin,2,16.99,33.98,Credit Card
+TX1119,2025-11-25,Horizon - Clearwater,Xavier Scott,xavier.scott92@icloud.com,Burr Grinder,Equipment,1,59.99,59.99,Debit Card
+TX1392,2025-09-26,Horizon - Clearwater,Yosef Scott,yosef.scott79@outlook.com,Espresso Classico,Blend,4,14.49,57.96,Credit Card
+TX1433,2025-12-28,Horizon - Jax Riverside,Bella Hill,bella_hill34@icloud.com,Caramel Pecan,Flavored,5,14.49,72.45,Debit Card
+TX1411,2025-05-19,Horizon - Downtown Tampa,Diana Adams,diana.adams9@hotmail.com,Chai Latte Mix,Tea & Other,3,10.99,32.97,Cash
+TX1419,2025-02-10,Horizon - Clearwater,Iris Allen,irisallen61@outlook.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Debit Card
+TX1011,2025-05-15,Horizon - Orlando Mills,Gavin Miller,gavinmiller39@icloud.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Debit Card
+TX1331,2025-04-10,Horizon - Hyde Park,Leo Nelson,leonelson7@icloud.com,Decaf Colombian,Decaf,5,14.99,74.95,Credit Card
+TX1486,08/01/2025,Horizon - Orlando Mills,Tyler White,tylerwhite22@hotmail.com,Java Estate,Single Origin,5,15.99,79.95,Credit Card
+TX1228,2025-12-04,Horizon - Jax Riverside,Noah King,noahking66@yahoo.com,Horizon Tumbler (16 oz),Merchandise,4,22.0,88.0,Credit Card
+TX1216,2025-11-12,Horizon - Orlando Mills,Noah Wilson,noah.wilson73@outlook.com,Chocolate Raspberry,Flavored,3,13.99,41.97,Debit Card
+TX1178,2025-07-09,Horizon - Hyde Park,Ivan Campbell,ivan.campbell7@outlook.com,French Roast,Blend,5,13.49,67.45,Credit Card
+TX1243,2025-07-21,Horizon - St. Pete Central,Uma Lewis,uma_lewis30@gmail.com,Brazil Santos,Single Origin,2,13.99,27.98,Credit Card
+TX1068,2025-10-09,Horizon - Orlando Mills,Sam Lewis,samlewis63@gmail.com,Ethiopian Yirgacheffe,Single Origin,5,16.99,84.95,Debit Card
+TX1494,2025-09-06,Horizon - Downtown Tampa,Bella Martinez,bella.martinez79@hotmail.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Mobile Pay
+TX1350,2025-01-04,Horizon - Hyde Park,Holly Smith,holly_smith84@yahoo.com,Matcha Powder,Tea & Other,3,24.99,74.97,Credit Card
+TX1214,2025-10-06,Horizon - St. Pete Central,Ivan Carter,ivan.carter98@hotmail.com,Chocolate Raspberry,Flavored,2,13.99,27.98,Credit Card
+TX1151,2025-10-26,Horizon - Jax Riverside,Vince Hall,vincehall4@icloud.com,Decaf House Blend,Decaf,3,12.99,38.97,Debit Card
+TX1012,2025-01-01,Horizon - St. Pete Central,Fiona Johnson,fiona.johnson47@outlook.com,Java Estate,Single Origin,1,15.99,15.99,Credit Card
+TX1322,2025-11-13,Horizon - Clearwater,Julia Carter,juliacarter2@gmail.com,Chai Latte Mix,Tea & Other,3,10.99,32.97,Debit Card
+TX1267,2025-05-18,Horizon - Downtown Tampa,Jack Carter,jackcarter86@gmail.com,Sumatra Mandheling,Single Origin,3,15.99,47.97,Mobile Pay
+TX1459,2025-03-12,Horizon - Sarasota Bay,Diana Hall,dianahall55@icloud.com,Costa Rica Tarrazu,Single Origin,4,16.49,65.96,Mobile Pay
+TX1078,2025-12-08,Horizon - Downtown Tampa,Diana Jackson,dianajackson70@yahoo.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Cash
+TX1255,2025-01-01,Horizon - St. Pete Central,Nora Gonzalez,nora.gonzalez44@yahoo.com,Aeropress,Equipment,3,39.99,119.97,Debit Card
+TX1076,2025-02-20,Horizon - Hyde Park,Caleb Hernandez,calebhernandez39@gmail.com,Colombian Supremo,Single Origin,3,14.99,44.97,Cash
+TX1357,2025-07-22,Horizon - Sarasota Bay,Luna Gonzalez,lunagonzalez2@gmail.com,Aeropress,Equipment,1,39.99,39.99,Cash
+TX1058,2025-02-03,Horizon - Sarasota Bay,Fiona Jones,fionajones81@gmail.com,Guatemala Antigua,Single Origin,2,15.49,30.98,Cash
+TX1435,11/12/2025,Horizon - Sarasota Bay,Aiden Williams,aiden_williams45@icloud.com,Pour-Over Kit,Equipment,2,34.99,69.98,Debit Card
+TX1085,2025-10-15,Horizon - St. Pete Central,Nora Anderson,noraanderson9@hotmail.com,Aeropress,Equipment,3,39.99,119.97,Credit Card
+TX1056,2025-07-04,Horizon - Orlando Mills,Tina Smith,tinasmith69@yahoo.com,Hawaiian Kona,Single Origin,1,29.99,29.99,Cash
+TX1040,2025-05-07,Horizon - Jax Riverside,Yosef Roberts,yosefroberts63@yahoo.com,Hawaiian Kona,Single Origin,4,29.99,119.96,Cash
+TX1148,2025-11-16,Horizon - Hyde Park,Iris Miller,iris_miller48@outlook.com,Chocolate Raspberry,Flavored,3,13.99,41.97,Debit Card
+TX1092,2025-02-25,Horizon - Clearwater,Gavin Anderson,gavinanderson6@icloud.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Credit Card
+TX1201,2025-07-29,Horizon - Clearwater,Iris Green,iris_green31@outlook.com,Chai Latte Mix,Tea & Other,2,10.99,21.98,Mobile Pay
+TX1488,2025-12-21,Horizon - Orlando Mills,Noah Martinez,noahmartinez35@icloud.com,Decaf Colombian,Decaf,4,14.99,59.96,Debit Card
+TX1045,2025-08-21,Horizon - St. Pete Central,Victor Carter,victor_carter36@hotmail.com,Hawaiian Kona,Single Origin,1,29.99,29.99,Credit Card
+TX1235,2025-10-23,Horizon - Hyde Park,Fiona Robinson,fionarobinson47@gmail.com,Decaf House Blend,Decaf,5,12.99,64.95,Debit Card
+TX1097,2025-03-04,Horizon - Sarasota Bay,Wendy Nelson,wendy_nelson93@gmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Credit Card
+TX1034,2025-07-29,Horizon - St. Pete Central,Zara Hall,zara_hall71@yahoo.com,Brazil Santos,Single Origin,4,13.99,55.96,Mobile Pay
+TX1355,2025-05-27,Horizon - Downtown Tampa,Yosef Lopez,yoseflopez64@hotmail.com,Ethiopian Yirgacheffe,Single Origin,2,16.99,33.98,Cash
+TX1345,2025-11-04,Horizon - Orlando Mills,Luna Roberts,luna.roberts80@icloud.com,Hawaiian Kona,Single Origin,2,29.99,59.98,Cash
+TX1410,09/05/2025,Horizon - Orlando Mills,Tyler Hall,tylerhall3@hotmail.com,Caramel Pecan,Flavored,5,14.49,72.45,Debit Card
+TX1189,2025-12-21,Horizon - Clearwater,Rachel Williams,rachel.williams88@outlook.com,Gooseneck Kettle,Equipment,5,N/A,N/A,Credit Card
+TX1487,2025-03-22,Horizon - Downtown Tampa,Fiona Garcia,fiona.garcia1@yahoo.com,Aeropress,Equipment,1,39.99,39.99,Cash
+TX1430,2025-01-17,Horizon - Jax Riverside,Victor Garcia,victor.garcia14@hotmail.com,Costa Rica Tarrazu,Single Origin,2,16.49,32.98,Debit Card
+TX1150,2025-11-12,Horizon - Jax Riverside,Luna Perez,lunaperez66@icloud.com,Decaf House Blend,Decaf,5,12.99,64.95,Credit Card
+TX1422,2025-01-22,Horizon - Miami Beach,Holly Wright,holly_wright95@gmail.com,Chocolate Raspberry,Flavored,4,13.99,55.96,Credit Card
+TX1348,2025-09-25,Horizon - Sarasota Bay,Xavier Williams,xavierwilliams68@hotmail.com,Java Estate,Single Origin,4,15.99,63.96,Mobile Pay
+TX1273,2025-12-22,Horizon - Sarasota Bay,Carol Sanchez,,Colombian Supremo,Single Origin,4,14.99,59.96,Cash
+TX1461,2025-02-27,Horizon - Clearwater,Tyler Garcia,tyler.garcia94@icloud.com,Burr Grinder,Equipment,3,59.99,179.97,Credit Card
+TX1241,2025-09-09,Horizon - Downtown Tampa,Jack Rivera,jack_rivera12@gmail.com,Aeropress,Equipment,2,39.99,79.98,Mobile Pay
+TX1063,2025-10-19,Horizon - Jax Riverside,Caleb Davis,caleb_davis89@outlook.com,Matcha Powder,Tea & Other,4,24.99,99.96,Mobile Pay
+TX1425,2025-04-14,Horizon - Clearwater,Frank Taylor,frank_taylor89@yahoo.com,Matcha Powder,Tea & Other,1,24.99,24.99,Mobile Pay
+TX1270,2025-11-18,Horizon - Orlando Mills,Mason Taylor,mason_taylor94@gmail.com,Sumatra Mandheling,Single Origin,4,15.99,63.96,Cash
+TX1257,2025-11-24,Horizon - Clearwater,Priya Lee,priya.lee91@icloud.com,Matcha Powder,Tea & Other,5,24.99,124.95,Debit Card
+TX1249,2025-12-16,Horizon - Sarasota Bay,Leo Thompson,leo.thompson24@outlook.com,Hawaiian Kona,Single Origin,4,29.99,119.96,Credit Card
+TX1232,2025-03-21,Horizon - St. Pete Central,Zara Nguyen,zaranguyen98@gmail.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Debit Card
+TX1177,2025-03-15,Horizon - Clearwater,David Scott,david_scott54@icloud.com,Vanilla Hazelnut,Flavored,2,13.99,27.98,Cash
+TX1191,2025-03-13,Horizon - Hyde Park,Gavin Mitchell,gavin_mitchell7@gmail.com,House Blend,Blend,2,11.99,23.98,Cash
+TX1033,2025-10-03,Horizon - Miami Beach,Xavier Ramirez,xavier.ramirez86@outlook.com,Cold Brew Concentrate,Ready-to-Drink,3,18.99,56.97,Credit Card
+TX1028,2025-01-21,Horizon - St. Pete Central,Noah Baker,noah.baker86@gmail.com,Morning Sunrise Blend,Blend,5,12.99,64.95,Mobile Pay
+TX1142,2025-10-07,Horizon - Jax Riverside,Priya Martin,priya_martin32@hotmail.com,Jamaican Blue Mountain,Single Origin,4,49.99,199.96,Credit Card
+TX1217,2025-05-17,Horizon - Hyde Park,Iris Carter,iris_carter8@outlook.com,Burr Grinder,Equipment,2,59.99,119.98,Debit Card
+TX1349,2025-12-23,Horizon - Hyde Park,Bella Rodriguez,bella_rodriguez62@yahoo.com,Aeropress,Equipment,-1,39.99,-39.99,Mobile Pay
+TX1258,12/19/2025,Horizon - Jax Riverside,Iris Lopez,irislopez1@icloud.com,French Roast,Blend,5,13.49,67.45,Cash
+TX1137,2025-10-10,Horizon - Orlando Mills,Nora Garcia,nora.garcia40@hotmail.com,Matcha Powder,Tea & Other,4,24.99,99.96,Mobile Pay
+TX1181,08/27/2025,Horizon - Hyde Park,Vince Walker,vince_walker27@outlook.com,Espresso Classico,Blend,4,14.49,57.96,Debit Card
+TX1165,2025-12-18,Horizon - Jax Riverside,Tyler Davis,tylerdavis38@outlook.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Debit Card
+TX1116,2025-11-02,Horizon - Sarasota Bay,Jack Hernandez,jack.hernandez89@icloud.com,Pour-Over Kit,Equipment,2,34.99,69.98,Credit Card
+TX1390,2025-08-28,Horizon - Jax Riverside,Mason Scott,mason.scott9@icloud.com,Guatemala Antigua,Single Origin,4,15.49,61.96,Cash
+TX1382,2025-02-22,Horizon - Jax Riverside,Rachel Rodriguez,rachelrodriguez57@gmail.com,Java Estate,Single Origin,1,15.99,15.99,Mobile Pay
+TX1450,2025-06-28,Horizon - Orlando Mills,Gavin Miller,gavin_miller92@gmail.com,Espresso Classico,Blend,5,14.49,72.45,Cash
+TX1108,2025-10-16,Horizon - Clearwater,Sofia Torres,sofiatorres82@icloud.com,Espresso Classico,Blend,3,14.49,43.47,Credit Card
+TX1360,2025-08-24,Horizon - Downtown Tampa,Ethan Davis,ethan_davis9@hotmail.com,Nitro Cold Brew,Ready-to-Drink,2,21.99,43.98,Debit Card
+TX1447,2025-12-20,Horizon - Clearwater,Nora Thompson,nora_thompson43@yahoo.com,Matcha Powder,Tea & Other,5,24.99,124.95,Mobile Pay
+TX1298,05/29/2025,Horizon - St. Pete Central,Sofia Lee,sofia_lee95@gmail.com,Kenya AA,Single Origin,1,17.99,17.99,Debit Card
+TX1499,2025-09-11,Horizon - Miami Beach,Frank Scott,frank.scott89@hotmail.com,Brazil Santos,Single Origin,2,13.99,27.98,Debit Card
+TX1378,2025-03-11,Horizon - St. Pete Central,Sam Walker,samwalker2@hotmail.com,Horizon Mug (12 oz),Merchandise,4,14.0,56.0,Mobile Pay
+TX1245,2025-12-23,Horizon - Downtown Tampa,Noah Lee,noah.lee12@yahoo.com,Morning Sunrise Blend,Blend,4,12.99,51.96,Cash
+TX1333,2025-06-06,Horizon - Orlando Mills,Kyle Torres,kyle_torres41@hotmail.com,Costa Rica Tarrazu,Single Origin,1,16.49,16.49,Debit Card
+TX1059,2025-08-02,Horizon - Miami Beach,Yosef King,yosef_king58@hotmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Cash
+TX1277,2025-09-16,Horizon - Sarasota Bay,Oscar Davis,oscardavis4@yahoo.com,Morning Sunrise Blend,Blend,4,12.99,51.96,Debit Card
+TX1123,2025-05-03,Horizon - Sarasota Bay,Oscar Flores,oscar_flores9@gmail.com,French Press (32 oz),Equipment,4,29.99,119.96,Credit Card
+TX1496,2025-06-01,Horizon - Orlando Mills,Oscar Flores,oscar.flores74@icloud.com,Burr Grinder,Equipment,2,59.99,119.98,Mobile Pay
+TX1071,2025-01-02,Horizon - Jax Riverside,Vince Martin,vincemartin75@hotmail.com,Burr Grinder,Equipment,2,59.99,119.98,Mobile Pay
+TX1105,2025-02-28,Horizon - Sarasota Bay,Bob Lee,bob.lee80@hotmail.com,French Press (32 oz),Equipment,3,29.99,89.97,Credit Card
+TX1397,2025-12-12,Horizon - Clearwater,Tyler Nelson,tyler_nelson14@yahoo.com,Pour-Over Kit,Equipment,2,34.99,69.98,Cash
+TX1364,2025-10-22,Horizon - Jax Riverside,Fiona Lopez,fionalopez36@hotmail.com,Java Estate,Single Origin,5,15.99,79.95,Mobile Pay
+TX1288,2025-04-01,Horizon - St. Pete Central,Oscar Brown,oscar.brown58@outlook.com,Brazil Santos,Single Origin,2,13.99,27.98,Debit Card
+TX1035,2025-06-04,Horizon - Sarasota Bay,Julia Smith,julia_smith37@yahoo.com,House Blend,Blend,5,11.99,59.95,Cash
+TX1361,2025-10-02,Horizon - Downtown Tampa,Tyler Taylor,tyler.taylor37@gmail.com,French Roast,Blend,3,13.49,40.47,Debit Card
+TX1287,2025-01-28,Horizon - Orlando Mills,Iris Gonzalez,iris_gonzalez53@icloud.com,Gooseneck Kettle,Equipment,4,44.99,179.96,Debit Card
+TX1332,2025-06-19,Horizon - St. Pete Central,Iris Nelson,irisnelson31@gmail.com,Jamaican Blue Mountain,Single Origin,5,49.99,249.95,Debit Card
+TX1090,2025-11-02,Horizon - Downtown Tampa,Rachel Martinez,rachel.martinez70@outlook.com,Pour-Over Kit,Equipment,2,34.99,69.98,Credit Card
+TX1469,2025-12-14,Horizon - St. Pete Central,Holly Baker,holly.baker13@icloud.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Mobile Pay
+TX1473,2025-11-28,Horizon - Orlando Mills,Henry Hall,henry.hall33@outlook.com,Decaf Colombian,Decaf,1,14.99,14.99,Cash
+TX1021,2025-09-29,Horizon - Orlando Mills,David Allen,david.allen24@gmail.com,Cold Brew Concentrate,Ready-to-Drink,1,18.99,18.99,Debit Card
+TX1317,2025-12-17,Horizon - St. Pete Central,Julia Brown,julia.brown96@outlook.com,Brazil Santos,Single Origin,5,13.99,69.95,Mobile Pay
+TX1239,2025-11-15,Horizon - Miami Beach,Diana White,dianawhite64@yahoo.com,Horizon Tumbler (16 oz),Merchandise,5,22.0,110.0,Debit Card
+TX1188,2025-01-29,Horizon - Downtown Tampa,Tyler Hernandez,tyler.hernandez64@hotmail.com,Nitro Cold Brew,Ready-to-Drink,3,21.99,65.97,Credit Card
+TX1197,05/07/2025,Horizon - Clearwater,Mason Flores,mason.flores59@gmail.com,Guatemala Antigua,Single Origin,3,15.49,46.47,Mobile Pay
+TX1057,2025-09-09,Horizon - Hyde Park,Alice Torres,alice_torres61@hotmail.com,Decaf Colombian,Decaf,3,14.99,44.97,Credit Card
+TX1027,2025-08-15,Horizon - Sarasota Bay,Julia Smith,julia.smith10@yahoo.com,Chocolate Raspberry,Flavored,1,13.99,13.99,Debit Card
+TX1455,2025-10-19,Horizon - Jax Riverside,Bella Rivera,bella_rivera12@icloud.com,Ethiopian Yirgacheffe,Single Origin,5,16.99,84.95,Mobile Pay
+TX1187,2025-07-11,Horizon - Sarasota Bay,Diana Torres,diana.torres90@yahoo.com,Jamaican Blue Mountain,Single Origin,1,49.99,49.99,Credit Card
+TX1346,2025-07-13,Horizon - Sarasota Bay,Iris Miller,iris.miller26@icloud.com,Burr Grinder,Equipment,5,59.99,299.95,Debit Card
+TX1466,2025-09-06,Horizon - Orlando Mills,Holly Williams,holly_williams11@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Mobile Pay
+TX1264,2025-10-11,Horizon - Jax Riverside,Reed Jackson,reed_jackson31@gmail.com,Colombian Supremo,Single Origin,4,14.99,59.96,Mobile Pay
+TX1029,2025-05-02,Horizon - Orlando Mills,Leo Clark,leo.clark23@outlook.com,Pour-Over Kit,Equipment,4,34.99,139.96,Debit Card
+TX1478,2025-02-05,Horizon - Miami Beach,Alice Harris,aliceharris62@gmail.com,Caramel Pecan,Flavored,5,14.49,72.45,Cash
+TX1377,2025-06-27,Horizon - Clearwater,Ivan Anderson,,Morning Sunrise Blend,Blend,4,12.99,51.96,Cash
+TX1172,2025-08-26,Horizon - Sarasota Bay,Ivan Harris,,Morning Sunrise Blend,Blend,2,12.99,25.98,Credit Card
+TX1451,2025-11-14,Horizon - Miami Beach,Julia Hernandez,julia_hernandez50@gmail.com,Espresso Classico,Blend,2,14.49,28.98,Mobile Pay
+TX1318,2025-11-28,Horizon - St. Pete Central,Xena Nguyen,xenanguyen95@icloud.com,Brazil Santos,Single Origin,2,13.99,27.98,Debit Card
+TX1042,08/04/2025,Horizon - Sarasota Bay,Yosef Nguyen,yosefnguyen3@icloud.com,French Roast,Blend,4,13.49,53.96,Cash
+TX1351,2025-10-02,Horizon - Sarasota Bay,Kyle White,kylewhite36@hotmail.com,Horizon Mug (12 oz),Merchandise,2,14.0,28.0,Mobile Pay
+TX1404,2025-10-17,Horizon - Orlando Mills,Uma Allen,umaallen29@yahoo.com,Colombian Supremo,Single Origin,4,14.99,59.96,Credit Card
+TX1107,2025-11-27,Horizon - Orlando Mills,Paul Miller,paul.miller33@yahoo.com,Costa Rica Tarrazu,Single Origin,5,16.49,82.45,Credit Card
+TX1407,2025-12-17,Horizon - Hyde Park,Henry Nelson,henry_nelson55@outlook.com,Morning Sunrise Blend,Blend,2,12.99,25.98,Credit Card
+TX1295,2025-02-23,Horizon - Hyde Park,Sam Davis,sam.davis64@yahoo.com,Cold Brew Concentrate,Ready-to-Drink,2,18.99,37.98,Debit Card
+TX1278,06/26/2025,Horizon - Orlando Mills,Quinn Mitchell,quinnmitchell12@outlook.com,Ethiopian Yirgacheffe,Single Origin,4,16.99,67.96,Debit Card
+TX1314,2025-12-30,Horizon - Sarasota Bay,Sofia Mitchell,sofiamitchell37@hotmail.com,Pour-Over Kit,Equipment,1,34.99,34.99,Credit Card
+TX1485,2025-07-25,Horizon - St. Pete Central,Henry Baker,henrybaker70@yahoo.com,Espresso Classico,Blend,2,14.49,28.98,Debit Card
+TX1358,2025-04-10,Horizon - Clearwater,Zara Torres,zara.torres34@yahoo.com,House Blend,Blend,5,11.99,59.95,Credit Card
+TX1139,2025-01-29,Horizon - Hyde Park,Holly Martinez,holly_martinez22@yahoo.com,Espresso Classico,Blend,2,14.49,28.98,Cash
+TX1386,2025-01-27,Horizon - Miami Beach,Henry Thomas,henrythomas56@outlook.com,Ethiopian Yirgacheffe,Single Origin,2,16.99,33.98,Credit Card
+TX1219,2025-09-21,Horizon - Jax Riverside,Tyler White,tyler_white63@outlook.com,Caramel Pecan,Flavored,1,14.49,14.49,Credit Card
+TX1152,2025-11-19,Horizon - Sarasota Bay,Jack Baker,jack.baker5@icloud.com,Matcha Powder,Tea & Other,1,24.99,24.99,Mobile Pay
+TX1017,2025-07-30,Horizon - Clearwater,Vince Brown,vincebrown84@gmail.com,Colombian Supremo,Single Origin,4,14.99,59.96,Credit Card
+TX1272,2025-05-27,Horizon - St. Pete Central,Aiden Taylor,aiden_taylor84@hotmail.com,Caramel Pecan,Flavored,5,14.49,72.45,Debit Card
+TX1171,2025-10-04,Horizon - Orlando Mills,Priya Thompson,priya.thompson23@icloud.com,French Roast,Blend,5,13.49,67.45,Debit Card
+TX1354,11/04/2025,Horizon - Sarasota Bay,Frank Jones,frank_jones29@outlook.com,Sumatra Mandheling,Single Origin,5,15.99,79.95,Mobile Pay
+TX1458,2025-08-02,Horizon - Orlando Mills,Sam Nelson,sam.nelson18@gmail.com,Sumatra Mandheling,Single Origin,1,15.99,15.99,Mobile Pay
+TX1198,2025-06-18,Horizon - Clearwater,Victor Ramirez,victorramirez77@yahoo.com,Jamaican Blue Mountain,Single Origin,3,49.99,149.97,Debit Card
+TX1037,2025-01-13,Horizon - Downtown Tampa,Paul Walker,paulwalker99@gmail.com,Decaf Colombian,Decaf,4,14.99,59.96,Debit Card
