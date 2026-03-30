@@ -1,0 +1,6 @@
+building_id,sqft,floors,age_years,insulation_rating,num_employees,has_solar
+PROSPECT-A,15000,2,5.0,8.5,150,1
+PROSPECT-B,35000,3,20.0,6.0,400,0
+PROSPECT-C,50000,4,35.0,4.5,600,0
+PROSPECT-D,22000,2,10.0,7.0,250,1
+PROSPECT-E,8000,1,2.0,9.0,80,1
