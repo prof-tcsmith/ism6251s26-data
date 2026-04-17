@@ -43,7 +43,7 @@ For your chosen scenario, you will find these files in `cases/XX-scenario-name/`
 | `test.csv` | ~700 rows with structured features + text column + target | Performance estimation |
 | `holdout_features.csv` | ~700 rows with features + text, **no target column** | Prediction generation |
 
-**What you do NOT receive:** the holdout labels. The instructor keeps them privately. Your submitted predictions on the holdout will be scored against the held-back labels. This simulates production deployment — your model must generalize to data it has never seen, including subtle distributional shifts on 2–3 features (realistic data drift).
+**What you do NOT receive:** the holdout labels. The instructor keeps them privately. Generating and submitting predictions on the holdout simulates production deployment — your model must produce predictions on data it has never seen, including subtle distributional shifts on 2–3 features (realistic data drift).
 
 ---
 
@@ -267,21 +267,6 @@ Submit as a team through the course portal:
 
 ---
 
-## How the Holdout Is Scored
-
-The instructor will evaluate your holdout predictions using the metric specified in `scenario.md`:
-
-- Multi-class scenarios (21, 22, 24, 25, 26, 28): **Weighted F1**
-- Regression scenarios (23, 27, 30): **RMSE**
-- Binary scenario (29): **F1 at your chosen threshold**
-
-**Bonus/penalty:**
-- Holdout metric within 5% of your reported test metric → no adjustment
-- Holdout significantly worse than test → up to −5 points (overfitting or leakage)
-- Holdout equal to or better than test → up to +3 bonus points (robust methodology)
-
----
-
 ## Grading Rubric
 
 | Component | Weight | What earns full marks |
@@ -305,20 +290,20 @@ The instructor will evaluate your holdout predictions using the metric specified
 
 4. **Reproducibility:** `random_state=42` throughout. Notebook must run identically.
 
-5. **Team formation by Week 10** via the course portal. Scenario selection by Week 11. First-come, first-served on scenario assignment — no two teams in the same section may take the same scenario.
+5. **Team formation and scenario selection by the end of Week 9** via the course portal — first-come, first-served on scenario assignment; no two teams in the same section may take the same scenario.
 
 6. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
 
 ---
 
-## Timeline & In-Class Support
+## Timeline
 
 | Week | Milestone |
 |------|-----------|
-| 9  | Teams formed. Roles assigned within team. |
-| 10 | Scenario selected. In-class presentation of Part 1 (5 min per team). |
-| 11 | Ablation study intermediate results shared — peer feedback session. Part 5 drafting (no AI). Team records combined video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents). |
-| 12 | Submit team project + team video presentation via the course portal. Due May 8. |
+| 9  | Teams formed and scenario selected. Roles assigned within team. |
+| 12 | Submit team project + team video presentation via the course portal. Due **May 8**. |
+
+Use the time between Week 9 and the deadline to complete Parts 1–6 (including the required ablation study), draft Part 5 (no AI), and record the team video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents).
 
 ---
 
@@ -328,12 +313,11 @@ All in the `templates/` folder:
 
 | File | Purpose |
 |------|---------|
-| `solution-exemplar.md` + `.ipynb` | Fully worked example (binary scenario). Structure and depth apply to graduate work. |
 | `executive-summary-template.md` | Format + exemplar. Adapt the structure for your scenario type. |
 | `example-responses.md` | C-level vs A-level response calibration for Part 5 |
 | `validate_submission.py` | Automated check for your predictions CSV format |
 
-Sample graduate solutions in `solutions/` (scenarios 21–30) show **technical mechanics** — TF-IDF + SVD + combined pipeline, ablation results, simple model comparison. The exemplar in `templates/` shows the **writing depth and reasoning quality** that earns A-level marks.
+`example-responses.md` shows what C-level vs A-level writing looks like for Part 5 — the calibration that differentiates grades.
 
 ---
 

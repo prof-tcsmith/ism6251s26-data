@@ -49,9 +49,9 @@ For your chosen scenario, you will find these files in `cases/XX-scenario-name/`
 | `test.csv` | ~1,000 rows with features + target | Evaluate your tuned model's expected real-world performance. |
 | `holdout_features.csv` | ~1,000 rows with features only — **no target column** | Generate predictions to submit. You cannot peek at the labels. |
 
-**What you do NOT receive:** the holdout labels. The instructor keeps these privately. When you submit your predicted probabilities on the holdout, the instructor scores them against the held-back labels. This simulates deployment: your model encounters new data and must predict correctly without feedback.
+**What you do NOT receive:** the holdout labels. The instructor keeps these privately. Generating and submitting predictions on the holdout simulates deployment — your model must produce predictions on data it has never seen, without feedback.
 
-The holdout features contain **subtle distributional shifts** on 2–3 features (realistic data drift). A good model degrades gracefully on drifted data; a brittle model fails badly. The gap between your test score and your holdout score reveals which kind of model you built.
+The holdout features contain **subtle distributional shifts** on 2–3 features (realistic data drift). A good model degrades gracefully on drifted data; a brittle model fails badly.
 
 ---
 
@@ -242,23 +242,6 @@ Submit as a team through the course portal by the deadline:
 
 ---
 
-## How the Holdout Is Scored
-
-Your submitted predictions are compared against the instructor's private holdout labels using the metric specified in your scenario's `scenario.md`:
-
-| Metric | Used for scenarios |
-|--------|-------------------|
-| Average Precision (AP) | 01, 05, 06, 09, 10, 11, 12, 14, 15, 16, 20 |
-| F1 score at your chosen threshold | 02, 03, 04, 07, 13, 17, 18, 19 |
-| Precision at your chosen threshold | 08 (reversed-cost scenario) |
-
-**Bonus/penalty based on test-vs-holdout consistency:**
-- Holdout metric within 5% of your reported test metric → no adjustment (expected)
-- Holdout is significantly worse than test → up to −5 points (suggests overfitting or data leakage)
-- Holdout is equal to or better than test → up to +3 bonus points (robust methodology)
-
----
-
 ## Grading Rubric
 
 | Component | Weight | What earns full marks |
@@ -282,7 +265,7 @@ Your submitted predictions are compared against the instructor's private holdout
 
 4. **Reproducibility:** Use `random_state=42` for every model, split, and CV operation. Your notebook must produce identical results when re-run.
 
-5. **Team formation by Week 9** via the course portal. **Scenario selection by Week 10** — first-come, first-served on a per-section basis; no two teams in the same section may take the same scenario.
+5. **Team formation and scenario selection by the end of Week 9** via the course portal — first-come, first-served on a per-section basis; no two teams in the same section may take the same scenario.
 
 6. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
 
@@ -290,14 +273,14 @@ Your submitted predictions are compared against the instructor's private holdout
 
 ---
 
-## Timeline & In-Class Support
+## Timeline
 
 | Week | Milestone |
 |------|-----------|
-| 9  | Teams formed. Roles assigned within team. |
-| 10 | Scenario selected. Submit Part 1.2 cost analysis for peer feedback in class. |
-| 11 | "Show your worst model" session — share a model that underperformed and discuss why. Part 5 drafting (no AI). Team records combined video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents). |
-| 12 | Submit team project + team video presentation via the course portal. Due May 8. |
+| 9  | Teams formed and scenario selected. Roles assigned within team. |
+| 12 | Submit team project + team video presentation via the course portal. Due **May 8**. |
+
+Use the time between Week 9 and the deadline to complete Parts 1–6, draft Part 5 (no AI), and record the team video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents).
 
 ---
 
@@ -307,12 +290,11 @@ All in the `templates/` folder:
 
 | File | Purpose |
 |------|---------|
-| `solution-exemplar.md` + `.ipynb` | Fully worked example showing expected depth |
 | `executive-summary-template.md` | Format + exemplar executive summary |
 | `example-responses.md` | C-level vs A-level response calibration for Part 5 |
 | `validate_submission.py` | Automated check for your predictions CSV |
 
-Sample solutions in `solutions/` show **technical mechanics** (which models to try, how to tune, how to optimize thresholds). The exemplar shows the **writing depth and reasoning quality** that earns A-level marks. The mechanics are easy; the reasoning is what differentiates grades.
+The mechanics of training a classifier are the easy part; the reasoning that connects modeling choices to the business cost structure is what differentiates grades.
 
 ---
 

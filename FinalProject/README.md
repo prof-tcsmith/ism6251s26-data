@@ -34,8 +34,6 @@ FinalProject/
 │   ...
 │   └── 30-movie-revenue/
 └── templates/                         ← Reference materials for students
-    ├── solution-exemplar.md             A-level writing example
-    ├── solution-exemplar.ipynb          A-level notebook example
     ├── executive-summary-template.md    Format + example for 1-page summary
     ├── example-responses.md             C/B/A-level response calibration
     └── validate_submission.py           Pre-submission format validator
@@ -45,12 +43,12 @@ FinalProject/
 
 ## Quick Timeline (Both Versions)
 
-| Week | Undergrad | Graduate |
-|------|-----------|----------|
-| 9  | Teams formed; roles assigned | Teams formed; roles assigned |
-| 10 | Scenario selected; cost-analysis peer session | Scenario selected; Part 1 team presentation |
-| 11 | "Show your worst model" peer session; Part 5 drafting; team records combined video (MS Teams, ~10 min, 11 min hard cutoff; every member presents) | Ablation intermediate results; peer feedback; Part 5 drafting; team records combined video (MS Teams, ~10 min, 11 min hard cutoff; every member presents) |
-| 12 | Submit team project + team video presentation (May 8) | Submit team project + team video presentation (May 8) |
+| Week | Milestone |
+|------|-----------|
+| 9  | Teams formed and scenario selected (both tracks). Roles assigned within team. |
+| 12 | Submit team project + team video presentation via the course portal. Due **May 8**. |
+
+Weeks 10 and 11 are used for independent team work: completing the project, drafting Part 5 (no AI), and recording the team video presentation in Microsoft Teams (~10 min, 11 min hard cutoff; every member presents).
 
 ---
 
