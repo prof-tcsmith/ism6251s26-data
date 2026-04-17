@@ -41,9 +41,6 @@ For your chosen scenario, you will find these files in `cases/XX-scenario-name/`
 | `scenario.md` | Business narrative, stakeholders, target description, evaluation metric | Read first. Defines what "good" means. |
 | `train.csv` | ~2,000 rows with structured features + text column + target | Model training + CV |
 | `test.csv` | ~700 rows with structured features + text column + target | Performance estimation |
-| `holdout_features.csv` | ~700 rows with features + text, **no target column** | Prediction generation |
-
-**What you do NOT receive:** the holdout labels. The instructor keeps them privately. Generating and submitting predictions on the holdout simulates production deployment — your model must produce predictions on data it has never seen, including subtle distributional shifts on 2–3 features (realistic data drift).
 
 ---
 
@@ -255,13 +252,7 @@ Submit as a team through the course portal:
 
 1. **`TeamName_FinalProject.ipynb`** — Your complete team notebook. Must run top-to-bottom. Use `random_state=42` throughout.
 
-2. **`TeamName_holdout_predictions.csv`** — Predictions on the holdout features.
-   - **Multi-class:** columns are `id` and `predicted_class` (the class label, not a probability); additionally include one column per class named `prob_<class>` for probability calibration scoring
-   - **Regression:** columns are `id` and `predicted_value`
-   - **Binary (scenario 29):** columns are `id` and `predicted_probability`
-   - Before submitting, run `python templates/validate_submission.py YOUR_FILE XX` (where XX is your scenario number). The validator auto-detects the expected format from the scenario number.
-
-3. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
+2. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
 
 **Peer evaluation (submitted separately, by email):** Immediately after the final project submission deadline, the instructor will post an announcement requesting peer evaluations. **Each student must email the instructor a score out of 10 for every other team member.** A score of 10/10 means full contribution; score a teammate lower if you feel they did not contribute fairly. The purpose is to ensure every student participates — the default expectation is 10/10. Your individual grade on the team project is adjusted by a peer-evaluation factor computed from the average score your teammates give you (10/10 = no adjustment; lower scores scale your team grade down proportionally).
 
@@ -282,17 +273,15 @@ Submit as a team through the course portal:
 
 ## Rules
 
-1. **Do not attempt to obtain the holdout labels.** You have `holdout_features.csv` only.
+1. **Part 5 is your team's own work.** AI-assisted answers will fail the individual video presentations.
 
-2. **Part 5 is your team's own work.** AI-assisted answers will fail the individual video presentations.
+2. **You may use AI assistance** for Parts 1–4, 6. Document significant AI interactions briefly.
 
-3. **You may use AI assistance** for Parts 1–4, 6. Document significant AI interactions briefly.
+3. **Reproducibility:** `random_state=42` throughout. Notebook must run identically.
 
-4. **Reproducibility:** `random_state=42` throughout. Notebook must run identically.
+4. **Team formation and scenario selection by the end of Week 9** — each team emails the instructor and the GA with its member list and chosen scenario. First-come, first-served on scenario assignment; no two teams in the same section may take the same scenario.
 
-5. **Team formation and scenario selection by the end of Week 9** via the course portal — first-come, first-served on scenario assignment; no two teams in the same section may take the same scenario.
-
-6. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
+5. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
 
 ---
 
@@ -315,7 +304,6 @@ All in the `templates/` folder:
 |------|---------|
 | `executive-summary-template.md` | Format + exemplar. Adapt the structure for your scenario type. |
 | `example-responses.md` | C-level vs A-level response calibration for Part 5 |
-| `validate_submission.py` | Automated check for your predictions CSV format |
 
 `example-responses.md` shows what C-level vs A-level writing looks like for Part 5 — the calibration that differentiates grades.
 

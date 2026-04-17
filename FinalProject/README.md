@@ -28,15 +28,13 @@ FinalProject/
 │   ├── 01-credit-card-fraud/          ← Scenario folder
 │   │   ├── scenario.md                  Business context + cost structure
 │   │   ├── train.csv                    Training data (with target)
-│   │   ├── test.csv                     Test data (with target)
-│   │   └── holdout_features.csv         Holdout features only — no target (for predictions)
+│   │   └── test.csv                     Test data (with target)
 │   ├── 02-employee-attrition/
 │   ...
 │   └── 30-movie-revenue/
 └── templates/                         ← Reference materials for students
     ├── executive-summary-template.md    Format + example for 1-page summary
-    ├── example-responses.md             C/B/A-level response calibration
-    └── validate_submission.py           Pre-submission format validator
+    └── example-responses.md             C/B/A-level response calibration
 ```
 
 ---

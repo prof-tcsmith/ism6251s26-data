@@ -61,7 +61,7 @@ Approximately 8% of tickets contain language from multiple department vocabulari
 - **Safety-critical minority class:** Security tickets are rare but high-impact. Standard accuracy optimization may sacrifice Security recall in favor of majority-class performance.
 - **Structured features complement text:** Account age strongly predicts Onboarding tickets (new customers). Priority level correlates with Security and Technical. Monthly spend correlates with Billing complexity. These signals help disambiguate when text alone is insufficient.
 - **Cross-department ambiguity:** Some tickets genuinely span departments. The model should be evaluated not just on hard accuracy but on whether its confusions are reasonable (Technical-Account confusion is forgivable; Security-Feature_Request confusion is not).
-- **Holdout drift:** The holdout period reflects higher customer spending (price increases), slightly older accounts, and more open tickets per customer — simulating platform growth.
+- **Evaluation drift:** The test period reflects higher customer spending (price increases), slightly older accounts, and more open tickets per customer — simulating platform growth.
 
 ## Cost/Impact Table
 

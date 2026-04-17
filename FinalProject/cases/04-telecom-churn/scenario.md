@@ -8,7 +8,7 @@ The Chief Marketing Officer has initiated a proactive retention program that use
 
 The analytics team has compiled a dataset combining billing records, service usage patterns, customer support interactions, and account demographics. The data captures the 90-day period leading up to either a churn event or a confirmed retention point. All categorical features have been numerically encoded. A notable feature is the strong correlation between total_charges and the combination of tenure and monthly charges, since total_charges is essentially their product.
 
-ConnectPlus management has noted that the competitive landscape has shifted significantly: two major national carriers have recently launched aggressive pricing in the region, putting particular pressure on month-to-month subscribers and price-sensitive segments. The holdout evaluation period captures transactions from this more competitive environment, which may affect model generalization.
+ConnectPlus management has noted that the competitive landscape has shifted significantly: two major national carriers have recently launched aggressive pricing in the region, putting particular pressure on month-to-month subscribers and price-sensitive segments. The test period captures transactions from this more competitive environment, which may affect model generalization.
 
 ## Key Stakeholders
 

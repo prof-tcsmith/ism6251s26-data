@@ -59,7 +59,7 @@ This is a **multi-class classification** problem (4 ordinal classes).
 
 3. **Text contains the strongest Critical-class signal:** The structured features distinguish Low from High reasonably well (monetary loss, response time), but the distinction between High and Critical depends heavily on the narrative text. Critical complaints mention specific regulations, vulnerable populations, and systemic patterns that are not captured in the structured data.
 
-4. **Holdout drift:** The holdout set exhibits distributional drift in monetary losses (higher), company response times (slower), and prior complaint counts (more). This simulates a period of economic stress where complaints become more severe on average and companies are slower to respond.
+4. **Evaluation drift:** The test set exhibits distributional drift in monetary losses (higher), company response times (slower), and prior complaint counts (more). This simulates a period of economic stress where complaints become more severe on average and companies are slower to respond.
 
 5. **Deceptive cases (~5%):** Some complaints use language mismatched to their severity --- a Critical-sounding narrative filed about a Low-severity issue, or mild language describing what is actually a Critical situation. These reflect real-world variation in consumer writing ability.
 
@@ -76,4 +76,4 @@ This is a **multi-class classification** problem (4 ordinal classes).
 
 ---
 
-*Dataset contains 11 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and holdout.csv (~700 rows).*
+*Dataset contains 11 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and test.csv (~700 rows).*

@@ -55,7 +55,7 @@ Importantly, approximately 10% of reviews are **"deceptive"** in that the text s
 - **Text-structure interaction:** Some low ratings stem from product quality issues (captured in text), while others stem from delivery or seller issues (captured in structured features like `delivery_days`, `return_initiated`, `seller_rating`). The best models should learn to combine both signals.
 - **Class imbalance:** 1-star reviews are only 10% of the data. Consider stratified approaches or class weighting.
 - **Deceptive reviews:** The ~10% of reviews where text and rating disagree create a ceiling on text-only model performance and reward models that integrate structured features.
-- **Holdout drift:** The holdout period reflects a time with slightly slower delivery, lower seller ratings, and higher discount activity — simulating a post-holiday marketplace shift.
+- **Evaluation drift:** The test period reflects a time with slightly slower delivery, lower seller ratings, and higher discount activity — simulating a post-holiday marketplace shift.
 
 ## Cost/Impact Table
 

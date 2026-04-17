@@ -63,7 +63,7 @@ Approximately 8% of articles contain vocabulary from multiple categories, reflec
 - **High-dimensional text with clear clusters:** News text has strong category-specific vocabulary, making TF-IDF features highly informative. However, the ambiguous cross-topic articles prevent any model from reaching perfect accuracy.
 - **Structured features add modest but real value:** Features like `num_quotes` (higher in Politics and Sports), `has_numbers` (higher in Business and Sports), `sentiment_score` (more positive in Entertainment and Sports), and `source_type` (wire services for World, blogs for Technology) provide complementary signal. The ablation study should show measurable improvement when combining text and structured features.
 - **Natural confusion pairs:** Expect higher confusion between Politics/World, Business/Technology, and Health/Science. These pairs share vocabulary and conceptual overlap. A model that confuses these pairs is making reasonable errors; a model that confuses Sports with Science is making unreasonable errors.
-- **Holdout drift:** The holdout period reflects a more viral content environment (higher share counts), slightly more negative overall sentiment, and later publication times — simulating a shift in the news cycle.
+- **Evaluation drift:** The test period reflects a more viral content environment (higher share counts), slightly more negative overall sentiment, and later publication times — simulating a shift in the news cycle.
 
 ## Cost/Impact Table
 

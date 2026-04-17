@@ -64,7 +64,7 @@ This is a **regression** problem.
 
 4. **Sequel effect:** Sequels have a built-in audience but also carry franchise fatigue risk. The interaction between sequel status and other features (budget, social media buzz, critic score) is complex and non-linear.
 
-5. **Holdout drift:** The holdout set simulates a shift in the industry environment: lower budgets (economic downturn), fewer opening theaters (streaming competition reducing theatrical windows), and inflated social media buzz (viral marketing becoming more common but less correlated with actual audience intent). This means the model must cope with budget-revenue and buzz-revenue relationships that have shifted.
+5. **Evaluation drift:** The test set simulates a shift in the industry environment: lower budgets (economic downturn), fewer opening theaters (streaming competition reducing theatrical windows), and inflated social media buzz (viral marketing becoming more common but less correlated with actual audience intent). This means the model must cope with budget-revenue and buzz-revenue relationships that have shifted.
 
 6. **Critic score paradox:** Pre-release critic scores are informative but imperfect. Some critically panned films (low score) become box-office hits due to spectacle and marketing, while some critically acclaimed films (high score) fail commercially due to niche appeal. The model should not over-rely on this feature.
 
@@ -80,4 +80,4 @@ This is a **regression** problem.
 
 ---
 
-*Dataset contains 14 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and holdout.csv (~700 rows).*
+*Dataset contains 14 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and test.csv (~700 rows).*

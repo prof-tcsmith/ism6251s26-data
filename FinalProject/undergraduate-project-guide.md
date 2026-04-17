@@ -16,7 +16,7 @@ Your team will act as a data science consulting group hired by an organization f
 - A realistic business narrative describing the problem
 - A specific cost structure for false positives and false negatives
 - Stakeholder requirements that constrain your choices
-- A training dataset, test dataset, and holdout feature set
+- A training dataset and a test dataset
 
 Your job is to build the best classifier for the business — not the best classifier by accuracy. Those are different things.
 
@@ -47,11 +47,6 @@ For your chosen scenario, you will find these files in `cases/XX-scenario-name/`
 | `scenario.md` | Business context, stakeholders, cost structure, special considerations | Read this first. It defines what "good" means for this scenario. |
 | `train.csv` | ~3,000 rows with features + target | Model training, cross-validation, feature engineering. |
 | `test.csv` | ~1,000 rows with features + target | Evaluate your tuned model's expected real-world performance. |
-| `holdout_features.csv` | ~1,000 rows with features only — **no target column** | Generate predictions to submit. You cannot peek at the labels. |
-
-**What you do NOT receive:** the holdout labels. The instructor keeps these privately. Generating and submitting predictions on the holdout simulates deployment — your model must produce predictions on data it has never seen, without feedback.
-
-The holdout features contain **subtle distributional shifts** on 2–3 features (realistic data drift). A good model degrades gracefully on drifted data; a brittle model fails badly.
 
 ---
 
@@ -232,11 +227,7 @@ Submit as a team through the course portal by the deadline:
 
 1. **`TeamName_FinalProject.ipynb`** — Your team's complete analysis notebook. Must run top-to-bottom without errors. Use `random_state=42` throughout for reproducibility.
 
-2. **`TeamName_holdout_predictions.csv`** — Your team's model's predicted probabilities on the holdout features.
-   - Exactly two columns: `id` (matching the `id` column from `holdout_features.csv`) and `predicted_probability` (float in [0, 1])
-   - Run `python templates/validate_submission.py YOUR_FILE XX` before submitting (where XX is your scenario number)
-
-3. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
+2. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
 
 **Peer evaluation (submitted separately, by email):** Immediately after the final project submission deadline, the instructor will post an announcement requesting peer evaluations. **Each student must email the instructor a score out of 10 for every other team member.** A score of 10/10 means full contribution; score a teammate lower if you feel they did not contribute fairly. The purpose is to ensure every student participates — the default expectation is 10/10. Your individual grade on the team project is adjusted by a peer-evaluation factor computed from the average score your teammates give you (10/10 = no adjustment; lower scores scale your team grade down proportionally).
 
@@ -257,19 +248,17 @@ Submit as a team through the course portal by the deadline:
 
 ## Rules
 
-1. **Do not attempt to obtain the holdout labels.** You have `holdout_features.csv` only. Attempting to infer or reconstruct labels, or obtaining them from any source (including other teams, solution leaks, or previous semesters) will result in a zero.
+1. **Part 5 is your team's own work.** AI-assisted answers will fail the individual video presentations. See Part 5 description.
 
-2. **Part 5 is your team's own work.** AI-assisted answers will fail the individual video presentations. See Part 5 description.
+2. **You may use AI assistance** for Parts 1–4, 6. Document significant AI interactions briefly in your notebook.
 
-3. **You may use AI assistance** for Parts 1–4, 6. Document significant AI interactions briefly in your notebook.
+3. **Reproducibility:** Use `random_state=42` for every model, split, and CV operation. Your notebook must produce identical results when re-run.
 
-4. **Reproducibility:** Use `random_state=42` for every model, split, and CV operation. Your notebook must produce identical results when re-run.
+4. **Team formation and scenario selection by the end of Week 9** — each team emails the instructor and the GA with its member list and chosen scenario. First-come, first-served on a per-section basis; no two teams in the same section may take the same scenario.
 
-5. **Team formation and scenario selection by the end of Week 9** via the course portal — first-come, first-served on a per-section basis; no two teams in the same section may take the same scenario.
+5. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
 
-6. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
-
-7. **Late submissions** lose 10% per day per the syllabus.
+6. **Late submissions** lose 10% per day per the syllabus.
 
 ---
 
@@ -292,7 +281,6 @@ All in the `templates/` folder:
 |------|---------|
 | `executive-summary-template.md` | Format + exemplar executive summary |
 | `example-responses.md` | C-level vs A-level response calibration for Part 5 |
-| `validate_submission.py` | Automated check for your predictions CSV |
 
 The mechanics of training a classifier are the easy part; the reasoning that connects modeling choices to the business cost structure is what differentiates grades.
 

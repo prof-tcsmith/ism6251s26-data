@@ -61,7 +61,7 @@ This is a **regression** problem.
 
 2. **Non-linear price drivers:** The relationship between features and price is highly non-linear. A pool adds significant value to a luxury home but negligible value to a budget home. Square footage has diminishing returns at very high levels. Models must capture these interactions.
 
-3. **Holdout drift:** The holdout set simulates a market shift where properties take longer to sell (inflated days_on_market), crime rates have increased, and properties are farther from downtown. This reflects HomeWise expanding into suburban or exurban markets with different characteristics than the training data.
+3. **Evaluation drift:** The test set simulates a market shift where properties take longer to sell (inflated days_on_market), crime rates have increased, and properties are farther from downtown. This reflects HomeWise expanding into suburban or exurban markets with different characteristics than the training data.
 
 4. **Text-structured redundancy:** Some listing text repeats information in the structured features ("4 bedrooms, 3 bathrooms"). The model must extract incremental signal from text beyond what structured features already provide.
 
@@ -79,4 +79,4 @@ This is a **regression** problem.
 
 ---
 
-*Dataset contains 15 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and holdout.csv (~700 rows).*
+*Dataset contains 15 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and test.csv (~700 rows).*

@@ -87,4 +87,4 @@ For insurance risk models, calibration is as important as discrimination. AUC te
 
 ---
 
-*Dataset contains 22 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and holdout.csv (~1,000 rows).*
+*Dataset contains 22 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and test.csv (~1,000 rows).*

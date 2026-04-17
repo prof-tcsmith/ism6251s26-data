@@ -83,4 +83,4 @@ The OCC processes 800 flights daily. If your model flags 200+ flights for preemp
 
 ---
 
-*Dataset contains 20 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and holdout.csv (~1,000 rows).*
+*Dataset contains 20 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and test.csv (~1,000 rows).*

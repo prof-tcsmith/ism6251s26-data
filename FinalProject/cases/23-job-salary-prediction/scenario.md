@@ -60,7 +60,7 @@ The text provides salary signal that is complementary to (but not redundant with
 - **Text vocabulary correlates with structured features but is not redundant:** Senior titles appear in both text and the `is_senior_title` flag, but text captures nuances (e.g., "entry-level manager" vs. "strategic VP") that the binary flag misses. Ablation studies should reveal incremental value of text features.
 - **Industry effects in text:** Technology and finance job descriptions use different vocabulary even at similar seniority levels. Industry is encoded in `industry_sector`, but the text may capture sub-industry distinctions not reflected in the 10-category encoding.
 - **Non-linear interactions:** The salary premium for a PhD varies dramatically by industry (huge in biotech, modest in retail). Tree-based models may capture these interactions more naturally than linear models.
-- **Holdout drift:** The holdout period reflects cost-of-living inflation (higher COL indices), slightly smaller companies (reflecting a startup boom), and marginally higher experience requirements — simulating a labor market shift.
+- **Evaluation drift:** The test period reflects cost-of-living inflation (higher COL indices), slightly smaller companies (reflecting a startup boom), and marginally higher experience requirements — simulating a labor market shift.
 - **Fairness consideration:** If the model learns salary patterns that reflect existing pay inequities, it could perpetuate them. Consider whether certain text features (e.g., gendered language) introduce bias.
 
 ## Error Impact Table

@@ -60,7 +60,7 @@ FundScope wants to build a predictive model that combines structured PI and inst
 
 3. **Research area as a confounder:** Funding rates vary significantly across research areas, and the abstract text naturally varies by area. The model must distinguish between area-specific vocabulary (which is captured by the structured `research_area` feature) and quality-specific vocabulary (which provides incremental text signal).
 
-4. **Holdout drift:** The holdout set simulates a shift toward a more competitive funding environment: higher budget requests, more competitive review panels, and proposals from lower-ranked institutions. This reflects a scenario where funding pools shrink relative to demand.
+4. **Evaluation drift:** The test set simulates a shift toward a more competitive funding environment: higher budget requests, more competitive review panels, and proposals from lower-ranked institutions. This reflects a scenario where funding pools shrink relative to demand.
 
 5. **Resubmission effect:** Resubmitted proposals have a higher funding rate than first submissions, reflecting the fact that PIs incorporate reviewer feedback. This feature interacts with text quality --- a resubmission with a still-weak abstract may not benefit from the resubmission boost.
 
@@ -82,4 +82,4 @@ FundScope wants to build a predictive model that combines structured PI and inst
 
 ---
 
-*Dataset contains 14 structured features plus 1 text column and 2 target variables across train.csv (~2,000 rows), test.csv (~700 rows), and holdout.csv (~700 rows).*
+*Dataset contains 14 structured features plus 1 text column and 2 target variables across train.csv (~2,000 rows), test.csv (~700 rows), and test.csv (~700 rows).*

@@ -66,7 +66,7 @@ Critically, approximately 8% of cases involve **discrepancy between text and vit
 - **Vital signs provide objective severity signal:** Unlike many text classification problems, the structured features here are not just contextual — they directly measure physiological severity. Abnormal vitals (heart rate, oxygen saturation, blood pressure, temperature) override text in clinical importance. The model must learn this hierarchy.
 - **Text-vital discordance cases:** Approximately 8% of cases have mild text but severe vitals (or vice versa). These are the cases where combining text and structured features matters most — and where a text-only model would be dangerous.
 - **Ordinal target:** Triage levels have a natural order. Predicting Level 3 for a true Level 2 patient (one level off toward less urgent) is a safety concern; predicting Level 1 for a true Level 2 patient (one level off toward more urgent) is an acceptable over-triage. Consider whether ordinal approaches or asymmetric loss functions improve safety metrics.
-- **Holdout drift:** The holdout period reflects a slightly older patient population, marginally elevated heart rates, and lower oxygen saturation levels — simulating a seasonal respiratory illness surge. Models must be robust to this population shift.
+- **Evaluation drift:** The test period reflects a slightly older patient population, marginally elevated heart rates, and lower oxygen saturation levels — simulating a seasonal respiratory illness surge. Models must be robust to this population shift.
 
 ## Cost/Impact Table
 

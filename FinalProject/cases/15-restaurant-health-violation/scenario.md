@@ -80,4 +80,4 @@ Precision-recall tradeoff is critical given the inspector capacity constraint. C
 
 ---
 
-*Dataset contains 20 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and holdout.csv (~1,000 rows).*
+*Dataset contains 20 features across train.csv (~3,000 rows), test.csv (~1,000 rows), and test.csv (~1,000 rows).*

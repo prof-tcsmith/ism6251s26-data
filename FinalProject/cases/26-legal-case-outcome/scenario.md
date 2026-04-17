@@ -59,7 +59,7 @@ This is a **multi-class classification** problem (3 classes).
 
 3. **Class overlap in structured features:** Defendant_Wins and Settlement cases have similar distributions for some numeric features (e.g., number of motions), making the text signal essential for disambiguation.
 
-4. **Holdout drift:** The holdout set exhibits distributional drift in case duration (longer cases), judge experience (less experienced judges), and monetary amounts claimed (higher claims). This simulates a scenario where JurisAnalytics expands to a new jurisdiction with different case characteristics.
+4. **Evaluation drift:** The test set exhibits distributional drift in case duration (longer cases), judge experience (less experienced judges), and monetary amounts claimed (higher claims). This simulates a scenario where JurisAnalytics expands to a new jurisdiction with different case characteristics.
 
 ## Error Impact
 
@@ -74,4 +74,4 @@ This is a **multi-class classification** problem (3 classes).
 
 ---
 
-*Dataset contains 12 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and holdout.csv (~700 rows).*
+*Dataset contains 12 structured features plus 1 text column across train.csv (~2,000 rows), test.csv (~700 rows), and test.csv (~700 rows).*
