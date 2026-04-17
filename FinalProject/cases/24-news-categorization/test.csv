@@ -1,0 +1,701 @@
+word_count,num_named_entities,avg_sentence_length,num_quotes,has_numbers,publish_hour,source_type,author_article_count,article_shares,reading_time_minutes,sentiment_score,num_images,article_text,category
+16,2,14.4,0,1,17,2,24,16,4.0,-0.075,0,growing said year future next group major government according could athlete global would including country also,Sports
+10,2,18.0,0,0,9,1,104,28,6.9,0.249,1,million global could said called earnings president international people research,Business
+12,3,16.7,2,0,15,4,72,503,1.0,0.484,2,recent refugees could impact research state summit world global industry future plan,World
+12,1,21.5,1,1,13,3,59,419,4.5,0.251,1,officials impact according public last policy people people industry NASA company many,Science
+15,0,13.9,1,0,6,0,4,2,2.3,-0.449,4,called last program president public policy group next president called FDA global officials percent company,Health
+11,1,21.9,1,0,2,4,1,68,7.7,-0.49,3,first decision year group including year algorithm policy next report called,Technology
+18,3,16.2,1,1,13,3,94,67,4.1,-0.293,2,growing many impact security group plan growing championship concerns research sector reported said also million system industry company,Sports
+10,2,15.9,0,0,3,1,28,8,3.7,0.646,2,country government major million year expected market international future company,Entertainment
+11,5,22.4,0,0,0,1,28,26,5.9,-0.066,1,first government country plan research policy industry last million quantum market,Science
+14,2,19.5,1,1,1,2,36,188,2.0,0.224,3,according expected report people sector national NASA group international sector called concerns including group,Science
+10,4,30.1,1,1,1,0,25,42,9.6,0.329,1,local people according group also government legislation president would report,Politics
+16,2,15.0,2,1,3,1,19,322,3.1,-0.016,0,industry reported economic could market system expected security leader country major sector genome development said world,Science
+17,1,19.9,1,1,1,2,20,0,5.4,-0.037,2,industry announced organization percent policy plan group organization would would program sanctions security development would expected impact,World
+11,0,18.7,0,0,20,0,17,10,4.9,-0.284,0,many organization security leader box office first report percent country company,Entertainment
+13,3,13.3,0,0,17,3,40,34,3.3,0.108,1,percent global research technology state state industry new state startup would plan health,Technology
+9,4,16.9,2,1,8,0,69,448,1.8,0.211,2,future many percent president earnings major organization officials officials,Business
+17,3,9.0,0,0,1,0,5,542,6.2,-0.528,1,also health people said concerns future officials first future development global recent shareholders million program public recent,Business
+17,6,15.3,0,1,2,2,76,9,4.0,-0.334,0,including impact people concerns president people year industry state new market program decision could report championship state,Sports
+15,4,14.8,1,1,13,4,33,767,4.6,0.172,0,future last major new world celebrity year security first expected officials decision leader security industry,Entertainment
+16,3,20.3,0,1,8,1,59,59,8.0,0.213,4,organization group impact economic research last future country could officials million percent decision million sector championship,Sports
+11,3,33.7,1,1,15,0,54,12,5.3,-0.126,4,market including called technology industry startup next security app growing plan,Technology
+17,3,21.2,1,0,13,2,33,44,2.4,0.55,1,international officials research national market officials global telescope concerns officials leader according percent new company public new,Science
+18,5,8.9,1,1,1,3,151,58,6.0,-0.013,5,local sanctions group decision health global development year market concerns leader health economic could last decision according local,World
+10,3,19.9,1,0,19,0,3,24,7.0,-0.343,1,sector report economic merger would group development economic new called,Business
+17,2,8.3,1,1,4,0,9,3,5.4,0.639,1,people program diplomat health last industry world impact impact reported leader local health concerns program leader first,World
+9,4,20.3,0,1,0,2,101,57,4.9,-0.331,2,senator would security concerns new national called market state,Politics
+17,0,21.1,0,0,18,1,14,55,4.7,0.011,3,senator world new growing plan national health country also reported people officials president many health people economic,Politics
+15,4,13.0,0,0,17,1,104,38,4.1,-0.092,1,first research reported new country research decision last international security international bipartisan reported also policy,Politics
+9,2,14.6,2,0,22,3,37,342,1.9,-0.161,1,economic company industry major percent economic vaccine local could,Health
+15,5,21.7,1,1,3,4,10,1673,5.9,0.049,3,health impact percent first including program according box office reported also policy company leader last,Entertainment
+8,6,14.8,1,0,23,1,32,10,2.4,-0.182,1,national impact including percent officials last development report,Politics
+9,6,24.1,2,0,15,4,96,10516,6.5,0.144,3,also president year program year organization international plan reported,Technology
+9,3,25.1,0,0,7,4,61,28,2.6,-0.003,1,million officials country plan vaccine leader health global world,Health
+15,3,24.4,0,1,20,0,93,1500,5.2,0.178,2,many last leader report last legislation economic leader plan recent report national company health report,Politics
+10,3,11.2,1,1,9,2,27,711,3.3,0.312,1,public future quantum called global program international group program said,Science
+13,2,20.1,2,1,19,1,66,1,7.5,0.585,2,national country industry security international decision year new state future refugees development market,World
+17,4,27.2,0,0,10,0,16,105,2.7,-0.467,1,international sector state report concerns local concerns state last local economic world impact research celebrity future group,Entertainment
+11,3,15.8,0,1,2,4,68,388,5.2,0.129,3,future report called expected also industry national future box office leader,Entertainment
+18,6,8.3,0,0,5,3,91,16,4.0,-0.388,0,program percent public premiere recent impact research million including policy could market percent million organization report recent industry,Entertainment
+12,0,20.2,2,1,12,1,28,2,8.3,0.291,0,international world called local world million program national celebrity country government government,Entertainment
+9,6,29.8,1,1,22,3,75,9,7.3,-0.161,0,system could country summit called market group company market,World
+14,5,19.7,1,1,8,1,44,10,3.6,0.089,3,according program future many system could president legislation including according plan year industry future,Politics
+17,2,22.2,3,1,23,1,33,471,2.8,0.173,2,government company earnings concerns many international decision global market country research next including industry major said development,Business
+15,2,11.6,1,1,23,2,15,35,8.3,0.251,1,program officials policy new growing economic sector state world company concerns country industry public country,Science
+18,5,30.7,1,1,3,0,20,624,4.2,-0.232,1,said expected security million people technology diagnosis first future million economic growing concerns could major world international plan,Health
+13,1,18.5,0,1,18,2,18,504,6.5,0.281,2,last development million would growing program sector next program growing app percent national,Technology
+15,2,22.6,2,1,4,2,80,97,2.8,0.116,1,state economic world system next next economic technology plan reported world first said smartphone research,Technology
+17,2,17.9,2,1,7,4,34,2,2.9,-0.288,1,system announced athlete research expected major concerns president national president officials global officials world program officials industry,Sports
+11,2,28.1,0,1,19,2,15,18,5.4,-0.013,2,global organization new partisan expected plan public industry government security development,Politics
+14,2,25.6,2,0,20,2,10,272,5.5,-0.171,3,major government called technology company year announced future system concerns impact national tournament last,Sports
+15,1,16.1,1,1,12,4,36,300,5.2,-0.444,2,reported next research security including development called expected reported officials public many recent algorithm major,Technology
+9,5,20.4,0,0,7,1,17,1,5.2,-0.149,2,last international next economic development new legislation officials government,Politics
+15,3,26.6,1,0,11,1,76,96,6.3,-0.126,2,concerns year could new clinical trial last impact group year could public sector including people,Health
+13,4,21.4,2,0,1,0,123,154,5.9,0.356,1,global president shareholders also major percent million last plan recent development group world,Business
+13,3,10.9,1,1,6,4,7,17,7.3,-0.113,1,leader decision expected concerns reported state plan plan policy celebrity officials policy economic,Entertainment
+10,3,15.7,0,0,23,1,4,166,3.9,0.075,4,also decision bipartisan market industry growing report first country last,Politics
+15,1,19.2,0,1,11,4,141,32,9.8,0.501,4,million recent future according expected group officials organization FDA impact would could plan concerns policy,Health
+10,6,26.5,0,0,12,2,17,49,5.8,-0.259,4,industry first market market development local president growing people state,Business
+10,4,16.8,0,1,0,2,11,15,3.2,0.465,2,decision organization program last many state local industry people country,World
+13,3,15.5,1,1,23,4,35,25,5.1,-0.084,3,would state system officials state global including million celebrity future decision would concerns,Entertainment
+17,4,22.4,1,0,6,3,2,6,5.6,0.228,1,group global policy country new country local national million quantum expected reported telescope market many also world,Science
+14,3,10.6,1,0,1,0,70,98,6.7,-0.584,1,called industry impact last industry officials senator last system report million called bipartisan research,Politics
+17,2,18.1,0,1,12,0,28,292,4.1,-0.108,2,would major major company market streaming expected would would major according sector last market said leader celebrity,Entertainment
+17,6,15.4,1,1,8,3,48,79,5.5,0.116,5,market next world impact according world security report major health security economic local including decision research bipartisan,Politics
+18,1,18.1,2,0,10,3,193,845,6.6,-0.113,2,economic national new summit company said global organization local according local policy impact called leader report market percent,World
+18,2,18.8,0,1,3,4,21,157,9.5,-0.256,3,growing announced sector company senator reported could would president group organization concerns sector new sector would announced including,Politics
+16,5,13.5,0,1,10,4,57,13,8.9,0.305,2,officials people million would president according government research local system report organization security concerns local said,Technology
+12,3,18.0,1,0,15,1,41,826,6.7,0.013,3,health percent called people group also world public also international growing international,Politics
+10,3,19.2,1,0,17,2,69,25,5.2,0.132,2,many legislation last president senator expected said company health policy,Politics
+12,1,24.7,0,1,13,4,16,927,3.3,0.056,1,said policy national future also program development company million development security group,Technology
+13,4,17.1,0,1,2,1,72,77,4.2,-0.057,2,local year future including reported leader company coach reported health program people public,Sports
+9,3,13.8,0,0,20,1,21,24,5.1,0.135,1,plan world also report last global merger organization economic,Business
+18,1,29.2,2,1,7,0,40,1,5.4,0.249,4,impact would economic technology reported reported many policy million local startup government first last growing report program next,Technology
+18,5,15.3,0,1,21,0,11,53,3.5,0.605,2,research people people year next vaccine security expected million reported would officials expected research national new year development,Health
+15,4,20.3,1,0,20,2,3,518,5.0,0.042,1,group policy would country new next local said decision diplomat officials policy first international called,World
+11,3,12.5,2,0,16,2,10,72,1.2,-0.231,5,sector international said research last policy people research announced group coach,Sports
+14,3,11.4,2,1,20,0,68,3,4.3,0.308,2,future health economic people would new quarterly according country group last industry impact according,Business
+13,7,23.3,2,1,20,4,69,2,5.7,-0.212,3,policy clinical trial technology million recent concerns government decision organization market national global,Health
+13,4,14.5,0,1,23,0,119,22,7.6,-0.149,1,policy development summit recent expected international could including global last research industry report,World
+11,5,13.1,0,1,11,0,27,127,2.2,0.089,0,health quantum report reported expected impact impact plan sector plan policy,Science
+9,3,20.0,0,1,0,4,41,41,4.9,0.309,2,state many president major decision next app organization concerns,Technology
+9,2,17.7,0,0,12,3,52,29,8.4,-0.669,3,global system last officials major merger percent next development,Business
+10,3,17.2,2,0,21,1,63,2,7.2,0.008,2,percent million vaccine new first growing next people first million,Health
+12,3,18.1,0,0,7,0,31,64,1.5,0.428,2,plan state country president major next state senator company concerns policy concerns,Politics
+12,3,15.3,0,0,11,1,80,26,6.0,-0.365,4,concerns athlete officials would would leader officials would last percent development country,Sports
+11,7,11.9,1,0,21,4,15,50,3.7,-0.269,2,health first decision global future announced economic people announced genome national,Science
+13,3,23.9,1,0,20,3,32,22,7.9,-0.028,2,impact policy public company policy group leader major officials legislation group economic group,Politics
+14,8,24.5,2,1,19,4,9,42,3.9,-0.005,2,called also growing called major leader senator called president people development company technology international,Politics
+8,2,17.2,1,1,0,0,6,68,3.5,0.359,2,said concerns future world technology industry health could,World
+15,3,23.3,0,1,2,3,146,3,3.3,0.143,2,public impact company policy policy national research expected plan quarterly local shareholders group program development,Business
+18,5,12.8,1,1,2,0,12,589,6.0,0.163,1,box office future system technology officials state organization announced leader officials state health year people million organization group,Entertainment
+11,3,18.3,1,1,20,4,52,5,3.0,0.188,2,year reported many health people recent celebrity would development program including,Entertainment
+14,4,13.4,1,1,15,3,58,60,2.5,0.029,3,growing earnings merger reported policy country system research health next system many world program,Business
+13,2,24.9,0,1,1,1,80,9,3.8,0.486,0,market decision security state decision said system research FDA state new announced announced,Health
+9,5,16.5,0,1,4,3,4,281,3.6,-0.095,4,leader industry public company decision FDA said expected according,Health
+15,0,11.6,2,1,19,1,32,21,4.2,-0.196,2,first public year public market concerns including organization local legislation reported officials would growing group,Politics
+10,5,23.7,1,1,5,3,32,4855,6.5,0.102,3,including world percent growing policy refugees local company decision officials,World
+11,2,19.4,1,0,21,3,36,34,8.1,0.186,0,growing organization technology country country decision decision year quantum system including,Science
+14,3,19.9,3,1,13,1,24,12,6.4,0.436,3,announced company including said earnings reported economic called policy international sector quarterly people last,Business
+14,3,21.7,1,1,2,4,100,30,5.5,0.544,3,new percent policy year national global world percent sector people system first new also,Business
+15,0,13.7,0,1,15,1,3,7,3.2,0.01,2,new first technology leader percent plan sector health group international officials government next national group,Business
+14,4,18.3,1,1,23,3,74,134,4.6,0.305,1,report premiere company health industry security celebrity plan international national market development concerns year,Entertainment
+9,1,16.0,1,0,15,1,104,12,6.8,-0.25,0,sector quarterly growing world million health leader government global,Business
+14,5,20.8,2,1,16,4,57,502,1.9,0.25,1,could government company officials report could decision future tournament recent including plan including group,Sports
+13,2,23.2,0,0,17,0,3,159,9.7,0.326,2,national state also called organization market future national could local market technology international,Sports
+11,2,26.3,0,1,15,1,30,63,3.8,0.083,3,international growing telescope concerns president technology market genome research country expected,Science
+12,3,28.5,0,0,19,2,20,21,6.2,-0.565,2,major celebrity national reported new policy state first officials also new including,Entertainment
+11,4,21.9,1,0,1,0,31,373,5.9,0.085,3,plan government FDA could reported report group system leader according state,Health
+9,6,30.2,0,0,5,4,18,266,4.7,0.15,0,diagnosis officials plan development local year company officials development,Health
+17,5,17.5,1,0,18,0,31,178,5.3,-0.345,1,government recent future many world growing concerns program organization industry million technology new premiere people plan leader,Entertainment
+9,2,19.5,0,0,11,0,100,163,3.9,0.049,5,announced reported impact recent concerns market senator report group,Politics
+9,2,15.5,0,0,4,0,68,180,2.7,-0.228,4,said year announced national industry percent first people research,Politics
+14,3,23.8,1,0,13,0,74,72,5.1,-0.346,0,also security system public organization local country country government report group reported people sanctions,World
+17,2,12.7,0,0,11,0,2,23,9.6,-0.093,1,system health first officials next year next government group expected officials new program next NASA called organization,Science
+18,8,7.9,1,1,16,1,49,19,6.2,0.034,2,local percent report organization president reported group local decision public including local president growing clinical trial would international,Health
+16,2,17.3,0,1,4,1,44,503,3.4,0.068,2,major system government plan policy people program impact national including also report year technology decision many,Entertainment
+16,2,18.4,0,1,0,4,12,850,6.3,-0.407,2,expected system last world security health sector according group international algorithm next called group international technology,Technology
+10,6,26.5,0,1,22,2,25,7,3.4,-0.147,0,national recent international company clinical trial would technology officials recent,Health
+9,5,13.1,1,1,7,1,141,569,4.3,-0.08,6,health research app policy national security including world people,Technology
+17,4,17.8,0,0,18,0,20,514,5.7,-0.195,2,called major year group impact year local next concerns president would plan quantum officials public government world,Science
+14,5,20.9,1,1,9,3,49,341,7.1,-0.273,1,next decision country could industry major called plan global first plan summit future could,World
+16,6,12.6,1,1,20,3,15,1,4.7,0.092,3,recent could state impact organization reported impact quarterly many market last future sector according security according,Business
+16,2,23.2,1,1,12,0,103,6,6.5,-0.123,3,could country officials clinical trial percent vaccine group expected government president public local development new concerns,Health
+14,2,10.6,1,1,7,2,38,24,9.3,0.092,0,first senator could sector million government called country decision reported leader including market state,Politics
+13,1,13.4,0,0,17,0,93,233,5.4,0.673,1,championship recent first report security government million concerns development last global would last,Sports
+18,0,26.6,1,0,23,1,38,17,7.9,0.018,0,industry national officials expected would concerns reported many decision organization reported championship public would percent country company president,Sports
+15,2,16.2,1,1,6,2,1,163,9.1,0.754,0,global percent said championship global country said group percent next called public year world percent,Sports
+13,7,14.8,2,1,1,2,15,119,7.7,0.25,3,next organization new according including major economic first merger development leader report country,Business
+10,2,20.5,0,1,12,3,47,49,7.4,0.262,2,research system expected reported economic reported president concerns group premiere,Entertainment
+18,2,24.1,1,0,4,4,78,4,4.0,-0.304,2,growing organization growing algorithm major leader percent system leader including state announced security people major program startup next,Technology
+15,3,5.6,1,0,18,1,38,4,4.0,-0.473,0,major report year group startup system research including organization expected recent percent health global global,Technology
+10,3,13.1,1,0,3,4,132,46,4.2,0.073,0,last concerns decision economic would report people state refugees including,World
+17,4,19.8,0,0,5,0,33,1,7.2,-0.603,1,report including next major year local sector officials world growing bipartisan impact next global according research policy,Politics
+11,3,21.4,4,1,17,4,16,10,6.6,0.189,3,local country economic including future program system public new year recent,Politics
+13,2,19.7,0,1,3,4,14,54,2.8,0.182,0,report government president year group public international global leader impact economic app organization,Technology
+18,2,25.6,1,0,19,0,17,355,5.9,-0.366,2,including market state local said called world impact last said called according box office local government according research,Entertainment
+13,3,14.3,0,1,5,4,11,85,2.7,-0.195,2,quantum local economic technology first future president impact research announced next economic recent,Science
+18,2,18.6,1,1,2,4,64,111,4.0,-0.252,0,according percent concerns new system NASA first public sector public industry local organization could organization group last system,Science
+9,2,24.5,1,1,15,0,7,131,1.0,-0.101,1,many impact industry called president legislation also organization health,Politics
+13,2,15.6,2,1,0,3,47,45,2.2,0.282,2,people future economic world decision major coach health security major plan plan million,Sports
+10,3,14.7,0,1,15,2,47,80,5.5,-0.07,2,market market decision also called policy first according economic legislation,Politics
+18,2,19.8,0,1,15,4,14,193,4.1,-0.541,3,organization impact decision president sector reported market security according celebrity last according first million plan said organization according,Entertainment
+16,4,11.5,2,1,5,3,10,314,7.2,0.254,3,sector program economic report quarterly group government future many announced program future security country first plan,Business
+10,1,16.4,0,0,16,2,61,5,6.5,0.527,1,could group many bipartisan called many year could company first,Politics
+16,2,15.0,1,0,16,4,212,3,6.5,-0.159,3,president health health state program many people diplomat security last announced next security technology reported leader,World
+16,0,17.3,1,0,10,1,132,6,9.1,0.366,1,local reported many could also world would concerns reported security first many merger decision reported research,Business
+12,3,15.8,2,0,14,2,36,120,7.6,0.322,2,organization smartphone last growing also policy state group country expected global technology,Technology
+16,2,18.2,3,1,6,2,38,1726,5.2,-0.209,1,legislation year local called including technology impact plan report percent international policy report first sector research,Politics
+11,3,21.8,1,1,1,3,4,15,4.9,-0.002,3,technology sector sector major global global people company diagnosis announced many,Health
+9,4,23.7,1,0,14,2,18,67,3.7,0.253,3,percent impact said many million according million concerns smartphone,Technology
+14,2,20.6,1,0,12,0,19,7,7.3,0.035,5,reported global first world telescope program group many next research state also announced reported,Science
+17,4,16.9,1,0,20,3,135,2343,5.1,-0.012,2,leader officials percent group according industry called national company technology national report percent also would including next,Business
+18,2,11.5,1,0,16,2,12,4,4.9,0.224,2,world shareholders policy market expected report announced called percent future could president public world group research new system,Business
+9,6,18.6,0,1,21,4,45,52,6.2,0.495,0,government million growing research diagnosis including program national first,Health
+11,2,14.7,1,1,16,3,3,88,2.2,-0.338,4,system said organization new country report officials would people NASA people,Science
+11,4,20.2,1,1,3,3,132,161,3.8,-0.137,0,country announced sector people national expected decision year policy recent next,World
+11,2,21.2,3,1,16,3,3,1258,6.0,-0.187,1,economic plan system according health could major major new policy health,Sports
+11,6,18.8,1,1,13,4,292,111,7.4,-0.164,0,also year public development security future world partisan government impact plan,Politics
+15,4,24.7,0,0,21,2,6,7,5.0,0.148,2,major local health international group last called many government quarterly reported country concerns called international,Business
+18,4,15.2,2,1,1,4,102,8,3.7,0.035,1,people world announced technology quarterly new also shareholders would technology global new impact including research public said national,Business
+16,5,22.7,1,0,15,0,6,156,3.6,0.332,3,security economic public health year policy million sector million algorithm last recent recent health local country,Technology
+18,3,10.7,1,1,12,1,21,25,5.6,-0.529,4,many year celebrity health leader national development report security group reported recent research government public officials research expected,Entertainment
+10,6,24.1,0,0,5,0,40,947,4.3,0.066,2,sector reported technology market technology including next also technology system,Politics
+19,2,20.6,0,1,22,4,39,160,5.4,-0.219,1,growing industry celebrity new report international concerns market company organization local people program global concerns future next concerns streaming,Entertainment
+12,3,24.3,0,1,15,0,8,241,4.4,0.263,3,development percent development new government policy global people research future earnings sector,Business
+15,2,20.6,3,0,22,3,16,1658,3.0,0.059,2,last recent concerns including economic called group could year research announced concerns development also world,World
+19,4,20.5,1,1,6,4,201,957,1.4,-0.242,0,also reported new country new according sector could impact reported championship decision country coach expected market many people next,Sports
+18,7,6.9,2,1,18,1,1,289,3.6,0.531,1,algorithm public next program expected industry could leader research would technology major next major report development international last,Technology
+9,2,18.0,1,1,6,2,33,10,2.8,-0.245,5,next policy development market many development group new leader,Entertainment
+18,2,22.5,3,1,4,4,27,30,2.8,-0.051,5,state program year impact percent policy organization expected world last announced economic quarterly recent president plan quarterly sector,Business
+16,4,9.4,3,0,1,3,21,10,7.6,-0.041,2,recent impact concerns decision could market international last local last also officials could million group startup,Technology
+13,1,22.3,1,1,4,0,29,31,5.4,-0.202,1,market world development according organization future program sanctions recent country government organization last,World
+16,3,13.4,3,0,9,1,25,589,5.8,0.014,0,decision last future impact officials local announced impact development market percent app announced government many impact,Technology
+16,5,16.5,0,1,4,3,1,132,3.3,-0.135,1,concerns including new diplomat market percent public local industry world security sector according state research major,World
+16,3,12.3,1,1,4,3,1,2,9.0,-0.522,1,could security officials concerns said tournament local could people country market national state major last local,Sports
+9,5,14.3,2,1,13,2,22,142,7.8,0.122,3,local many expected national including app year economic group,Technology
+13,4,19.4,0,1,10,4,127,10,5.0,-0.476,2,coach also health industry sector organization president concerns company next first growing said,Sports
+13,3,8.7,0,1,23,3,11,25,5.3,-0.061,3,growing public year year global system state plan company quarterly first market announced,Business
+18,1,15.4,1,0,22,4,23,44,3.4,-0.263,3,world new also report policy smartphone national global impact according sector recent country local first system leader economic,Technology
+11,7,9.9,0,0,9,1,28,104,7.9,-0.186,1,industry vaccine next state percent decision last development expected diagnosis development,Health
+15,3,23.5,0,0,0,4,63,78,7.0,-0.035,4,expected security market impact program would expected company state company decision research report research economic,Sports
+19,5,16.4,1,0,4,2,38,50,3.8,0.309,3,market sector company development national last impact research percent public said group future new merger merger development plan state,Business
+16,2,7.7,1,0,11,1,4,3,5.1,0.171,2,smartphone state system president technology health major officials organization including next future million economic sector including,Technology
+15,3,14.0,0,0,6,4,3,2,6.5,0.063,3,announced called security president said economic report said would million concerns decision national country country,Science
+16,1,21.6,0,1,9,3,19,36,3.8,-0.389,4,major group recent industry government new international future development next concerns according officials security leader coach,Sports
+15,3,24.3,0,1,3,2,41,15,4.5,-0.369,2,industry next company including according impact could world people last national officials technology market reported,Politics
+9,4,14.2,1,1,23,2,161,50,7.9,0.109,1,concerns recent bipartisan system national reported many reported market,Politics
+9,3,12.1,4,1,10,0,74,173,3.4,-0.069,3,percent tournament economic state officials expected plan market said,Sports
+12,0,11.7,1,0,23,3,29,32,4.5,-0.42,1,major president economic system company impact percent FDA technology officials local program,Health
+10,4,17.4,2,1,2,0,47,36,3.8,0.212,3,reported security next sector including policy new genome concerns year,Science
+12,2,16.7,2,1,5,1,60,143,7.4,0.095,2,million million sanctions called industry future expected leader security expected many organization,World
+17,6,18.5,0,0,16,0,2,95,6.7,0.45,3,also would quantum national organization people government security first also public recent according impact also percent state,Science
+11,4,10.8,1,0,23,3,2,34,2.6,0.364,1,health said future policy government future research future new quantum would,Science
+15,3,12.5,0,1,0,1,42,10,3.5,0.227,1,also reported program recent championship officials percent government major local world called local could many,Sports
+18,5,19.1,4,1,9,2,2,12,6.2,0.088,1,world announced according public box office system policy national development global public international leader organization first national also,Entertainment
+12,4,17.6,1,1,23,3,39,137,4.2,0.091,3,research security health local public research summit technology technology major development announced,World
+16,5,17.1,2,1,4,1,28,35,1.0,0.047,0,plan public system major world expected report leader would called called first future industry announced program,Entertainment
+10,1,12.3,1,0,19,1,39,212,6.8,-0.167,1,economic major public local percent future decision senator sector including,Politics
+12,5,11.6,2,0,13,4,19,123,3.0,0.125,4,economic expected plan security plan state reported called diagnosis including called market,Health
+18,6,22.5,0,1,23,1,26,30,5.4,-0.066,1,market app development research last called local officials president last recent year country also public country including growing,Technology
+16,4,18.9,1,1,0,1,119,687,5.4,-0.078,2,officials next market world major sector major concerns also people reported last major international market quarterly,Business
+9,2,18.1,1,0,3,2,30,32,7.3,0.226,2,also leader system program major officials including shareholders system,Business
+9,4,10.7,1,0,12,1,86,21,6.8,0.237,1,international decision reported senator system officials sector called economic,Politics
+11,3,14.8,2,1,3,0,95,120,4.6,0.021,3,technology also growing concerns sector organization global recent percent health sector,Health
+12,2,4.4,2,1,6,2,71,20,2.6,0.062,2,global security million security public economic development impact system leader organization summit,World
+16,4,17.7,1,1,0,0,81,2,4.2,-0.134,1,public first sector technology sector summit development new report state million refugees also growing could plan,World
+15,0,17.0,3,1,20,3,130,8,8.9,0.293,2,security reported sanctions concerns leader concerns recent industry including expected global public also major organization,World
+11,3,21.4,1,1,23,4,58,11,9.5,-0.199,4,first many tournament first growing global reported local reported group national,Sports
+19,3,7.6,2,1,2,0,69,87,5.4,-0.324,2,clinical trial also government including including growing people last international industry global state announced report security policy report concerns,Health
+9,4,16.3,0,1,14,0,13,4,4.2,-0.279,0,recent health could health also public program economic app,Technology
+9,2,11.4,1,0,9,1,10,69,8.3,-0.261,1,country international system future recent percent app decision development,Technology
+18,2,23.8,1,0,19,1,15,519,7.6,0.094,3,new many new NASA state including officials next group many recent future would industry program world organization development,Science
+11,5,7.0,1,0,21,2,83,17,5.2,-0.1,2,would development program athlete research officials people research year government health,Sports
+12,0,23.2,2,1,14,4,9,1934,8.4,-0.176,1,report according company next government shareholders people concerns year group major leader,Business
+18,3,21.7,0,1,22,0,95,64,5.2,0.501,0,organization country market new year international group next technology security new could many country tournament system country sector,Sports
+16,3,21.5,0,1,17,0,132,2721,4.0,0.302,2,technology global research president future public partisan development major decision international program including would future announced,Politics
+16,3,20.0,1,0,18,0,287,406,1.0,0.13,2,research new percent next people program also startup company impact future expected local country country according,Technology
+18,3,21.2,1,0,12,0,9,21,4.5,0.384,3,new public plan policy program system officials leader organization championship international research research country technology people research new,Sports
+10,5,16.6,2,1,17,4,24,57,2.3,-0.313,0,future sector could including startup group officials percent last said,Technology
+17,4,15.0,0,1,17,0,21,176,5.7,-0.176,1,called major quarterly reported report economic research merger people year would major million security major people market,Business
+9,2,20.2,0,1,9,1,271,98,1.0,0.012,0,people diagnosis country major future state last announced local,Health
+11,4,16.1,1,1,18,0,16,19,1.0,0.17,0,research country growing government concerns report next state would refugees could,World
+11,0,22.0,1,1,19,4,22,4,3.3,0.186,3,many public year international report impact could technology international national announced,Health
+18,4,26.4,2,1,17,3,13,10,10.4,0.162,3,many growing public company concerns according public NASA decision sector report leader recent expected report expected future growing,Science
+9,3,18.8,1,0,1,2,101,2732,1.6,0.144,2,organization people summit health officials technology future international health,World
+17,5,31.2,2,1,20,0,11,49,8.6,0.164,3,organization sector million would would next security report policy million impact system national startup security according said,Technology
+11,1,16.4,0,1,19,0,217,507,1.9,-0.051,1,organization concerns organization many major sector bipartisan state concerns year economic,Politics
+16,5,18.1,1,0,7,2,26,0,8.8,-0.047,0,plan announced local said program report also concerns next according next major recent people local security,Politics
+15,11,19.0,1,1,9,3,42,29,7.2,0.271,2,would technology president celebrity national first international report plan last major program state organization research,Entertainment
+14,2,16.1,0,0,0,2,5,81,6.2,-0.054,2,percent national report people company research national group system system legislation local year industry,Politics
+13,3,25.9,0,1,15,3,200,1,2.8,-0.089,1,growing organization could international report diagnosis reported industry technology organization group state national,Health
+14,5,21.1,0,0,16,3,40,6,3.7,0.409,3,program economic leader algorithm health many technology government government system first future organization economic,Technology
+15,0,10.5,2,0,2,0,158,2496,3.7,0.71,1,reported report state percent last people sector announced called decision including impact coach concerns national,Sports
+16,0,10.0,1,1,2,1,1,30,1.4,0.273,3,president FDA said international announced called percent report future many recent state state research expected decision,Health
+18,5,14.4,1,0,4,3,97,13,3.2,-0.086,3,decision decision public decision people tournament local year security system president security economic future recent global new group,Sports
+16,2,23.9,2,1,7,0,35,261,5.2,0.414,3,report system first global concerns announced box office year research president program sector major people system,Entertainment
+15,4,15.3,0,0,11,3,63,13,1.0,0.414,2,concerns coach policy future said company next announced recent president would global reported impact also,Sports
+11,4,22.9,1,0,12,1,142,49,5.5,0.568,1,new industry first market policy economic recent technology according summit decision,World
+12,1,11.8,0,1,10,0,3,10,8.9,0.101,4,decision officials organization officials health global global recent shareholders future economic global,Business
+11,1,19.3,0,1,12,2,17,365,5.4,0.601,3,development security health many program streaming announced decision leader could world,Entertainment
+18,6,19.7,1,1,11,0,22,1,2.2,0.258,0,organization percent system health system year called economic growing industry telescope future quantum recent world country world industry,Science
+11,4,25.8,0,0,1,4,12,312,4.6,-0.396,1,genome first expected last recent concerns technology industry also NASA announced,Science
+10,1,30.4,0,0,16,1,39,332,6.3,-0.142,2,according NASA state genome health health leader impact many percent,Science
+11,2,17.9,3,0,21,0,80,32,5.6,0.212,1,people organization including public merger program reported concerns shareholders recent industry,Business
+12,2,12.3,0,1,17,2,93,3,7.4,-0.677,1,impact last streaming leader international expected decision company market first announced market,Entertainment
+10,5,19.1,0,1,14,1,10,1,4.7,0.315,1,government major box office system next organization expected research year,Entertainment
+15,2,16.0,0,1,22,2,27,3,1.0,-0.249,1,new global market decision decision last concerns impact international officials box office also world economic,Entertainment
+12,4,19.6,3,0,14,4,39,38,4.0,0.014,1,vaccine decision including market local expected growing organization program economic could said,Health
+18,3,10.3,1,1,13,1,67,5,9.1,0.133,2,first market also people local plan last future percent last year system government last merger country development report,Business
+16,5,20.2,1,0,19,2,30,81,7.7,0.026,2,last expected reported world policy decision legislation decision recent government also sector many technology many many,Politics
+12,5,4.2,3,1,19,3,23,22,6.0,-0.033,4,future reported earnings international year technology year recent development program also group,Business
+15,2,17.6,1,1,17,1,19,13,8.7,-0.074,0,health growing system country report said policy development algorithm announced system announced app national security,Technology
+15,6,9.7,2,0,9,0,11,34,6.7,-0.243,2,research government could economic last genome million system organization country many technology would decision said,Science
+12,2,15.2,0,1,3,0,143,6,2.7,0.163,2,world organization world people plan sector local startup announced system last startup,Technology
+9,4,14.1,3,1,11,2,33,358,3.9,-0.293,3,health recent technology championship new country reported report company,Sports
+9,0,20.8,2,1,15,0,85,41,4.6,-0.536,0,impact concerns growing health security bipartisan including country global,Politics
+17,3,18.6,2,1,17,0,5,348,6.2,0.061,2,industry people health officials local international health year international industry decision security said state genome organization would,Science
+17,2,18.7,1,1,6,3,62,3,2.2,0.057,3,state research concerns major major national said including public company diagnosis people officials research million plan percent,Health
+17,1,19.1,2,1,14,2,51,1818,7.5,0.328,2,would year also first development according next called president first according development officials percent concerns legislation national,Politics
+15,2,13.1,2,1,21,2,10,262,8.3,-0.738,3,state impact million could last tournament organization country concerns reported development research major report called,Sports
+10,4,30.5,3,1,15,3,14,19,4.0,-0.23,2,legislation expected said government concerns also would technology local first,Politics
+11,7,15.8,0,0,13,4,35,835,7.1,-0.331,2,security streaming president impact public decision streaming global could million policy,Entertainment
+11,5,24.3,1,1,7,1,71,184,5.3,0.062,2,sector new economic country market announced quarterly international president million technology,Business
+13,3,21.5,1,0,7,0,22,253,5.2,0.138,1,decision expected market program government startup according world people company market plan report,Technology
+11,2,12.1,2,1,3,2,21,14,8.3,-0.184,4,growing next genome would last security including development reported national said,Science
+9,4,18.2,3,0,18,1,179,70,6.7,-0.006,3,would system concerns world also program president public organization,Entertainment
+16,3,25.3,2,1,22,3,117,50,4.8,-0.087,0,international research group percent security world economic security million announced security could international president FDA president,Health
+18,2,13.6,1,1,3,0,2,13,3.4,-0.124,1,growing country research group next announced box office international would growing future concerns reported state technology company called,Entertainment
+14,6,13.4,0,0,23,3,27,14,3.4,0.699,2,state including development next program called last market merger industry organization growing security last,Business
+16,5,21.4,2,1,19,1,19,759,5.8,0.101,3,president impact future announced recent growing sanctions concerns system program international economic according president people plan,World
+13,3,19.1,3,0,16,0,69,55,6.9,-0.512,4,local president system impact local government next including telescope announced national future major,Science
+14,1,14.5,1,1,11,3,148,27,2.8,0.255,0,called security premiere also would country growing also including concerns first development impact year,Entertainment
+18,4,17.0,0,0,6,4,12,5,7.3,-0.2,3,impact government last plan research health national policy government officials impact sector people box office research impact security,Entertainment
+11,2,19.1,2,0,11,3,2,11,5.1,-0.138,0,many country group concerns group first research major local startup system,Technology
+15,1,20.6,0,1,0,3,121,88,1.0,-0.025,1,including health public plan sector impact organization growing global expected summit organization security percent major,World
+12,4,24.9,0,1,17,2,16,115,4.2,0.183,6,development app concerns security major million research international app technology industry sector,Technology
+11,1,20.5,0,1,13,2,60,386,6.6,-0.33,0,leader including said program technology recent streaming according national global celebrity,Entertainment
+14,1,20.7,1,1,15,1,9,495,4.0,-0.459,2,major policy industry organization public economic last research million sector algorithm company concerns world,Technology
+18,2,13.5,0,1,6,1,46,325,6.4,-0.02,1,state international organization according summit reported future sector development decision announced group economic expected group would impact expected,World
+11,3,23.9,0,0,5,4,16,1107,5.4,0.109,0,sector concerns world national including recent president system percent people diagnosis,Health
+15,4,24.5,0,1,12,1,32,108,4.5,-0.286,2,president people growing last recent decision plan quarterly national public called future quarterly plan growing,Business
+14,4,15.2,1,1,2,0,1,141,5.8,-0.552,2,market major world president streaming also announced economic million world could last could state,Entertainment
+12,5,18.3,0,0,17,0,102,117,6.0,0.334,2,industry also including industry championship state impact research major policy many would,Sports
+14,7,22.2,3,1,5,3,10,1123,4.3,-0.116,2,market percent million also technology million next public country expected including decision government economic,Business
+13,1,13.1,2,0,7,4,40,73,5.9,0.022,4,industry health economic organization year organization expected world percent report senator concerns called,Politics
+11,2,20.9,0,0,13,0,24,179,7.4,-0.212,3,development reported concerns also policy growing system recent diplomat country including,World
+11,3,27.3,1,1,17,2,26,7,4.8,0.232,3,next sanctions industry reported according said market national report expected first,World
+13,2,27.9,1,0,8,1,10,2,6.1,-0.096,3,major last diplomat public including announced first country also summit million health world,World
+10,4,22.5,0,0,14,0,9,23,4.1,0.506,2,last health could expected research many international research international quarterly,Business
+11,4,12.9,0,0,19,3,5,54,6.5,0.098,1,local called company merger impact report sector policy international many last,Business
+18,2,13.2,1,1,6,3,47,3,1.0,0.299,2,international impact system would country new country year group last global sector president decision program quantum future government,Science
+16,2,16.2,1,0,18,1,13,15,2.1,0.275,2,reported local people state decision expected local recent streaming market expected local concerns research said research,Entertainment
+9,8,16.5,2,0,4,2,38,9,2.5,0.057,2,policy state plan program would officials recent impact coach,Sports
+10,3,21.8,1,0,1,2,65,60,3.2,0.045,4,would major international global tournament last new major development health,Sports
+12,3,10.5,0,0,11,1,6,29,4.1,0.309,2,system algorithm market could health public company new economic leader decision plan,Technology
+9,4,22.9,0,0,21,2,25,140,3.3,0.107,1,policy reported local telescope health year new system would,Science
+14,6,7.7,1,1,3,3,7,8,6.7,-0.181,2,public first would research first also last organization NASA economic research also concerns company,Science
+13,4,10.6,0,0,8,1,160,93,3.3,0.281,2,state streaming health growing next economic development state announced future according plan year,Entertainment
+16,4,14.8,0,0,1,4,84,26,4.8,0.156,0,decision concerns future people company president program organization recent company public leader smartphone next report expected,Technology
+13,2,16.1,1,0,13,4,27,505,5.9,0.379,0,million million decision including government million officials research program telescope million leader technology,Science
+12,4,15.5,1,1,10,2,1,17,1.8,-0.134,2,year program people group major government growing plan percent bipartisan industry reported,Politics
+10,3,11.7,0,0,23,2,81,506,5.9,0.352,2,program would government program impact organization decision organization policy first,Technology
+14,5,16.7,2,1,4,2,17,37,2.8,0.052,2,called announced officials state said leader company year public reported growing research expected growing,Science
+14,3,20.3,0,1,21,4,38,590,6.5,0.463,3,would public million first health diagnosis recent program leader many report many program state,Health
+16,2,27.1,2,1,22,4,3,15,7.4,0.077,3,would FDA group technology future government development program would called recent leader research first national concerns,Health
+12,4,17.2,0,1,19,4,27,206,5.5,0.228,0,health according impact international impact sector country president security impact earnings officials,Business
+14,3,16.4,1,1,18,4,50,1269,6.9,-0.648,2,world called future officials first recent next economic growing research research company security industry,Sports
+18,0,15.0,0,0,2,1,101,71,7.7,0.0,3,major sector technology growing including percent security concerns country decision announced world program coach company athlete reported health,Sports
+15,1,19.1,1,1,1,2,19,467,5.6,-0.049,2,state group report growing recent vaccine many last would program recent group would said impact,Health
+13,3,13.6,0,0,13,4,123,537,5.9,-0.528,0,said plan could celebrity could public streaming called health plan recent technology would,Entertainment
+15,1,11.9,2,0,15,1,349,1848,6.9,0.275,2,president report next people also local plan world future next growing economic coach group coach,Sports
+16,2,19.1,0,1,21,0,1,19,7.9,-0.171,1,year first expected health industry group plan global president would also industry said also according quantum,Science
+10,2,20.4,1,1,21,0,2,6,5.2,0.061,1,expected market called last country report country summit security research,World
+17,1,4.0,1,1,2,2,123,1833,4.0,-0.022,3,president NASA million officials reported development expected organization global report last also program plan many market program,Science
+16,4,20.3,1,1,8,2,60,988,4.9,0.25,2,health next many concerns telescope major security last many next said expected major development market plan,Science
+13,6,14.5,0,0,2,2,12,117,2.5,0.186,1,health global also premiere percent industry company decision next million public report said,Entertainment
+11,4,8.5,2,1,17,4,97,147,5.3,-0.392,2,development senator economic international could first next public last company could,Politics
+9,2,16.0,0,0,8,3,11,7,4.5,0.233,0,last development global health startup security year growing future,Technology
+10,2,21.0,1,0,11,3,16,5973,2.8,-0.348,2,national security percent first would growing concerns many leader world,Sports
+14,3,19.1,1,0,5,2,13,575,7.2,-0.188,1,FDA called also leader leader concerns technology technology last major also next policy public,Health
+12,6,19.6,3,1,10,4,21,91,1.4,-0.377,1,development officials technology policy summit international first economic said sanctions future growing,World
+14,5,22.0,2,0,3,1,109,114,5.5,-0.345,5,market recent system plan officials percent called international FDA concerns research sector called report,Health
+14,4,12.8,2,0,10,0,48,299,4.5,-0.265,3,security according organization company plan people leader company industry expected health new organization recent,Politics
+19,2,19.0,3,1,12,0,30,2679,4.6,0.02,2,group many last program report policy organization also streaming future new also including first premiere last recent many policy,Entertainment
+15,3,27.5,1,0,9,2,6,1,6.6,-0.082,3,people first impact also according said concerns impact health would refugees million economic program government,World
+11,1,14.4,1,0,15,4,8,93,5.4,0.29,2,development president government first quarterly last system local could local many,Business
+11,9,17.2,1,0,21,2,72,9,5.5,0.243,0,called percent international last announced would said summit group according president,World
+9,2,27.3,0,0,21,1,2,14,6.0,-0.151,3,sector security next premiere system technology industry security international,Entertainment
+17,1,11.7,1,1,10,0,52,4,6.2,0.018,0,officials championship including sector future international international market plan sector would local first could future security new,Sports
+15,3,19.2,1,1,10,0,53,23,7.1,0.228,4,could would percent government would officials reported public impact diplomat many many local market also,World
+16,1,13.8,1,1,12,4,73,348,7.8,0.195,0,called world market sector year called country called company expected recent policy officials recent refugees decision,World
+14,1,14.4,1,0,11,2,215,3,6.7,-0.231,0,expected president expected expected concerns premiere announced government organization company percent next new development,Entertainment
+12,3,21.2,0,1,19,4,30,181,1.1,-0.036,2,system report impact public called local earnings national market system called growing,Business
+16,5,12.5,0,1,16,4,62,0,5.6,-0.063,0,national impact recent called program research could system officials public new streaming future sector premiere would,Entertainment
+17,1,20.4,0,1,0,4,1,4,4.0,0.733,2,quantum health security people sector decision last policy global report company program last called major government local,Science
+10,1,12.9,2,1,9,0,43,77,5.7,-0.287,0,million security year many first bipartisan national state health expected,Politics
+17,2,11.1,0,1,23,3,19,16,6.6,0.145,3,called country decision security organization global last would future according including announced expected health bipartisan concerns industry,Politics
+16,5,18.9,0,0,22,2,23,48,4.0,-0.5,4,economic called health world plan major decision technology research recent quantum impact last program health quantum,Science
+16,1,15.2,1,1,19,1,1,21,5.4,-0.182,2,national organization said global program growing future people FDA future growing expected impact called research health,Health
+12,0,15.6,1,0,9,0,80,676,6.9,0.398,0,athlete organization said public government last million organization health president public next,Sports
+15,5,19.8,1,0,20,3,17,4301,5.9,-0.004,1,people concerns international growing report called group including health announced percent athlete said officials state,Sports
+11,3,22.1,1,1,18,3,31,5,5.7,0.01,3,officials health last industry according world plan announced startup reported first,Technology
+11,3,21.4,2,1,3,3,98,4,3.7,-0.145,4,first market expected policy government public report plan national celebrity could,Entertainment
+14,2,30.3,1,0,8,3,80,47,7.5,-0.025,1,international million bipartisan reported future officials also development next next future new first country,Politics
+13,1,22.2,1,1,5,3,99,728,5.0,0.694,2,million percent recent president industry could sector state startup announced development policy health,Technology
+14,1,14.9,0,0,15,4,33,76,5.3,-0.319,1,report local percent development would policy policy bipartisan government could report concerns percent world,Politics
+14,3,7.8,0,1,0,3,7,429,1.5,-0.448,3,major major impact concerns system championship concerns officials economic plan plan percent technology research,Sports
+12,4,23.6,1,1,5,0,16,111,6.1,-0.08,2,last quantum world report growing global called plan local according policy reported,Science
+16,2,31.9,4,0,18,4,78,14,4.6,0.288,2,market world local national genome people state leader many reported program local industry technology major public,Science
+15,3,22.1,0,1,8,4,1,43,3.9,-1.136,2,major expected government genome policy company system people state reported organization plan could could company,Science
+18,2,27.1,2,1,18,0,3,32,4.1,-0.145,2,plan people announced streaming public global would new future officials global public first technology box office million million,Entertainment
+16,1,8.2,0,0,18,1,110,2,2.4,0.043,1,development plan also leader concerns health world market streaming company organization technology announced country system program,Entertainment
+16,1,20.9,2,1,5,0,5,1702,6.1,-0.055,2,impact including research app first many health world concerns security sector major health announced organization local,Technology
+17,2,16.7,1,1,4,0,62,27,3.5,0.069,2,health government development public world concerns market system next people report expected next last growing shareholders people,Business
+16,2,15.0,1,1,19,1,66,51,5.1,-0.249,4,state program security would recent diagnosis officials country people security major market impact diagnosis national officials,Health
+18,4,15.8,1,1,6,2,49,58,2.7,-0.2,2,called local national country technology world percent government percent security report health world new president recent policy premiere,Entertainment
+15,0,23.6,0,0,12,3,41,153,8.1,-0.344,2,group development announced sector senator according major impact concerns report including program policy decision public,Politics
+11,2,17.6,3,0,6,3,1,88,4.0,-0.757,1,local president national many future announced report system technology reported smartphone,Technology
+11,3,14.2,1,1,22,3,11,196,5.8,0.268,5,people reported said industry sector organization also many tournament state market,Sports
+17,2,17.1,1,1,3,4,99,105,4.4,0.515,0,called growing government local public announced diplomat people people could sector sanctions last people organization new last,World
+18,0,17.5,0,1,19,0,58,4,9.1,-0.094,1,international government algorithm system group first economic people concerns state program local called report state announced sector program,Technology
+13,1,11.8,0,1,21,1,8,12,4.1,-0.343,1,decision many leader coach last major world major industry recent growing concerns country,Sports
+16,4,15.2,0,0,9,2,17,21,1.0,0.189,0,company concerns officials box office streaming government expected according new sector program could market new industry,Entertainment
+17,5,11.0,2,1,5,2,66,11,5.0,-0.044,3,concerns percent development public country next research percent including concerns growing app security international could organization health,Technology
+9,3,21.3,0,1,17,2,58,41,6.2,-0.125,1,diplomat could president year technology also year recent state,World
+14,0,18.6,1,1,6,1,62,1,5.6,0.299,0,last public international system diagnosis research would public future major government industry percent new,Health
+18,2,13.7,0,1,7,0,75,2542,1.6,-0.313,3,including concerns policy plan according president also company sanctions officials health organization country would called concerns last national,World
+15,3,9.6,1,1,2,0,21,98,8.0,-0.26,1,plan market program state group leader group year expected world world including president year world,Technology
+10,0,20.3,1,0,19,2,45,438,4.7,-0.446,3,group security would growing including last partisan reported country group,Politics
+12,0,24.2,0,0,9,4,16,10,4.6,0.483,1,growing world local including next coach industry athlete would officials group policy,Sports
+12,2,19.3,0,1,1,4,32,45,6.0,0.058,1,development sector according security would group shareholders development could major local said,Business
+10,2,19.6,2,0,23,4,14,566,8.0,0.199,3,public industry according future international system called said system merger,Business
+16,3,14.1,1,1,6,3,62,13,3.9,-0.185,3,reported new reported future quantum health NASA organization would president impact sector public policy million major,Science
+14,5,24.8,0,0,18,4,22,46,12.1,0.435,2,summit many people sector policy last also next said development leader could including policy,World
+9,5,11.1,2,1,22,4,59,42,5.7,-0.135,1,economic next officials sector development many new company celebrity,Entertainment
+10,4,14.7,0,0,21,1,47,754,4.1,0.127,2,could people would last percent development growing many smartphone development,Technology
+9,5,19.8,0,0,23,2,13,323,5.5,0.313,4,called public policy leader bipartisan last concerns expected program,Politics
+14,0,27.4,0,1,12,3,65,23,4.6,0.259,4,national group announced technology world government million state many growing government new report world,Science
+15,0,16.5,1,1,14,0,108,156,1.4,-0.207,3,state according president announced world health growing according percent leader recent industry national state athlete,Sports
+14,1,18.3,3,1,19,1,1,7,2.2,-0.731,4,major national industry million announced major technology organization reported organization concerns could recent startup,Technology
+17,2,18.1,0,1,18,0,1,10,3.5,0.556,2,research major group also state vaccine system could could national policy called said plan concerns concerns would,Health
+9,1,13.0,1,0,7,3,27,10,6.0,0.695,3,future million country celebrity including said international also organization,Entertainment
+17,4,29.2,1,0,11,0,164,21,6.9,-0.034,4,million percent next development championship growing impact future reported public major first program group next decision people,Sports
+10,4,23.8,0,1,14,1,12,1,7.1,0.022,2,local people said million would major first government next impact,Entertainment
+9,3,23.6,1,1,3,4,178,78,5.8,-0.806,2,group recent policy development state premiere policy many technology,Entertainment
+11,4,14.3,0,0,4,2,44,4,7.7,-0.033,0,million recent many officials plan many next new telescope million world,Science
+14,2,8.9,0,1,12,2,170,9,5.2,-0.346,0,officials percent national merger public program officials local according local new impact reported officials,Business
+10,3,24.2,1,1,16,0,189,812,4.9,-0.203,2,including program system smartphone economic government system world could system,Technology
+12,4,21.0,0,0,18,3,9,198,1.0,0.253,4,president box office policy according international global public sector new global research,Entertainment
+9,5,16.8,1,1,18,3,7,12,4.7,0.175,3,economic technology market global first recent diplomat technology future,World
+13,4,21.6,0,1,13,2,27,22,5.5,-0.227,0,report celebrity year according could million would health concerns people million system concerns,Entertainment
+18,3,12.7,2,0,15,0,50,20,5.3,0.203,3,growing including world growing market impact telescope first market expected system national organization international called technology including report,Science
+17,1,10.9,0,1,5,2,119,12,3.3,0.192,2,including plan public first reported officials growing leader new major security could industry system would country technology,Technology
+13,2,15.5,2,1,14,0,79,16,7.9,0.495,2,global expected including program called next officials economic impact future expected report technology,World
+18,3,19.6,2,0,21,0,16,42,3.9,0.126,3,leader international percent last officials local algorithm plan local global public government last future including would concerns group,Technology
+16,3,20.2,1,0,8,2,54,41,4.1,-0.006,2,many global could concerns company concerns diagnosis country also health expected year state many report last,Health
+17,3,14.9,4,1,15,4,103,5,6.8,0.221,4,percent tournament sector many development economic could last company concerns people concerns organization announced world industry country,Sports
+16,2,27.0,0,1,11,1,31,188,4.5,-0.146,3,first last announced government state would concerns program sanctions last development expected would government impact industry,World
+15,3,13.9,2,1,16,1,98,3,7.7,0.146,5,group reported report public security growing according year according telescope last decision industry health company,Science
+9,2,17.0,2,1,22,3,138,208,6.0,0.069,1,bipartisan would market security could international country company program,Politics
+16,4,19.6,3,1,3,3,58,32,5.7,-0.015,2,plan world first government country decision system announced NASA company growing president called next growing could,Science
+16,5,19.6,2,1,23,2,6,105,3.4,0.418,3,could clinical trial president recent program economic international international local million state industry called future state,Health
+10,5,14.5,1,0,17,3,29,17,3.8,-0.109,0,officials research international global tournament president new future president country,Sports
+18,3,19.6,2,1,17,2,44,55,8.8,-0.002,0,called leader announced world president national quarterly impact policy said system next country government major would last market,Business
+16,4,22.8,0,0,16,3,29,36,7.6,-0.014,1,international state global first market startup impact national technology concerns recent security global first first according,Technology
+14,4,22.8,0,1,17,2,194,19355,6.4,-0.016,2,major next year world also research security organization also country senator economic according security,Politics
+11,1,22.1,1,1,10,2,118,852,11.5,-0.301,2,health including technology global local health public refugees sector including leader,World
+11,1,13.3,0,1,1,2,5,9,4.9,0.475,2,group expected officials growing world refugees technology new country called million,World
+8,3,11.0,0,0,5,2,37,4,3.6,0.103,2,called technology report called president technology policy policy,Sports
+17,1,23.0,0,0,1,1,13,6,5.3,0.066,0,future percent reported concerns senator new leader according policy program sector many senator also company national local,Politics
+15,3,25.7,0,1,23,3,20,26,6.9,-0.211,2,global government according research many announced global economic would health new new program coach report,Sports
+14,2,7.0,1,1,16,1,53,12,3.5,-0.061,3,report global policy technology called streaming could national technology decision also major including program,Entertainment
+18,3,22.8,2,0,4,2,4,31,6.0,-0.049,2,according would major also growing including national international new economic organization industry research organization growing tournament national according,Sports
+16,0,12.2,1,1,11,4,25,129,4.5,0.229,4,local next including state market report smartphone research million sector report reported people concerns security concerns,Technology
+12,2,14.1,2,0,2,2,58,9,4.6,-0.211,2,security major concerns industry decision officials new year would national expected economic,Science
+15,3,10.4,0,1,16,1,132,636,5.0,-0.439,0,recent president world state local officials program national government major box office according leader first,Entertainment
+13,4,15.2,0,0,12,0,10,15,5.0,-0.367,0,organization national global future leader country concerns also announced year year leader technology,Politics
+15,3,19.0,1,0,13,2,32,145,2.1,-0.377,1,global concerns market next according world year called million many box office expected could said,Entertainment
+13,5,12.5,0,0,1,4,45,5,6.2,0.063,2,FDA report first new country national including million reported year million growing world,Health
+10,2,14.9,1,1,13,4,97,1688,4.0,-0.137,3,officials many industry could organization percent new concerns president many,Politics
+18,6,12.5,1,1,0,4,46,2438,5.7,-0.356,1,report said future market next industry economic would including people said decision decision system quarterly major according government,Business
+13,4,19.7,1,1,10,4,7,178,5.7,0.194,1,could organization development expected public people security last first sector country telescope announced,Science
+9,4,11.5,2,1,13,3,5,4158,4.8,0.097,2,would growing according bipartisan health year economic impact reported,Politics
+17,5,18.8,1,0,22,3,25,1,1.4,-0.068,6,year international program percent plan system company major many state program international industry president public last according,World
+17,3,19.9,0,0,0,0,75,3122,5.4,-0.181,1,world report security new next genome president announced next company market policy officials security system major percent,Science
+12,0,18.6,0,1,18,1,36,334,3.4,0.274,1,policy expected leader percent major recent first according program policy sanctions could,World
+15,4,10.7,0,1,1,4,1,22,9.1,0.273,0,sector could system called plan percent sector leader according industry last impact tournament security technology,Sports
+15,4,16.2,1,0,0,1,10,17,7.4,-0.28,1,recent diagnosis industry health international many expected state called industry would last officials government decision,Health
+14,4,17.9,1,1,0,4,40,163,1.6,0.228,0,impact smartphone reported group percent program major sector called state leader according concerns could,Technology
+17,1,20.0,0,0,8,3,1,265,6.0,-0.098,2,program market major could celebrity world growing group report percent president company last company international industry expected,Entertainment
+11,4,26.4,0,1,13,1,38,210,7.1,0.484,2,growing program year decision development quantum research economic growing policy policy,Science
+18,5,25.9,0,1,8,4,57,123,9.7,0.463,1,company research plan development would would research international report according expected security people championship program development last state,Sports
+17,3,17.3,1,1,6,0,90,558,4.1,-0.301,1,could recent sector public national plan diplomat new company sector last major last year called major said,World
+17,4,12.3,3,1,7,4,111,5,7.1,-0.74,4,industry plan growing announced technology new next group health app president industry health new market concerns group,Technology
+9,0,16.1,1,0,17,2,27,9,4.3,-0.161,1,plan country public system company sector quantum global program,Science
+9,1,8.8,2,0,13,4,37,612,4.3,-0.321,5,president new tournament officials program global plan according expected,Sports
+12,2,15.6,0,1,22,2,32,1,4.9,-0.235,2,local expected market system app officials million sector announced research year first,Technology
+19,3,19.3,0,0,3,3,6,22,7.1,-0.174,6,decision policy sanctions said organization according government public economic program could million market next major year plan diplomat president,World
+17,2,9.5,1,1,11,1,28,23,5.3,-0.168,2,global diagnosis also research could development growing next group new plan public expected sector percent diagnosis public,Health
+10,2,24.5,2,0,8,2,129,30,2.1,0.021,2,next report last reported sector company program president economic diagnosis,Health
+15,4,13.4,2,1,2,2,249,1,5.6,-0.649,1,security major leader world diagnosis decision first state people new future market impact said president,Health
+14,2,23.2,2,1,4,3,30,129,5.9,0.333,2,organization security research local local policy future public major international reported market growing new,Sports
+18,4,17.5,1,0,2,0,26,21,6.9,-0.081,1,including concerns global sector major program technology company policy expected leader president industry announced refugees international sector group,World
+10,0,14.0,1,1,15,3,13,653,5.6,-0.49,1,report said growing celebrity organization industry local state reported technology,Entertainment
+18,2,18.0,2,0,9,1,164,15,4.0,-0.313,2,last market coach economic called policy national international program according market security future officials public technology would announced,Sports
+17,3,16.2,0,1,13,2,137,258,7.8,-0.214,1,global company year economic senator national world people program industry expected security local technology reported market company,Politics
+15,5,18.8,1,1,15,0,12,107,8.4,0.334,0,recent president security officials last technology health world called would algorithm research report market report,Technology
+13,5,13.5,0,1,14,4,1,4,1.0,-0.436,2,national public technology would concerns according public senator reported also economic global called,Politics
+15,3,14.4,1,0,0,4,17,57,3.4,0.038,2,said technology year health group also reported group clinical trial government government also sector many,Health
+8,3,14.8,0,1,17,0,72,5955,4.4,0.383,4,president last state announced new also million state,Politics
+10,1,13.2,1,0,8,1,16,1,2.5,-0.44,3,legislation industry decision security government organization development president national national,Politics
+13,2,21.6,0,0,13,4,15,13,3.6,0.166,1,state group organization local refugees report economic called policy including also state said,World
+16,2,24.8,0,0,18,2,80,1,5.5,0.185,2,premiere last global economic could health plan celebrity development state state program market last security million,Entertainment
+11,3,15.2,0,1,0,2,82,691,2.3,0.099,2,organization global shareholders country international government group expected research people including,Business
+12,0,22.2,0,1,6,4,3,4,3.6,0.469,2,market impact many championship program called report officials many percent year announced,Sports
+11,3,10.3,0,1,12,2,1,15,2.8,0.695,2,company summit state policy announced decision could million officials could announced,World
+13,3,19.5,3,0,21,2,50,1560,3.9,-0.247,2,genome expected recent impact major concerns also reported including last expected next development,Science
+14,1,22.7,1,0,7,4,417,114,8.1,0.417,1,government international recent reported last government officials impact genome country industry first technology major,Science
+15,2,18.3,1,1,7,0,96,50,4.3,0.291,2,program according percent first research company box office sector said company president major policy security,Entertainment
+9,2,22.0,4,1,5,2,54,0,5.0,0.305,1,industry called report announced government last new report new,Technology
+12,6,17.5,3,1,18,2,53,478,7.5,0.199,4,health last year impact including vaccine including economic group could future industry,Health
+18,2,13.9,2,0,16,0,23,306,6.7,-0.577,3,according international people many next announced policy local major first shareholders year reported recent called world announced said,Business
+20,2,19.9,0,1,18,2,19,142,7.0,0.636,1,announced announced growing security called technology officials clinical trial national next according officials next clinical trial president system market new,Health
+11,3,22.3,1,1,4,0,18,4,5.1,-0.182,2,industry security economic including championship president called including major organization decision,Sports
+15,4,11.9,0,0,16,2,19,13,3.7,0.009,0,sector local group system research public expected sector people sector concerns also sector including million,Sports
+16,1,19.6,1,1,6,3,1,325,5.8,0.014,2,president world country algorithm major million state sector system expected president impact first international health announced,Technology
+16,2,19.0,1,0,15,4,54,1,6.4,-0.007,1,growing system clinical trial first health public economic development said according local million diagnosis organization economic,Health
+17,4,17.7,0,1,13,0,48,682,2.8,0.102,2,tournament report year could also impact according development country many year according recent sector development health plan,Sports
+12,1,16.7,0,1,14,3,52,508,5.9,0.074,2,decision leader announced government first announced impact health startup sector last many,Technology
+17,0,17.6,0,0,4,2,6,443,8.4,-0.241,2,system many system plan percent president percent development president leader people new leader public group sector sanctions,World
+11,1,24.1,2,1,8,2,52,749,2.6,-0.309,6,group international state research company public sector people clinical trial percent,Health
+16,3,21.6,0,0,19,3,3,396,4.8,0.405,4,organization many year state development many impact public health year app percent also startup plan according,Technology
+13,2,20.7,0,1,11,2,2,35,7.6,-0.152,1,clinical trial diagnosis including security major percent future next local first organization new,Health
+14,1,10.3,0,1,2,2,23,2076,4.7,-0.007,1,report first world concerns major organization impact group national diagnosis would technology according policy,Health
+13,2,15.8,1,1,10,1,18,315,2.0,0.444,1,world also could box office research officials future world sector company economic first,Entertainment
+15,2,17.3,0,0,23,3,6,1841,4.8,0.37,1,year development development system national program would according world people international report year first telescope,Science
+14,3,21.5,0,1,16,0,5,47,4.2,0.216,3,economic system recent leader country president impact coach people sector policy many report million,Sports
+8,5,12.5,1,0,13,3,62,2,4.5,-0.09,3,state program economic recent decision sector group policy,World
+12,4,18.6,1,1,23,2,75,2,2.3,0.163,2,report earnings government local market industry group reported future national program growing,Business
+13,1,19.6,2,0,11,1,8,6,4.5,-0.275,1,sector FDA impact plan according last program officials many international global national new,Health
+14,2,15.9,1,1,13,4,11,12,8.6,0.165,3,report growing system global plan sector could public world premiere organization research would global,Entertainment
+12,0,19.0,0,1,16,0,87,0,3.5,-0.088,1,called would group according said public report industry said genome industry industry,Science
+19,3,15.6,0,0,22,3,1,23,8.0,0.282,3,diplomat growing government growing sanctions security leader according organization system decision year state industry international state plan officials development,World
+15,4,17.5,1,1,3,1,51,10274,1.4,0.344,1,coach percent policy reported security percent many local public million state major leader economic new,Sports
+17,4,17.4,2,1,17,0,11,1230,7.7,0.133,0,industry system international impact technology last policy international year sector major announced security program program streaming reported,Entertainment
+13,3,25.8,0,1,0,3,16,36,2.7,-0.031,1,leader bipartisan new next reported concerns partisan program next recent health state called,Politics
+15,1,8.8,1,1,16,1,91,9,5.8,-0.139,4,including country recent economic market officials development public impact legislation government national leader could last,Politics
+16,3,18.2,2,0,7,3,1,53,4.5,0.113,1,government decision world major market health officials shareholders people national system leader company health research expected,Business
+13,1,16.2,0,1,8,4,24,183,4.8,0.154,4,new expected many expected leader system percent major market many app president year,Technology
+12,3,20.1,0,0,7,4,15,7,6.5,-0.297,4,recent global public decision major growing organization leader people future plan streaming,Entertainment
+11,4,18.5,0,1,18,0,12,18,2.4,-0.167,4,impact state would organization decision research world senator last last company,Politics
+13,3,16.8,0,0,0,0,121,2,2.2,0.115,3,concerns according global country public program company called national company streaming said concerns,Entertainment
+16,3,31.0,2,1,6,4,38,279,5.7,0.079,2,public decision senator technology major decision announced global security according technology recent future would public president,Politics
+18,2,18.2,0,1,19,3,4,26,2.9,-0.42,3,group people government said country government senator world international announced major report government international would said public local,Politics
+17,2,15.0,0,1,5,1,29,377,4.6,0.192,6,announced research government people could FDA said security development government could president percent global president group plan,Health
+15,2,18.6,1,0,1,4,5,35,3.2,-0.002,3,said percent international new technology development concerns reported international country million market year announced percent,Business
+10,1,14.9,2,1,11,0,72,126,3.3,0.391,5,world organization security sector would tournament next many according next,Sports
+10,3,16.4,1,1,19,1,29,142,7.0,-0.125,2,quantum program national year leader decision technology could last last,Science
+18,1,16.2,2,0,16,1,24,2,9.4,0.211,2,world system report technology million concerns last future president FDA system plan system percent economic first major global,Health
+14,4,22.4,1,0,20,2,108,11,7.4,-0.303,3,according officials expected expected leader next government could coach health organization growing athlete local,Sports
+16,1,7.5,1,1,8,1,12,765,3.6,0.127,3,partisan partisan people including technology also technology public government year economic growing million expected announced growing,Politics
+12,2,17.2,0,1,21,1,4,5740,6.6,-0.352,1,leader expected public major market many reported public new impact group plan,Science
+19,2,22.6,1,1,4,1,16,2,4.3,-0.276,1,government telescope decision development last research reported development government impact called organization system state national next public genome plan,Science
+18,1,15.9,1,1,0,4,30,8,2.7,0.331,1,coach plan future organization percent organization global many could economic global would expected report tournament would major program,Sports
+14,5,24.6,3,1,6,4,1,3,5.3,-0.278,3,local people world partisan report program plan state called national country organization security called,Politics
+12,3,13.9,2,1,10,0,13,28,6.6,-0.05,0,global report people FDA impact industry year health many research called world,Health
+12,0,15.7,1,1,12,3,34,61,4.9,0.236,4,development government including bipartisan said government would health local said many growing,Politics
+15,1,21.9,0,1,23,2,42,335,4.1,-0.062,4,many leader also industry state industry vaccine research including would officials decision development major economic,Health
+10,2,15.9,0,1,0,3,115,1736,10.3,0.113,1,policy diagnosis first policy major technology officials first research report,Health
+11,4,16.0,1,0,0,0,42,24,4.3,-0.449,1,partisan also recent expected sector economic local public called announced called,Politics
+14,2,20.0,1,1,7,1,64,511,3.0,-0.747,1,security country major president said algorithm system policy called could industry people impact percent,Technology
+9,5,21.5,4,1,12,4,21,27,6.8,-0.053,1,international organization also recent national president also development could,Science
+18,3,6.3,1,1,15,3,11,2,3.9,0.399,4,many global merger president reported including research state security percent said officials including policy quarterly company local program,Business
+14,4,10.8,0,1,19,3,71,103,4.3,0.242,2,also decision program refugees million last industry would global said including national impact public,World
+9,3,21.0,0,1,2,0,54,5,5.7,-0.432,0,local security according recent FDA plan system expected recent,Health
+13,6,18.8,3,1,16,4,8,4,6.8,-0.12,1,recent decision percent new announced technology industry many many according world senator policy,Politics
+14,3,25.2,0,0,4,4,37,0,3.5,0.03,3,people including growing also million technology president could international group impact health coach market,Sports
+14,6,14.3,1,1,18,1,3,573,4.3,0.314,1,called would announced plan organization refugees market recent decision including market organization system development,World
+15,5,22.8,0,1,8,2,5,32,5.7,-0.297,1,recent said decision economic last public year technology shareholders concerns people world organization security group,Business
+15,5,16.0,1,1,7,0,37,11,8.1,-0.127,0,government development plan percent telescope officials international policy growing decision sector could global would major,Science
+11,1,20.1,1,0,7,0,71,42,5.6,0.172,2,development championship year government year global program group country officials health,Sports
+12,1,15.7,3,0,9,2,254,12,6.6,0.02,1,industry expected state policy according plan security state recent program diagnosis plan,Health
+12,3,12.4,0,1,4,3,5,79,6.2,0.002,2,according industry system shareholders market major impact announced local health president sector,Business
+13,4,19.6,1,1,15,3,3,13,3.2,0.375,4,major development research decision reported group health report diagnosis government next called many,Health
+18,1,11.7,0,1,2,0,11,247,6.7,0.166,0,economic year last quarterly world impact many world next country development next million leader first company government next,Business
+17,3,18.9,0,1,3,3,83,176,6.0,0.129,1,plan next many quantum international expected research country could system recent recent economic first group genome local,Science
+10,2,21.1,2,1,7,1,80,266,6.1,0.092,4,announced including system said expected million sector earnings health country,Business
+9,1,23.7,1,0,15,0,19,15,5.7,0.255,2,group report recent sector group year tournament health year,Sports
+18,2,16.4,0,1,7,2,37,1929,9.1,-0.172,0,local year announced report state research reported new recent organization development international tournament development would group company company,Sports
+15,3,16.5,0,1,14,0,23,726,3.7,0.313,3,bipartisan organization research next economic expected million next national next senator would called global plan,Politics
+13,2,17.0,2,1,19,4,46,2569,6.1,-0.073,3,future world many system according algorithm president percent industry called development reported concerns,Technology
+19,3,17.9,0,1,12,3,1,19,4.2,-0.302,0,leader last according health program country country program genome would policy country government president leader industry future telescope many,Science
+12,3,17.5,0,0,6,0,24,37,1.0,-0.761,2,international would plan policy technology system future country leader said many genome,Science
+9,3,20.9,0,1,17,0,38,8,7.5,0.008,1,local report said startup health security international market program,Technology
+11,8,29.1,1,0,21,2,105,185,7.2,-0.597,2,public many new shareholders policy next announced next including economic future,Business
+14,3,24.1,1,1,2,0,135,17,7.4,0.106,2,new health system announced market including sector policy new health impact organization would vaccine,Health
+13,1,10.5,0,1,12,0,4,10,3.8,0.346,0,program next would concerns plan people concerns next future summit report research million,World
+18,3,13.5,0,1,0,2,23,23,1.4,-0.134,1,industry many government many sector summit growing could concerns according first national public international local also reported world,World
+13,1,13.5,0,1,20,3,65,495,2.9,-0.379,0,state economic president research concerns called industry technology next premiere last next research,Entertainment
+15,3,26.6,3,0,16,4,14,1,7.7,0.018,2,global summit sector state year said could growing sector said president international many percent security,World
+12,3,23.5,0,0,8,3,8,94,2.2,0.061,0,coach international also research state health expected said international first program coach,Sports
+11,1,17.8,4,1,15,4,55,2,4.0,-0.23,1,local local president last organization people officials leader vaccine growing system,Health
+17,2,25.3,0,1,16,2,80,1,1.0,0.293,1,plan reported report global organization plan security including also state world plan impact company earnings according company,Business
+16,3,8.1,2,0,5,3,44,83,2.3,-0.235,3,expected sector government decision next celebrity plan expected public report new system report percent world reported,Entertainment
+10,3,26.3,2,1,7,3,25,24,7.9,0.199,4,new system year called growing said president market research international,World
+18,7,27.2,0,1,11,3,32,576,3.5,-0.367,1,officials national decision state market state global global policy company president percent group system world local major tournament,Sports
+12,3,26.3,1,1,2,1,96,30,3.9,0.664,2,industry officials summit next officials called president new international expected policy many,World
+18,2,19.0,1,0,11,2,16,21,5.9,-0.004,2,officials growing industry country president program group organization program concerns reported government company public impact public genome including,Science
+19,3,16.4,1,1,14,1,17,64,6.4,-0.468,2,clinical trial industry security many system growing future would program technology health market million program system economic security world,Health
+12,4,20.6,1,1,19,4,16,22,5.8,0.147,0,expected program local people decision market policy people concerns future president program,Entertainment
+11,3,30.1,0,0,1,1,214,4,2.4,-0.052,1,state recent including quantum sector sector program people said also economic,Science
+15,1,19.9,0,0,22,4,36,42,5.2,0.025,1,program first concerns recent impact expected year FDA growing research leader international percent system expected,Health
+17,5,6.0,1,1,12,0,34,9,5.9,0.302,3,market sector last next many next officials national impact would program next sector plan growing sector security,Sports
+16,3,10.8,1,1,16,1,17,9,5.2,0.065,2,smartphone called last president world major next organization report development state president new impact algorithm million,Technology
+12,3,18.9,3,1,6,4,31,311,6.2,-0.25,2,company last country report future year future economic athlete recent concerns local,Sports
+18,4,19.2,2,0,11,4,8,1,7.4,0.194,1,expected economic research said country economic company could national diagnosis reported program industry organization next local health future,Health
+15,1,19.0,0,1,12,2,74,15,4.5,-0.057,1,sector impact report would streaming said organization president program would growing recent could would development,Entertainment
+18,3,25.0,1,0,11,0,55,18,6.7,-0.342,2,country also world last market local legislation people many development economic global policy future announced market major government,Politics
+18,2,15.1,1,1,19,1,55,614,5.1,0.125,2,expected next concerns leader recent company economic technology would many sector local government announced earnings including first president,Business
+18,6,22.1,1,0,8,1,8,23,6.8,-0.31,1,country first local impact policy economic recent sanctions system called said group health said million people president market,World
+11,2,29.6,0,0,19,1,65,2,5.0,0.14,0,economic industry major earnings market also including called international technology million,Business
+17,3,18.6,0,1,0,0,113,25,4.5,0.29,0,new concerns announced new president leader people research last public program program decision announced new announced reported,World
+17,4,20.5,1,1,19,2,40,8,7.6,-0.364,3,major major next government world including NASA officials president said would public also next market growing company,Science
+18,3,19.3,0,0,6,3,58,1293,6.8,-0.02,2,report also economic national major announced technology according people could market refugees announced health last policy system research,World
+11,0,18.2,2,1,10,3,5,84,5.4,-0.121,3,year government diplomat recent report report people officials would state announced,World
+14,6,16.4,0,0,22,2,48,52,6.8,-0.011,3,economic policy state public state world local group officials many recent group impact next,Politics
+10,2,13.4,3,1,6,3,27,32,5.7,0.343,4,last including growing major security said system growing next would,Technology
+15,1,20.3,1,1,15,4,64,46,2.2,-0.175,0,decision first health could last decision tournament government announced decision security concerns security world technology,Sports
+18,2,14.1,1,0,3,2,77,208,4.2,-0.16,1,country local officials first state first market officials president president system international impact earnings growing president leader also,Business
+14,6,23.4,1,0,0,4,86,203,3.6,0.34,5,expected major world economic system premiere company box office percent global new including plan,Entertainment
+9,2,18.8,1,1,3,4,26,59,4.9,-0.131,0,major economic decision announced could state world merger last,Business
+18,4,18.9,0,1,11,3,10,1,7.6,0.203,1,future major international announced impact global last diplomat said could people policy state national last economic year could,World
+16,2,11.0,0,1,16,1,54,502,6.7,0.556,2,sector president decision economic local industry concerns industry many local national group people could national president,Science
+10,2,15.7,0,0,18,2,78,77,3.9,0.169,1,policy state announced growing merger percent program would shareholders economic,Business
+14,3,25.0,1,1,13,0,11,6,6.7,-0.07,2,said world last future according sanctions year recent international national expected program impact concerns,World
+14,3,24.5,1,1,21,3,2,61,6.2,0.171,3,security program leader report expected many report shareholders called policy also officials world group,Business
+15,1,13.9,2,0,20,1,51,71,3.6,0.479,1,leader organization called decision shareholders would said country people officials leader system technology health public,Business
+16,3,6.6,0,1,16,1,27,116,5.3,-0.216,4,policy could public concerns state program market recent technology said startup world expected local local market,Technology
+10,9,18.7,2,0,6,0,5,70,9.2,0.075,6,people group percent expected system sanctions many also decision called,World
+11,0,11.4,1,1,8,0,176,11,6.6,0.23,2,country world public said could last concerns called national diagnosis concerns,Health
+15,2,16.1,1,0,18,2,145,37,3.4,-0.105,3,national also announced new many growing market box office new next sector including organization many,Entertainment
+17,1,10.7,0,0,18,2,26,83,1.9,-0.002,2,percent year sector system report national officials policy many first research company economic major percent percent international,Science
+9,5,16.8,2,1,12,2,7,186,8.3,0.475,0,first security many security report could national impact merger,Business
+11,4,15.6,1,0,23,0,61,319,4.5,-0.113,2,major million vaccine next according many major industry future million impact,Health
+9,5,3.9,0,1,1,0,116,69,1.0,0.178,1,growing research refugees international announced many major million decision,World
+9,4,15.1,0,1,12,1,15,422,4.2,0.417,1,public algorithm president technology group report could said could,Technology
+9,2,22.2,1,1,22,4,92,1,6.8,-0.238,1,group market first national development year merger sector reported,Business
+18,7,17.1,4,0,9,1,1,96,1.0,0.47,6,people market research country development security sector world state reported including championship new people country technology company million,Sports
+14,2,22.6,0,0,23,1,3,4,1.8,-0.01,2,according international leader officials said global major future including algorithm market company officials future,Technology
+17,4,26.4,1,0,15,2,9,258,7.3,0.189,1,public million first officials group plan would also NASA president public recent research development could health concerns,Science
+14,3,15.9,1,1,9,2,52,796,4.5,0.004,2,future merger security first local country first country state impact expected national officials expected,Business
+11,2,11.9,0,1,18,3,49,2,8.3,-0.094,0,program new including expected called algorithm company million company organization local,Technology
+10,5,18.7,2,1,3,4,1,141,4.7,0.214,0,would many system could also technology development app future could,Technology
+12,2,18.8,2,1,16,2,157,2224,1.9,-0.231,1,telescope company program development policy decision company world industry percent research recent,Science
+17,1,12.8,1,1,8,3,97,99,5.4,0.379,1,major national company economic policy percent local shareholders reported national said president local country report decision last,Business
+16,4,17.0,4,0,5,2,69,8,4.3,-0.196,1,recent national including program first system recent percent concerns market international percent box office million percent,Entertainment
+16,2,22.3,0,0,4,3,5,642,5.0,0.174,0,major first leader sector state would many technology would president sector security percent last organization would,Sports
+15,1,10.9,3,1,22,1,119,3,4.4,-0.08,1,many championship year reported program next reported president development global security development last major technology,Sports
+18,3,23.4,0,1,19,3,51,164,3.8,-0.196,2,group last million also development market impact bipartisan international leader public last report also year according industry market,Politics
+13,5,13.4,2,0,12,4,21,1,2.7,-0.105,1,percent officials year economic concerns expected percent last million including according global next,World
+15,0,18.6,1,1,12,3,116,314,6.8,-0.102,2,decision research million could company concerns FDA many policy technology local recent country economic local,Health
+14,4,20.0,1,1,14,4,2,88,5.5,0.125,2,security group officials concerns report market people could global year future program group said,Politics
+14,3,17.6,1,1,3,1,37,48,6.4,0.018,1,market called first called officials security percent plan genome world new recent president report,Science
+15,0,9.2,1,0,13,1,18,39,6.4,0.259,0,refugees according year international leader country development industry also market decision public reported plan recent,World
+14,2,15.5,2,1,23,2,1,242,6.3,0.154,2,public president organization development impact public local policy many economic system economic impact telescope,Science
+14,3,14.8,0,0,22,2,11,11,1.1,-0.064,3,also many technology new local industry local next sanctions sector officials plan last sector,World
+16,3,21.0,1,1,2,0,2,389,5.5,0.078,2,new system health million would national called according officials international announced leader reported year announced expected,Health
+10,0,13.8,1,0,16,1,15,266,5.0,-0.348,2,concerns health people diagnosis economic government diagnosis report company year,Health
+19,4,15.9,0,1,0,1,31,6,4.7,-0.032,1,decision people tournament last said concerns leader would said championship major company technology including report many including local new,Sports
+18,2,14.9,0,0,0,3,150,19,5.7,-0.095,4,world public impact economic public government also called expected global diagnosis international reported reported country development future economic,Health
+11,1,19.3,1,1,10,3,33,36,4.8,-0.18,3,security next including last future also president president FDA expected economic,Health
+16,5,18.3,1,1,20,3,171,47,3.7,-0.04,3,recent system system people called year million first security premiere economic government major national group world,Entertainment
+18,2,21.0,1,1,17,4,3,7,6.2,0.086,2,technology report government leader according expected public public year new officials could million also report president shareholders people,Business
+11,3,13.1,0,0,10,4,18,15,5.5,0.18,0,global local first refugees market world year security organization system including,World
+13,2,14.8,0,0,0,4,38,22,5.2,0.172,2,year people research diagnosis concerns diagnosis concerns called announced international leader system technology,Health
+13,1,19.0,1,0,21,2,59,194,8.3,0.281,2,local expected reported leader quarterly company international program security year impact including percent,Business
+12,6,20.0,2,1,3,3,9,37,4.0,-0.026,2,first development people many including according diagnosis officials sector last first future,Health
+11,2,13.7,1,0,9,3,44,466,5.9,-0.2,1,global major growing growing industry diagnosis next health health said future,Health
+18,3,21.0,0,1,5,1,51,27,4.3,0.009,1,global recent global international market many future state system system announced group new future leader impact summit expected,World
+17,5,21.7,1,1,20,1,37,249,5.5,-0.304,5,could market would recent first group public health policy said national group system state government expected program,Health
+14,1,23.0,1,1,22,2,7,123,4.5,-0.349,3,expected would country public merger expected announced economic year company leader technology government concerns,Business
+14,2,11.6,1,0,15,3,23,197,5.2,0.077,3,economic reported government company country expected announced country announced impact research group championship according,Sports
+9,2,20.0,1,1,20,2,1,72,3.8,-0.242,2,first also technology company organization expected also would celebrity,Entertainment
+9,6,22.6,0,0,23,4,201,29,3.3,0.188,0,health said health reported quantum according national million group,Science
+15,2,12.2,1,0,23,4,8,370,7.1,-0.442,1,senator major plan partisan security officials announced leader program leader percent company next according public,Politics
+10,6,19.5,5,1,4,0,71,102,5.2,-0.074,2,reported recent future announced organization national technology percent sanctions country,World
+13,3,21.7,1,0,13,1,4,146,3.4,0.297,2,system security program company officials according system industry shareholders first earnings security would,Business
+16,2,13.2,0,1,3,4,62,1541,5.5,-0.005,3,public new country program next policy organization international industry new market earnings people technology new market,Business
+10,2,25.7,0,1,17,2,14,2,3.2,-0.289,2,growing next impact market according first expected streaming decision group,Entertainment
+12,3,20.4,1,1,21,4,178,129,4.7,0.354,2,smartphone leader million program reported organization technology technology leader health would impact,Technology
+16,0,24.2,1,1,1,2,33,577,6.1,0.174,2,first local concerns policy reported president plan international government industry government sector president million startup health,Technology
+13,1,27.2,0,1,7,3,53,3,4.5,0.026,1,group development would said plan state quantum many industry many government called country,Science
+14,3,10.9,0,0,0,2,137,1054,2.8,-0.244,2,industry group expected group local sector country group leader program international million national quarterly,Business
+8,4,19.9,3,1,18,3,75,66,5.0,-0.286,1,reported market industry would policy development security global,Entertainment
+17,1,19.6,0,1,5,4,44,61,4.4,0.126,2,next box office impact including public global report expected growing called local million officials health country economic,Entertainment
+15,0,11.8,2,0,16,4,72,4,6.2,-0.354,1,clinical trial global system new president many growing according announced vaccine company system country government,Health
+19,2,13.5,0,1,14,3,114,3,1.7,-0.169,2,impact organization including national health economic last international world sector plan country economic many sector industry box office announced,Entertainment
+18,1,20.3,0,1,11,4,6,249,3.1,0.374,2,impact country also last technology public group recent national people plan also health year last local last premiere,Entertainment
+17,2,23.2,1,1,15,2,19,12,4.5,-0.169,1,according clinical trial government technology policy including market president announced system country next state research leader announced,Health
+13,1,15.6,4,1,5,1,105,14,3.9,-0.497,2,first last next report public leader recent new could research app government industry,Technology
+13,2,23.5,3,1,6,1,20,174,2.8,-0.367,1,world reported box office also people government could including premiere local said next,Entertainment
+10,2,17.5,0,0,15,0,16,183,3.9,-0.057,0,leader called would impact year country world many million senator,Politics
+16,0,17.1,0,1,8,3,30,10516,6.1,0.152,1,company decision first recent president called leader company decision officials year next system vaccine company government,Health
+16,4,26.9,0,1,3,4,16,226,4.1,0.374,3,new state concerns security reported report program leader also company economic announced local leader growing international,Business
+15,3,27.0,2,1,18,2,5,89,7.7,0.206,2,policy program announced market shareholders also could public also policy future people announced year group,Business
+15,5,18.5,2,1,2,4,75,161,1.9,0.299,3,genome including including decision global country impact market development group first said officials plan said,Science
+14,5,25.4,0,1,4,0,16,45,2.0,0.054,1,local future also development first public expected reported expected including government premiere research technology,Entertainment
+9,3,18.3,0,0,0,4,123,33,6.9,-0.045,0,new leader national expected organization refugees last leader million,World
+16,1,21.1,1,1,9,3,28,45,7.3,0.107,4,announced leader company security genome market research group also local first growing national announced public major,Science
+17,4,26.6,1,0,23,2,219,79,4.1,-0.035,3,year policy development concerns national health research first state million growing major plan first international telescope last,Science
+13,2,15.9,1,0,0,2,32,3,3.1,-0.436,0,program world leader development sector first many called future country people impact new,Science
+13,4,18.3,0,0,21,1,158,70,4.6,-0.132,0,development new million organization company new market including celebrity percent officials also concerns,Entertainment
+16,4,15.8,1,0,1,0,107,17,2.7,0.086,1,future million decision program development health government reported concerns genome impact decision government group development impact,Science
+18,3,11.8,2,1,0,1,47,7,5.6,-0.225,1,company new reported research leader impact sanctions major security organization next plan sector many president concerns program officials,World
+9,3,24.4,2,1,1,3,5,108,8.7,0.176,1,concerns program said including global growing vaccine first national,Health
+18,5,24.9,0,1,19,4,123,15,6.5,-0.024,2,impact research according people organization future technology economic industry sector vaccine organization plan group impact sector diagnosis state,Health
+11,2,21.9,0,0,11,4,10,72,5.5,-0.103,0,expected public report health group organization economic government next new also,Business
+13,2,20.0,1,0,9,4,4,97,3.0,0.525,2,policy system international year research country security people market government athlete industry local,Sports
+11,1,17.2,1,1,10,2,7,106,4.6,0.298,4,government country announced last recent program national could FDA future year,Health
+13,1,11.9,1,1,20,0,32,2032,6.3,0.029,4,program called would technology reported would major million would decision global government organization,Sports
+17,3,11.4,2,1,15,3,87,29,4.3,-0.478,2,government public market public announced impact officials could report company million security policy group startup sector million,Technology
+13,3,11.7,2,1,5,3,12,19,3.3,-0.478,3,market expected NASA president country last technology also decision million according security many,Science
+15,1,12.8,2,0,5,0,29,23,3.4,0.71,1,partisan organization impact program would report group partisan program reported report according impact sector people,Politics
+17,4,20.3,3,1,13,4,53,6,4.9,0.024,1,diplomat last health health international million new international called economic global new new major percent international leader,World
+17,4,21.9,1,1,7,1,36,8,2.8,-0.471,4,government impact legislation international would international health officials development first sector growing local plan expected future industry,Politics
+9,4,18.9,0,1,3,2,26,1,6.5,-0.033,3,organization called merger security according president security policy sector,Business
+18,4,16.4,1,1,2,1,10,13,7.7,-0.306,4,program international president concerns state coach according local market growing growing public president decision report health technology development,Sports
+9,1,20.6,3,0,21,3,11,64,4.9,0.128,1,including algorithm local impact also according economic world program,Technology
+17,1,20.4,0,0,8,3,14,91,4.1,0.159,4,decision would local last local public said international president expected future called plan health premiere leader people,Entertainment
+10,4,26.9,2,1,9,4,91,111,3.3,0.387,1,president officials national reported development public national security said next,Health
+10,3,14.0,0,1,11,2,7,69,6.0,0.086,5,future international state government concerns bipartisan officials future percent percent,Politics
+13,1,16.0,1,1,6,2,3,288,8.9,-0.012,1,national shareholders percent announced local leader sector next officials program percent called country,Business
+15,1,20.9,1,0,15,1,20,100,3.7,0.037,2,championship recent plan major global decision plan coach decision growing government state said according public,Sports
+16,4,17.2,0,1,4,0,21,780,8.9,-0.203,2,growing development expected report program premiere percent recent said policy international plan global according international group,Entertainment
+17,4,12.1,1,0,0,1,2,222,3.4,-0.29,0,year market next report public year new policy also health group company last last expected celebrity many,Entertainment
+17,2,23.5,3,1,5,0,34,98,4.9,0.583,2,according announced national future smartphone many also could many security leader leader government group last sector development,Technology
+14,1,19.9,0,0,8,4,5,298,5.9,-0.163,4,government system people local market international sanctions health future international president recent future major,World
+10,1,13.9,1,1,21,1,38,139,7.0,-0.174,2,decision according company company national system plan could million app,Technology
+11,2,21.1,0,0,1,3,4,4,4.2,-0.165,0,policy local market development program local health legislation president last group,Politics
+14,3,27.7,1,0,8,1,72,39,4.2,-0.559,2,country sector global world organization growing group concerns clinical trial concerns program global security,Health
+13,2,20.4,0,1,18,4,129,115,5.6,0.084,0,economic security said major country smartphone program government state research system president system,Technology
+15,1,13.3,1,1,22,3,20,7,5.0,0.452,0,first refugees policy first many including leader sector company million company policy state according policy,World
+15,3,17.2,2,0,18,4,8,49,5.1,0.106,1,international organization announced plan plan public organization major expected people national expected company refugees future,World
+18,3,20.3,2,1,10,2,37,236,2.8,0.148,1,percent global clinical trial president leader officials organization world year expected percent also organization announced economic recent group,Health
+11,2,15.3,3,0,2,1,55,219,3.7,0.051,2,recent report global major merger program impact president officials concerns would,Business
+12,1,24.3,0,1,16,2,12,1,4.2,-0.025,5,report senator major new said industry last international international growing next people,Politics
+12,1,22.6,0,0,7,4,13,6,7.4,0.12,1,report growing program many world sanctions officials could announced million major new,World
+15,4,12.3,0,1,11,0,15,56,3.5,-0.356,3,international program concerns state growing million said policy called percent reported called organization national next,World
+18,2,13.5,0,1,11,1,9,26,8.3,0.179,0,percent industry global last merger company recent sector development next report million announced development said president public report,Business
+15,3,20.4,3,1,11,4,57,636,5.7,-0.3,2,reported policy president officials organization government organization group called global year system said president company,Sports
+18,6,19.3,2,0,3,3,17,61,7.9,-0.212,1,policy announced new decision security many market refugees industry government sector global international country president organization company sector,World
+15,5,20.6,1,1,0,1,13,48,5.8,0.317,0,research local announced company next first concerns world policy first according expected also future program,Business
+11,4,21.8,0,1,3,0,68,13,5.8,0.215,3,year company economic company reported development first new quantum report called,Science
+14,5,23.4,1,1,16,0,38,35,7.2,0.391,6,announced national startup year expected officials including government leader could major first local first,Technology
+11,4,17.2,1,0,13,0,111,21,5.0,0.029,1,recent new algorithm according concerns public security plan said public international,Technology
+13,1,20.5,0,1,13,1,68,40,4.1,0.214,1,market called next last economic economic would called million many including called including,Business
+16,1,13.8,2,1,22,2,15,259,4.3,0.214,1,decision algorithm organization could recent plan year would would said local said national announced report local,Technology
+13,3,14.5,1,1,7,1,87,11,1.1,0.069,1,organization would percent future next development last public research senator first recent government,Politics
+18,1,24.1,1,1,8,2,51,23,5.1,-0.233,5,last major announced recent box office group including said research future impact public called national major concerns country,Entertainment
+10,2,18.7,0,1,10,0,33,4,4.8,0.113,1,international international national recent year impact million year streaming technology,Entertainment

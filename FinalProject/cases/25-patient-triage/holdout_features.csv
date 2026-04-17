@@ -1,0 +1,701 @@
+id,age,heart_rate,blood_pressure_systolic,blood_pressure_diastolic,temperature_f,respiratory_rate,oxygen_saturation,pain_score,arrival_mode,time_of_arrival_hour,is_weekend,num_previous_er_visits,has_chronic_condition,currently_on_medications,allergies_count,bmi,chief_complaint_notes
+0,55,77,147,83,98.6,16,94.6,6,0,6,1,2,1,0,1,38.2,presenting with prescription refill started patient reports fever
+1,60,73,165,74,97.7,12,93.5,7,0,2,0,1,0,0,2,15.7,intermittent fever severe abdominal breathing
+2,34,96,131,68,96.5,13,96.8,6,0,18,0,2,1,1,0,21.1,denies fever presenting with laceration associated complains of history of headache
+3,81,121,163,67,97.6,17,92.5,0,1,21,0,1,1,0,2,27.5,rash moderate back started rash history of states
+4,65,75,163,72,100.8,14,92.3,10,2,6,0,2,0,1,2,27.0,cough alert oriented chest swelling breathing no allergies associated
+5,46,71,111,109,96.0,16,95.7,3,1,21,0,2,0,0,2,32.2,insect bite onset weakness denies abdominal rash days ago
+6,57,71,135,98,101.0,11,94.0,7,2,15,0,0,0,1,1,22.6,sprained ankle alert oriented breathing denies dizziness
+7,48,46,80,85,97.7,21,100.0,0,1,13,0,2,0,0,1,33.6,cough denies rash
+8,76,65,111,50,98.6,22,99.6,4,0,2,0,1,0,1,0,27.9,weakness swelling history of insect bite
+9,70,72,104,69,100.1,20,94.4,0,0,14,0,3,0,0,0,27.0,days ago alert oriented moderate patient reports persistent cough history of back days ago
+10,58,105,160,73,98.2,8,96.8,0,0,19,0,1,0,0,0,23.7,vomiting abdominal headache weakness worsening moderate fever
+11,12,163,131,82,100.1,20,96.1,7,0,19,0,2,0,0,1,31.5,cardiac arrest dizziness headache rash denies vomiting patient reports weakness
+12,35,121,173,68,101.5,13,94.3,9,0,5,0,2,0,0,3,18.7,vomiting weakness chest complains of
+13,80,75,118,82,100.4,22,86.7,1,0,3,0,2,0,0,3,19.4,intermittent cough chest complains of moderate
+14,52,73,80,63,98.2,8,93.1,2,1,20,1,5,0,0,1,22.9,onset vomiting dizziness laceration worsening nausea abdominal
+15,48,93,177,100,97.4,19,82.7,9,1,10,0,1,0,1,1,37.9,vomiting complains of chest difficulty breathing worsening breathing chest
+16,57,83,157,72,96.4,22,100.0,5,0,0,0,4,1,0,0,28.4,presenting with cough headache
+17,61,83,149,72,96.0,25,100.0,2,2,3,0,0,0,0,1,20.1,sprained ankle fever swelling patient reports dizziness swelling complains of vomiting
+18,46,78,137,92,96.1,10,95.5,6,0,1,0,2,0,0,3,32.6,associated weakness nausea
+19,22,82,94,109,99.6,21,85.3,5,0,0,1,1,0,0,1,27.1,follow up history of moderate breathing worsening headache
+20,2,93,110,83,99.0,19,96.3,3,0,12,1,1,0,1,0,15.0,patient reports dizziness intermittent intermittent headache weakness
+21,34,51,159,92,95.3,17,96.4,2,2,13,0,2,1,0,0,31.3,follow up swelling cough nausea pain patient reports
+22,68,67,120,87,98.7,15,94.3,4,0,22,0,3,0,0,2,24.7,started rash alert oriented
+23,48,75,124,57,99.2,13,90.9,6,1,4,0,1,1,0,0,27.0,difficulty breathing breathing headache cough
+24,36,101,140,71,97.6,27,94.0,4,0,19,1,2,0,0,1,26.8,moderate alert oriented back associated persistent cough onset
+25,79,94,116,93,98.0,29,85.0,4,0,22,0,0,0,1,0,24.5,vomiting onset difficulty breathing alert oriented abdominal breathing headache cough
+26,49,90,120,109,97.5,15,100.0,6,1,12,1,5,1,1,1,27.6,alert oriented complains of worsening rash moderate nausea
+27,29,86,132,103,96.0,17,90.9,1,0,13,0,1,0,0,0,15.5,patient reports back pain states moderate nausea
+28,17,128,133,69,101.7,12,93.2,3,0,10,0,0,0,1,0,28.1,moderate worsening rash cough denies history of onset
+29,24,87,183,81,98.6,20,85.8,8,0,12,1,2,0,1,1,29.1,associated rash altered mental swelling worsening vomiting patient reports associated
+30,35,127,110,93,100.2,13,86.5,10,0,7,1,0,0,0,2,26.2,worsening states history of swelling cough cardiac arrest denies
+31,25,61,138,71,95.8,15,96.4,0,2,3,0,3,1,1,0,26.7,complains of headache onset abdominal patient reports
+32,1,122,166,114,97.0,32,95.4,6,0,3,0,2,0,0,0,25.2,denies difficulty breathing abdominal states pain nausea
+33,43,90,80,77,101.7,21,87.3,5,0,17,1,3,1,0,1,23.2,difficulty breathing breathing associated back onset
+34,35,124,129,83,97.9,22,100.0,0,2,18,0,0,0,0,2,27.5,alert oriented denies denies weakness presenting with days ago alert oriented
+35,52,76,119,107,98.6,20,96.8,1,1,7,1,0,0,0,1,23.2,complains of rash taking medication no allergies associated days ago
+36,51,104,160,98,99.9,13,97.4,4,0,20,0,2,0,0,0,35.1,fever vomiting started fever back nausea
+37,47,84,164,76,97.3,20,97.9,4,0,7,1,4,0,0,0,33.8,associated denies vomiting
+38,60,101,164,65,98.5,31,88.6,7,0,10,0,4,0,1,0,19.8,no allergies abdominal presenting with states weakness headache alert oriented
+39,41,69,155,118,95.4,16,92.7,1,0,13,1,3,0,1,2,32.1,dizziness intermittent started alert oriented
+40,41,111,83,58,97.1,13,100.0,0,2,23,1,1,1,0,0,33.5,pain follow up weakness patient reports presenting with dizziness worsening
+41,61,127,134,50,97.1,15,97.9,0,2,2,0,3,1,1,1,27.7,chest complains of rash pain dizziness taking medication denies
+42,76,73,96,133,100.0,24,93.4,3,0,9,0,3,0,0,2,32.7,back rash persistent cough onset swelling dizziness intermittent worsening
+43,68,94,180,90,98.6,20,87.9,7,0,6,1,4,1,1,1,27.2,moderate breathing swelling fever unresponsive cough started
+44,19,120,130,94,97.9,8,100.0,2,0,22,0,4,0,0,2,24.8,dizziness intermittent headache vomiting breathing
+45,27,114,134,114,97.7,19,97.5,0,2,0,1,4,0,0,3,22.8,prescription refill no allergies patient reports patient reports complains of back
+46,27,56,86,90,98.7,21,92.1,0,0,3,1,1,0,0,3,24.6,vomiting intermittent persistent cough worsening complains of
+47,56,88,90,96,98.1,13,94.7,9,0,4,0,1,0,1,2,27.6,pain weakness abdominal
+48,86,93,169,78,99.6,12,95.5,4,1,20,1,2,1,1,0,27.9,no allergies complains of sprained ankle headache complains of
+49,45,106,149,85,98.7,28,94.0,3,0,6,1,2,0,0,0,18.9,weakness severe abdominal associated abdominal
+50,53,91,129,67,98.0,32,89.4,2,1,0,0,3,0,1,2,15.9,history of started complains of alert oriented unresponsive
+51,77,103,148,76,97.7,17,90.6,3,0,15,0,3,0,0,1,31.4,laceration pain swelling intermittent
+52,41,45,147,104,96.7,17,93.8,5,0,9,1,3,0,0,1,31.9,headache moderate prescription refill states back swelling
+53,57,100,84,60,98.1,23,100.0,4,1,12,0,4,1,0,3,38.9,alert oriented patient reports associated follow up
+54,28,48,121,120,98.4,21,95.3,9,2,16,0,4,0,1,0,25.7,worsening nausea abdominal rash days ago history of
+55,40,107,99,59,95.3,22,94.0,1,0,21,0,2,0,0,2,34.4,worsening chest intermittent
+56,59,94,177,68,96.2,26,90.9,5,2,22,0,3,0,0,0,27.3,days ago taking medication breathing complains of started
+57,25,96,139,83,98.4,23,89.5,4,2,13,0,2,1,1,1,26.6,nausea taking medication days ago patient reports breathing persistent cough
+58,65,100,150,88,99.1,16,99.3,0,0,3,0,1,0,1,0,31.4,back dizziness states taking medication intermittent chest worsening prescription refill
+59,50,57,151,93,98.5,26,83.5,0,1,1,0,3,0,0,1,19.7,no allergies states taking medication dizziness worsening dizziness vomiting
+60,52,58,138,101,99.6,13,94.0,7,0,22,0,5,1,1,0,28.0,presenting with onset weakness nausea rash
+61,57,76,121,92,99.1,18,93.4,8,0,14,1,0,0,0,0,27.4,weakness rash fever taking medication
+62,59,79,106,72,98.6,18,95.8,4,0,21,1,1,0,1,1,33.7,associated alert oriented intermittent complains of dizziness back pain
+63,50,88,119,112,100.7,21,99.2,3,0,15,0,5,1,0,0,25.9,abdominal persistent cough headache denies pain worsening denies
+64,65,129,147,60,98.3,17,84.8,0,2,13,0,1,0,0,1,29.8,abdominal rash back history of
+65,57,104,143,50,95.5,13,90.1,3,2,20,0,2,0,0,1,29.3,complains of persistent cough associated vomiting onset
+66,29,55,100,78,96.4,30,97.6,7,0,11,0,2,0,1,1,26.3,dizziness started fever presenting with
+67,31,61,139,50,97.4,16,95.8,0,0,6,0,4,0,1,3,26.1,chest moderate days ago insect bite
+68,67,76,113,85,96.5,12,86.0,3,0,6,1,1,1,0,1,27.8,complains of altered mental states back patient reports moderate
+69,77,90,119,73,97.9,27,99.3,7,0,3,0,4,0,0,1,27.9,abdominal worsening persistent cough fever onset vomiting patient reports
+70,85,70,124,67,97.7,10,87.6,6,1,10,0,1,0,1,1,27.9,intermittent pain difficulty breathing taking medication alert oriented worsening headache
+71,61,111,97,78,100.6,16,92.1,9,2,17,1,2,0,0,0,29.8,no allergies fever dizziness rash associated
+72,18,115,168,98,97.5,15,90.3,1,0,15,0,3,0,0,1,34.7,persistent cough moderate started patient reports onset associated
+73,23,111,148,74,99.2,14,89.1,8,1,21,0,5,0,1,1,15.0,alert oriented fever back vomiting alert oriented swelling
+74,22,126,98,90,101.3,10,94.1,1,2,22,0,1,0,0,0,26.8,persistent cough intermittent states no allergies rash
+75,83,105,132,95,95.6,11,91.7,7,0,14,0,1,0,1,0,31.6,cough moderate states denies alert oriented onset
+76,38,77,157,111,97.9,15,100.0,2,1,21,0,1,1,0,1,15.0,worsening swelling back altered mental taking medication swelling nausea abdominal
+77,71,103,149,56,95.5,14,100.0,3,0,18,0,3,1,0,0,29.5,onset chest swelling states alert oriented started associated
+78,4,41,112,123,99.4,15,90.7,3,1,4,0,0,0,1,1,24.9,chest presenting with denies taking medication started
+79,47,117,122,60,98.7,8,86.9,5,0,17,1,4,1,1,1,18.3,headache nausea severe abdominal associated no allergies
+80,19,95,198,96,96.5,18,89.5,7,0,16,0,2,0,0,0,21.8,fever breathing presenting with started
+81,23,124,138,57,98.8,19,95.6,6,0,1,1,2,1,1,2,29.0,intermittent taking medication history of states complains of started complains of
+82,83,96,143,60,98.9,19,94.7,6,0,17,0,1,0,1,1,28.6,prescription refill complains of presenting with dizziness back
+83,63,117,149,113,97.1,17,100.0,4,2,8,1,2,0,0,0,44.0,rash no allergies intermittent patient reports swelling worsening started
+84,61,86,81,50,101.1,19,100.0,8,0,12,0,1,0,1,0,25.1,weakness rash moderate
+85,56,143,92,83,97.5,19,93.7,10,1,1,0,0,0,1,0,16.3,abdominal denies swelling
+86,44,133,137,79,95.2,19,97.3,10,2,3,0,3,1,0,2,25.3,chest chest breathing
+87,28,72,148,85,98.7,22,96.4,0,0,19,0,2,0,1,0,31.9,no allergies abdominal weakness alert oriented follow up
+88,62,122,80,102,99.9,16,100.0,7,0,18,0,1,0,0,3,18.2,cough headache pain intermittent pain presenting with
+89,61,92,133,69,94.3,27,88.6,2,0,12,1,4,0,0,1,21.9,patient reports onset weakness insect bite started
+90,36,118,138,63,96.1,8,96.7,5,0,11,1,2,1,0,1,29.5,abdominal days ago onset moderate headache difficulty breathing swelling chest
+91,95,89,160,106,94.9,17,96.5,0,0,15,0,0,0,1,2,29.7,denies taking medication denies
+92,87,68,80,99,93.8,28,89.3,0,0,12,0,3,0,0,0,25.4,associated follow up fever patient reports moderate
+93,13,76,163,50,100.1,17,100.0,1,0,10,0,0,0,1,1,30.9,days ago taking medication swelling started moderate states presenting with
+94,51,126,89,67,96.8,16,100.0,0,2,7,0,2,0,0,0,27.4,headache presenting with vomiting insect bite
+95,37,131,133,71,99.7,16,95.0,5,0,2,0,1,0,1,2,21.3,breathing associated history of taking medication
+96,47,59,191,79,98.2,19,88.1,3,0,0,0,6,0,0,1,31.4,intermittent intermittent complains of abdominal rash nausea onset
+97,40,84,134,69,99.1,16,98.5,5,1,1,1,3,0,1,1,33.1,back weakness swelling patient reports associated
+98,1,90,161,109,100.3,13,96.3,0,0,20,0,3,0,0,0,19.7,onset vomiting days ago abdominal
+99,65,63,84,79,99.2,15,100.0,3,0,2,0,4,0,1,2,33.3,alert oriented started headache patient reports history of onset vomiting follow up
+100,40,109,173,76,97.9,26,100.0,0,0,17,0,1,1,0,0,21.8,severe abdominal intermittent presenting with chest
+101,69,98,110,77,99.0,21,99.6,3,0,16,0,2,0,1,0,31.7,breathing associated laceration alert oriented
+102,74,67,114,81,99.5,12,98.5,7,2,21,1,4,0,1,3,33.0,dizziness history of alert oriented vomiting days ago vomiting back follow up
+103,51,106,184,80,101.8,18,93.3,8,1,20,0,1,0,1,1,27.4,no allergies days ago taking medication alert oriented
+104,43,89,164,100,97.9,16,92.0,7,0,12,0,1,0,0,1,36.4,moderate unresponsive fever days ago days ago
+105,22,82,92,104,99.6,16,100.0,2,0,0,1,3,0,1,2,35.0,nausea dizziness associated pain
+106,50,73,166,50,99.5,19,92.4,3,0,3,0,1,0,1,2,30.1,cough intermittent days ago fever breathing no allergies days ago
+107,37,88,95,82,99.2,12,94.5,3,0,17,0,1,0,0,2,15.4,presenting with vomiting rash follow up back pain headache
+108,37,71,100,85,97.4,8,88.8,1,0,14,0,0,0,1,2,21.5,pain sprained ankle weakness associated cough
+109,54,73,176,99,99.7,21,92.0,7,1,14,0,2,0,1,2,28.2,days ago taking medication vomiting no allergies onset alert oriented difficulty breathing states
+110,30,71,119,124,96.5,16,93.5,5,0,22,0,2,1,1,2,25.6,days ago taking medication vomiting started weakness
+111,22,111,111,56,95.6,9,93.6,2,0,2,0,0,1,1,2,28.6,days ago states rash weakness no allergies moderate
+112,63,113,166,101,99.0,17,97.4,6,0,17,0,0,1,0,2,38.3,cough associated abdominal presenting with rash abdominal weakness
+113,76,97,163,89,98.7,12,93.9,6,1,7,0,2,0,0,0,36.5,rash states cough taking medication
+114,37,78,170,83,98.9,25,99.5,2,0,10,0,1,1,0,2,28.2,history of difficulty breathing rash presenting with abdominal nausea back alert oriented
+115,50,47,127,62,94.3,9,100.0,0,0,3,0,3,1,0,1,40.6,presenting with history of onset
+116,38,88,109,50,98.8,18,100.0,2,1,11,1,1,0,1,0,18.6,chest onset abdominal nausea back patient reports
+117,62,70,112,74,99.4,18,100.0,5,0,7,0,3,0,1,1,33.0,denies swelling chest
+118,29,63,80,82,99.7,10,100.0,1,1,11,1,2,0,0,6,23.8,weakness vomiting pain patient reports moderate no allergies
+119,75,134,138,87,97.5,21,94.6,0,0,8,1,1,0,0,0,27.6,cough nausea fever denies cough
+120,71,90,106,95,99.4,9,94.8,0,1,19,0,4,0,0,1,39.4,back onset associated patient reports breathing prescription refill
+121,36,120,90,94,99.5,23,90.1,3,2,1,0,4,1,0,3,28.0,pain pain associated swelling pain
+122,81,94,139,71,99.7,15,100.0,3,0,3,0,0,1,1,0,38.4,worsening intermittent weakness weakness worsening
+123,46,92,124,50,98.8,8,100.0,5,1,5,0,1,0,0,0,19.0,onset back history of started
+124,28,56,142,69,95.1,17,98.1,0,0,7,1,0,0,1,0,27.4,breathing back dizziness headache dizziness started patient reports
+125,23,119,128,92,97.3,22,81.6,5,0,7,0,1,0,0,0,39.8,days ago presenting with started moderate cough started onset
+126,76,97,127,59,99.2,26,100.0,2,0,8,0,2,0,0,1,21.4,prescription refill abdominal abdominal weakness no allergies worsening started
+127,58,62,152,78,98.5,28,93.3,1,0,7,0,0,0,1,0,30.1,breathing fever denies laceration
+128,103,79,186,50,98.0,15,98.2,5,0,18,0,1,0,0,1,19.5,days ago laceration patient reports dizziness cough fever chest
+129,22,96,95,75,95.0,15,100.0,3,0,18,0,2,0,0,0,23.9,moderate cough headache associated breathing presenting with
+130,62,71,145,61,98.1,12,98.0,5,0,7,0,2,0,1,0,37.7,states started breathing weakness
+131,11,78,117,70,98.3,16,99.7,3,0,4,0,2,0,0,1,27.7,worsening states worsening alert oriented back
+132,73,71,111,81,94.6,8,100.0,5,0,15,1,1,0,1,2,37.9,headache dizziness intermittent insect bite
+133,75,89,133,67,101.6,18,92.4,9,0,18,0,0,0,0,1,39.3,states worsening back started taking medication weakness
+134,65,108,140,86,97.6,15,95.0,0,0,14,1,3,0,0,0,30.2,history of cough altered mental weakness rash
+135,55,85,80,91,97.7,12,92.0,9,0,4,1,1,0,0,1,28.7,onset persistent cough patient reports rash nausea worsening
+136,29,114,112,81,94.9,8,96.4,10,2,20,1,1,1,0,0,38.9,taking medication swelling breathing complains of
+137,68,68,149,97,97.1,16,92.4,7,0,8,0,1,0,0,1,30.4,moderate fever laceration complains of fever
+138,39,94,175,71,99.4,14,100.0,5,1,22,1,1,1,1,0,30.4,complains of rash severe hemorrhage headache onset patient reports
+139,47,78,94,63,100.1,26,88.9,10,1,12,0,2,1,0,1,15.0,patient reports breathing started rash days ago breathing no allergies
+140,70,83,114,94,100.9,14,99.5,4,1,12,0,3,0,1,0,26.0,back headache pain patient reports onset
+141,67,76,182,77,99.8,18,92.6,5,0,16,0,0,0,1,2,33.0,taking medication presenting with complains of associated rash associated back
+142,22,83,80,84,96.5,13,96.1,4,0,7,1,5,0,0,1,40.5,vomiting prescription refill intermittent days ago vomiting taking medication no allergies started
+143,49,91,121,66,98.1,13,90.4,3,0,20,1,2,0,0,1,31.9,alert oriented persistent cough states complains of
+144,37,77,99,73,98.0,17,99.7,5,0,20,0,2,0,0,0,20.9,associated presenting with started sprained ankle back cough
+145,49,94,116,85,95.5,23,90.0,7,1,1,0,1,0,0,3,23.7,rash patient reports abdominal complains of laceration
+146,76,39,171,69,98.4,25,88.4,5,0,13,1,1,0,0,0,23.4,vomiting abdominal intermittent associated intermittent states
+147,28,82,80,50,98.9,15,96.8,3,0,0,0,1,1,0,0,34.3,complains of headache alert oriented abdominal sprained ankle
+148,53,58,118,82,97.8,16,92.4,3,0,0,0,4,0,0,0,27.6,states taking medication pain
+149,42,98,195,91,98.1,16,92.8,7,0,2,0,1,0,1,0,25.1,alert oriented denies presenting with taking medication
+150,36,93,97,80,101.1,20,89.7,0,0,9,0,2,0,0,2,16.7,cough prescription refill abdominal states breathing
+151,52,105,107,71,98.3,9,100.0,2,0,5,0,1,1,0,1,19.3,swelling abdominal vomiting dizziness
+152,42,94,161,111,97.4,27,88.3,0,0,22,1,1,1,1,0,31.7,alert oriented states started weakness back sprained ankle associated
+153,67,92,139,74,98.1,20,100.0,0,0,12,0,3,0,0,1,24.3,altered mental weakness taking medication alert oriented fever dizziness patient reports worsening
+154,77,82,184,54,97.5,19,99.5,10,0,0,0,0,0,0,1,27.5,no allergies no allergies fever pain days ago
+155,54,94,144,70,100.5,24,97.0,1,0,19,1,1,1,1,1,37.5,states vomiting vomiting fever altered mental
+156,50,96,120,102,97.8,22,95.7,1,1,13,0,1,0,1,0,21.6,dizziness laceration headache swelling chest days ago
+157,32,113,125,88,103.0,13,100.0,10,0,21,1,2,0,1,0,18.6,dizziness swelling back vomiting vomiting history of
+158,88,98,134,78,101.2,21,97.0,0,2,9,1,2,0,0,2,35.6,history of complains of onset rash no allergies history of
+159,67,60,153,113,99.4,12,93.6,7,1,7,0,0,0,0,1,17.4,nausea headache states chest
+160,89,95,145,100,95.9,8,98.4,0,0,1,0,2,0,0,0,25.5,follow up abdominal patient reports rash nausea started intermittent nausea
+161,48,66,102,84,100.1,13,91.4,2,0,9,0,5,1,1,3,37.8,cough history of presenting with presenting with presenting with nausea fever
+162,36,129,103,73,96.0,8,92.5,2,1,19,0,2,0,1,1,37.3,intermittent cough insect bite rash started pain
+163,45,101,93,96,94.6,13,93.4,10,0,20,0,0,0,1,2,18.8,severe abdominal days ago history of vomiting
+164,86,92,180,82,96.8,14,94.6,2,2,10,0,2,0,0,1,27.3,cough onset associated started weakness associated
+165,41,101,96,94,98.7,17,95.6,0,0,20,1,0,0,1,1,25.8,weakness laceration complains of fever vomiting
+166,23,61,119,79,100.5,22,95.3,4,1,10,1,4,1,0,1,39.5,worsening sprained ankle alert oriented days ago
+167,61,90,119,103,96.3,18,98.9,5,0,22,0,1,1,0,2,37.7,patient reports taking medication days ago weakness rash taking medication insect bite onset
+168,51,113,138,86,97.6,11,100.0,7,1,9,0,0,0,0,0,21.5,denies fever presenting with abdominal fever alert oriented
+169,73,90,132,62,98.4,17,100.0,9,1,17,0,2,0,0,1,23.6,laceration history of patient reports onset headache
+170,44,72,141,109,100.4,13,95.2,3,1,13,0,3,1,0,1,15.0,alert oriented fever headache headache nausea pain
+171,54,79,166,107,97.1,15,90.7,10,0,14,1,5,0,1,2,27.4,complains of back states laceration onset cough rash moderate
+172,73,96,127,53,99.7,25,98.7,8,0,20,0,1,0,0,3,31.6,dizziness headache denies
+173,73,69,133,106,100.7,31,87.3,7,1,5,1,2,0,0,0,20.9,started complains of rash no allergies
+174,47,110,146,75,99.9,8,88.8,5,0,5,0,3,1,1,2,24.7,difficulty breathing headache onset associated no allergies pain dizziness
+175,23,72,119,74,99.8,24,96.8,4,0,14,1,0,1,1,1,33.1,days ago cough denies
+176,45,73,125,105,98.3,18,95.3,4,0,23,1,2,1,0,2,31.9,weakness nausea pain prescription refill worsening
+177,53,71,103,88,98.7,16,99.1,4,0,3,0,1,1,0,1,25.8,denies alert oriented denies
+178,43,61,137,77,97.1,27,92.2,1,0,8,0,0,0,0,2,38.2,cough dizziness dizziness moderate
+179,55,64,190,83,96.2,13,100.0,3,2,7,0,4,0,1,2,32.2,history of complains of no allergies alert oriented taking medication swelling intermittent
+180,1,88,133,50,99.4,8,91.1,10,2,23,0,1,0,0,1,21.4,altered mental fever taking medication presenting with headache days ago abdominal
+181,24,80,102,87,97.9,15,98.1,2,0,15,0,2,0,0,1,20.5,patient reports weakness onset days ago
+182,49,56,107,90,95.1,17,93.2,1,0,8,0,1,0,0,2,23.8,moderate moderate alert oriented started complains of intermittent chest
+183,24,91,80,80,99.2,13,93.7,3,0,17,1,0,1,0,2,25.7,back dizziness chest
+184,25,39,123,75,99.0,23,100.0,0,2,6,0,1,0,0,0,23.1,started cough prescription refill intermittent
+185,30,91,88,62,97.3,13,99.1,3,2,1,0,3,0,1,0,21.9,pain history of started nausea
+186,51,88,146,109,96.5,18,95.7,4,0,7,0,1,1,1,2,24.2,denies worsening back pain fever vomiting states
+187,29,56,139,77,100.7,10,95.0,10,0,18,1,3,1,0,1,25.3,history of worsening abdominal breathing sprained ankle patient reports
+188,55,69,149,89,97.5,21,99.4,0,0,8,0,2,1,0,2,27.9,dizziness states patient reports
+189,36,113,127,82,94.8,17,94.3,10,0,2,0,1,0,0,0,22.4,days ago severe hemorrhage associated worsening dizziness nausea
+190,47,53,146,72,97.8,15,96.1,0,1,6,1,2,0,0,1,27.1,swelling chest presenting with
+191,28,66,109,69,97.5,12,94.7,3,0,1,0,0,1,1,2,21.3,days ago associated dizziness
+192,61,96,147,50,96.4,21,88.2,2,0,12,0,1,0,1,0,37.4,complains of fever no allergies chest associated
+193,59,45,135,99,99.4,26,83.3,1,0,2,0,1,0,1,1,21.5,associated worsening fever worsening no allergies taking medication
+194,57,78,174,50,98.2,22,100.0,8,1,11,1,1,0,0,1,33.3,rash states taking medication rash chest pain rash persistent cough
+195,54,51,154,68,97.0,13,95.8,9,0,18,0,3,0,1,3,31.8,chest states denies complains of fever
+196,66,97,121,51,97.4,9,97.6,1,1,17,0,1,1,0,0,20.4,associated states moderate
+197,32,95,138,77,99.4,13,100.0,4,0,6,0,4,0,1,0,15.0,patient reports days ago worsening fever rash persistent cough
+198,63,74,144,86,98.9,8,90.0,2,0,1,0,1,0,1,0,32.1,weakness history of worsening nausea onset onset abdominal
+199,43,92,133,102,95.6,17,92.5,0,0,3,0,2,0,1,1,28.8,headache patient reports breathing days ago swelling insect bite weakness history of
+200,80,49,183,51,97.5,20,91.6,9,1,2,1,3,0,1,3,23.8,taking medication no allergies cough history of altered mental cough days ago
+201,58,100,123,79,98.1,8,100.0,0,0,13,0,4,0,0,1,24.6,denies weakness associated worsening
+202,41,80,87,50,100.0,26,99.3,1,0,1,1,1,1,0,4,17.2,back fever presenting with vomiting prescription refill moderate
+203,53,118,165,94,101.1,17,86.2,10,0,1,0,1,1,0,1,24.1,complains of history of taking medication associated
+204,33,112,121,72,100.2,8,92.2,0,0,23,1,2,0,0,0,22.9,cough weakness onset states cough
+205,75,72,128,81,95.4,22,93.8,4,0,12,1,7,0,0,1,25.5,weakness days ago complains of moderate dizziness onset started
+206,67,53,90,68,99.0,17,92.1,0,0,22,0,4,0,0,0,32.5,abdominal follow up taking medication headache vomiting denies back
+207,53,63,119,59,99.3,15,89.8,3,0,13,0,6,0,0,0,29.5,onset follow up breathing patient reports fever onset
+208,61,71,154,91,98.5,20,94.9,2,1,13,0,2,0,0,0,37.3,denies sprained ankle patient reports rash intermittent intermittent no allergies
+209,26,115,137,50,97.2,16,99.9,0,0,21,1,1,0,0,0,27.5,laceration history of started denies associated states headache chest
+210,59,59,132,86,98.9,8,96.3,2,0,14,0,2,0,0,1,33.8,cough vomiting back moderate history of states dizziness
+211,40,101,91,89,97.2,16,93.5,0,0,7,0,0,0,0,2,22.9,worsening headache taking medication chest states prescription refill complains of swelling
+212,60,106,130,74,99.2,25,92.1,4,1,18,0,2,1,0,0,28.3,severe abdominal nausea no allergies fever headache alert oriented started nausea
+213,51,84,119,72,98.7,28,100.0,0,0,0,1,1,0,0,3,33.3,nausea rash worsening laceration weakness cough
+214,40,78,209,70,94.9,13,100.0,0,0,18,0,2,0,0,1,20.1,started onset moderate pain moderate
+215,41,53,144,54,96.5,31,94.8,2,0,8,1,3,1,1,0,23.5,denies follow up associated denies onset no allergies no allergies
+216,58,75,137,96,94.8,14,95.5,5,0,17,1,1,0,1,1,28.1,weakness cough swelling fever nausea back states
+217,78,79,149,85,99.1,11,90.0,1,1,1,0,3,0,0,0,18.6,vomiting taking medication swelling
+218,50,37,147,68,97.2,21,100.0,4,0,11,0,2,1,1,3,22.6,history of moderate started laceration
+219,68,101,152,58,97.4,18,93.7,3,1,22,0,0,0,0,1,33.4,cough days ago back altered mental history of rash abdominal
+220,43,102,160,92,97.0,21,94.6,4,0,10,0,2,0,0,1,29.8,vomiting insect bite started weakness nausea history of onset
+221,62,97,115,98,99.4,23,99.7,1,1,7,0,2,1,1,1,33.8,presenting with denies states fever persistent cough
+222,48,118,80,63,97.5,18,96.4,10,0,12,0,1,0,1,0,30.9,back presenting with started complains of worsening severe hemorrhage cough dizziness
+223,37,89,137,50,98.8,13,91.1,9,1,23,1,3,0,0,1,29.2,abdominal laceration complains of pain intermittent vomiting
+224,35,47,183,64,96.9,14,100.0,0,0,1,0,2,0,0,0,22.4,cough rash alert oriented presenting with denies swelling taking medication
+225,46,47,98,97,98.4,22,89.4,4,0,16,0,0,0,0,0,27.5,alert oriented states follow up nausea pain abdominal
+226,34,43,107,86,93.3,13,100.0,0,0,16,1,3,0,0,1,34.4,follow up taking medication weakness alert oriented patient reports moderate
+227,62,120,173,108,95.9,25,93.5,0,0,4,0,1,0,0,0,29.7,fever pain pain sprained ankle fever
+228,40,78,161,90,95.0,14,100.0,3,0,21,0,4,0,0,2,28.8,laceration vomiting complains of headache vomiting pain
+229,83,66,133,79,97.5,20,100.0,7,1,18,0,2,0,1,0,24.4,abdominal history of cough sprained ankle
+230,43,86,105,59,95.4,18,100.0,0,0,0,1,1,1,0,0,19.8,dizziness headache history of insect bite patient reports intermittent back weakness
+231,24,53,123,89,96.5,13,100.0,2,0,14,0,0,0,1,0,25.7,history of rash cough weakness taking medication associated headache
+232,30,73,135,86,102.9,8,95.7,5,0,12,0,4,0,1,0,18.2,associated rash moderate swelling associated history of laceration
+233,1,94,107,88,99.3,16,95.2,10,0,5,0,2,0,0,0,26.6,alert oriented swelling denies onset breathing follow up chest
+234,44,121,192,101,99.1,31,90.4,6,0,18,1,2,0,0,1,32.5,back patient reports fever worsening
+235,111,69,101,103,97.5,14,89.2,2,1,5,1,1,0,0,0,28.1,vomiting taking medication altered mental onset moderate patient reports
+236,63,72,122,102,96.5,9,100.0,4,0,6,1,1,0,1,0,31.2,rash history of associated
+237,60,75,103,123,99.3,18,89.2,0,0,19,0,2,0,1,1,43.6,back swelling weakness patient reports alert oriented worsening swelling prescription refill
+238,15,85,164,72,100.3,8,88.4,5,0,22,0,3,0,0,1,19.8,days ago rash no allergies fever
+239,43,42,123,102,100.9,11,100.0,2,1,5,0,1,0,1,0,32.3,pain breathing headache weakness started insect bite denies
+240,49,68,119,70,100.3,25,100.0,7,1,16,0,3,0,0,0,19.6,breathing nausea alert oriented cough denies
+241,4,105,121,67,98.8,8,94.5,0,2,11,0,1,0,1,2,24.9,persistent cough dizziness days ago onset
+242,33,52,151,71,96.1,24,97.1,0,0,11,0,4,1,0,0,36.3,taking medication taking medication dizziness days ago onset chest
+243,1,97,131,70,100.9,14,100.0,10,0,23,1,0,0,1,0,35.1,onset worsening days ago sprained ankle rash
+244,43,68,162,95,101.0,16,100.0,8,1,21,0,1,0,1,0,26.7,fever presenting with intermittent
+245,77,101,107,104,95.3,8,98.1,4,0,20,0,3,1,1,1,29.4,laceration complains of breathing headache days ago
+246,22,81,219,84,99.1,24,95.8,0,1,11,0,0,0,0,0,26.7,dizziness worsening presenting with difficulty breathing complains of taking medication taking medication
+247,1,139,149,82,99.1,20,90.8,6,0,17,0,3,0,0,0,30.3,rash chest worsening states nausea history of
+248,58,97,165,92,99.9,24,93.1,0,2,17,0,1,1,1,1,31.5,presenting with patient reports moderate days ago weakness breathing rash
+249,36,123,102,84,100.5,24,95.9,1,0,22,0,1,0,0,1,28.7,headache taking medication back
+250,50,76,106,90,97.6,32,94.2,2,0,20,0,1,0,1,1,18.3,rash persistent cough nausea nausea abdominal patient reports chest fever
+251,43,96,135,82,98.2,15,85.7,3,0,8,0,1,1,0,1,20.0,pain taking medication moderate states worsening
+252,13,86,139,66,98.3,20,91.9,10,0,3,0,3,0,0,0,24.2,patient reports presenting with breathing states persistent cough breathing started associated
+253,39,70,100,88,98.5,16,94.7,3,0,13,0,0,0,0,0,20.2,no allergies onset days ago days ago back swelling rash
+254,46,62,113,69,100.1,19,96.7,3,0,14,0,2,0,0,3,38.4,weakness alert oriented breathing sprained ankle
+255,81,108,110,78,97.9,17,88.9,10,1,8,0,4,0,0,0,20.8,weakness onset alert oriented severe abdominal presenting with weakness rash vomiting
+256,35,75,138,50,97.6,11,93.2,5,0,0,1,2,1,1,2,42.3,patient reports weakness insect bite days ago
+257,46,63,118,79,99.6,12,85.6,5,2,16,0,0,0,0,2,34.3,onset taking medication taking medication patient reports
+258,44,130,189,105,100.0,23,92.8,8,0,9,0,4,0,1,1,15.0,states vomiting swelling
+259,70,121,124,64,100.8,24,96.2,1,1,10,0,3,0,0,0,33.5,abdominal headache denies swelling history of dizziness breathing
+260,43,95,116,109,98.1,24,97.8,4,0,1,1,3,0,0,2,31.2,days ago weakness intermittent sprained ankle associated
+261,30,84,132,81,98.2,19,93.3,0,0,20,1,1,0,1,0,36.3,no allergies denies alert oriented sprained ankle abdominal associated back pain
+262,31,110,127,86,97.2,27,100.0,2,0,11,0,1,0,0,2,27.5,headache days ago nausea presenting with follow up nausea vomiting
+263,76,53,194,59,95.4,16,98.1,2,0,7,0,3,0,0,0,28.2,persistent cough breathing dizziness headache
+264,51,49,128,60,97.2,21,98.2,0,2,23,1,1,1,1,1,19.9,pain started onset weakness
+265,75,73,121,50,98.1,15,91.6,1,2,10,0,3,1,0,0,26.3,follow up worsening breathing nausea associated days ago chest
+266,61,101,99,67,99.0,18,100.0,0,1,8,0,1,0,0,1,24.5,cough no allergies back altered mental fever
+267,57,78,99,82,100.8,18,100.0,4,0,9,1,2,0,0,0,20.9,dizziness swelling onset
+268,33,135,168,61,100.8,29,97.4,7,0,23,0,2,0,0,1,31.8,cough swelling associated days ago
+269,52,111,119,70,97.4,15,94.3,0,0,1,0,0,0,0,0,28.3,difficulty breathing abdominal alert oriented started rash headache vomiting rash
+270,43,86,137,76,96.2,8,93.5,1,0,20,1,3,0,1,1,21.6,complains of started started history of started cough
+271,12,124,80,50,98.0,20,98.0,0,0,15,0,2,1,0,1,27.6,breathing laceration presenting with denies
+272,70,112,148,64,98.5,8,100.0,6,1,15,1,3,1,1,3,32.6,intermittent presenting with sprained ankle intermittent dizziness associated moderate
+273,51,43,95,104,98.5,9,97.6,0,0,20,0,4,0,1,4,31.5,back fever taking medication alert oriented
+274,90,81,151,74,94.1,27,99.4,9,0,15,0,3,1,0,1,31.9,moderate headache complains of intermittent denies started cough
+275,17,108,141,68,98.9,22,96.0,2,1,9,0,0,0,1,1,28.6,complains of no allergies rash altered mental dizziness
+276,37,61,155,69,98.1,19,93.4,1,0,18,0,1,0,1,0,25.6,started weakness complains of fever intermittent states sprained ankle fever
+277,59,100,163,70,97.3,10,97.5,5,0,9,1,0,1,0,3,25.9,onset started intermittent
+278,50,112,190,79,100.8,16,93.3,3,0,16,0,2,0,0,1,25.0,onset denies unresponsive states cough
+279,26,108,123,100,95.6,22,95.0,2,1,17,0,4,0,1,0,28.0,back worsening presenting with breathing
+280,71,127,122,118,99.0,13,91.5,0,0,3,0,3,1,1,0,27.1,onset chest onset no allergies intermittent pain insect bite
+281,46,114,141,69,96.3,10,100.0,9,0,12,0,5,0,1,0,34.6,patient reports dizziness associated alert oriented
+282,47,35,104,67,101.0,9,100.0,0,2,5,1,4,0,1,1,29.1,vomiting cough history of started laceration back
+283,34,74,174,50,99.6,8,93.2,6,1,9,0,3,0,0,1,33.5,alert oriented onset started breathing fever
+284,21,62,138,94,94.9,10,87.7,2,0,1,0,4,1,0,0,30.9,moderate started pain
+285,52,88,112,88,98.2,23,96.9,4,0,16,1,1,0,1,1,21.8,taking medication cough history of
+286,76,89,151,74,97.6,17,98.9,2,1,2,1,1,0,1,1,41.0,weakness onset patient reports weakness fever
+287,87,77,145,78,97.7,16,83.7,3,2,6,0,2,0,1,0,36.9,chest abdominal sprained ankle taking medication breathing pain
+288,38,84,115,50,98.9,17,84.2,2,0,23,0,0,0,0,2,25.9,weakness moderate worsening chest fever pain
+289,50,50,141,79,98.5,14,93.4,6,0,21,1,2,0,0,0,25.7,abdominal associated headache vomiting
+290,56,42,80,63,99.8,20,96.4,0,0,20,0,1,0,1,2,29.0,headache follow up no allergies nausea
+291,57,69,152,72,97.9,8,96.7,6,0,15,0,4,0,0,1,32.5,presenting with history of difficulty breathing weakness
+292,72,90,124,87,96.3,23,99.4,3,0,6,1,5,1,0,0,19.4,presenting with sprained ankle associated complains of
+293,84,81,123,107,97.6,16,96.7,5,1,5,0,2,0,0,0,30.6,intermittent presenting with denies
+294,89,81,181,76,97.6,23,92.0,9,1,6,0,6,0,0,0,32.5,associated presenting with onset history of
+295,48,65,164,88,98.4,18,86.3,0,0,4,0,0,1,0,0,28.7,back onset worsening pain
+296,55,63,156,64,94.9,25,96.6,8,2,23,0,3,0,0,1,26.3,complains of fever vomiting cough
+297,89,78,135,63,97.5,13,100.0,10,0,20,0,0,0,0,2,29.7,laceration pain swelling worsening started intermittent
+298,28,48,144,74,102.2,17,100.0,3,1,2,0,0,0,0,0,34.4,moderate alert oriented dizziness cough altered mental
+299,41,94,179,95,97.7,26,91.0,7,0,1,0,6,1,1,1,40.1,chest intermittent altered mental worsening
+300,45,86,106,80,98.7,12,98.3,0,0,4,0,1,0,0,0,26.8,complains of cough complains of complains of associated states
+301,3,94,219,102,98.1,19,97.8,10,0,18,0,0,0,1,3,38.4,patient reports started states back
+302,59,116,124,96,97.5,20,100.0,8,0,23,0,3,0,1,0,33.2,swelling associated presenting with patient reports sprained ankle days ago
+303,38,80,109,86,98.4,22,95.4,5,0,1,0,1,0,1,0,32.9,onset cough complains of laceration abdominal headache presenting with
+304,48,74,106,69,98.4,17,96.8,4,0,2,1,3,1,1,0,24.8,worsening worsening dizziness dizziness alert oriented onset
+305,57,70,114,78,98.9,24,95.7,0,1,5,1,1,1,1,2,21.9,presenting with chest fever
+306,52,71,176,58,98.3,23,92.8,2,1,15,1,2,1,0,0,28.6,swelling pain rash denies
+307,74,83,99,67,97.5,22,100.0,4,0,3,1,3,0,0,2,24.3,pain headache moderate
+308,76,93,168,75,100.2,11,92.0,5,0,14,1,1,0,0,1,22.3,worsening weakness intermittent presenting with
+309,40,51,124,55,100.1,24,89.2,6,0,4,0,2,0,1,0,29.3,cough history of back alert oriented
+310,20,71,100,77,97.8,13,91.1,1,1,18,0,1,1,0,1,27.3,no allergies chest history of started headache taking medication dizziness
+311,35,116,125,95,98.3,17,93.0,6,1,4,0,5,0,0,0,15.8,states presenting with pain nausea vomiting cardiac arrest
+312,42,93,175,104,96.4,24,100.0,7,0,8,0,1,0,0,2,22.0,fever insect bite taking medication cough denies
+313,71,82,111,107,98.0,10,88.7,7,0,5,0,2,0,0,1,27.8,days ago moderate complains of patient reports sprained ankle
+314,79,57,89,108,97.1,8,91.5,0,1,15,0,2,0,1,1,38.6,denies started denies patient reports associated vomiting rash prescription refill
+315,51,113,154,78,98.9,24,98.0,4,0,1,0,1,1,1,1,32.0,breathing complains of persistent cough states associated days ago
+316,47,81,167,76,97.1,28,93.7,6,0,14,0,1,0,0,1,33.9,laceration cough taking medication intermittent no allergies
+317,54,64,164,50,98.3,13,100.0,4,0,5,0,0,1,1,3,16.6,states pain worsening alert oriented insect bite
+318,48,43,149,79,96.7,11,91.1,4,2,15,0,2,0,0,2,19.4,days ago associated abdominal
+319,50,125,101,78,99.4,16,96.7,0,1,11,0,1,0,1,0,45.0,days ago alert oriented intermittent alert oriented abdominal
+320,60,85,80,124,94.1,15,93.8,0,2,2,0,0,0,0,0,18.9,started prescription refill chest rash history of associated breathing
+321,32,55,93,96,99.2,21,93.7,0,2,5,0,2,0,0,1,19.9,denies associated weakness patient reports worsening vomiting
+322,38,66,141,61,99.1,8,92.5,2,0,13,1,1,0,0,0,24.2,vomiting worsening pain vomiting states taking medication presenting with
+323,83,35,123,88,100.1,27,99.2,2,0,20,0,1,1,0,1,15.0,cough worsening fever taking medication breathing insect bite
+324,35,118,106,85,97.3,23,100.0,3,0,6,0,4,0,0,2,21.7,rash cough complains of cough persistent cough
+325,41,86,111,86,99.3,24,89.1,3,0,16,1,2,0,1,1,33.3,taking medication back moderate
+326,66,56,142,73,98.3,15,100.0,1,1,4,0,3,0,1,0,31.0,abdominal persistent cough cough onset dizziness nausea breathing dizziness
+327,63,90,81,50,94.9,21,88.6,6,0,20,0,2,0,0,1,19.3,weakness complains of moderate fever
+328,76,105,125,52,97.5,11,89.0,10,2,3,1,2,1,0,0,27.0,weakness sprained ankle states taking medication fever days ago patient reports associated
+329,81,77,120,74,97.8,9,93.9,4,1,10,1,1,1,1,0,29.8,presenting with history of alert oriented associated follow up started worsening
+330,58,46,80,77,100.7,15,88.9,1,0,16,0,3,1,1,0,24.1,denies back laceration headache dizziness alert oriented
+331,46,97,163,75,100.7,29,95.3,2,1,22,0,3,0,0,2,18.9,complains of back persistent cough onset vomiting
+332,61,51,122,67,97.3,27,94.8,5,0,15,0,0,0,0,1,32.9,vomiting swelling onset onset no allergies back presenting with insect bite
+333,44,56,97,50,100.1,13,91.9,6,0,6,0,3,0,0,0,25.5,laceration abdominal intermittent patient reports cough
+334,46,50,109,107,96.9,29,100.0,3,0,5,0,5,1,1,0,27.9,swelling alert oriented headache laceration patient reports chest denies
+335,66,96,141,92,99.3,21,93.9,1,0,23,0,3,0,0,1,22.2,swelling dizziness alert oriented days ago associated complains of associated
+336,40,56,148,100,98.6,15,99.2,6,0,14,1,3,0,0,1,24.4,back worsening denies
+337,75,39,113,70,98.5,28,96.9,0,0,2,1,2,0,0,0,15.0,weakness denies headache headache
+338,59,93,137,101,101.7,22,100.0,4,0,0,0,2,0,0,3,22.9,chest complains of laceration headache
+339,58,114,112,85,98.4,19,94.5,8,0,0,0,2,0,0,1,30.0,cough rash complains of intermittent pain pain sprained ankle
+340,38,75,99,76,97.6,18,85.5,10,1,3,0,0,0,0,1,30.5,complains of rash denies associated cardiac arrest
+341,25,77,116,119,98.8,12,100.0,0,0,9,1,0,0,1,0,29.6,no allergies presenting with started
+342,38,107,118,87,96.3,16,86.2,4,1,2,0,1,0,1,1,27.3,associated vomiting worsening laceration
+343,96,69,118,110,99.8,12,100.0,2,1,20,1,1,1,0,1,23.4,intermittent headache laceration headache intermittent days ago headache taking medication
+344,58,85,91,104,98.9,20,100.0,2,1,22,0,0,0,0,1,34.5,swelling moderate started laceration moderate breathing
+345,42,120,136,58,96.1,25,89.1,3,0,15,1,0,1,0,1,29.8,states history of presenting with worsening onset days ago
+346,51,58,140,59,96.6,20,100.0,7,0,6,1,4,1,0,1,28.8,no allergies cough pain rash
+347,8,72,140,60,98.0,11,84.8,6,2,14,0,4,0,1,1,28.9,dizziness persistent cough chest no allergies
+348,52,95,140,78,103.0,10,88.7,2,1,18,0,2,1,1,1,29.0,rash fever breathing taking medication pain back cardiac arrest started
+349,51,96,109,90,96.6,22,90.1,5,0,1,1,4,0,1,2,22.3,states no allergies intermittent started
+350,47,55,100,95,99.6,12,94.4,3,0,11,1,1,0,0,1,28.6,vomiting moderate weakness taking medication back alert oriented presenting with
+351,40,70,110,107,97.6,13,99.1,7,0,0,0,5,1,1,1,28.4,chest swelling associated worsening severe abdominal headache abdominal
+352,69,59,107,84,99.6,17,94.6,2,0,22,0,1,0,0,2,36.4,pain weakness alert oriented associated
+353,49,93,135,78,96.8,20,100.0,3,0,14,0,4,0,0,2,22.6,patient reports nausea history of complains of
+354,40,81,145,102,98.2,18,100.0,2,1,6,1,1,0,0,0,26.1,abdominal presenting with patient reports onset history of fever started
+355,67,100,123,106,98.2,15,92.7,5,0,3,0,0,1,0,0,28.4,started complains of started
+356,57,69,140,109,97.4,17,95.8,0,2,8,0,3,0,0,0,27.5,moderate pain weakness fever
+357,47,63,148,90,101.1,20,90.9,1,0,10,0,1,0,1,1,43.2,abdominal complains of laceration abdominal
+358,38,54,195,84,99.5,23,90.3,10,1,15,0,1,0,0,0,18.0,weakness difficulty breathing complains of intermittent
+359,46,80,138,114,98.9,24,97.7,8,0,9,1,1,1,0,1,35.8,difficulty breathing started intermittent moderate
+360,25,69,125,85,97.2,19,95.3,0,1,4,0,3,1,0,2,34.2,nausea worsening moderate
+361,25,74,108,80,99.1,13,94.8,4,1,15,1,5,1,0,3,23.6,complains of complains of rash intermittent intermittent onset
+362,63,121,142,103,99.2,11,90.5,8,0,1,0,4,0,0,0,24.9,abdominal associated days ago patient reports alert oriented cough onset unresponsive
+363,28,87,107,52,96.8,14,96.6,3,0,3,0,2,1,0,0,26.0,onset dizziness pain alert oriented
+364,46,97,146,80,93.7,18,95.9,4,0,9,0,2,0,1,1,28.1,denies sprained ankle patient reports rash started headache
+365,76,61,80,76,96.5,14,94.6,1,0,0,0,1,0,1,1,20.2,intermittent complains of cough breathing complains of
+366,30,62,106,70,96.0,9,100.0,7,1,12,0,1,0,0,0,33.1,follow up chest worsening moderate history of onset nausea
+367,58,60,188,85,100.3,23,93.5,0,0,3,0,1,0,0,1,25.8,alert oriented denies back
+368,67,46,97,89,98.8,16,98.5,3,2,2,1,1,1,0,1,41.2,breathing complains of onset vomiting history of associated headache
+369,42,79,135,62,102.1,15,98.6,2,0,12,1,2,0,1,1,32.6,chest cough presenting with insect bite
+370,48,60,187,62,98.8,23,93.3,2,0,2,0,1,0,0,3,25.9,dizziness cough pain cough follow up breathing
+371,45,122,193,63,103.0,20,89.2,9,0,13,0,4,1,0,0,28.9,patient reports severe hemorrhage presenting with dizziness presenting with denies abdominal history of
+372,55,103,108,81,100.2,20,99.5,7,1,13,0,1,0,0,1,29.1,onset rash associated breathing persistent cough onset breathing
+373,86,123,158,73,99.2,8,100.0,9,0,3,0,2,1,0,1,22.3,denies associated nausea dizziness worsening
+374,39,107,141,105,100.0,13,100.0,1,0,14,0,0,0,1,0,26.3,swelling back days ago no allergies
+375,79,85,146,117,98.2,17,85.3,2,0,18,0,1,0,0,0,28.2,back taking medication rash worsening days ago nausea denies
+376,38,98,154,81,98.1,20,99.3,6,2,11,1,0,0,0,1,33.7,onset patient reports presenting with presenting with
+377,80,109,141,85,98.7,22,92.2,3,1,4,0,1,0,0,1,20.5,patient reports weakness alert oriented
+378,45,105,80,85,96.4,25,98.6,3,0,6,1,2,0,0,1,22.6,difficulty breathing rash complains of rash headache
+379,62,67,136,68,98.9,15,99.9,6,0,3,0,1,1,1,0,24.7,back cough back dizziness pain sprained ankle
+380,63,53,135,50,99.1,9,100.0,0,0,15,1,1,0,1,1,29.7,denies laceration vomiting alert oriented history of denies intermittent denies
+381,30,86,129,53,94.6,17,88.9,1,0,1,0,2,0,1,1,20.9,nausea taking medication weakness patient reports nausea
+382,86,67,80,77,97.3,8,100.0,1,0,8,0,1,0,0,2,25.3,intermittent follow up associated denies moderate patient reports alert oriented
+383,13,103,118,66,96.2,18,99.9,3,0,10,1,3,1,0,2,21.0,complains of breathing denies insect bite chest cough
+384,29,64,159,92,98.9,25,88.7,2,0,1,1,8,0,1,2,19.1,headache nausea back complains of weakness complains of days ago
+385,39,95,90,88,99.0,22,92.6,4,0,9,1,2,1,0,2,25.9,complains of worsening abdominal vomiting history of complains of
+386,57,99,111,71,95.4,19,94.1,5,1,8,0,1,0,0,2,23.1,alert oriented intermittent patient reports
+387,46,70,121,83,97.7,21,90.2,6,0,4,0,4,0,0,0,32.7,no allergies no allergies days ago weakness history of chest complains of
+388,71,113,132,90,100.0,25,92.6,6,0,4,0,3,1,1,2,36.2,nausea difficulty breathing back no allergies
+389,46,97,140,93,95.6,10,99.5,6,0,4,0,1,1,0,2,15.0,alert oriented worsening patient reports started intermittent
+390,31,64,179,84,101.0,25,94.2,0,1,3,0,5,0,0,2,27.3,dizziness back back pain rash
+391,58,126,136,68,96.8,14,97.9,3,0,22,0,2,0,0,0,39.0,pain chest nausea cough no allergies
+392,31,85,150,77,95.5,16,89.2,5,0,22,0,3,0,1,1,33.8,persistent cough associated worsening states taking medication nausea
+393,91,76,150,89,97.8,12,96.5,0,0,11,0,1,1,1,0,22.4,back complains of taking medication intermittent nausea
+394,50,102,88,54,97.8,16,85.1,7,0,15,0,3,1,1,1,19.3,dizziness worsening associated difficulty breathing
+395,1,131,142,85,95.9,16,90.0,5,1,23,1,2,0,1,1,31.9,days ago moderate days ago
+396,37,114,109,98,100.3,25,98.9,7,0,2,0,2,0,1,1,31.6,breathing fever altered mental complains of onset dizziness
+397,42,104,134,60,99.2,21,94.1,4,0,6,0,2,0,0,0,27.2,swelling vomiting no allergies associated fever
+398,50,85,138,71,99.2,18,99.4,5,0,13,0,2,1,1,3,32.8,onset intermittent headache denies no allergies presenting with
+399,101,81,133,67,101.0,24,97.3,3,1,17,0,2,1,1,0,18.0,fever moderate patient reports
+400,66,100,104,90,99.9,19,98.9,10,1,3,0,1,0,0,4,34.3,dizziness patient reports breathing taking medication days ago days ago patient reports
+401,75,93,100,79,100.2,8,97.7,1,1,22,0,1,0,1,0,28.7,moderate breathing history of onset dizziness rash laceration no allergies
+402,60,108,103,87,99.4,22,95.7,0,2,5,0,5,1,0,0,35.5,back follow up dizziness complains of
+403,59,57,133,103,98.8,18,92.8,1,2,10,1,4,0,1,2,25.6,denies no allergies patient reports back intermittent worsening
+404,62,71,116,57,99.8,9,96.0,4,0,6,1,0,1,0,0,27.5,pain patient reports associated chest
+405,37,63,130,63,96.4,16,99.8,6,0,0,0,0,1,0,1,24.4,back alert oriented breathing swelling days ago
+406,55,62,163,99,95.7,21,89.1,2,2,4,0,3,0,0,2,32.8,dizziness vomiting chest complains of
+407,37,111,139,112,95.3,19,90.8,3,0,1,0,1,0,0,3,34.3,dizziness vomiting insect bite onset swelling
+408,53,119,81,79,99.2,15,89.0,10,0,23,0,0,1,0,1,27.1,difficulty breathing denies associated breathing
+409,40,89,137,83,98.8,8,100.0,8,0,1,1,2,0,1,1,27.9,complains of denies started difficulty breathing
+410,75,37,109,94,100.3,11,100.0,5,0,4,0,2,1,0,0,21.0,fever chest breathing associated days ago pain
+411,76,42,153,78,99.6,20,100.0,4,0,0,0,1,1,0,1,24.0,associated weakness swelling days ago breathing moderate chest
+412,64,119,139,74,99.4,17,100.0,5,1,6,0,2,0,1,3,27.7,swelling history of worsening no allergies sprained ankle
+413,58,66,149,68,100.0,22,98.1,6,0,8,1,1,0,1,2,31.9,chest complains of started no allergies cough patient reports states
+414,67,113,199,75,99.4,24,100.0,6,0,6,1,2,0,0,1,22.8,vomiting states moderate altered mental vomiting presenting with back patient reports
+415,20,106,151,97,100.2,14,93.8,6,1,22,1,1,0,0,0,23.4,denies cough taking medication prescription refill
+416,85,58,163,91,98.7,24,95.5,4,0,17,1,4,0,1,0,23.3,history of back weakness states
+417,28,61,80,78,97.8,15,94.8,1,0,5,0,0,0,0,1,33.5,associated intermittent denies headache states swelling
+418,24,88,101,71,101.4,14,100.0,5,0,9,0,1,1,1,1,34.1,pain abdominal states onset
+419,74,96,155,103,97.9,22,92.6,6,0,6,1,1,0,0,0,28.2,worsening days ago no allergies taking medication states associated rash
+420,41,86,115,57,95.0,14,94.2,6,0,5,0,1,0,1,0,33.1,vomiting abdominal denies cough severe abdominal
+421,43,76,180,79,99.3,20,100.0,2,1,21,0,1,0,1,0,27.7,patient reports states vomiting cough taking medication
+422,57,75,80,93,98.9,8,100.0,1,0,3,1,4,1,0,0,23.1,associated denies fever abdominal
+423,70,138,161,74,100.0,10,96.7,0,0,0,1,0,1,1,0,32.3,moderate cough cough patient reports swelling swelling headache
+424,63,82,169,74,98.8,15,90.3,6,1,2,1,2,1,0,3,25.5,back patient reports fever back abdominal fever sprained ankle days ago
+425,62,86,117,101,97.7,19,83.2,5,0,14,0,2,1,1,1,21.5,complains of presenting with no allergies dizziness chest breathing persistent cough headache
+426,47,105,156,97,96.6,16,95.7,0,0,19,0,1,1,1,1,30.0,chest alert oriented vomiting
+427,61,76,117,114,97.2,15,92.8,2,0,7,1,1,1,0,2,23.7,patient reports days ago presenting with
+428,55,101,146,107,99.0,15,96.0,2,0,20,1,1,0,1,1,15.0,alert oriented presenting with started started weakness
+429,15,94,86,85,95.5,9,94.5,0,0,19,0,3,0,0,2,21.1,abdominal moderate breathing nausea intermittent insect bite rash
+430,43,91,142,55,97.4,17,100.0,9,0,10,0,2,1,1,0,26.7,no allergies started breathing no allergies states intermittent
+431,60,76,191,92,101.1,10,89.8,3,0,13,0,2,1,0,1,27.5,intermittent fever started taking medication chest associated
+432,76,78,131,99,96.4,8,92.6,8,0,12,1,7,1,0,2,26.8,rash states onset dizziness
+433,49,93,102,55,96.0,17,91.6,6,1,6,0,5,0,0,2,19.6,associated patient reports moderate chest patient reports
+434,27,84,139,59,98.7,14,97.2,0,0,13,0,4,0,0,0,30.4,pain sprained ankle swelling abdominal
+435,56,111,165,80,101.1,9,91.6,1,1,10,1,0,0,0,2,30.7,days ago vomiting associated abdominal alert oriented sprained ankle
+436,51,93,85,83,97.8,15,100.0,1,0,9,0,1,0,1,0,29.3,pain patient reports patient reports days ago vomiting dizziness headache
+437,53,72,93,71,98.3,18,99.9,10,0,17,0,0,0,0,0,30.8,breathing started onset moderate vomiting associated
+438,44,92,107,59,98.2,25,94.2,0,0,20,1,5,0,1,1,29.3,rash prescription refill weakness denies taking medication intermittent taking medication dizziness
+439,33,102,146,53,98.6,12,100.0,2,0,8,1,2,0,0,0,29.0,cough headache fever
+440,36,88,122,114,100.2,12,89.2,7,0,1,1,2,0,0,3,27.0,follow up abdominal breathing weakness presenting with onset history of headache
+441,75,71,140,80,97.8,8,99.2,5,1,5,0,3,0,0,1,19.0,moderate nausea complains of cough taking medication vomiting days ago
+442,44,88,133,60,96.5,20,94.6,1,0,10,0,0,0,0,1,19.4,breathing rash states laceration alert oriented intermittent headache
+443,48,67,125,99,96.9,11,99.0,4,0,5,0,2,0,1,1,22.9,denies intermittent abdominal presenting with persistent cough breathing
+444,53,56,138,70,93.7,10,100.0,1,0,19,0,3,1,1,0,34.1,vomiting patient reports onset denies complains of back
+445,63,82,106,68,96.0,18,99.0,4,1,0,1,1,0,1,1,25.7,rash dizziness moderate abdominal
+446,57,117,154,78,100.8,21,99.5,9,1,18,1,3,0,1,0,35.3,history of taking medication intermittent persistent cough
+447,68,90,167,64,97.3,27,94.9,3,2,13,0,2,0,0,2,29.0,breathing swelling rash moderate history of breathing patient reports
+448,88,95,126,53,99.4,21,95.6,7,1,14,0,3,0,1,1,30.5,states intermittent no allergies weakness
+449,88,47,156,55,97.3,8,93.2,2,0,22,0,2,1,0,1,33.7,presenting with states days ago cough presenting with
+450,40,102,91,83,96.6,18,96.0,9,2,21,0,2,0,0,3,27.0,taking medication alert oriented moderate moderate nausea dizziness
+451,61,91,84,121,94.7,9,94.4,0,0,19,0,1,0,1,1,24.3,insect bite pain rash complains of
+452,42,105,174,57,99.7,12,95.2,3,2,17,1,2,0,1,1,31.5,started onset pain sprained ankle days ago
+453,36,70,139,67,97.4,16,93.3,4,0,6,1,1,0,0,1,32.5,persistent cough complains of rash chest intermittent nausea taking medication taking medication
+454,69,79,116,74,100.9,8,94.2,2,0,9,0,2,0,0,1,19.4,prescription refill fever rash onset fever started
+455,40,122,111,96,102.1,14,100.0,4,0,23,1,2,1,1,0,31.9,worsening prescription refill vomiting abdominal
+456,46,98,90,57,100.6,26,100.0,3,0,2,0,2,1,1,1,33.1,back alert oriented dizziness follow up
+457,78,60,135,58,98.4,17,99.5,7,1,19,1,2,0,1,1,23.4,taking medication headache back patient reports presenting with insect bite
+458,54,85,97,97,99.6,22,100.0,4,0,2,1,2,1,1,0,40.1,weakness states cough weakness days ago onset dizziness
+459,52,122,147,74,102.8,19,94.1,6,0,9,0,4,0,0,1,22.8,states chest started fever fever headache rash
+460,63,45,163,59,96.5,16,100.0,2,1,23,1,4,0,1,3,26.2,cough swelling moderate
+461,45,132,130,78,96.6,24,95.7,0,0,18,0,2,0,0,1,31.4,history of fever cough started alert oriented back dizziness
+462,44,90,135,91,97.0,13,92.8,4,2,16,0,1,0,0,0,27.0,nausea sprained ankle rash no allergies pain worsening intermittent
+463,65,106,172,77,97.3,25,91.5,7,1,6,0,2,1,0,1,21.9,dizziness presenting with onset started worsening
+464,44,119,93,75,98.1,11,100.0,1,0,11,0,6,0,0,0,20.4,no allergies prescription refill patient reports moderate fever patient reports moderate fever
+465,41,124,136,81,96.4,15,97.8,8,1,0,0,1,0,1,0,27.2,onset chest denies
+466,58,104,156,112,96.6,18,93.9,6,0,18,0,3,0,1,4,28.5,patient reports vomiting vomiting moderate sprained ankle fever pain days ago
+467,42,83,170,73,100.6,13,99.3,0,0,0,0,0,0,1,0,29.8,alert oriented swelling days ago
+468,46,101,100,105,99.1,8,89.9,0,0,18,0,1,1,0,1,34.5,patient reports states pain breathing prescription refill
+469,51,107,118,78,97.3,28,94.4,5,2,14,0,3,0,1,0,26.8,complains of back days ago taking medication states sprained ankle cough alert oriented
+470,49,75,97,87,96.7,13,100.0,0,0,9,0,3,0,1,0,34.4,weakness breathing states weakness moderate
+471,74,50,117,104,98.7,19,97.6,6,0,2,0,0,0,0,0,33.5,pain persistent cough intermittent chest onset headache
+472,57,95,131,54,97.8,8,90.2,8,0,19,1,2,0,0,1,27.0,taking medication patient reports persistent cough rash moderate cough history of
+473,60,96,128,89,100.5,16,95.2,9,1,20,0,1,0,0,0,34.7,worsening weakness cardiac arrest vomiting denies swelling nausea back
+474,77,118,176,64,100.2,11,77.4,10,0,6,1,0,0,1,0,25.4,dizziness patient reports fever days ago denies patient reports dizziness
+475,68,93,144,96,101.2,24,88.8,3,0,13,1,4,0,1,2,35.4,patient reports worsening started alert oriented cough headache back
+476,46,135,110,51,102.2,20,95.3,1,1,23,0,2,0,1,1,21.2,headache nausea intermittent complains of weakness no allergies
+477,66,104,97,95,96.7,28,100.0,0,0,8,0,2,0,1,1,25.1,insect bite fever vomiting swelling
+478,46,88,92,72,96.2,23,100.0,5,0,5,0,2,0,0,1,30.0,abdominal chest dizziness chest worsening follow up abdominal
+479,62,74,80,75,100.1,17,97.0,2,0,4,0,0,1,0,1,32.8,presenting with cough chest no allergies onset sprained ankle
+480,36,83,177,61,100.0,8,93.5,2,0,2,0,2,1,0,2,28.9,alert oriented patient reports laceration states swelling denies
+481,69,120,187,112,102.4,14,92.2,5,0,20,0,1,0,0,0,31.6,presenting with abdominal weakness
+482,24,106,142,89,99.9,9,96.3,7,0,9,0,0,1,0,1,25.0,days ago dizziness rash breathing swelling
+483,53,121,118,78,97.0,12,100.0,7,0,6,0,3,0,0,0,27.6,weakness patient reports difficulty breathing headache
+484,47,82,145,75,96.5,13,85.7,10,1,8,0,1,0,0,1,29.0,history of intermittent vomiting vomiting worsening cough associated
+485,82,69,152,113,99.0,17,94.5,3,0,13,0,1,1,1,1,36.9,back vomiting pain days ago laceration states
+486,72,76,113,94,98.3,16,99.2,6,0,6,1,2,1,0,0,25.6,denies weakness back headache
+487,49,94,113,123,98.3,8,100.0,8,0,16,0,1,0,0,1,28.8,states patient reports onset complains of no allergies onset
+488,32,62,128,101,100.2,17,97.4,0,0,7,0,2,0,1,0,23.7,nausea swelling associated abdominal taking medication
+489,18,113,111,93,100.5,22,100.0,3,0,10,1,2,0,1,2,38.6,states patient reports taking medication denies alert oriented history of sprained ankle
+490,50,87,139,102,97.3,11,100.0,0,2,14,0,1,0,1,1,26.9,onset breathing patient reports
+491,25,116,122,60,98.4,9,93.7,0,1,15,0,2,0,1,1,20.0,onset history of abdominal chest headache
+492,31,125,117,87,100.4,18,87.5,6,1,21,0,1,0,1,1,25.1,started days ago headache
+493,68,93,127,86,96.3,15,90.9,2,0,5,0,1,0,0,6,25.3,back moderate states worsening nausea headache
+494,64,76,131,73,96.7,20,96.1,0,0,8,0,2,1,0,1,33.7,vomiting rash rash swelling cough
+495,67,103,110,62,100.3,16,94.3,0,1,21,1,2,1,1,0,29.5,associated insect bite worsening taking medication no allergies
+496,64,94,106,66,98.3,10,94.6,0,0,1,0,3,0,1,1,22.7,intermittent states prescription refill intermittent vomiting history of breathing
+497,8,91,111,64,96.4,15,99.5,10,0,4,0,3,0,1,1,28.4,moderate patient reports abdominal
+498,28,121,170,105,99.3,16,96.9,10,0,23,0,2,0,0,0,28.0,intermittent presenting with history of associated worsening no allergies fever
+499,30,89,119,75,95.8,18,97.5,3,1,22,0,2,1,0,2,23.3,prescription refill rash patient reports pain
+500,51,74,132,90,100.0,11,95.8,10,0,17,0,2,1,0,1,21.5,nausea intermittent started rash breathing alert oriented severe hemorrhage headache
+501,16,64,92,105,100.2,32,88.7,9,0,6,0,4,1,1,0,25.4,onset states intermittent
+502,63,73,174,97,99.2,12,84.3,2,1,12,1,0,1,0,2,29.4,vomiting headache dizziness complains of nausea
+503,88,78,123,101,98.1,14,90.1,0,0,12,0,2,0,0,1,34.8,back follow up swelling complains of alert oriented
+504,94,98,116,53,102.5,22,96.4,9,0,12,0,1,0,0,2,29.9,started breathing back pain back
+505,15,96,80,91,100.6,8,99.1,7,1,4,0,1,1,1,1,32.9,chest chest vomiting nausea worsening onset presenting with
+506,60,66,161,72,101.9,14,94.0,1,1,4,0,2,1,0,0,21.0,no allergies headache started
+507,34,81,127,92,98.1,22,96.4,1,0,4,0,1,0,0,1,38.4,onset days ago weakness states dizziness
+508,49,57,145,88,99.7,11,100.0,0,2,2,0,1,0,1,1,24.9,days ago fever insect bite abdominal started breathing no allergies started
+509,70,68,155,50,101.0,8,89.4,4,0,17,0,2,0,0,0,25.8,days ago chest breathing follow up rash
+510,91,82,151,90,96.5,12,100.0,5,0,22,1,3,1,0,2,15.9,worsening weakness persistent cough no allergies presenting with abdominal abdominal history of
+511,59,61,122,51,97.6,17,100.0,0,0,4,0,1,0,1,0,30.2,dizziness cough complains of pain fever prescription refill cough no allergies
+512,42,109,138,59,95.9,23,95.4,0,2,9,0,6,0,0,2,18.9,pain worsening dizziness
+513,51,69,114,85,97.7,26,98.2,1,0,13,0,1,0,1,0,25.0,intermittent back complains of chest swelling
+514,59,111,104,76,98.6,22,94.4,1,0,17,1,1,0,1,0,25.1,rash abdominal vomiting onset
+515,44,99,190,89,100.8,8,88.8,7,0,15,0,2,0,0,1,26.7,cardiac arrest headache headache started
+516,87,105,99,77,101.8,8,93.6,2,2,23,1,1,0,0,0,31.1,days ago denies taking medication
+517,30,89,182,81,97.9,17,89.0,4,0,15,0,2,1,0,0,20.0,headache vomiting chest history of history of altered mental rash
+518,71,46,159,97,96.6,10,99.9,4,1,0,0,6,0,0,0,31.1,chest no allergies weakness worsening sprained ankle
+519,69,102,132,83,99.0,13,93.7,6,0,22,1,0,1,1,2,21.6,unresponsive dizziness abdominal dizziness worsening abdominal days ago
+520,51,123,126,110,94.2,12,94.6,2,0,12,0,5,1,0,2,39.4,breathing intermittent intermittent complains of vomiting
+521,10,111,166,67,97.5,14,100.0,6,0,13,0,3,0,0,0,27.6,breathing weakness complains of abdominal breathing moderate prescription refill onset
+522,57,74,146,90,100.4,27,96.3,6,1,1,0,3,0,0,1,24.5,sprained ankle pain associated cough weakness pain intermittent
+523,56,98,108,52,99.9,8,98.0,7,0,12,1,1,0,0,3,22.0,headache abdominal pain weakness patient reports alert oriented
+524,47,144,106,88,99.3,26,96.7,4,0,11,1,0,0,0,1,19.2,rash history of rash associated states insect bite days ago
+525,76,85,80,79,100.9,21,95.6,5,0,16,0,3,0,0,3,20.7,pain laceration complains of states days ago
+526,48,78,90,72,95.2,18,93.9,7,0,11,0,3,0,1,1,20.7,alert oriented nausea dizziness
+527,50,50,135,90,97.1,16,87.6,4,0,13,0,1,1,1,1,31.4,laceration patient reports pain onset history of back
+528,53,96,98,67,98.0,15,100.0,5,1,18,1,1,0,1,0,38.4,history of patient reports days ago
+529,42,75,140,92,101.1,10,100.0,6,0,18,0,1,1,0,0,21.0,complains of insect bite worsening breathing
+530,35,63,142,68,96.3,19,90.0,9,0,15,1,0,0,0,3,19.8,denies worsening days ago fever dizziness cough no allergies
+531,69,89,129,71,98.7,21,95.4,0,0,4,1,2,0,1,2,30.4,nausea insect bite headache states alert oriented
+532,67,38,121,74,98.4,8,97.0,0,1,6,0,3,1,0,1,35.2,denies headache no allergies no allergies history of started vomiting
+533,70,81,149,52,98.0,21,98.3,7,0,7,0,1,0,1,1,20.8,moderate chest no allergies intermittent
+534,40,105,116,89,97.9,19,92.5,6,0,16,0,1,0,0,1,36.3,states intermittent abdominal abdominal
+535,53,96,136,117,101.1,22,100.0,10,0,5,0,0,1,0,1,31.3,history of started vomiting alert oriented associated
+536,5,113,118,86,99.0,21,95.3,0,0,13,0,1,0,1,1,35.9,moderate worsening onset taking medication unresponsive weakness
+537,52,49,135,89,95.6,11,98.8,4,0,3,0,0,1,1,4,26.5,alert oriented follow up weakness alert oriented rash
+538,47,75,80,56,98.9,24,100.0,3,0,16,0,3,0,1,1,34.0,patient reports rash vomiting rash history of presenting with associated
+539,54,98,138,108,102.7,15,97.5,3,0,7,0,2,0,1,2,15.0,insect bite worsening headache worsening associated states history of weakness
+540,55,67,115,86,98.3,15,93.7,8,1,3,0,3,1,0,2,25.8,breathing history of states intermittent altered mental states weakness
+541,59,72,134,118,98.9,17,99.9,10,0,21,0,3,0,0,1,20.2,complains of breathing worsening swelling
+542,44,91,155,50,97.9,10,100.0,1,0,13,0,1,0,0,0,20.4,alert oriented breathing days ago dizziness
+543,21,57,113,50,100.8,11,95.3,3,0,9,1,1,1,0,2,15.3,history of worsening chest dizziness sprained ankle
+544,6,61,109,58,101.2,16,100.0,1,0,2,0,5,0,0,0,21.2,abdominal chest pain
+545,78,96,134,87,101.9,16,95.2,3,0,15,0,1,0,0,2,25.5,sprained ankle chest alert oriented onset nausea
+546,53,83,80,70,97.1,20,88.2,0,1,1,0,1,0,0,1,31.8,dizziness started fever taking medication abdominal abdominal laceration
+547,57,73,103,82,99.8,17,98.1,0,0,1,1,3,0,0,0,24.6,prescription refill history of abdominal started associated patient reports swelling onset
+548,32,142,144,79,98.1,11,100.0,9,2,12,0,1,0,0,1,32.9,intermittent back rash back pain associated started
+549,33,80,101,81,96.4,22,90.0,0,0,22,0,3,0,0,1,19.1,denies breathing nausea headache rash
+550,38,92,125,59,96.8,12,95.5,6,0,3,1,2,0,0,0,31.2,rash onset states taking medication laceration swelling vomiting
+551,41,79,127,97,96.8,21,94.6,0,0,9,0,4,0,1,2,21.0,moderate cough abdominal intermittent presenting with presenting with
+552,37,79,144,77,97.6,24,92.4,5,2,6,0,0,1,1,1,31.7,worsening presenting with dizziness no allergies laceration
+553,49,103,112,54,98.2,18,87.0,6,0,13,0,0,1,0,1,18.8,follow up vomiting back abdominal onset
+554,22,112,122,89,99.1,17,96.9,1,0,4,1,1,0,1,1,27.1,nausea follow up chest alert oriented complains of complains of started
+555,42,45,139,120,96.0,8,93.9,0,0,13,0,4,0,1,1,36.0,follow up headache patient reports pain
+556,56,64,123,80,100.7,23,100.0,0,0,23,0,1,0,1,1,23.2,no allergies history of rash insect bite
+557,53,70,138,75,95.5,16,100.0,3,0,13,0,5,0,1,3,36.4,difficulty breathing taking medication intermittent associated associated
+558,37,76,129,51,97.6,19,97.9,2,1,6,1,3,0,0,0,38.5,associated worsening dizziness breathing
+559,34,64,100,94,98.1,18,97.7,5,0,12,1,4,1,0,0,17.1,rash dizziness history of associated
+560,80,82,158,89,98.4,23,99.0,0,0,0,1,3,1,0,1,35.6,chest onset weakness dizziness rash denies
+561,69,100,83,72,98.1,11,98.5,5,0,6,1,3,1,0,0,29.5,swelling denies pain
+562,55,75,153,50,98.5,17,85.7,10,1,6,1,2,1,0,1,19.1,moderate denies presenting with moderate
+563,66,86,98,105,101.5,8,94.7,10,0,21,0,2,1,0,0,25.7,patient reports vomiting complains of difficulty breathing rash
+564,40,83,151,63,98.8,21,97.7,1,1,4,0,4,0,1,1,32.0,dizziness cough weakness started taking medication states
+565,86,97,163,98,96.7,16,90.5,1,0,15,0,2,0,0,0,41.1,cough worsening complains of back associated
+566,63,153,127,88,98.8,14,100.0,5,0,19,1,2,0,0,1,31.6,days ago breathing rash
+567,35,99,178,83,97.0,10,85.7,5,0,0,0,1,0,0,0,29.3,pain abdominal swelling presenting with abdominal denies fever laceration
+568,49,68,147,83,101.9,26,100.0,2,0,5,0,2,0,1,0,37.0,alert oriented back rash swelling
+569,48,113,143,70,100.7,22,92.5,0,0,21,0,0,1,0,0,25.2,laceration patient reports intermittent back started weakness
+570,23,87,184,52,96.4,32,90.1,7,1,7,1,1,0,0,0,31.3,intermittent cough states swelling
+571,41,106,170,87,99.4,15,100.0,4,1,6,0,4,0,0,0,35.1,pain rash denies weakness denies laceration worsening
+572,75,84,137,98,101.9,32,91.2,10,0,19,1,1,0,0,1,34.8,altered mental breathing swelling started complains of
+573,57,95,121,87,99.5,12,90.8,5,0,17,1,2,0,0,3,30.5,back abdominal alert oriented back
+574,39,93,126,75,101.4,18,82.7,8,0,15,0,3,0,0,1,23.7,back presenting with headache cough vomiting taking medication
+575,73,116,113,65,98.4,20,98.0,9,1,22,0,3,0,0,0,32.9,fever headache abdominal associated unresponsive states abdominal
+576,41,89,98,105,96.9,18,95.0,2,0,14,1,1,1,1,1,19.9,weakness swelling pain associated fever pain states
+577,68,92,115,80,101.1,19,100.0,7,1,22,1,1,0,1,4,32.3,started nausea started swelling swelling complains of
+578,6,81,108,77,98.5,12,93.2,0,0,10,0,2,0,0,0,29.7,breathing rash started history of fever swelling days ago
+579,53,72,123,82,97.5,26,98.2,4,0,18,0,2,0,1,2,27.9,difficulty breathing states pain nausea
+580,23,134,150,68,100.4,12,87.8,7,0,17,0,1,1,0,0,28.4,moderate nausea vomiting taking medication back alert oriented patient reports
+581,63,62,136,58,98.0,8,97.4,7,0,16,0,1,0,1,1,29.8,chest breathing complains of pain chest prescription refill associated weakness
+582,41,96,94,50,101.4,27,87.5,3,0,23,0,1,1,0,1,25.6,complains of presenting with moderate
+583,25,93,124,91,96.8,9,98.2,3,0,22,0,1,0,0,0,22.0,no allergies swelling patient reports weakness patient reports states
+584,33,54,80,82,97.1,16,93.7,4,1,18,1,6,0,0,0,39.8,associated chest cough intermittent presenting with breathing breathing
+585,54,65,133,69,93.1,16,94.9,6,0,9,1,2,0,1,0,26.2,denies weakness history of fever dizziness
+586,40,84,124,50,97.9,21,100.0,7,0,7,0,2,0,1,2,27.2,no allergies alert oriented days ago weakness associated
+587,53,102,136,88,97.2,13,100.0,7,0,7,0,2,1,1,1,25.8,vomiting follow up back worsening presenting with taking medication pain intermittent
+588,21,119,166,78,98.9,21,93.2,0,1,14,0,1,0,1,1,18.1,chest rash cardiac arrest pain no allergies
+589,57,39,124,77,101.8,18,100.0,0,0,9,0,1,0,1,2,35.8,no allergies alert oriented started rash pain
+590,63,86,117,102,98.7,25,90.6,2,0,5,0,3,0,1,1,31.4,dizziness breathing persistent cough associated started pain
+591,64,87,120,76,97.8,20,100.0,4,2,11,0,3,0,1,1,16.5,denies alert oriented intermittent
+592,59,76,118,110,97.1,26,100.0,10,0,9,0,2,1,1,0,21.9,abdominal days ago taking medication fever onset insect bite
+593,42,96,146,81,98.9,27,96.9,2,0,10,0,0,1,0,2,27.3,dizziness started severe abdominal alert oriented
+594,49,94,150,70,99.7,11,91.2,0,1,12,0,4,0,0,0,31.7,breathing started nausea intermittent fever presenting with
+595,43,104,80,86,99.6,8,100.0,0,0,17,0,1,1,0,0,17.0,abdominal dizziness headache cough no allergies
+596,73,82,104,108,104.2,18,100.0,0,0,0,0,3,0,0,1,27.2,presenting with abdominal presenting with fever breathing headache
+597,44,73,122,56,98.0,26,88.0,6,0,11,0,5,1,1,2,28.5,breathing complains of persistent cough worsening taking medication
+598,62,142,155,63,98.2,16,89.1,9,0,12,0,0,0,1,0,22.9,patient reports taking medication nausea presenting with associated
+599,93,95,165,98,97.0,13,97.7,5,0,9,0,3,0,1,1,26.5,severe abdominal weakness history of weakness
+600,66,122,116,61,95.3,21,98.0,9,0,23,0,3,0,0,2,18.7,denies intermittent difficulty breathing abdominal
+601,37,119,153,100,99.5,19,84.5,10,1,22,1,0,1,0,2,24.8,abdominal presenting with no allergies denies fever
+602,23,80,146,50,98.7,12,98.8,0,1,7,0,1,0,0,0,34.3,history of pain follow up breathing weakness denies
+603,80,57,145,75,99.9,8,92.4,9,0,14,0,1,1,1,2,25.4,sprained ankle alert oriented intermittent intermittent swelling
+604,84,110,120,71,98.3,14,100.0,9,0,5,1,1,0,1,1,44.7,complains of altered mental chest associated chest
+605,85,81,81,65,96.5,14,100.0,0,0,21,0,5,1,0,0,22.5,prescription refill onset pain denies cough breathing back
+606,21,51,101,67,100.5,12,100.0,6,0,12,0,1,1,0,2,27.4,rash swelling vomiting presenting with rash
+607,55,119,89,92,97.5,26,98.7,3,0,1,0,3,0,1,1,33.7,breathing moderate moderate severe abdominal history of denies weakness
+608,54,85,123,74,95.6,13,81.2,2,1,21,1,1,0,0,0,29.5,swelling dizziness days ago vomiting onset headache vomiting
+609,52,64,80,62,94.7,20,96.2,4,0,8,1,2,1,0,1,27.4,swelling headache vomiting presenting with insect bite
+610,66,98,121,105,98.4,15,95.9,3,0,14,0,4,0,1,1,23.6,back nausea chest weakness abdominal prescription refill patient reports
+611,54,96,137,83,98.3,8,95.6,0,0,19,1,3,0,0,4,19.8,onset states pain breathing denies nausea alert oriented
+612,43,105,148,87,100.5,25,91.8,2,1,0,0,2,0,1,0,34.2,cough alert oriented complains of presenting with intermittent swelling
+613,38,91,80,88,100.3,16,89.1,5,0,4,1,3,1,0,1,28.9,difficulty breathing started chest breathing denies vomiting back headache
+614,71,80,120,81,98.9,19,96.1,7,0,6,0,1,1,0,0,29.7,states states cough presenting with rash history of laceration
+615,18,98,149,120,98.2,17,100.0,0,2,5,1,0,0,0,0,25.9,vomiting vomiting days ago presenting with dizziness laceration
+616,14,105,105,112,97.4,12,86.8,10,0,12,0,3,0,1,1,33.0,associated severe hemorrhage presenting with fever
+617,76,73,155,107,102.3,10,89.3,3,0,12,1,3,0,1,0,22.1,worsening intermittent complains of started
+618,69,140,144,101,98.0,16,87.8,8,0,11,0,1,0,0,0,31.9,moderate moderate associated fever history of
+619,82,126,128,52,97.2,12,92.4,1,1,16,1,4,0,1,1,26.5,moderate pain patient reports patient reports history of headache
+620,76,85,87,64,99.5,14,100.0,0,0,1,0,0,1,0,2,23.9,onset days ago onset fever dizziness states
+621,26,74,105,82,98.1,13,85.6,3,0,6,0,1,0,1,0,21.6,breathing presenting with follow up complains of
+622,57,39,112,55,97.6,16,91.4,5,0,22,1,1,0,0,0,23.0,breathing history of taking medication dizziness headache breathing
+623,70,85,80,83,96.1,22,100.0,5,1,15,1,1,1,0,2,33.2,denies swelling associated chest
+624,53,63,189,68,99.0,20,100.0,5,1,21,0,1,0,0,0,27.0,states abdominal vomiting denies laceration alert oriented
+625,45,90,175,50,99.6,19,100.0,2,1,19,1,1,0,0,1,29.6,started intermittent headache taking medication difficulty breathing history of pain swelling
+626,26,64,131,62,95.0,15,97.7,0,0,15,0,0,1,0,2,29.8,rash intermittent states days ago insect bite alert oriented days ago started
+627,47,52,117,50,100.0,8,92.5,7,0,5,1,2,0,1,1,39.2,worsening history of presenting with pain laceration history of chest
+628,50,90,141,97,97.0,12,97.1,0,0,1,0,2,1,0,0,26.1,sprained ankle onset cough dizziness chest headache abdominal breathing
+629,70,108,143,73,99.9,12,89.3,5,0,11,0,1,0,0,2,23.0,abdominal weakness worsening
+630,84,116,143,60,94.7,14,97.3,3,1,4,1,1,0,0,0,31.9,headache no allergies worsening intermittent altered mental
+631,53,74,96,67,101.7,9,92.6,9,0,22,0,3,0,1,1,20.8,vomiting back complains of intermittent breathing cough difficulty breathing started
+632,45,112,91,100,97.8,22,93.6,7,2,6,0,0,0,0,2,21.1,swelling back abdominal taking medication rash
+633,53,82,137,79,102.4,15,88.0,3,2,8,1,3,0,1,1,36.5,taking medication associated no allergies patient reports patient reports cough
+634,38,84,111,107,100.6,8,95.7,1,0,19,1,2,1,0,2,33.6,associated no allergies days ago
+635,7,63,128,76,101.5,13,97.4,0,0,13,0,0,1,0,2,28.2,chest headache prescription refill rash
+636,45,84,140,90,100.6,28,100.0,1,0,19,0,2,0,1,0,36.7,history of nausea patient reports days ago
+637,50,85,102,61,96.2,30,88.7,0,0,12,0,3,1,1,2,22.8,taking medication presenting with denies nausea onset nausea chest
+638,44,103,127,81,97.5,15,97.2,5,0,18,0,2,0,1,1,35.7,alert oriented started weakness weakness cough days ago onset
+639,37,83,94,85,100.9,20,98.9,6,0,21,0,7,0,0,1,24.6,fever history of weakness days ago headache complains of taking medication
+640,74,83,122,50,96.7,28,89.5,8,1,15,0,1,0,1,2,28.5,associated severe hemorrhage alert oriented cough patient reports denies cough
+641,30,113,125,94,99.4,17,97.9,0,0,22,1,1,1,0,1,28.8,presenting with nausea intermittent presenting with presenting with taking medication
+642,49,97,98,96,98.2,12,88.1,8,0,15,0,0,0,0,0,32.0,states worsening worsening difficulty breathing cough moderate moderate
+643,5,79,94,85,94.5,21,99.8,3,0,5,0,1,0,0,0,39.1,associated follow up cough no allergies
+644,9,75,80,86,96.0,13,94.8,4,0,17,1,1,0,0,1,23.2,alert oriented weakness swelling worsening onset
+645,56,105,93,78,96.0,23,98.2,0,0,10,1,4,1,0,0,28.6,patient reports intermittent nausea history of onset denies
+646,35,115,127,91,99.2,17,97.4,0,1,8,0,0,0,1,3,30.6,nausea no allergies taking medication associated dizziness cough
+647,50,81,88,97,97.1,18,89.8,3,0,8,1,1,1,0,1,15.0,started no allergies headache swelling pain
+648,47,43,124,56,98.7,17,91.6,2,0,13,0,1,1,0,1,20.9,worsening no allergies abdominal breathing headache cough intermittent
+649,81,42,151,106,94.9,12,99.6,8,1,15,0,5,0,0,1,36.2,abdominal abdominal started days ago
+650,27,110,165,56,100.1,17,95.3,5,0,6,0,3,0,1,0,28.5,onset presenting with taking medication
+651,92,100,149,80,99.2,8,96.3,8,1,20,1,0,0,0,2,31.9,dizziness no allergies nausea no allergies severe abdominal rash swelling days ago
+652,23,49,154,51,99.9,19,97.6,5,0,6,0,0,1,0,0,30.1,chest altered mental cough swelling intermittent no allergies
+653,40,76,151,68,97.0,13,100.0,0,0,3,0,1,0,0,3,34.7,presenting with dizziness history of onset
+654,42,78,110,67,96.4,16,95.4,0,1,3,0,1,0,0,1,17.4,insect bite intermittent headache alert oriented history of fever abdominal
+655,34,78,137,94,95.8,14,88.2,3,0,7,0,2,0,1,2,24.3,back headache days ago states complains of
+656,38,50,119,74,98.0,18,88.0,8,0,20,1,3,0,1,0,34.8,swelling moderate patient reports taking medication persistent cough
+657,72,76,85,94,99.0,10,100.0,2,0,1,0,0,0,0,1,18.0,patient reports dizziness insect bite worsening
+658,46,62,114,90,97.1,12,100.0,8,0,12,0,4,0,1,2,22.3,breathing days ago fever onset abdominal
+659,55,80,134,63,95.6,13,97.0,0,0,22,1,2,0,1,2,22.3,vomiting chest patient reports laceration taking medication
+660,48,118,160,70,99.0,21,87.3,9,1,5,0,0,1,0,3,18.3,patient reports chest denies
+661,79,47,141,56,96.9,14,90.0,2,0,13,1,1,0,0,1,37.2,started nausea rash patient reports sprained ankle weakness
+662,49,90,134,61,100.5,23,95.9,4,1,22,0,2,1,0,0,28.8,states difficulty breathing weakness denies
+663,44,78,106,50,101.0,19,100.0,2,0,6,0,0,1,1,0,26.1,abdominal rash weakness sprained ankle rash dizziness states
+664,73,93,121,69,97.2,12,96.0,2,0,0,1,2,1,0,1,17.4,history of moderate denies denies vomiting
+665,74,61,107,77,95.7,29,96.0,4,1,14,0,2,1,0,0,23.3,moderate days ago weakness taking medication moderate insect bite chest
+666,30,108,146,78,97.0,15,88.2,4,0,21,0,4,0,0,3,24.3,states vomiting abdominal started worsening back
+667,60,51,134,50,98.4,20,99.3,0,0,0,1,2,0,0,0,25.9,worsening onset presenting with insect bite pain
+668,37,73,126,58,98.0,27,100.0,5,0,12,0,4,1,0,0,20.6,associated days ago abdominal nausea alert oriented sprained ankle nausea vomiting
+669,62,80,90,100,101.5,15,93.1,0,0,13,1,3,1,0,2,15.5,severe abdominal abdominal worsening cough
+670,49,36,118,66,101.7,18,93.6,2,2,1,0,4,1,0,0,24.3,intermittent rash days ago
+671,61,81,154,97,96.2,15,94.8,7,0,6,0,2,0,0,3,30.1,altered mental fever dizziness intermittent rash rash started swelling
+672,62,101,131,82,100.1,15,98.1,0,2,0,0,3,0,1,1,36.7,follow up history of started onset intermittent
+673,41,67,100,57,96.1,21,94.5,5,0,11,0,1,1,1,1,32.9,chest complains of laceration started cough patient reports chest
+674,72,85,156,67,98.0,11,100.0,10,1,13,0,3,1,1,3,26.0,dizziness onset weakness patient reports
+675,58,136,112,78,96.9,10,89.5,3,0,19,1,3,0,1,0,27.7,moderate states no allergies worsening back
+676,86,68,128,50,94.7,8,97.8,3,0,9,0,3,0,0,2,27.2,fever moderate history of days ago laceration history of
+677,23,73,103,100,97.4,12,96.3,3,0,0,0,3,1,1,1,40.4,vomiting days ago alert oriented rash intermittent abdominal follow up
+678,2,137,166,73,96.4,16,91.9,3,1,3,1,3,0,0,3,25.0,cardiac arrest started abdominal vomiting
+679,56,49,172,81,100.4,13,90.9,6,0,12,0,0,1,0,4,29.5,nausea vomiting denies cough history of fever no allergies
+680,59,86,132,77,97.5,23,92.8,5,1,15,0,1,0,1,0,20.3,presenting with weakness pain back
+681,45,84,120,93,95.7,14,95.4,3,0,11,1,3,1,1,5,23.3,states days ago days ago intermittent follow up
+682,73,134,114,80,96.5,15,89.7,1,1,8,0,2,1,0,0,17.9,dizziness difficulty breathing days ago patient reports
+683,19,87,83,74,99.0,19,95.7,0,1,20,1,3,1,0,1,32.0,chest abdominal alert oriented headache sprained ankle alert oriented vomiting
+684,52,99,202,82,97.9,16,100.0,4,1,23,0,4,0,1,0,20.6,days ago alert oriented cough rash intermittent worsening moderate altered mental
+685,39,47,153,89,98.7,12,95.9,8,0,13,1,3,0,0,2,29.9,days ago vomiting denies
+686,21,80,161,87,102.5,21,94.2,9,0,1,0,3,0,1,2,33.9,started laceration states pain
+687,35,79,168,54,99.0,8,100.0,7,0,15,0,1,0,1,1,21.9,vomiting back abdominal cough laceration nausea
+688,49,49,97,52,100.8,17,100.0,4,0,18,0,2,0,0,0,31.0,associated alert oriented no allergies alert oriented swelling laceration
+689,47,86,90,75,99.8,17,92.1,4,0,13,0,0,1,0,1,25.9,onset breathing insect bite chest nausea
+690,7,125,117,50,99.1,14,88.3,0,0,22,1,1,1,1,1,24.5,started taking medication started pain states intermittent back
+691,1,73,125,76,98.8,16,94.6,7,0,20,0,6,1,0,0,22.5,onset associated pain
+692,52,65,142,83,98.4,18,100.0,4,0,4,0,2,1,0,0,23.9,worsening altered mental vomiting swelling started
+693,52,37,144,99,98.1,8,98.9,8,0,13,0,2,1,1,1,32.0,difficulty breathing denies days ago onset
+694,68,86,93,50,95.4,24,99.6,4,0,3,1,3,0,1,1,38.7,headache onset days ago headache persistent cough weakness
+695,44,47,160,117,97.1,17,93.8,0,0,19,0,5,1,1,3,31.1,states started back dizziness intermittent
+696,43,70,136,66,97.8,16,82.9,3,0,23,1,4,0,0,1,24.3,nausea days ago presenting with back associated
+697,53,41,147,73,99.8,12,91.8,1,0,19,0,1,0,0,0,22.9,onset headache nausea abdominal rash no allergies
+698,65,43,183,50,97.2,11,100.0,6,1,12,0,4,1,1,0,35.0,swelling no allergies fever worsening presenting with onset worsening
+699,23,41,143,70,99.0,30,99.5,4,0,19,0,7,0,0,2,32.0,no allergies associated worsening dizziness chest

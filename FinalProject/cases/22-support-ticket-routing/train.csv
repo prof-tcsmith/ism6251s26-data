@@ -1,0 +1,2001 @@
+customer_tier,account_age_months,num_open_tickets,priority_level,submission_hour,is_weekend,num_users_on_account,monthly_spend,product_module,days_since_last_ticket,escalation_history_count,ticket_description,department
+0,38,0,1,16,0,5,223.72,4,51,2,overcharge need information loading details,Billing
+1,11,1,2,13,0,14,73.69,1,58,1,urgent support password time please,Account
+2,26,1,1,8,0,3,386.89,0,28,2,getting started service account today system,Onboarding
+2,10,1,2,20,0,36,653.59,5,96,0,login team access user need contact service not working check,Account
+1,11,2,3,0,1,8,1736.11,2,88,1,invoice team help problem support service overcharge check,Billing
+1,36,3,2,5,0,2,631.78,0,0,1,details broken check service login details not working urgent support,Account
+1,22,3,1,22,0,1,863.44,0,7,0,details resolved information details unauthorized change unable broken,Security
+1,30,0,2,10,0,14,402.85,4,33,2,account problem not working API unable support check team today,Technical
+2,64,2,3,11,1,22,295.13,2,28,1,page yesterday import data service contact information update support fix,Onboarding
+0,50,1,3,5,0,3,294.96,1,54,0,not working help fix broken error,Billing
+1,4,2,2,7,0,22,194.93,4,38,1,request problem resolved update fix unable details problem account,Billing
+3,132,2,2,0,0,74,157.07,0,24,0,team password error request problem problem user need service urgent,Account
+3,35,0,2,6,0,6,205.93,0,35,0,phishing problem loading user fix time,Security
+1,3,2,1,8,0,6,691.6,4,14,1,page permission change urgent page help details fix user,Account
+0,31,2,1,13,0,5,84.24,4,60,0,time update team system loading crash urgent request,Technical
+0,8,2,1,2,0,3,813.82,3,34,3,please details problem access error access overcharge user time,Billing
+1,13,1,3,21,0,2,767.32,5,12,0,error help help yesterday resolved support setup information,Onboarding
+0,5,2,1,15,0,5,504.14,0,18,0,permission system page team unable error,Account
+0,137,3,2,15,0,17,580.73,5,15,2,team error resolved details overcharge details help,Billing
+1,28,1,1,17,0,16,121.53,1,31,0,page issue please fix team fix SSO,Account
+0,14,0,3,6,0,1,414.59,1,28,0,service page problem resolved need access refund update broken yesterday,Billing
+3,3,1,1,19,0,4,496.02,1,29,0,need please error system today please permission access issue,Account
+2,6,2,2,20,0,122,1431.53,0,93,0,update unable details login team support,Account
+3,108,0,1,9,0,4,655.86,4,2,0,API problem today help change,Technical
+3,36,2,3,8,0,42,1629.59,4,22,1,loading not working migration service check help,Onboarding
+2,10,1,2,5,0,6,109.82,5,9,0,yesterday urgent check API details details issue unable,Technical
+2,84,1,2,4,0,36,407.16,5,22,0,yesterday phishing user broken loading system resolved unable issue unable,Security
+2,47,1,1,0,0,6,576.5,4,8,1,support service check subscription please team account,Billing
+3,80,4,1,4,0,13,707.35,4,8,3,team crash help change service,Technical
+1,4,3,2,0,0,59,206.69,3,15,0,crash change access details user information help,Technical
+0,22,2,1,5,0,84,106.96,3,0,1,overcharge urgent support update change change urgent,Billing
+2,21,1,1,6,1,9,54.98,3,73,2,account fix timeout page request system broken,Technical
+3,1,1,1,11,0,31,2545.24,3,66,0,user time migration urgent unable access details issue,Onboarding
+1,7,1,2,6,0,10,806.8,3,6,1,access details please page details,Onboarding
+1,20,0,3,4,0,20,1756.11,0,4,2,need check help information issue setup please,Onboarding
+0,31,0,1,19,0,58,17.85,3,194,2,bug service details timeout account urgent issue system service team,Technical
+3,21,3,2,8,0,3,270.74,1,9,0,issue fix urgent page contact breach today resolved unauthorized broken user,Security
+3,17,1,2,10,1,6,630.07,2,58,0,contact user please contact need password account today yesterday,Account
+0,25,3,3,3,0,5,2561.42,0,46,0,account update problem access problem error not working request refund,Billing
+3,18,0,2,1,0,6,227.05,0,19,1,loading user need urgent check account please import data,Onboarding
+1,40,2,1,1,0,15,148.59,1,37,0,page problem time need problem help update access password,Account
+0,48,3,1,22,0,23,780.32,4,7,0,please resolved unauthorized page check team change today,Security
+2,20,1,1,2,0,6,181.58,3,21,0,yesterday need need vulnerability contact need problem information,Security
+1,1,1,2,23,0,16,506.75,3,36,0,access resolved need check not working issue please getting started,Onboarding
+1,26,3,2,21,0,8,258.73,2,8,1,time check support change fix yesterday setup fix,Onboarding
+3,1,0,3,15,1,34,290.4,4,11,0,unable yesterday issue team update help invoice user refund contact today,Billing
+3,94,0,3,11,0,10,1294.83,1,20,0,access contact page permission information update yesterday details,Account
+1,15,2,2,18,0,52,234.32,0,15,0,issue fix enhance help problem,Feature_Request
+3,8,1,3,11,0,25,309.82,3,0,2,overcharge error service update broken resolved system service,Billing
+2,2,3,1,2,0,26,2506.52,2,17,0,timeout support error problem fix information bug today,Technical
+1,94,5,3,16,1,43,723.88,4,34,1,information overcharge unable check system help access access fix,Billing
+3,5,1,1,4,0,7,5404.78,2,11,0,bug resolved error details change,Technical
+1,18,2,1,11,0,8,294.53,2,7,0,team help help support service subscription need,Billing
+1,34,2,1,15,0,4,2074.71,4,7,1,update not working page loading access support,Billing
+0,2,0,1,17,0,1,802.89,4,59,0,error update today loading broken SSO error account,Account
+2,3,2,2,8,0,3,151.59,5,27,2,unable phishing page error user service,Security
+1,65,3,2,8,0,21,822.2,3,16,3,page phishing access service team broken page request check,Security
+3,4,0,1,10,0,1,180.62,4,48,1,check page page user urgent login unable,Account
+3,1,1,2,11,0,1,1089.48,2,112,0,please crash information team update,Technical
+0,9,3,1,19,0,2,727.51,1,13,1,broken fix change page fix error,Onboarding
+3,2,3,3,20,0,19,49.07,1,23,2,unable unable user user time contact need today API,Technical
+1,2,2,2,8,0,6,472.35,1,8,0,issue refund resolved check contact,Billing
+3,5,3,2,14,0,14,106.6,3,116,1,user account yesterday error roadmap check contact help,Feature_Request
+2,28,1,1,18,0,12,168.31,1,21,0,help information overcharge please page service please,Billing
+1,2,1,2,1,0,19,391.88,2,11,2,help information unable help,Feature_Request
+1,1,2,1,1,0,2,208.65,2,26,0,system invoice help user contact error,Billing
+1,74,3,3,15,0,4,252.71,2,10,0,please time time problem migration information user error urgent,Onboarding
+3,1,0,1,1,0,2,123.35,2,16,2,information contact service access service system update,Billing
+3,14,0,1,5,0,10,630.51,4,64,1,information service account time,Account
+2,7,2,3,6,0,29,185.55,3,43,1,fix change contact error getting started account urgent need error,Onboarding
+1,3,0,1,22,0,4,2665.16,2,20,0,unable page loading update yesterday getting started not working,Onboarding
+1,5,0,1,13,0,7,89.59,0,51,1,update please issue help enhance system error check fix,Feature_Request
+0,6,1,1,5,0,4,858.69,0,3,1,contact system need today contact problem issue yesterday service,Technical
+3,1,1,3,9,0,2,490.58,4,8,0,information subscription service system broken update update contact page,Billing
+3,11,0,1,11,0,1,427.31,3,66,0,unable SSO information account error request access,Account
+3,6,1,3,18,0,23,598.12,4,7,0,today need overcharge issue yesterday team information loading access yesterday,Billing
+3,1,0,1,14,0,41,495.41,1,11,1,access check login time broken team service fix login help,Account
+0,23,3,1,6,0,3,129.81,5,12,0,help problem user help bug problem unable team broken,Technical
+2,6,0,2,12,0,12,40.94,1,3,1,support refund check change today,Billing
+1,6,2,1,17,0,2,480.07,3,34,0,change phishing error time change user system,Security
+3,20,1,2,4,0,3,414.73,0,2,2,support loading login support account access support loading,Account
+3,46,0,1,9,0,1,539.71,4,29,0,access today time setup time please support change,Onboarding
+2,1,1,1,22,0,9,82.01,0,41,1,please overcharge refund yesterday help problem broken,Billing
+0,11,4,1,12,0,1,1259.7,5,47,0,request API broken today unable resolved issue access,Technical
+3,37,0,1,6,0,19,456.18,5,67,1,SSO check urgent support please resolved today urgent,Account
+2,1,3,2,19,1,3,279.54,4,28,0,roadmap help service unable time need request change fix access,Feature_Request
+0,3,3,1,11,0,8,186.42,2,4,0,time overcharge service access page user,Billing
+0,8,1,1,1,0,9,34.7,4,24,0,information setup please change not working,Onboarding
+2,22,0,2,14,0,1,383.69,4,18,0,unable request SSO please broken user details broken,Account
+2,4,1,2,12,0,1,32.18,3,3,0,error enhance contact information change,Feature_Request
+0,16,1,2,1,0,40,457.82,4,20,0,problem access urgent support error error resolved broken crash broken,Technical
+0,1,2,1,0,0,7,83.93,0,20,0,urgent details problem update update refund need update,Billing
+0,15,4,1,12,0,16,1591.8,2,4,1,error need fix check API request time time access urgent,Technical
+1,7,1,2,0,0,2,354.01,1,2,1,invoice check update update support please unable loading access,Billing
+3,1,0,2,21,1,9,679.35,4,1,1,page unable not working error loading need team resolved user vulnerability,Security
+2,20,1,2,2,0,1,2171.1,1,14,1,loading service time information unable login help yesterday login access,Account
+1,1,0,3,15,0,14,1478.11,5,26,0,team resolved team loading need change details refund,Billing
+2,11,2,3,12,0,24,240.66,1,42,0,update help problem check loading enhance need request account not working,Feature_Request
+3,33,2,3,10,0,47,148.58,0,102,0,resolved change change system page,Technical
+3,45,2,1,19,1,4,567.98,2,10,0,support fix update not working contact account refund,Billing
+3,1,1,2,16,0,14,110.94,5,14,1,team invoice please fix request change update urgent page change,Billing
+3,36,1,2,7,0,3,1108.27,2,29,1,urgent SSO access issue details loading,Account
+3,12,2,3,12,0,6,2196.52,2,61,0,API please timeout not working team fix page system yesterday today help,Technical
+3,38,4,2,17,1,1,894.82,1,122,0,yesterday change timeout resolved issue,Technical
+3,22,3,1,1,0,7,75.66,4,43,0,need service getting started account resolved check resolved urgent check,Onboarding
+0,13,1,3,7,1,9,502.44,3,6,0,resolved information loading timeout need,Technical
+3,11,2,2,8,0,9,88.03,3,0,3,urgent change check support request service SSO,Account
+3,13,0,3,10,0,1,370.41,2,6,1,unable crash need help not working time support update service,Technical
+3,15,5,1,20,0,11,1116.07,5,54,0,issue support information please request urgent API support,Technical
+2,6,0,2,19,0,9,1720.43,0,47,0,issue change today need timeout timeout loading help need,Technical
+1,13,0,2,2,0,12,37.15,0,95,1,please check team contact service,Billing
+0,2,0,1,22,0,4,140.91,4,18,0,bug team access update time,Technical
+2,17,1,2,7,0,5,334.82,2,11,0,help not working request error yesterday access invoice,Billing
+2,17,3,1,14,0,13,1433.19,0,8,0,support help issue issue need subscription overcharge system,Billing
+2,2,2,2,20,0,52,361.6,4,3,0,broken would like team please loading resolved check fix,Feature_Request
+3,15,2,3,13,0,10,543.87,0,29,1,system support bug information fix,Technical
+2,22,1,1,20,0,26,509.65,1,42,0,details access system broken yesterday need need,Technical
+0,18,0,1,9,0,2,148.74,0,17,0,details yesterday not working getting started team contact yesterday need change not working,Onboarding
+0,15,1,2,16,0,5,3599.62,0,5,1,check user request unable page page help not working not working API,Technical
+0,115,1,2,23,0,7,129.98,0,118,0,page support unable invoice yesterday,Billing
+0,48,1,1,12,0,8,210.91,2,15,0,yesterday contact problem problem error details support,Onboarding
+1,1,1,2,14,0,2,596.56,5,3,0,problem update today help unable not working please,Billing
+3,107,0,1,8,1,2,2991.06,4,120,0,please problem please subscription urgent page team urgent update loading,Billing
+3,4,3,3,16,0,40,226.53,5,21,1,urgent broken need please service login user help support time,Account
+2,4,3,1,7,0,3,548.45,4,70,0,system invoice resolved broken change unable information team problem,Billing
+2,2,1,1,19,0,4,177.0,2,10,0,problem team invoice time update team issue access,Billing
+0,48,2,1,13,0,14,1431.11,2,0,0,details loading refund please fix information please page,Billing
+0,60,3,1,14,0,6,494.0,2,7,0,error not working bug time please,Technical
+0,23,0,1,7,0,4,310.9,1,11,0,team service help support urgent not working setup need getting started,Onboarding
+3,10,3,1,19,0,4,97.66,0,35,1,urgent invoice access please please issue not working team time,Billing
+3,4,1,2,0,0,8,578.02,4,98,1,time team account update service page help,Technical
+3,24,1,1,10,0,3,10.33,2,68,1,need user request page team not working contact subscription not working,Billing
+1,6,1,2,14,0,5,65.26,4,3,0,problem details information issue details change bug need change today,Technical
+3,1,1,1,11,0,15,2786.49,4,5,0,issue loading information request team service broken please login,Account
+3,2,1,2,23,0,2,227.65,1,20,0,today help resolved urgent account overcharge,Billing
+1,10,0,1,6,0,14,1098.42,0,43,0,enhance system problem today account,Feature_Request
+3,21,3,1,18,0,34,2248.51,2,18,2,team please bug please unable access,Technical
+2,12,3,1,2,0,24,3960.23,5,56,1,resolved please service subscription support loading,Billing
+3,23,3,1,2,0,26,1293.14,5,63,0,problem system timeout check system change,Technical
+3,16,1,2,7,0,57,245.53,1,23,0,system contact SSO account today,Account
+2,3,1,1,6,0,14,599.17,1,7,0,information loading request time crash page,Technical
+3,23,0,2,4,0,3,73.31,4,24,0,today change team request unable check add feature,Feature_Request
+2,56,1,1,5,0,25,1666.4,3,5,1,access access resolved details not working urgent please user team invoice,Billing
+1,1,1,1,4,0,5,70.6,4,11,0,system fix urgent help need update refund,Billing
+0,3,1,3,21,1,4,145.4,4,23,1,team update support information user update problem service permission,Account
+3,40,1,1,8,1,6,231.3,5,12,0,unable overcharge page problem team page team system,Billing
+0,26,6,2,12,1,22,1535.71,3,40,0,need resolved please details information setup,Onboarding
+0,31,3,3,7,0,1,84.52,1,9,0,update resolved invoice refund unable resolved need,Billing
+1,39,4,2,4,0,6,896.06,0,49,0,update information service login update broken loading please,Account
+2,21,1,3,20,0,1,199.17,1,90,0,time problem help unauthorized today information team account access,Security
+1,5,1,1,13,0,7,56.09,2,32,1,check change resolved team error help help information urgent subscription,Billing
+0,109,2,1,1,0,2,321.24,2,31,0,team today details SSO time today information SSO request check urgent,Account
+0,64,1,1,9,1,21,118.71,4,28,1,time service SSO loading urgent request today unable loading,Account
+2,44,4,2,22,0,5,242.41,5,0,1,urgent issue problem yesterday not working today error check,Technical
+1,2,0,1,17,0,33,270.05,3,46,1,update invoice need error contact,Billing
+2,2,1,1,14,1,37,349.43,5,44,1,system subscription fix broken issue,Billing
+1,25,0,3,18,0,14,718.72,1,39,1,account migration team request information,Onboarding
+2,31,1,1,9,1,3,789.58,5,19,0,page access crash broken urgent not working yesterday team contact,Technical
+3,19,1,1,12,1,9,657.27,1,1,0,contact need request broken need urgent timeout yesterday,Technical
+1,8,4,1,23,0,6,350.56,3,27,0,please issue access change urgent need contact crash,Technical
+0,67,1,1,20,0,2,4600.23,1,20,0,broken user page team today loading fix support subscription,Billing
+2,14,3,3,15,0,2,694.68,3,20,0,request contact team crash time urgent,Technical
+0,13,5,1,20,0,1,910.79,4,56,0,details enhance loading contact today time today update need,Feature_Request
+2,1,0,2,0,0,5,105.88,1,42,1,unable help broken user unable password,Account
+0,65,1,1,5,0,28,381.03,3,18,0,permission today support user need,Account
+0,20,0,1,20,1,4,2918.91,5,14,1,user broken details issue,Account
+2,11,3,1,17,0,76,2534.67,1,14,0,phishing need team urgent information today,Security
+0,7,1,1,11,0,15,505.82,1,115,0,change resolved add feature resolved help loading,Feature_Request
+1,45,0,2,10,0,7,534.88,0,8,0,urgent page would like yesterday please user team,Feature_Request
+2,22,4,2,9,0,1,240.29,3,34,0,enhance fix support request access urgent unable,Feature_Request
+1,4,1,2,4,1,13,235.79,4,25,0,timeout help team yesterday resolved,Technical
+1,25,2,2,6,0,30,585.2,4,34,1,support not working need system not working contact information access,Account
+3,9,2,1,9,0,18,860.52,4,19,0,contact urgent loading issue,Security
+2,16,1,1,14,0,12,289.78,3,16,1,help update problem loading resolved timeout team broken problem information,Technical
+3,76,3,2,7,0,1,269.61,5,0,0,account service loading broken time yesterday need unauthorized,Security
+0,95,1,3,23,0,3,2029.2,3,49,0,contact change access breach support error,Security
+3,5,2,1,18,0,5,812.47,4,50,0,update urgent enhance issue yesterday not working,Feature_Request
+3,3,1,1,4,0,24,156.23,3,1,0,information issue problem unable overcharge subscription page page request not working,Billing
+3,22,1,1,13,1,14,510.73,1,13,1,fix API error help change team request contact update,Technical
+1,5,0,1,15,0,9,372.24,1,61,0,service information request today timeout help,Technical
+2,67,1,1,11,0,9,205.08,4,1,1,service not working support service request API help,Technical
+3,32,0,1,17,0,15,123.25,4,29,0,change resolved error API need need user service service,Technical
+1,40,2,3,18,0,10,332.61,0,4,0,help would like not working request issue enhance,Feature_Request
+1,10,1,1,15,0,1,4125.95,2,64,1,please broken time fix refund,Billing
+0,12,1,1,17,0,21,643.16,2,6,0,request loading timeout problem account time help contact support loading,Technical
+0,20,3,1,0,0,5,116.82,5,18,0,please service support system support loading request fix,Billing
+1,20,2,2,2,1,1,84.47,2,61,1,service loading time team details unable update access,Feature_Request
+2,32,2,1,7,0,4,576.8,5,81,0,details page update request system invoice not working please update information,Billing
+3,20,0,2,12,0,7,529.38,1,15,0,access permission loading error please,Account
+0,42,1,3,5,0,8,74.45,0,5,1,support time account information user loading need broken loading,Billing
+2,5,3,2,8,0,1,779.39,4,16,3,fix time update yesterday timeout access,Technical
+3,5,1,1,0,0,5,284.05,1,22,0,information urgent request today breach error,Security
+2,27,1,2,7,0,21,2209.08,2,58,1,problem issue SSO unable change request access loading today,Account
+1,27,1,1,23,0,107,1142.51,5,36,0,details account update support login details,Account
+3,3,0,3,21,0,35,749.04,1,10,1,breach issue unable check request,Security
+1,1,2,1,8,0,7,3018.61,1,1,0,contact issue getting started today time team check,Onboarding
+0,42,2,1,2,0,6,783.7,5,12,1,yesterday migration team broken broken,Onboarding
+3,35,3,1,20,0,4,1451.89,2,53,2,change please information contact details unable timeout,Technical
+0,2,1,1,16,0,4,78.87,1,6,1,broken urgent need need support overcharge,Billing
+0,28,0,1,13,0,5,179.24,4,24,1,SSO contact system urgent service contact time,Account
+3,25,0,2,2,0,2,136.63,4,37,0,access contact loading invoice account check unable user,Billing
+0,85,1,1,11,0,25,665.19,1,3,0,help yesterday broken refund time issue access,Billing
+2,15,0,1,9,1,36,297.54,5,12,0,issue update help check loading check login details,Account
+0,23,0,1,21,0,3,288.42,0,77,1,need API access problem please update,Technical
+1,119,1,2,14,1,4,270.03,0,76,0,time request issue yesterday overcharge contact loading,Billing
+0,1,3,1,23,0,14,802.87,4,37,0,time service resolved getting started broken fix error change user,Onboarding
+0,8,1,1,20,0,27,528.56,1,36,1,system change request account resolved would like help urgent,Feature_Request
+2,1,2,1,16,0,2,47.27,4,38,1,need change error request help login service broken,Account
+1,1,0,1,0,0,2,191.78,0,11,0,user resolved today loading import data,Onboarding
+2,65,0,2,16,0,15,169.54,3,29,0,resolved team request enhance loading check check,Feature_Request
+2,6,4,1,4,0,3,195.55,3,27,0,check request yesterday change need contact refund team,Billing
+1,104,1,2,0,0,3,72.03,1,24,0,resolved unable fix please broken crash today timeout,Technical
+1,7,0,3,10,0,1,474.63,4,59,1,information fix team account resolved change loading details page,Technical
+2,4,1,3,10,0,2,557.26,0,7,0,access broken team broken need change request team API service,Technical
+3,6,1,2,20,0,5,568.97,2,9,0,need request issue change change user help setup user,Onboarding
+0,7,2,2,17,0,9,471.0,4,2,0,team account login details contact issue today yesterday account,Account
+2,78,2,1,15,0,23,489.23,3,170,1,support crash service user page please bug user,Technical
+0,25,2,1,5,0,4,813.84,2,10,0,time access urgent problem,Technical
+0,22,2,1,14,1,8,2041.25,3,16,1,issue fix update phishing service,Security
+1,19,2,2,10,0,5,3140.86,4,59,0,broken issue breach urgent system not working user access,Security
+2,23,1,2,15,0,4,194.95,3,11,0,update phishing loading help details,Security
+0,18,2,2,3,0,3,1685.36,5,5,1,unable account support not working invoice check details check fix,Billing
+3,14,1,1,14,0,20,707.12,4,38,0,information help page user unable bug account contact,Technical
+1,24,2,1,18,0,3,252.23,1,91,0,support problem contact fix fix broken problem check timeout,Technical
+2,76,3,1,23,0,3,772.19,5,19,0,help fix update service invoice loading,Billing
+0,17,1,3,20,0,10,1341.39,1,70,1,broken overcharge account need please access,Billing
+1,1,0,2,2,0,3,99.66,3,19,0,change issue unable getting started broken,Onboarding
+0,4,1,3,21,1,4,308.29,0,40,1,request broken not working request service invoice urgent system update urgent,Billing
+3,42,0,1,11,0,9,6090.9,5,27,0,service fix contact today overcharge unable change today need time,Billing
+0,7,2,2,22,1,2,669.55,1,19,3,update today need page details bug request service time,Technical
+3,3,1,1,1,0,4,89.24,1,24,0,system time API time change update,Technical
+3,33,2,2,0,0,1,17.11,4,29,0,urgent account service service breach fix,Security
+1,13,2,1,21,0,10,219.49,3,86,0,overcharge today yesterday help access overcharge contact change unable account access,Billing
+0,10,3,2,3,0,5,537.07,3,0,1,help overcharge yesterday fix not working,Billing
+0,23,0,1,13,0,9,438.97,4,36,0,issue time API request help change loading,Technical
+3,22,1,1,9,0,24,624.97,4,79,0,API change issue change user,Technical
+3,22,0,1,15,0,17,308.67,2,11,0,error user check page today details crash help,Technical
+2,13,1,2,23,0,7,429.83,1,25,1,today time system not working import data broken check resolved team,Onboarding
+3,88,3,1,23,0,18,108.68,2,34,1,update page invoice urgent support check time urgent,Billing
+3,44,1,1,16,0,10,5978.75,1,19,0,time details team request,Billing
+3,18,0,1,13,0,3,2847.28,4,13,0,need contact support unable page change account check,Account
+0,121,2,2,17,0,2,58.19,3,24,0,today need not working add feature support help today,Feature_Request
+0,15,1,1,16,0,12,362.35,2,0,1,resolved error bug contact broken,Technical
+2,44,0,2,21,0,2,757.48,4,27,2,problem problem error error today overcharge yesterday help change service,Billing
+2,50,0,2,20,0,30,593.8,0,55,1,not working time request team access today please not working unauthorized update,Security
+3,89,1,1,14,0,15,278.62,3,14,0,information help information phishing phishing issue access page account time unable,Security
+1,26,1,1,16,0,2,2221.12,5,9,1,today user team information SSO please,Account
+2,5,1,1,9,0,2,400.89,0,5,1,please team user unable,Technical
+1,37,0,3,15,0,11,418.06,1,31,0,loading fix resolved details,Feature_Request
+1,16,0,3,6,0,5,207.75,3,60,0,need unable check page team,Billing
+1,15,1,1,13,0,6,1357.7,1,44,1,help account subscription unable contact unable help check,Billing
+3,17,2,1,1,0,23,968.48,4,14,1,user urgent page problem change not working unable update,Onboarding
+3,13,2,2,16,0,10,278.28,1,15,0,fix information check support setup issue access time,Onboarding
+0,53,1,1,18,0,6,633.4,2,4,0,support check password contact today update system team support today,Account
+1,33,2,1,7,0,5,1259.4,5,19,0,service setup team user problem,Onboarding
+3,41,1,3,18,0,13,2838.65,1,6,2,update help account team problem API system,Technical
+0,1,1,1,23,0,10,592.73,3,48,1,refund today subscription today fix page unable,Billing
+0,15,1,1,17,0,40,136.14,4,12,2,yesterday contact system access fix migration issue loading time information,Onboarding
+0,30,0,1,16,1,16,2179.27,0,55,0,problem help error request help system would like,Feature_Request
+3,21,0,3,4,1,6,192.34,5,3,0,loading contact information contact team unable,Billing
+2,65,1,1,15,0,13,4073.31,0,25,0,request not working overcharge request not working check,Billing
+1,4,2,1,2,0,59,131.76,1,13,0,page information account details,Account
+0,46,3,1,11,0,7,1102.83,1,7,0,unable SSO today broken team contact account help check SSO,Account
+1,24,1,1,12,0,10,330.47,3,6,0,unable service please roadmap system information details broken service update,Feature_Request
+2,9,1,3,22,0,5,1453.75,1,93,0,API system access check page,Technical
+0,2,2,1,13,0,3,5518.56,4,8,0,service roadmap help resolved page,Feature_Request
+2,3,2,3,13,0,10,81.76,0,11,1,information fix yesterday API team,Technical
+3,8,2,1,11,0,4,102.03,5,36,0,error help fix permission broken contact page urgent,Account
+1,42,0,1,12,0,20,81.88,4,3,1,details loading page information permission system details problem help,Account
+1,71,0,2,7,0,30,1526.41,2,16,1,update resolved change urgent subscription issue information fix check,Billing
+3,31,2,3,15,0,27,680.56,2,54,0,system support problem not working problem,Onboarding
+2,46,3,2,2,0,2,94.59,5,29,0,page please details service service login please time issue today,Account
+2,24,1,1,21,0,4,770.25,2,29,1,access system change account page overcharge details help resolved,Billing
+3,19,1,1,12,0,5,122.77,5,43,1,help API contact please broken system today unable page,Technical
+2,4,3,2,2,0,4,381.65,2,64,0,contact information update support getting started broken issue,Onboarding
+3,3,1,1,1,1,14,615.84,3,49,0,problem team access yesterday information subscription overcharge unable account,Billing
+0,13,0,2,19,0,9,336.58,2,1,2,today access error bug today support account yesterday contact,Technical
+1,2,2,1,3,0,1,398.96,4,5,0,need urgent unable time update invoice fix request,Billing
+0,17,3,1,9,0,3,328.66,0,68,3,issue change access fix unable error,Feature_Request
+3,16,4,3,6,0,10,556.04,3,37,1,import data access issue check error loading change user,Onboarding
+2,29,2,3,18,0,8,416.96,5,3,0,API unable yesterday account today change,Technical
+2,1,1,3,11,0,5,1006.72,2,1,1,phishing issue not working broken not working support,Security
+1,66,2,1,23,0,31,1122.44,0,2,1,not working update access access SSO yesterday help problem unable,Account
+3,5,0,1,14,0,6,1453.79,2,35,0,loading error error check time roadmap access,Feature_Request
+2,15,2,3,14,0,1,210.8,0,11,2,today please need migration fix page,Onboarding
+3,55,1,3,10,0,22,1058.98,5,25,0,urgent please page today,Account
+2,36,1,1,23,0,12,512.7,5,7,0,migration support access support broken loading,Onboarding
+1,5,0,1,22,0,7,306.61,2,78,0,yesterday yesterday unable bug urgent support support user,Technical
+1,23,0,1,1,0,1,433.26,3,1,0,please access team system today broken user need,Billing
+2,20,1,3,22,0,17,251.79,2,18,0,page help bug unable issue page,Technical
+1,8,0,1,22,0,21,441.8,1,1,2,not working crash fix details update urgent issue,Technical
+3,8,0,1,2,1,14,1824.33,4,65,0,error please team change today subscription time need update user,Billing
+2,101,5,3,21,0,5,322.41,2,54,0,today SSO page service check service not working details time broken,Account
+3,1,3,2,10,0,2,316.16,3,64,0,help team time loading,Technical
+1,53,0,3,15,0,65,1450.06,0,0,2,need fix getting started service please migration unable page,Onboarding
+2,2,1,1,19,0,6,87.96,1,15,0,error urgent support account change would like today not working error,Feature_Request
+3,32,3,1,17,0,12,657.5,5,56,3,need fix change urgent bug please,Technical
+1,10,3,2,14,0,12,517.62,5,8,0,loading help update check API access,Technical
+2,11,3,2,8,0,2,198.49,1,69,0,team service need issue urgent support login request today,Account
+0,15,2,1,3,0,1,145.39,0,183,0,please problem please details user update fix information contact timeout,Technical
+1,1,4,3,20,0,2,1260.6,4,0,0,setup today issue need please time resolved today contact setup issue,Onboarding
+0,5,0,2,6,0,22,36.21,4,7,0,loading system loading bug team please,Technical
+2,14,3,1,2,0,19,522.21,4,3,0,request password time unable contact,Account
+2,4,2,1,22,0,2,127.07,1,6,0,loading permission yesterday access broken page service broken resolved,Account
+2,7,1,2,18,0,18,324.38,3,83,0,urgent unable access time time API details need,Technical
+0,12,3,3,0,1,4,124.67,4,10,0,broken service add feature update system page access,Feature_Request
+0,2,2,1,10,0,7,93.95,4,25,0,not working contact check contact access request fix check phishing,Security
+1,105,2,1,10,0,3,66.04,3,56,0,change system team help broken crash,Technical
+0,1,2,1,18,1,3,1719.76,0,8,0,change check API broken issue time issue yesterday please support,Technical
+2,1,1,1,6,0,4,294.97,3,29,0,update contact time page need support system subscription update,Billing
+3,3,2,1,19,0,10,480.09,4,19,0,check system details account broken service error not working page setup,Onboarding
+3,14,0,2,4,0,18,443.58,0,91,0,permission page issue request unable,Account
+3,4,0,2,20,0,10,242.23,2,45,0,support refund overcharge not working service service access,Billing
+0,54,0,2,15,0,154,91.15,2,36,0,system support today change account resolved refund refund broken request,Billing
+3,15,0,1,23,0,15,105.57,2,30,0,time add feature update issue fix today error contact access broken,Feature_Request
+3,7,1,2,12,0,12,75.54,2,17,0,service access help problem fix loading need check password team,Account
+1,29,2,1,20,0,11,1357.61,1,11,1,broken yesterday fix time issue would like error check change,Feature_Request
+0,18,2,1,10,1,31,2257.55,0,58,1,details problem user service,Account
+3,2,2,1,10,0,3,118.22,0,54,0,resolved time problem access,Feature_Request
+0,26,3,1,3,0,13,350.58,2,61,0,issue issue issue support,Technical
+1,37,2,2,22,0,59,1009.82,0,3,0,time system broken check enhance details,Feature_Request
+3,50,1,2,23,0,16,1555.01,5,28,0,account page user resolved time check password access,Account
+3,1,1,2,15,0,11,517.39,4,20,0,check team page urgent error fix,Technical
+1,3,4,2,20,0,22,320.42,0,7,0,loading need service error broken crash system check,Technical
+0,33,5,2,1,0,1,280.18,2,31,1,update page overcharge request resolved contact unable problem,Billing
+3,49,2,2,19,0,14,440.34,3,107,0,fix not working user urgent issue change yesterday,Onboarding
+1,16,2,1,5,1,8,41.15,1,54,0,issue crash access urgent team please details unable yesterday,Technical
+1,42,0,3,23,0,31,614.72,5,26,1,issue team today account subscription please yesterday issue request,Billing
+3,1,1,3,10,0,3,426.75,3,11,0,contact service setup request error broken problem,Onboarding
+2,4,3,2,12,0,13,130.91,1,31,1,information contact team update timeout error,Technical
+1,4,2,1,15,0,11,171.65,4,35,0,account bug support not working not working update support,Technical
+0,51,2,2,10,0,21,1255.47,3,10,0,change error page loading API time unable,Technical
+1,1,3,2,11,0,14,102.67,3,65,1,please information loading service update timeout account not working please,Technical
+0,35,3,1,11,0,5,65.27,4,6,0,problem information today problem error service help yesterday help,Account
+3,1,0,2,16,0,34,131.56,1,61,1,system broken request need,Billing
+3,9,1,2,10,0,10,49.39,3,6,0,problem contact issue team invoice update today,Billing
+0,1,1,2,4,1,3,423.14,4,95,0,urgent please overcharge user access request unable resolved,Billing
+1,19,0,2,12,0,9,959.14,2,15,1,service information check information today resolved overcharge request,Billing
+2,15,5,2,22,0,13,110.78,5,16,2,time fix SSO information broken support user contact details resolved,Account
+3,56,1,1,7,0,20,344.48,5,54,2,error yesterday urgent refund issue,Billing
+1,51,2,2,8,0,3,41.01,4,53,0,system problem broken user SSO problem change need time unable,Account
+0,13,2,1,3,0,9,165.07,0,0,0,request urgent team contact help invoice issue,Billing
+0,26,2,1,16,0,3,1593.98,1,6,0,service account change not working add feature user details broken details support,Feature_Request
+1,7,2,2,13,0,2,515.87,2,12,1,loading fix crash check contact resolved broken contact system request,Technical
+0,50,3,1,2,0,3,265.54,2,17,0,please information help request today overcharge page,Billing
+3,4,3,1,4,0,7,89.21,0,26,0,problem check change error request account team,Account
+2,185,2,1,21,1,8,583.68,2,63,0,page broken issue issue password time today not working,Account
+3,13,3,3,16,0,16,243.45,2,29,2,contact unable resolved unable information phishing,Security
+2,2,3,1,18,0,13,498.48,3,4,1,details information user help help urgent setup request,Onboarding
+0,2,1,3,4,1,1,726.67,3,223,0,system need urgent unable refund access subscription help need page please,Billing
+3,71,2,3,2,0,13,2536.93,0,139,0,fix fix help API request unable please fix page bug,Technical
+2,3,1,1,11,1,23,64.64,5,26,1,loading details update broken user,Technical
+1,23,3,2,12,0,20,383.54,5,22,1,page not working change SSO broken resolved loading,Account
+2,28,4,2,12,0,27,1894.5,1,54,1,service getting started details service contact service yesterday issue support check,Onboarding
+2,15,3,3,19,0,21,5075.5,2,10,2,check contact enhance unable roadmap time,Feature_Request
+1,53,0,2,22,0,56,764.11,2,8,0,please support time contact time user fix subscription update,Billing
+1,61,0,2,3,0,9,926.1,5,6,0,resolved service API need access contact,Technical
+3,86,6,1,8,0,16,545.73,1,3,1,contact contact service time unable,Security
+1,8,1,3,17,0,3,637.46,3,2,1,details fix user urgent loading account,Technical
+2,15,2,2,22,0,11,571.5,1,92,1,update broken import data service time details details,Onboarding
+2,19,1,3,19,0,2,729.74,0,46,2,need team details urgent refund not working not working fix subscription not working issue,Billing
+0,1,2,1,0,0,2,172.04,4,1,0,resolved today roadmap yesterday urgent,Feature_Request
+1,1,0,3,11,0,16,1096.61,4,21,1,change urgent getting started problem yesterday need resolved unable request,Onboarding
+3,3,3,1,9,0,2,235.39,3,13,1,access information not working contact not working service help,Feature_Request
+0,1,1,1,15,0,17,1909.2,3,52,1,error issue timeout team yesterday error help,Technical
+1,5,3,1,7,0,9,106.77,0,37,0,help support time crash account help issue not working,Technical
+3,5,3,2,1,1,2,243.88,2,37,0,request need today please refund unable loading yesterday,Billing
+2,35,0,1,17,1,8,80.46,1,35,0,loading support system help import data,Onboarding
+3,5,0,2,21,0,10,611.32,0,78,0,information page account today service need request team,Billing
+3,7,2,2,4,1,17,295.18,1,85,1,problem system API please service urgent account,Technical
+3,17,1,2,12,0,19,172.75,5,129,0,today request access help unable broken,Technical
+2,46,2,1,20,0,3,508.64,4,28,3,yesterday time broken access account issue service details information,Technical
+3,6,2,2,1,0,4,3452.74,0,9,1,broken page breach yesterday support,Security
+1,15,2,2,14,0,10,231.62,2,12,0,support page account need contact time today error SSO,Account
+0,58,2,1,4,0,6,86.59,4,12,1,login update please please yesterday need not working loading,Account
+1,22,0,2,9,0,42,928.99,2,9,2,information setup team page need change loading,Onboarding
+2,52,1,2,20,0,3,1190.88,0,21,1,time not working user loading problem contact error subscription check overcharge problem,Billing
+3,13,0,1,9,0,22,42.22,5,35,1,need change refund details need time system system,Billing
+0,5,0,2,20,0,1,60.5,1,24,0,contact access unable need issue check,Billing
+2,7,1,1,2,0,1,1267.13,5,4,0,yesterday unable not working contact broken time check update need,Account
+3,1,0,2,22,0,38,138.71,1,17,0,yesterday refund fix details details,Billing
+0,12,3,1,13,0,3,510.23,1,71,0,password service broken service information login fix account user account,Account
+3,11,1,1,0,0,13,3118.0,3,37,1,details time fix information change issue,Technical
+0,27,0,1,10,0,11,767.04,2,12,0,please details information contact need team SSO broken broken team,Account
+0,34,1,2,3,0,16,81.3,3,17,1,error page need resolved request contact contact information issue login,Account
+3,67,3,1,18,0,11,130.47,4,31,1,update help change issue update system system team please,Account
+1,1,1,1,17,0,4,697.88,3,0,1,today information please team contact loading,Account
+2,42,1,3,0,0,75,20.18,3,24,0,need API unable not working page resolved system details,Technical
+1,22,2,1,4,1,1,26.02,2,80,0,information bug user access issue,Technical
+3,29,2,2,10,0,42,1006.12,3,10,0,information refund support support team update account,Billing
+3,41,0,3,6,0,11,51.01,0,30,0,need invoice loading page service page account account yesterday,Billing
+3,1,1,3,13,0,5,512.33,2,24,1,fix today loading problem problem error page urgent user,Technical
+2,11,0,2,0,0,3,565.66,2,57,0,time information details help refund system time help not working support,Billing
+1,13,2,1,6,0,14,114.62,4,4,0,page contact contact user access API issue urgent need information,Technical
+0,12,2,2,14,1,32,2586.87,3,7,0,details breach system breach user issue team error,Security
+1,42,1,1,18,1,3,143.63,4,67,0,user details broken access support not working enhance,Feature_Request
+1,95,2,1,11,0,16,1979.85,4,46,0,problem support page contact team user unable,Feature_Request
+0,15,3,1,14,0,19,330.02,5,25,0,not working problem user yesterday fix issue support migration page help,Onboarding
+3,43,0,3,11,0,2,661.14,3,1,1,resolved help please please timeout yesterday urgent check team not working,Technical
+2,87,2,2,22,0,10,8160.96,1,0,1,enhance update need loading fix details account,Feature_Request
+2,53,2,2,16,0,4,109.92,1,159,0,vulnerability check change broken service yesterday issue error time check,Security
+2,2,2,2,13,0,7,248.0,4,50,2,getting started resolved user check unable page please support setup page,Onboarding
+0,29,0,2,19,0,44,408.82,5,55,0,breach account details time need today breach,Security
+3,5,1,1,16,0,8,67.91,1,8,1,access resolved problem add feature support yesterday time resolved,Feature_Request
+3,13,2,2,16,1,261,90.37,1,21,0,loading issue unable problem overcharge broken issue information today problem,Billing
+2,14,0,2,7,0,2,201.27,5,10,0,subscription check team today issue,Billing
+2,5,1,1,1,0,6,505.36,1,8,0,account loading system update timeout please support,Technical
+3,4,3,1,7,0,7,536.38,3,24,0,issue resolved permission loading help please contact today request,Account
+1,1,4,2,17,0,10,36.98,0,5,1,resolved yesterday issue please problem problem details bug,Technical
+0,1,0,1,7,0,4,1034.18,0,28,1,problem contact resolved error fix subscription,Billing
+0,2,2,1,22,0,5,58.95,3,22,0,fix system API urgent service service service,Technical
+3,19,1,1,19,0,3,129.84,4,35,2,request please update need subscription,Billing
+2,82,3,2,6,0,6,354.84,1,39,1,problem broken help page unable team problem change yesterday,Billing
+1,76,0,1,19,0,27,478.2,3,24,0,import data getting started help team check support,Onboarding
+0,20,2,3,5,0,155,63.93,5,5,1,time time broken details page error,Feature_Request
+0,23,0,1,2,1,1,68.4,3,52,0,team urgent need subscription time update,Billing
+0,21,3,2,23,0,4,214.3,1,49,2,time not working problem broken help breach,Security
+2,22,0,1,4,0,2,612.89,0,22,0,details access help unable crash loading service problem not working time,Technical
+0,94,1,2,1,1,11,290.94,2,45,4,request need check information would like account information details help,Feature_Request
+2,117,3,3,0,0,4,407.41,3,18,0,support not working breach today system urgent today,Security
+1,54,2,1,14,0,7,3994.17,2,9,0,access system fix user subscription,Billing
+2,14,1,2,7,0,7,278.84,5,59,1,fix change problem not working password access information,Account
+0,29,1,2,20,0,4,476.29,2,5,0,issue change broken check service update support information fix,Billing
+3,20,2,1,20,0,45,996.56,0,42,0,check user team update check time update access,Billing
+3,1,1,1,7,0,16,610.64,4,18,1,please change resolved resolved,Technical
+1,49,2,1,13,0,4,586.73,0,6,0,check issue resolved urgent problem overcharge need update need,Billing
+1,41,2,1,4,0,11,136.06,3,40,0,account information system support,Account
+3,23,0,2,4,0,25,54.26,0,6,1,unable yesterday today system today add feature urgent support broken,Feature_Request
+1,22,1,2,12,0,9,588.52,2,81,0,system system time loading invoice change unable not working check,Billing
+2,9,4,1,7,0,37,1146.03,3,33,1,bug not working check page change loading service details,Technical
+0,1,1,3,18,0,2,1290.74,1,1,0,support issue change today issue setup import data,Onboarding
+1,31,2,1,0,0,9,908.34,3,16,0,team account error subscription access contact account change,Billing
+2,3,2,1,17,0,26,42.26,3,65,1,update help change setup support change,Onboarding
+1,21,1,2,13,0,52,345.09,5,36,1,request contact details getting started need today contact user,Onboarding
+1,25,2,1,17,0,10,37.83,2,32,1,resolved broken please loading support check support,Billing
+0,24,2,1,14,0,5,174.2,2,42,3,phishing system unable need yesterday page not working information,Security
+3,4,1,1,0,0,28,808.83,0,11,1,team details refund help error,Billing
+0,3,3,1,22,0,11,119.83,4,1,0,not working problem information today check urgent update user error password,Account
+1,12,2,1,6,0,6,31.64,1,31,0,SSO login contact error service account,Account
+2,16,2,3,1,0,3,136.99,4,55,0,add feature details urgent loading user request unable issue,Feature_Request
+3,120,3,1,5,1,13,513.74,2,11,0,page yesterday yesterday invoice broken,Billing
+1,31,0,1,14,1,8,396.21,2,65,0,service need user time not working permission today change,Account
+2,45,2,1,7,0,1,49.15,3,41,1,account error contact time today need roadmap request account user,Feature_Request
+2,76,2,3,16,0,9,287.73,3,29,1,invoice support system update issue,Billing
+3,4,1,3,3,0,9,386.67,3,12,0,unable API not working time user problem unable,Technical
+1,32,3,2,16,0,16,110.4,5,47,0,urgent help not working unable please loading page setup team check,Onboarding
+3,11,2,3,18,0,4,899.04,1,79,1,details team please update refund check,Billing
+2,14,2,1,10,0,69,314.75,5,2,0,check information contact not working please vulnerability need change service,Security
+3,5,3,1,10,1,6,844.05,3,27,0,team please loading service error urgent overcharge,Billing
+3,17,3,1,3,0,12,261.4,1,0,1,error account details update import data,Onboarding
+1,96,1,2,5,0,2,561.62,1,21,0,details password service need login check check loading,Account
+2,53,1,1,17,0,9,47.66,5,44,1,access problem API issue urgent contact information unable,Technical
+3,42,2,3,20,0,15,251.72,0,24,0,invoice unable help team team fix error,Billing
+1,11,2,1,14,0,16,140.59,1,6,0,details details support urgent need information subscription today loading,Billing
+0,86,1,2,18,1,20,1263.43,5,0,0,need fix check login service update request user check,Account
+3,6,1,1,3,0,1,133.0,5,10,0,yesterday SSO account information not working please,Account
+2,38,1,2,21,0,38,191.42,4,15,2,SSO yesterday issue change loading details today help,Account
+0,5,2,1,12,0,57,158.45,2,52,0,support subscription time account issue,Billing
+0,26,1,2,12,1,30,176.04,5,72,2,user unable timeout page update support fix support account,Technical
+3,20,0,1,7,1,1,232.1,1,28,1,error help urgent resolved add feature fix service,Feature_Request
+3,7,2,1,0,1,20,170.74,4,17,0,page request timeout change today,Technical
+0,55,2,2,23,0,2,145.14,5,18,0,yesterday account problem please permission loading time time,Account
+0,6,1,2,10,0,1,844.29,1,122,0,SSO account unable issue change request issue,Account
+0,16,3,3,16,1,1,515.64,4,23,1,unable loading today urgent help yesterday import data support,Onboarding
+1,1,2,2,15,0,3,6315.9,5,55,1,please please details page service help bug problem,Technical
+3,4,2,2,12,0,11,3888.63,2,1,0,loading request account timeout help check,Technical
+1,20,2,1,7,1,22,2043.16,1,30,0,help details check support need resolved time fix,Technical
+2,16,1,1,5,0,4,19.47,1,25,0,account please fix account change need bug,Technical
+2,57,1,3,0,0,1,90.68,5,82,0,resolved loading information page,Feature_Request
+2,24,3,1,1,1,25,380.72,0,24,0,support please bug error urgent system,Technical
+0,48,0,3,7,0,7,791.88,2,7,1,roadmap broken support please help contact team access urgent,Feature_Request
+3,9,1,1,14,0,25,26.02,5,92,1,team details team support information crash update urgent team urgent,Technical
+2,33,1,2,11,0,2,206.92,5,1,2,time update request update migration details help page loading,Onboarding
+3,2,0,1,11,0,2,113.67,1,46,1,please access broken issue need access bug urgent check today,Technical
+3,3,1,3,13,0,7,141.93,5,17,0,system service today urgent permission request please error,Account
+1,5,1,2,7,0,18,3754.89,5,39,0,check issue help time subscription,Billing
+3,12,1,1,22,0,8,78.67,0,13,0,user error change problem help information service migration service details,Onboarding
+1,39,2,1,16,0,10,176.95,2,19,2,problem account issue system system help contact unauthorized,Security
+0,17,1,1,22,0,4,265.71,5,84,1,today please contact roadmap change page account enhance,Feature_Request
+0,5,1,1,13,0,30,621.32,4,2,1,broken information help password update check today yesterday request urgent,Account
+0,27,1,1,22,0,31,1872.85,3,11,1,error need resolved issue please account team timeout crash,Technical
+3,12,1,2,10,0,1,103.34,4,21,0,unable user page subscription contact overcharge,Billing
+1,10,1,2,16,0,1,514.75,2,40,0,service team user support issue getting started issue,Onboarding
+1,1,0,2,12,0,5,326.12,0,0,0,check yesterday bug contact information page,Technical
+0,6,1,3,12,0,3,1021.37,2,73,1,service subscription team check details not working resolved,Billing
+2,59,2,2,22,0,4,1004.62,0,10,1,please service team request page overcharge,Billing
+0,2,3,1,0,0,5,1734.12,1,22,0,information please resolved problem API urgent time issue help,Technical
+1,12,2,1,18,0,27,298.8,0,17,0,timeout issue support information system system help,Technical
+3,2,2,1,1,0,20,1191.38,1,21,0,today help system problem service,Account
+3,15,0,1,17,0,20,1040.9,2,21,0,not working page details please refund contact account,Billing
+2,6,2,1,18,0,2,287.67,3,114,1,user check fix contact API help access bug error page please,Technical
+2,8,4,1,2,0,7,206.46,3,60,0,access user unable resolved change issue issue,Billing
+1,1,4,1,1,0,1,411.79,3,29,1,need information details broken refund account please contact,Billing
+1,28,1,1,1,0,1,2812.23,1,73,0,please urgent user unable contact,Billing
+0,4,0,2,13,0,5,78.55,4,1,0,support urgent time crash urgent resolved access update,Technical
+3,32,2,1,0,1,4,301.18,1,5,1,time need contact change fix details check refund,Billing
+0,5,1,2,2,0,7,356.88,4,28,0,login contact unable check details information need,Account
+3,19,1,1,20,0,2,969.5,3,22,0,service login loading SSO account broken access issue system problem urgent,Account
+2,9,1,1,15,0,5,3999.81,1,6,2,team resolved team information account,Feature_Request
+3,10,0,1,3,0,13,1002.76,4,9,1,please refund contact need broken,Billing
+0,11,2,2,2,1,15,361.84,5,44,2,problem user yesterday not working change unable setup fix fix,Onboarding
+3,10,2,3,11,0,1,151.82,1,8,1,check request urgent check setup check today not working,Onboarding
+1,14,1,1,3,0,10,91.58,3,33,1,service setup request request access,Onboarding
+1,1,3,1,6,0,4,1528.15,3,17,1,account timeout request support resolved,Technical
+1,54,1,1,10,0,1,262.73,3,2,1,check please yesterday error broken today system details refund,Billing
+2,21,2,1,19,0,30,206.75,3,3,1,loading contact request today information,Billing
+1,1,0,1,6,0,3,114.12,4,14,1,fix resolved subscription error resolved urgent resolved,Billing
+1,10,3,1,8,0,9,873.43,3,11,0,contact page subscription system broken change team contact,Billing
+0,38,3,3,20,0,1,156.29,1,14,2,add feature update today yesterday details need page unable,Feature_Request
+1,46,2,2,19,0,10,276.88,0,12,0,loading contact time change getting started,Onboarding
+1,50,2,1,11,0,8,118.32,4,28,1,SSO change urgent request change user,Account
+1,4,1,1,9,1,23,496.77,0,14,0,yesterday system service user unable resolved yesterday today add feature roadmap yesterday,Feature_Request
+3,31,1,1,7,0,55,281.07,4,3,1,issue yesterday support time yesterday user page not working,Onboarding
+3,34,2,1,9,0,5,168.64,5,18,1,yesterday fix error timeout unable access need information request request,Technical
+0,7,6,1,23,0,1,699.86,1,17,1,contact loading would like problem please unable,Feature_Request
+2,19,2,1,16,1,10,1238.02,5,18,2,unable crash account fix error resolved,Technical
+3,3,2,2,4,0,1,298.98,4,8,1,please time broken would like need team account information,Feature_Request
+1,12,2,1,15,0,7,686.78,5,0,1,contact account service service access please,Feature_Request
+1,25,3,1,15,0,7,854.92,2,13,0,contact need details team crash yesterday,Technical
+1,16,0,2,16,0,3,469.67,2,10,0,login fix broken yesterday contact,Account
+3,9,2,1,6,0,16,82.97,4,10,1,contact loading time details setup details need,Onboarding
+1,1,2,2,22,0,2,300.74,3,54,0,check urgent access broken contact today password,Account
+1,20,2,3,15,0,3,285.07,5,21,0,system would like support support broken details,Feature_Request
+2,28,1,2,8,0,2,1285.58,1,32,0,account information password issue information permission,Account
+3,8,0,1,10,0,5,512.97,4,27,1,access crash help error issue support need,Technical
+2,3,1,1,0,0,94,1140.43,4,43,1,support user details unable need support roadmap problem,Feature_Request
+1,26,1,3,0,0,8,424.65,4,25,2,service page unauthorized need issue information account time error,Security
+2,68,0,3,20,0,2,137.49,0,28,0,today help service urgent user check broken enhance page,Feature_Request
+3,13,0,1,0,0,14,347.39,2,53,0,vulnerability urgent broken service check,Security
+2,35,0,2,2,0,7,230.11,1,40,0,problem request support phishing change phishing,Security
+0,34,3,1,9,0,7,488.75,4,4,0,subscription change issue problem loading team fix please,Billing
+3,16,2,2,12,0,4,344.82,2,33,1,support need page time API,Technical
+3,91,3,1,12,1,7,1017.86,0,6,1,timeout service broken check broken,Technical
+1,20,1,3,8,0,5,338.31,2,62,1,API not working details support yesterday,Technical
+1,5,2,3,16,0,6,150.86,2,12,0,account loading check page urgent overcharge problem request check issue,Billing
+2,14,2,2,0,0,15,711.11,5,30,0,phishing urgent problem account today check fix system fix change,Security
+3,50,3,3,18,0,7,37.49,3,72,2,change help phishing broken error details contact urgent,Security
+0,34,3,1,4,0,2,128.0,4,13,0,help would like need contact today,Feature_Request
+2,23,2,1,13,0,10,2488.52,5,93,1,resolved breach check change user problem issue phishing not working service,Security
+1,5,1,1,6,0,23,717.35,3,16,0,team getting started today page change urgent unable problem,Onboarding
+2,66,3,2,7,0,2,2280.6,4,16,0,support crash team access problem update need broken check help,Technical
+2,2,3,2,9,0,6,512.45,4,5,0,help user user system page timeout information service,Technical
+1,15,0,2,19,0,1,891.72,2,20,0,details check not working unable service,Account
+3,27,4,1,23,0,5,568.35,0,0,0,information loading would like broken broken loading,Feature_Request
+2,1,1,1,8,0,16,2251.69,2,2,0,page user resolved unable crash please information check problem,Technical
+3,20,0,1,10,1,2,4919.17,4,7,0,permission resolved system broken not working SSO not working,Account
+0,5,1,1,18,0,15,1856.46,3,19,0,details bug request fix broken page team,Technical
+1,22,1,2,17,0,3,112.79,0,11,0,error issue change details page service system access today,Billing
+0,11,1,2,19,1,28,699.74,1,77,0,account loading phishing time error loading time team user,Security
+1,39,4,2,3,1,25,916.35,2,5,2,system help service fix login,Account
+0,9,0,1,23,1,16,61.14,2,35,0,resolved user check resolved import data issue,Onboarding
+2,4,1,3,2,1,7,1447.94,2,58,0,please user contact add feature update,Feature_Request
+2,15,3,1,0,0,10,91.37,0,1,0,team fix please fix support overcharge,Billing
+3,6,2,1,22,0,1,271.61,4,2,0,access yesterday help urgent details time issue error crash,Technical
+3,8,1,2,2,0,10,1462.41,4,19,0,account error fix service access user crash,Technical
+2,4,1,1,7,0,2,1352.19,5,51,1,would like please team system check need access,Feature_Request
+3,2,2,2,6,0,4,76.51,5,67,3,page fix bug details check fix team loading,Technical
+3,20,0,2,0,0,4,2796.43,5,33,1,service resolved user urgent team service team broken SSO,Account
+1,11,1,1,18,0,7,75.92,0,59,1,please check urgent service check page refund information team yesterday,Billing
+3,4,0,1,12,0,4,831.36,5,33,0,details yesterday change contact account page fix,Technical
+0,26,0,1,1,0,8,624.89,3,16,1,time access issue account details timeout broken need urgent timeout contact,Technical
+2,9,3,1,11,0,3,27.93,2,157,0,access issue help urgent loading please update update yesterday,Onboarding
+0,6,0,1,22,0,8,476.37,2,87,0,crash fix update access urgent need,Technical
+0,1,3,3,11,0,7,400.4,1,10,1,unable time contact API issue update team service page check,Technical
+1,1,1,2,16,0,16,290.29,5,14,0,fix issue team check check issue problem,Technical
+1,25,2,2,21,0,3,118.12,4,78,0,support unable invoice support invoice please loading,Billing
+2,35,0,1,11,0,4,268.11,3,2,0,support service team login access check login,Account
+0,6,0,3,13,0,12,161.05,0,10,1,issue setup contact unable service system change,Onboarding
+0,16,2,1,6,0,8,70.55,3,0,1,problem password broken fix check support login,Account
+3,68,3,2,8,0,2,190.29,1,79,0,request system problem team problem subscription urgent,Billing
+3,27,2,3,3,1,3,932.56,3,8,0,loading contact page yesterday please issue contact loading contact password,Account
+2,19,3,1,4,0,1,876.55,2,9,0,not working SSO team request today information,Account
+0,10,4,1,22,0,45,1222.35,5,3,0,check need fix information fix details,Onboarding
+0,58,2,3,17,0,7,170.52,2,27,0,resolved page team update crash,Technical
+0,5,2,2,11,0,13,612.33,0,29,0,would like issue request today check error change check change,Feature_Request
+2,40,2,1,5,1,1,759.7,3,21,0,urgent service information change API change check not working user help,Technical
+2,22,2,1,19,0,2,387.25,0,7,0,information access contact issue support crash unable please broken urgent API,Technical
+3,14,2,1,17,0,15,639.22,5,6,0,urgent user request loading problem urgent,Technical
+1,57,1,1,8,0,1,347.44,1,5,0,today user urgent bug details resolved,Technical
+0,17,1,3,22,1,3,646.07,4,79,2,loading details information unable,Security
+3,12,1,1,7,0,11,267.95,0,15,1,details change service fix refund service request today,Billing
+0,32,1,1,20,0,66,615.02,3,4,0,page refund service update user error account issue team,Billing
+1,32,0,2,5,0,11,161.8,2,8,2,resolved help page change overcharge page time details system,Billing
+3,3,1,2,15,0,5,54.13,0,12,0,service system fix contact timeout,Technical
+3,14,2,1,7,0,4,118.2,3,10,0,system issue account bug yesterday timeout,Technical
+1,18,2,2,22,0,2,34.18,2,33,1,error details enhance problem issue broken,Feature_Request
+3,14,2,1,9,1,32,548.92,0,51,0,support issue check API not working page,Technical
+1,33,2,2,5,1,4,250.25,5,10,0,timeout details not working please details user user,Technical
+1,54,1,1,1,0,2,110.53,2,6,0,broken issue unable not working check error fix,Billing
+1,11,2,2,23,0,28,1552.16,1,29,0,not working information subscription not working not working need,Billing
+3,103,1,1,9,0,2,35.61,5,7,1,account subscription urgent page yesterday fix,Billing
+2,21,2,1,18,0,7,188.45,1,36,0,urgent system request yesterday need issue service team fix,Account
+3,24,1,2,11,0,17,588.01,0,56,1,request account change broken help problem import data,Onboarding
+3,16,1,1,14,0,7,213.84,2,37,0,please unable problem crash check,Technical
+1,16,0,2,3,0,16,1181.63,4,2,1,loading issue support please import data loading please contact system,Onboarding
+0,65,2,2,2,0,14,1131.45,1,13,1,check service contact today import data loading update error,Onboarding
+1,25,6,2,2,1,54,179.26,0,64,0,yesterday change details timeout not working system support time help fix,Technical
+0,16,0,2,9,0,4,586.45,3,5,0,service help issue need service SSO today unable,Account
+2,41,0,2,16,0,10,539.35,5,16,2,timeout update help system information contact,Technical
+0,2,2,1,14,0,12,103.07,0,34,3,support error access resolved account import data account problem,Onboarding
+3,42,1,2,21,0,10,53.96,0,20,0,access please permission contact time request,Account
+3,18,3,2,12,1,1,169.25,5,89,1,today loading please bug need,Technical
+2,33,2,2,11,0,2,175.39,0,4,1,broken fix login service resolved please information service,Account
+1,11,1,3,9,0,6,927.56,1,11,0,vulnerability today phishing issue broken request,Security
+1,6,1,3,0,1,26,2138.19,0,27,1,access not working request team,Technical
+2,11,0,1,0,0,4,930.17,5,23,1,enhance change need problem access account issue time,Feature_Request
+1,31,1,1,10,0,21,36.07,0,8,0,fix time yesterday problem team page login,Account
+1,78,1,2,11,0,11,558.54,4,29,0,setup issue request request problem contact,Onboarding
+3,28,1,1,13,0,4,375.85,4,16,0,today overcharge loading please fix change overcharge team not working,Billing
+0,6,2,3,8,0,2,675.59,0,18,0,details breach change issue information phishing,Security
+0,56,0,3,16,0,5,267.88,4,2,1,support help broken unable change account help problem time,Security
+0,22,0,2,1,0,3,4567.01,2,125,1,access resolved time access subscription error unable need not working,Billing
+1,24,0,1,1,0,1,1660.54,4,25,0,system user change account broken setup error loading unable service,Onboarding
+2,21,1,1,22,0,3,144.23,0,11,0,update update overcharge page account team,Billing
+3,75,2,2,10,0,5,4181.38,0,1,1,subscription loading request broken account details,Billing
+1,11,3,2,6,0,6,127.87,2,31,0,access system check service check need details need,Technical
+2,37,3,2,4,0,6,3773.63,3,10,1,unable not working error service API check broken,Technical
+2,8,0,2,16,0,9,822.45,3,3,2,issue account resolved error access system API account account,Technical
+1,1,0,2,7,1,2,1058.01,0,18,1,vulnerability contact problem today vulnerability issue help,Security
+2,14,5,3,11,0,1,983.57,5,41,0,support information issue system roadmap would like contact,Feature_Request
+2,8,1,1,17,1,2,1475.62,3,1,0,team error roadmap enhance information time request details update,Feature_Request
+3,38,2,2,11,0,4,1056.97,3,12,1,subscription refund need please not working broken,Billing
+1,14,0,3,7,0,20,334.8,4,42,0,check check problem crash unable,Technical
+3,21,1,1,15,0,3,416.19,4,110,0,unable service page access service not working time migration,Onboarding
+3,10,0,1,4,0,4,2015.1,0,15,0,time broken import data please yesterday error contact update,Onboarding
+0,3,0,3,23,0,5,861.54,1,1,0,user timeout today time broken,Technical
+0,106,1,1,7,0,3,277.87,2,35,1,contact system problem resolved crash issue resolved help issue,Technical
+3,44,1,2,0,0,8,62.91,5,15,0,need help time permission details today request problem please,Account
+0,12,1,1,14,0,7,151.1,3,13,1,system user help timeout problem crash,Technical
+3,21,4,2,21,0,14,883.4,0,47,0,refund team please resolved error information issue broken service,Billing
+1,20,1,2,9,0,4,520.72,2,3,1,issue unable information update information need,Technical
+1,25,1,1,5,0,10,492.95,5,20,0,contact issue permission not working broken information error system issue change,Account
+0,46,2,2,2,0,7,335.49,4,59,0,change unable time password access service system problem page,Account
+1,48,1,3,19,0,7,681.53,1,34,0,overcharge help information resolved check unable need,Billing
+3,29,1,1,3,0,1,181.08,4,36,1,time details update update setup loading issue problem contact,Onboarding
+2,18,5,1,10,1,1,58.0,1,8,0,refund account user please need access page request problem,Billing
+2,19,1,1,19,0,31,704.7,1,58,1,import data team yesterday page service unable import data resolved access,Onboarding
+1,2,4,1,7,0,1,379.41,0,6,1,broken overcharge contact help check user urgent,Billing
+0,85,3,1,18,0,2,801.0,3,29,0,help need not working phishing information problem change access need,Security
+3,5,2,1,17,0,5,2228.46,0,2,1,resolved change SSO login yesterday urgent error error unable,Account
+3,97,2,2,17,0,2,1575.15,1,23,0,need request update yesterday phishing yesterday,Security
+3,23,1,2,20,0,4,3647.23,1,0,1,user check update urgent access access timeout,Technical
+2,1,0,3,14,0,6,79.13,4,81,0,login system time contact team broken access support not working,Account
+1,1,2,1,23,1,4,152.14,3,25,0,support check refund loading account yesterday user details fix,Billing
+3,6,0,2,7,0,42,259.87,2,57,0,issue issue user fix crash timeout help,Technical
+3,23,1,1,1,0,17,1829.26,5,44,0,help not working access urgent loading invoice,Billing
+2,11,3,1,5,0,1,158.67,5,10,1,issue update please please error loading check,Account
+2,29,2,2,7,0,4,467.26,3,76,1,loading request problem issue overcharge,Billing
+2,41,1,2,11,0,11,654.59,0,35,0,broken resolved contact account loading team loading,Account
+3,24,3,1,7,0,3,41.18,3,26,0,time service today loading,Onboarding
+2,6,0,1,1,0,17,270.72,0,13,0,not working system change page service support roadmap page information support,Feature_Request
+2,1,1,2,21,1,15,521.23,0,34,0,need yesterday team support refund not working details team page,Billing
+0,9,0,2,11,0,6,3362.65,3,41,1,error broken help not working check help add feature details support,Feature_Request
+3,4,1,3,21,0,8,1277.1,1,59,0,resolved migration problem today user support unable information loading broken,Onboarding
+3,5,0,1,21,1,2,301.65,2,54,1,contact check setup fix information service,Onboarding
+0,1,0,2,14,0,4,2376.64,4,14,1,yesterday page change time help,Security
+2,19,2,2,0,0,1,836.66,4,49,0,service fix overcharge need user yesterday unable,Billing
+2,10,1,3,5,0,1,5932.86,4,93,0,not working time page support crash,Technical
+1,3,2,3,14,0,7,167.31,4,13,0,resolved resolved request user contact fix not working timeout issue need,Technical
+1,45,1,1,2,0,25,161.46,4,52,0,time fix access resolved help support fix crash fix account,Technical
+0,18,2,1,7,0,9,1202.56,3,51,1,time details overcharge today team,Billing
+1,11,1,2,23,0,1,983.88,1,19,1,help system yesterday today time today unable please timeout,Technical
+0,6,1,2,17,0,2,359.31,1,13,1,account password broken account information unable help urgent need,Account
+2,1,0,3,2,0,4,831.88,4,9,0,system access system resolved today loading fix,Technical
+2,13,1,2,18,0,11,270.48,5,27,0,please system change page subscription yesterday error,Billing
+2,12,1,2,1,0,37,1783.83,5,137,0,team error service problem request permission user,Account
+2,25,2,2,0,0,55,670.22,5,32,0,please support permission service information,Account
+3,21,0,1,5,0,4,221.46,1,1,1,yesterday team urgent page support invoice issue problem,Billing
+2,4,2,2,10,1,2,1125.6,3,3,1,unable check yesterday yesterday error check migration error getting started please,Onboarding
+3,49,0,3,6,0,2,437.36,0,8,1,fix issue user need contact phishing today support issue,Security
+1,1,2,1,12,0,13,496.32,0,5,0,system user page need request team today need,Account
+2,87,0,2,8,0,17,5999.29,2,11,1,broken resolved team problem timeout yesterday change,Technical
+0,13,2,2,21,1,2,65.7,0,8,0,page account details please not working today time crash issue fix,Technical
+3,26,1,2,4,0,11,125.22,5,25,0,urgent help loading need access permission service loading system,Account
+2,44,0,3,13,1,2,295.97,1,22,0,update information check refund page,Billing
+3,3,0,1,8,1,83,1587.73,4,15,0,team add feature details yesterday user please time team,Feature_Request
+1,4,3,2,18,0,6,467.61,0,46,0,service access fix need,Account
+2,42,1,2,11,0,2,185.9,5,25,0,page help account team urgent support,Billing
+2,10,3,3,17,0,44,210.75,2,35,0,API change loading loading contact time,Technical
+0,3,2,1,2,0,4,117.3,1,20,0,details yesterday time details please error system timeout,Technical
+3,9,1,2,8,1,56,482.23,4,45,0,API update time details loading loading system,Technical
+0,1,2,1,14,0,28,598.73,5,29,0,details update service request overcharge access urgent system resolved team,Billing
+1,41,1,3,8,0,13,203.83,5,32,0,urgent check login information error error not working update team,Account
+2,63,1,2,2,0,13,54.97,3,10,2,check getting started broken check account error broken urgent not working,Onboarding
+1,3,2,1,6,0,8,346.02,4,19,1,team team account subscription details yesterday,Billing
+2,54,2,1,1,0,24,229.69,3,9,0,request page change please access error time,Technical
+0,44,2,1,12,0,12,528.12,3,16,0,urgent error user not working loading details check issue,Account
+2,54,2,1,18,0,9,181.18,4,92,1,information please error account need urgent fix,Technical
+1,5,2,1,20,0,13,917.77,4,49,0,problem support add feature page resolved system system would like service,Feature_Request
+3,13,4,1,1,1,16,1233.62,4,9,1,getting started account broken unable account help broken contact access account,Onboarding
+2,28,1,1,17,0,1,4010.36,1,2,1,login details information need yesterday time urgent access SSO loading,Account
+3,5,2,1,18,0,13,1438.64,4,35,0,timeout error support details broken issue,Technical
+1,19,2,1,4,0,68,84.45,0,57,0,change yesterday request urgent resolved broken invoice update today information,Billing
+0,23,2,3,22,0,28,108.84,0,0,2,issue need subscription access time request,Billing
+3,42,0,3,8,0,3,29.78,3,7,1,urgent update roadmap issue support account support loading fix,Feature_Request
+1,30,3,1,17,0,8,410.3,2,22,0,today access urgent user error details overcharge account yesterday,Billing
+0,46,3,3,8,0,99,620.53,4,5,2,yesterday subscription service check broken today not working,Billing
+2,21,0,2,8,0,2,2647.37,1,41,1,contact need problem not working change check today error,Technical
+2,29,6,1,3,0,1,453.99,3,35,1,issue overcharge account please user,Billing
+0,11,3,1,5,0,5,324.88,2,33,0,request phishing details user urgent,Security
+2,4,1,1,3,0,24,216.18,0,35,1,service would like details details urgent fix,Feature_Request
+0,92,0,1,10,1,101,834.18,4,69,1,unable unable resolved time resolved unauthorized yesterday fix,Security
+2,2,2,1,16,0,28,761.5,0,25,0,problem user error information check help help issue broken overcharge,Billing
+3,1,0,1,2,0,45,50.02,5,11,1,permission please information fix today,Account
+3,53,2,3,17,1,4,226.42,4,1,0,not working not working not working not working today crash,Technical
+2,42,2,1,3,1,3,227.36,3,3,1,access help password page please contact request,Account
+3,17,3,1,14,0,14,7216.76,4,8,1,urgent information broken broken support API service,Technical
+2,21,0,3,9,0,7,208.51,5,0,0,details team help broken please help user overcharge access user,Billing
+1,1,1,1,3,0,1,842.11,4,59,1,need system support contact password resolved help not working,Account
+3,82,2,1,3,0,9,246.01,5,2,2,error API broken contact crash resolved not working,Technical
+3,6,2,1,13,0,3,684.51,4,3,1,timeout need account team user,Technical
+0,57,1,1,14,0,2,199.56,4,21,3,update problem system help time update support service,Feature_Request
+1,1,1,2,3,0,3,7615.25,3,30,1,error need getting started loading system user user service page,Onboarding
+1,65,0,1,10,0,35,233.56,5,88,0,import data problem resolved account request fix please,Onboarding
+3,6,1,1,7,0,5,2106.9,0,59,0,information help time information permission resolved please need contact,Account
+0,5,2,1,1,0,11,94.4,0,32,0,information issue support time system change user account,Technical
+3,26,1,1,2,0,18,226.2,4,43,0,API check urgent unable check API urgent,Technical
+0,43,2,1,6,0,4,690.97,0,3,0,details user help need unauthorized system team,Security
+1,11,1,2,7,0,4,1965.93,3,0,1,urgent access invoice please issue not working loading request,Billing
+1,9,2,2,15,0,5,480.62,0,20,1,error page user resolved SSO please today today problem,Account
+2,53,2,3,12,1,6,264.53,1,97,0,contact system broken broken resolved unable service API help,Technical
+2,11,0,1,5,1,16,489.04,1,99,0,team user page invoice today contact urgent team refund page,Billing
+1,4,1,1,6,0,7,195.2,1,79,0,fix urgent help resolved details system enhance please time,Feature_Request
+1,37,1,2,18,0,3,175.55,3,81,0,problem crash account information today change access loading,Technical
+2,18,2,1,22,0,7,69.57,5,0,1,broken broken information unable permission today not working contact information,Account
+0,23,1,1,13,0,1,1048.67,1,6,1,information need information unable change request invoice,Billing
+1,10,2,2,10,0,36,112.58,2,12,0,team broken getting started details information,Onboarding
+0,43,2,2,2,0,2,1062.18,1,45,0,team support support check change password password not working please unable information,Account
+1,22,3,1,14,0,9,344.53,1,21,0,service timeout access details check,Technical
+0,9,1,2,3,0,7,32.35,1,53,0,information fix import data details error system,Onboarding
+0,23,4,3,4,0,3,241.04,5,47,0,team check change change refund information please access issue broken,Billing
+2,20,1,3,4,0,2,118.98,1,8,0,fix check request not working urgent time today user account,Feature_Request
+2,42,2,1,13,0,5,1138.35,4,1,0,system contact change request account unauthorized time need not working,Security
+0,26,2,1,11,1,15,129.34,3,11,1,loading change overcharge help details not working not working resolved,Billing
+0,1,1,3,21,0,16,1643.17,1,0,0,fix account need breach information issue,Security
+1,41,1,1,13,0,9,961.96,4,23,0,information user details update breach broken team broken change,Security
+2,7,1,3,17,0,3,44.91,3,15,1,information subscription today need error team user account details yesterday,Billing
+1,21,3,1,3,0,7,32.14,0,6,0,system team please page support timeout,Technical
+0,40,3,1,17,0,1,538.98,1,79,0,team help service support import data,Onboarding
+3,16,3,3,23,0,4,96.3,1,74,0,contact broken help unable invoice,Billing
+1,8,1,1,7,0,6,394.68,5,43,1,loading error information fix unauthorized time today request time,Security
+0,5,1,2,20,0,11,396.33,4,36,0,urgent system contact details account,Technical
+1,75,0,1,16,1,10,149.44,4,30,0,fix please user resolved support page bug fix broken,Technical
+2,12,3,1,17,1,7,26.22,2,32,0,problem page support system please timeout yesterday time support resolved,Technical
+0,5,3,1,15,0,13,432.18,3,1,0,access today details issue not working help unable would like error yesterday,Feature_Request
+2,7,0,2,10,0,4,202.12,0,24,0,user loading issue unauthorized yesterday issue,Security
+2,6,3,2,10,0,9,115.88,3,9,1,check problem permission error error system support,Account
+1,8,0,2,15,0,4,3500.35,3,116,1,broken fix yesterday today import data error change today,Onboarding
+2,36,5,1,20,0,4,1028.86,2,15,0,issue please change help loading timeout,Technical
+1,32,1,2,0,0,8,222.6,2,49,1,yesterday please update today update system change crash,Technical
+2,3,0,1,15,0,11,568.37,4,58,1,account support team resolved contact support error overcharge please not working,Billing
+0,5,1,2,13,1,3,256.61,2,103,0,details problem would like details error time page issue fix broken,Feature_Request
+1,21,1,1,21,0,1,609.01,1,52,0,request time error error bug not working,Technical
+0,44,1,1,9,0,8,1964.9,2,67,1,update update loading unauthorized broken,Security
+2,18,1,1,3,0,6,110.13,2,2,0,team information password team user request team resolved,Account
+0,55,0,1,11,0,2,824.44,0,25,1,urgent yesterday update page bug urgent error urgent user contact,Technical
+3,11,1,1,0,0,6,1104.26,1,1,0,urgent bug help error user,Technical
+1,38,2,2,9,0,13,37.04,3,5,1,change problem loading subscription overcharge broken fix issue urgent,Billing
+3,71,3,3,1,0,7,720.21,1,80,0,broken need refund issue please contact,Billing
+3,3,2,1,2,0,5,210.14,5,2,0,system SSO yesterday page problem unable fix please page please login,Account
+0,5,3,1,1,0,18,8265.28,1,31,1,details update details update access unable please,Billing
+1,9,2,1,22,0,5,37.81,5,34,0,change yesterday problem refund invoice user loading need account,Billing
+2,43,1,2,10,0,7,251.92,0,63,0,please user loading getting started access please update,Onboarding
+0,30,0,1,11,1,5,272.38,5,7,0,details need details resolved page update broken need system,Technical
+0,1,2,2,1,0,5,1347.65,3,84,1,user issue update time account issue request contact import data,Onboarding
+2,19,0,1,23,0,12,240.9,0,15,0,update contact invoice need details need yesterday,Billing
+3,3,2,2,23,0,30,1258.67,4,1,0,phishing contact problem user unauthorized urgent yesterday resolved access today,Security
+2,9,2,2,4,0,5,116.16,5,21,0,help timeout information change change request update,Technical
+2,3,0,1,6,0,41,56.26,0,19,0,timeout support team contact error resolved access,Technical
+3,8,0,1,17,0,8,397.89,1,21,0,access password information need SSO contact support not working yesterday request system,Account
+3,58,2,2,16,0,7,1106.9,5,5,0,issue urgent API change unable urgent request,Technical
+2,5,0,1,15,0,20,66.17,1,5,0,resolved invoice not working please user,Billing
+0,23,1,2,19,0,29,742.76,2,17,1,loading support issue problem help service request check please getting started,Onboarding
+3,1,0,1,12,1,12,1231.03,2,69,1,update bug need information broken time unable team bug fix,Technical
+0,5,3,1,4,0,6,1432.79,3,21,0,password information details check request team resolved issue,Account
+1,3,3,2,16,0,28,16.48,5,14,2,enhance change broken update details request system help today service,Feature_Request
+2,22,3,1,3,1,3,173.35,2,80,0,help broken setup system change,Onboarding
+1,21,0,1,2,0,16,1473.02,4,63,1,yesterday contact API user information issue problem,Technical
+1,13,1,2,3,0,81,178.77,0,15,0,user resolved account request not working login access not working change permission,Account
+1,4,4,1,11,0,4,669.81,2,55,1,change issue issue page migration,Onboarding
+1,9,2,1,18,0,10,82.55,2,69,0,fix account need user information check help update error,Billing
+2,1,2,2,3,1,2,1302.93,3,8,0,today user problem not working support need check update urgent,Billing
+2,32,1,1,19,0,3,626.97,3,57,0,today user account fix add feature access access,Feature_Request
+1,17,3,2,8,1,2,1475.74,4,6,2,user not working login team today not working contact support issue support,Account
+3,27,0,1,6,0,5,2784.48,4,19,0,team support API access access,Technical
+1,4,3,1,21,0,7,274.2,2,18,0,service page service team yesterday password,Account
+0,33,3,1,12,0,4,46.72,2,72,0,page request need support,Billing
+2,18,3,3,9,0,3,375.87,3,48,2,today today information subscription subscription urgent,Billing
+3,30,0,2,15,1,3,2613.09,4,52,0,user refund issue loading service team,Billing
+0,68,2,1,13,0,9,1014.56,0,1,2,help system subscription subscription access check,Billing
+2,6,0,3,8,1,3,577.22,1,2,1,loading team request refund yesterday refund need,Billing
+1,54,5,1,9,1,25,423.28,2,9,1,please check information API contact,Technical
+3,34,2,3,10,1,26,289.96,5,16,0,getting started resolved page not working time contact access error,Onboarding
+2,16,2,1,22,0,14,2469.07,3,6,1,time user service today help,Onboarding
+3,14,0,1,0,0,9,1069.59,4,99,0,update page information user roadmap,Feature_Request
+2,50,1,2,7,0,11,1402.55,5,0,1,help problem information please details access resolved bug today access,Technical
+0,8,3,1,22,1,2,1797.76,3,2,0,check crash request support need broken information,Technical
+1,7,2,3,3,0,7,63.68,5,35,0,breach service not working fix details support,Security
+1,25,2,1,7,0,10,90.08,3,49,1,error support urgent invoice today information today,Billing
+0,16,0,1,6,0,5,71.73,0,26,1,service resolved not working crash error,Technical
+2,16,0,1,11,1,12,286.2,3,11,0,user unable team unable loading contact,Onboarding
+2,39,0,1,20,1,1,1933.71,5,3,0,check not working resolved fix request,Security
+2,3,1,1,19,0,35,241.77,2,33,0,timeout time time service team loading,Technical
+3,4,0,2,8,0,3,2107.63,2,28,1,help fix system loading unable please need system information,Security
+1,1,0,1,11,0,78,742.42,0,14,0,fix would like check change would like loading request help,Feature_Request
+2,32,0,1,18,0,6,145.49,3,17,1,information today yesterday change getting started,Onboarding
+0,35,0,2,7,0,2,321.31,2,2,0,details today timeout change service contact error request error today,Technical
+0,20,3,1,19,0,8,175.08,3,16,1,loading unable account details team information fix,Technical
+2,1,1,1,14,0,9,2183.97,0,46,2,contact details fix details broken help subscription,Billing
+1,21,1,1,13,0,32,325.89,3,50,1,access update import data contact fix account,Onboarding
+2,9,1,1,16,0,3,582.96,5,2,1,unable resolved loading error need,Onboarding
+2,22,0,3,18,0,5,294.89,4,40,0,access urgent loading please today time service timeout resolved,Technical
+0,29,2,2,7,0,9,3421.93,3,16,1,not working please refund access support update account broken time page,Billing
+3,25,1,3,8,0,4,549.66,0,21,0,change check yesterday team contact details today help,Security
+1,11,0,1,21,0,20,366.66,4,18,0,change resolved account please support service need,Security
+2,48,0,2,8,0,3,487.05,4,47,1,unable service API contact fix,Technical
+2,43,2,1,3,0,4,139.98,1,1,0,account import data problem team error urgent access,Onboarding
+3,5,3,1,16,0,14,2338.97,1,51,0,resolved time fix resolved roadmap resolved access page loading,Feature_Request
+2,19,0,1,13,0,5,1415.33,2,17,0,information timeout change broken unable please change details system,Technical
+2,31,1,1,10,0,3,161.67,4,23,2,please account change bug need user user loading issue change,Technical
+1,3,0,1,1,0,1,57.18,4,4,0,account problem password team help contact,Account
+1,6,3,3,18,1,28,192.07,5,17,0,support account problem time not working request refund,Billing
+3,1,1,2,15,0,3,2966.88,1,92,0,need contact API request service yesterday error not working service,Technical
+1,38,0,1,1,0,5,65.68,5,6,0,user information need help help,Billing
+1,42,1,1,0,0,4,682.47,4,0,0,problem please contact yesterday import data,Onboarding
+1,34,2,3,6,0,1,214.42,1,53,0,urgent service team update crash loading,Technical
+2,11,2,1,9,0,1,706.04,0,25,0,system service resolved please request issue account support system,Onboarding
+2,1,3,1,23,0,19,172.68,5,26,0,time time resolved please not working details help,Onboarding
+0,13,0,2,4,0,5,65.23,5,15,0,urgent bug need page user resolved,Technical
+0,31,2,2,21,0,1,4120.84,0,101,0,information urgent urgent overcharge broken unable please need,Billing
+3,3,0,3,9,0,62,49.21,2,14,1,please breach account yesterday loading,Security
+1,4,2,2,20,0,7,667.49,4,2,0,time page subscription contact need support,Billing
+0,59,1,2,10,1,3,937.27,0,18,0,check time need time,Billing
+3,34,2,1,0,0,8,847.96,0,9,0,not working today check API resolved unable need,Technical
+1,10,0,1,16,0,1,1723.84,4,19,1,system information time unable problem update problem migration support team,Onboarding
+2,11,1,1,6,1,6,699.15,5,115,1,account need service time check request team getting started,Onboarding
+1,1,0,2,15,0,17,1425.29,0,22,0,service access subscription issue page system broken,Billing
+1,12,0,1,1,0,1,215.62,0,21,0,yesterday need problem import data broken service user system resolved,Onboarding
+1,62,3,3,12,0,23,452.98,2,118,0,update check contact user API resolved,Technical
+2,48,3,1,10,0,3,125.71,5,3,2,unable yesterday access resolved broken user crash update system,Technical
+3,14,2,3,16,0,2,254.02,2,45,1,team user overcharge help user time user,Billing
+0,2,2,1,13,1,15,534.64,2,6,1,permission user change issue unable,Account
+2,24,1,2,20,0,4,86.66,0,3,0,today page setup resolved loading unable need yesterday,Onboarding
+0,4,5,3,15,0,13,1406.37,5,95,0,yesterday resolved fix yesterday account account support error,Security
+3,20,2,2,0,0,2,109.65,3,40,0,not working urgent need support details access contact invoice page,Billing
+0,12,1,1,20,0,23,386.1,2,5,1,change yesterday system broken today today subscription details,Billing
+0,7,2,2,1,0,14,150.16,1,31,2,refund service issue check fix broken page check loading,Billing
+1,23,3,2,18,0,23,1518.04,5,0,2,change migration page details import data check,Onboarding
+0,41,3,1,6,1,4,126.03,0,23,1,contact subscription problem resolved problem broken resolved information problem update,Billing
+2,55,1,3,23,0,15,1081.59,2,9,1,update update team need,Technical
+1,6,0,1,8,0,13,1396.18,3,43,0,details broken check error,Security
+2,73,1,2,19,1,36,3754.65,2,11,1,yesterday yesterday setup update contact loading issue not working unable user,Onboarding
+1,16,2,2,11,0,8,266.17,0,18,1,page API details service request loading yesterday details,Technical
+1,15,0,1,4,0,1,388.63,2,7,0,fix details fix check user team team,Billing
+0,10,2,1,14,0,6,837.35,4,5,0,page check fix unable details check,Technical
+0,22,3,1,2,0,13,370.62,4,17,0,system details yesterday fix help unauthorized yesterday update information,Security
+1,29,2,1,13,0,1,234.66,2,10,0,system unable fix today vulnerability access urgent details,Security
+3,5,2,1,21,1,4,559.36,0,34,0,unable details timeout please update access details,Technical
+1,64,1,3,17,0,8,261.42,4,32,0,change timeout update help unable bug today details issue not working,Technical
+1,1,1,3,8,0,1,63.25,0,5,0,fix login fix permission help user,Account
+1,22,4,1,16,0,1,331.05,2,67,1,help unable loading overcharge information request,Billing
+2,5,3,1,7,0,41,1521.89,3,16,0,invoice unable check page information page information problem not working loading,Billing
+0,10,2,3,19,1,8,809.3,3,27,2,fix unable account bug fix fix request,Technical
+2,36,0,3,19,0,4,403.09,2,44,1,information user account contact request subscription help system,Billing
+3,4,2,1,18,1,7,211.94,3,19,1,account bug bug yesterday team urgent,Technical
+3,57,2,2,11,0,1,1112.75,1,46,3,information service change today need need overcharge team need,Billing
+2,3,2,2,11,0,21,248.53,2,3,0,yesterday page time today,Billing
+3,11,1,2,11,0,6,82.59,1,14,1,account team request change time urgent vulnerability resolved resolved,Security
+0,13,4,1,11,0,16,236.21,5,28,1,not working help crash help system,Technical
+0,17,3,1,7,0,7,1649.75,3,8,1,permission broken fix request need update time access,Account
+1,55,2,3,16,0,10,2153.27,4,75,0,contact update unable help change page fix contact account,Technical
+1,13,1,1,7,0,10,71.55,2,164,0,please today yesterday fix,Onboarding
+1,20,2,1,22,0,4,740.7,5,66,1,today need today permission details resolved,Account
+3,26,4,1,8,0,13,601.26,3,3,1,account access bug urgent not working access today help,Technical
+0,41,0,2,9,0,7,1505.91,4,24,3,account phishing need vulnerability contact information access account resolved urgent,Security
+3,19,1,1,13,1,14,1355.89,1,69,0,loading service error error please broken issue contact yesterday,Account
+1,6,3,2,21,0,25,657.14,3,129,0,timeout problem access issue today,Technical
+3,4,0,2,12,0,2,275.39,5,2,1,need subscription access resolved update,Billing
+3,3,0,3,0,0,7,709.13,1,1,0,team refund urgent update yesterday update issue access details unable,Billing
+2,1,3,2,10,1,8,353.0,4,40,2,support bug urgent page user unable help system user,Technical
+3,17,3,2,4,1,16,1555.13,4,67,1,fix account error fix problem team team support,Account
+1,3,3,2,3,0,10,261.22,4,43,0,update time page urgent error broken,Technical
+2,24,2,2,9,1,17,1392.24,0,8,0,loading broken need change please overcharge help problem support,Billing
+3,3,1,2,12,0,3,291.32,4,15,0,broken breach access broken account not working fix contact,Security
+1,11,4,2,20,0,2,56.85,0,7,2,loading loading today yesterday error,Onboarding
+3,12,3,3,5,0,15,400.38,4,0,1,fix urgent user unable resolved API contact system please,Technical
+1,39,0,1,15,0,2,4367.87,5,45,0,information overcharge information fix team,Billing
+0,26,1,2,10,1,4,2951.96,3,6,1,service urgent resolved today getting started not working update support page details,Onboarding
+1,175,0,2,0,0,2,1377.31,3,58,0,change update account access resolved not working account access change,Feature_Request
+2,8,1,2,1,0,4,1349.81,1,0,0,yesterday API issue change account,Technical
+0,75,2,3,6,0,6,766.63,1,27,0,yesterday error information change phishing,Security
+1,2,0,2,5,0,3,298.55,4,24,0,help system need problem system import data getting started,Onboarding
+1,20,0,3,8,0,13,223.49,3,28,1,would like error support need support,Feature_Request
+3,18,2,1,10,0,8,3165.52,0,1,0,unable urgent invoice problem time,Billing
+3,29,1,1,8,0,4,416.38,4,6,0,timeout service time account fix update details change,Technical
+2,72,3,1,4,0,7,84.55,5,18,0,invoice broken user invoice fix account not working access request,Billing
+0,93,3,2,6,0,15,48.63,0,24,0,details change page error information broken change need fix overcharge,Billing
+3,1,3,1,8,0,10,848.68,3,6,0,urgent support user subscription problem,Billing
+3,18,2,3,20,0,4,402.88,2,2,0,error team user urgent refund,Billing
+0,7,2,1,21,0,8,954.75,4,2,0,help import data import data need update check today,Onboarding
+0,1,0,1,8,1,2,43.49,3,36,0,not working system bug details support crash,Technical
+3,18,2,2,15,0,2,599.93,4,4,0,user contact account unable,Technical
+0,63,1,1,20,1,1,353.14,1,12,1,check loading yesterday fix unable crash unable,Technical
+0,1,0,2,21,1,19,245.71,3,35,2,loading need issue broken error API request,Technical
+3,49,6,1,3,1,14,694.47,1,175,0,time yesterday request timeout information,Technical
+3,26,1,1,14,0,4,669.86,0,15,0,request login check permission account service,Account
+2,5,1,2,13,0,1,104.56,5,24,0,contact issue API access resolved user not working,Technical
+1,2,2,2,16,0,2,2059.21,2,2,0,check broken loading timeout timeout support please resolved service,Technical
+3,1,0,1,7,1,4,219.18,0,8,0,change API contact today problem,Technical
+0,4,1,1,8,0,1,106.19,1,3,0,update permission permission access not working user help,Account
+2,2,1,1,23,0,9,830.28,3,15,0,contact support today request migration account information error service import data,Onboarding
+2,27,2,2,9,0,1,1232.84,3,54,1,request subscription please error access time unable,Billing
+3,19,1,3,16,0,1,1180.28,4,24,1,support please loading contact timeout problem today,Technical
+1,50,2,1,10,1,19,206.47,1,42,0,help service yesterday urgent would like,Feature_Request
+3,13,1,1,13,1,29,169.52,0,6,0,overcharge account information broken account user access need,Billing
+1,1,1,2,23,1,2,2820.03,2,14,0,user invoice loading information system,Billing
+0,26,3,1,3,0,22,580.33,5,0,0,urgent not working loading fix page would like check information,Feature_Request
+2,1,0,2,9,0,29,477.92,1,1,1,contact service problem urgent team crash,Technical
+3,45,1,3,8,0,5,562.5,3,5,2,service broken need loading please update loading,Billing
+0,12,1,1,10,0,37,292.97,3,83,0,timeout unable details change fix issue,Technical
+3,78,2,2,23,0,2,87.51,0,6,0,details need account access user access access,Technical
+0,33,3,2,22,0,3,909.42,4,0,0,API account broken broken account need problem,Technical
+3,1,1,1,9,0,2,371.98,5,48,1,update time need request account service,Technical
+2,4,4,2,2,0,2,142.21,2,79,1,user migration issue information team error page system please,Onboarding
+2,19,0,1,23,0,56,2051.41,1,36,0,change fix migration account problem user error,Onboarding
+1,28,0,2,7,0,1,1437.31,4,32,0,help account timeout update unable account,Technical
+3,2,1,1,6,0,1,271.49,2,112,2,resolved please urgent request system bug,Technical
+0,23,4,3,21,0,2,2556.56,5,73,1,unable not working account check information help contact,Technical
+3,1,3,2,22,0,18,905.74,2,9,1,unable change account resolved getting started account,Onboarding
+2,17,2,3,17,0,3,122.63,2,0,0,help account user permission urgent error,Account
+3,19,0,1,0,0,1,1138.07,1,37,0,API yesterday resolved resolved request,Technical
+0,30,4,2,11,0,5,251.6,4,13,0,today time unable login system details,Account
+0,61,2,1,13,0,1,212.01,1,6,0,please unable overcharge request request problem,Billing
+3,13,1,2,6,0,14,221.35,3,6,2,add feature yesterday today contact account,Feature_Request
+3,9,3,1,15,0,2,758.38,1,1,0,vulnerability today broken broken today team check contact,Security
+1,25,1,1,19,0,8,23.72,3,22,0,loading support support check account information need request refund,Billing
+0,10,1,2,14,0,3,98.16,2,17,1,user check user problem broken system need,Billing
+1,31,2,2,23,0,15,111.11,1,86,0,user update account information system information breach,Security
+3,29,1,1,19,0,65,930.67,3,132,1,page contact account issue crash resolved,Technical
+1,4,2,1,19,0,8,102.82,2,14,0,migration resolved request contact yesterday,Onboarding
+3,14,2,2,2,0,2,1045.73,2,116,1,problem bug access yesterday change team yesterday,Technical
+0,6,0,3,19,1,21,471.09,0,50,0,account broken request timeout system team,Technical
+0,7,4,1,9,0,8,347.2,0,24,0,service service need error error service,Billing
+0,1,1,1,3,0,9,103.36,0,68,1,change details page broken yesterday information,Account
+3,18,4,1,8,1,13,56.68,1,41,0,migration yesterday contact contact user fix yesterday,Onboarding
+2,14,1,2,4,0,1,2020.31,2,23,0,check overcharge information user fix information broken request need,Billing
+0,21,2,2,20,0,3,596.59,1,84,0,request resolved loading loading setup account migration,Onboarding
+1,41,1,1,21,0,7,315.06,0,39,0,today account please unable API time details access,Technical
+1,17,2,2,17,0,37,309.55,0,147,0,system broken broken information system resolved error system,Technical
+2,18,4,2,18,0,4,5204.21,1,26,0,invoice access user contact information update,Billing
+3,39,3,2,21,0,13,703.46,5,21,0,service login account account system not working update service contact information,Account
+0,1,1,1,4,0,2,1991.88,1,8,0,contact time import data account change help unable,Onboarding
+2,4,0,2,20,0,5,1046.8,2,45,0,user please not working access unable service overcharge account error page,Billing
+3,26,2,2,21,0,7,1209.06,5,52,1,service problem fix broken please team resolved not working,Billing
+3,14,1,2,12,0,6,3319.57,4,68,1,support resolved API issue please time,Technical
+2,23,1,2,7,0,6,1439.95,1,94,0,migration yesterday urgent fix account,Onboarding
+1,20,0,2,2,0,10,204.91,2,44,1,details yesterday help invoice request error not working information service update,Billing
+0,31,1,2,11,0,4,604.79,5,46,0,contact update help broken system,Account
+1,21,0,1,9,0,8,80.37,2,5,0,problem loading team phishing support request request,Security
+2,9,3,2,20,0,5,312.31,2,14,0,not working check check resolved would like,Feature_Request
+0,5,1,3,19,0,29,1572.94,2,20,0,not working request support service service contact time request subscription,Billing
+1,23,4,3,22,0,3,139.12,1,44,0,details problem team request subscription fix account fix,Billing
+1,28,0,3,22,0,12,3965.23,0,0,1,service timeout yesterday system help,Technical
+0,2,0,3,18,0,34,888.05,5,65,0,check account team login problem request need,Account
+3,22,5,2,21,0,7,65.01,0,44,0,team resolved password urgent urgent error support check user,Account
+3,3,0,1,6,0,5,2581.89,2,66,0,not working help help fix please,Billing
+3,32,1,1,21,0,3,477.78,2,18,2,urgent team access broken update access broken bug help information,Technical
+2,78,2,1,13,0,3,400.31,3,50,0,account urgent loading please team broken fix overcharge request fix,Billing
+0,1,1,2,5,0,5,1589.13,2,5,1,broken change contact resolved update service issue,Technical
+2,30,1,2,19,1,14,367.42,1,20,2,time update password broken information page,Account
+2,13,3,2,22,0,12,1148.16,3,6,0,page broken error crash today timeout,Technical
+1,7,1,3,17,0,15,645.48,1,113,0,help bug contact check urgent update change update check,Technical
+2,33,0,1,18,0,4,51.85,4,2,1,access change change check today help not working subscription,Billing
+2,6,3,1,17,0,7,316.16,5,1,0,overcharge user check error unable details issue,Billing
+1,15,1,1,3,0,3,235.92,2,6,1,service timeout service help fix user,Technical
+0,86,1,1,3,0,16,426.66,1,4,1,details details need access account loading,Billing
+3,29,2,2,11,0,5,123.15,2,0,0,problem access not working yesterday information change resolved access,Billing
+0,32,2,3,18,0,37,1187.88,3,91,1,problem check resolved loading system,Billing
+0,30,3,2,12,0,12,975.61,5,8,1,system help subscription need please access today fix,Billing
+0,18,3,3,12,0,5,230.41,2,22,0,problem account team issue system overcharge update not working,Billing
+0,9,2,2,21,0,17,1039.66,5,100,0,account today need add feature service details loading,Feature_Request
+0,38,0,1,5,0,4,40.67,5,6,0,support need yesterday unable broken team system,Billing
+3,15,0,2,0,0,5,421.34,4,11,0,access time details service system crash page details user yesterday,Technical
+3,9,0,2,15,0,9,559.57,5,37,0,problem loading error need team time phishing details user,Security
+1,119,2,1,13,0,6,658.54,2,58,2,request system today check fix crash access time not working,Technical
+2,42,1,2,20,0,7,223.48,5,23,0,update details overcharge request team page urgent information information need,Billing
+1,10,2,2,22,0,14,194.79,4,57,3,support access unable subscription problem today fix access time yesterday,Billing
+3,18,2,1,9,0,6,239.48,1,6,1,bug page fix access today team,Technical
+3,56,2,2,2,0,15,814.81,1,37,1,access login change support check fix,Account
+1,25,1,1,15,0,4,215.59,5,8,0,issue user urgent enhance service information resolved access,Feature_Request
+0,5,1,1,22,0,18,10088.27,2,58,1,unable today details urgent page details yesterday phishing issue today,Security
+3,33,1,1,12,0,18,58.76,1,14,0,SSO page support error page,Account
+0,47,0,1,10,0,3,165.67,0,23,1,add feature loading resolved today access would like need update fix,Feature_Request
+3,10,4,1,0,0,27,3795.89,3,20,0,getting started request check team contact please contact team user account,Onboarding
+1,1,1,2,15,0,16,745.16,4,35,0,details request issue refund loading contact information,Billing
+2,6,1,2,17,0,3,31.93,4,2,1,loading invoice broken unable check update team,Billing
+0,18,1,1,21,0,37,1666.3,4,29,0,problem information update overcharge problem problem access user,Billing
+1,60,1,1,5,0,7,296.09,5,17,1,details service today time SSO today account time password contact,Account
+2,18,1,3,15,0,46,791.62,4,156,0,broken contact update urgent check please problem subscription invoice issue error,Billing
+2,5,1,1,6,0,13,208.94,0,3,1,resolved loading fix check refund not working support loading,Billing
+1,16,1,2,16,0,2,202.64,0,40,3,problem loading contact change broken update update support,Technical
+2,57,1,2,15,0,3,29.35,1,64,1,password team access support problem,Account
+0,26,2,1,9,1,1,224.92,4,32,0,resolved yesterday page yesterday please bug problem information problem,Technical
+0,9,1,3,8,0,1,580.12,3,61,0,need account access SSO user problem,Account
+3,26,1,3,10,1,40,739.95,3,17,0,check issue not working API need need update access,Technical
+1,25,4,1,9,0,25,912.24,4,38,0,account problem crash information today time system,Technical
+0,17,0,2,2,0,13,783.65,2,57,1,need details system unauthorized team unable unable urgent team,Security
+3,62,0,3,19,0,15,1100.24,4,2,2,service information user contact update crash service,Technical
+1,6,2,1,11,0,14,334.82,5,80,0,urgent yesterday support invoice access contact,Billing
+2,1,3,2,0,0,6,113.83,3,62,0,help team error today broken system check not working bug,Technical
+0,62,2,2,19,0,7,194.48,3,10,0,page loading timeout not working loading resolved support account check service,Technical
+1,19,0,1,18,0,3,2248.58,3,7,0,issue error yesterday team broken enhance account problem error access,Feature_Request
+3,19,2,3,13,0,4,157.79,0,13,0,details enhance not working unable not working urgent resolved help not working update,Feature_Request
+2,87,0,1,3,0,6,171.39,3,1,2,urgent yesterday unable today request team API fix yesterday issue,Technical
+2,19,1,1,3,0,8,2748.28,4,2,0,service request update subscription issue please resolved,Billing
+3,1,4,1,12,0,9,1358.2,4,10,1,urgent change broken yesterday yesterday loading timeout urgent loading,Technical
+1,42,2,1,2,0,5,415.5,4,7,0,fix user information permission page update problem resolved,Account
+0,13,1,2,9,1,5,1002.3,5,0,1,error update not working user unable overcharge overcharge broken today need,Billing
+3,9,1,2,9,1,20,1231.25,3,20,0,please today fix information help update urgent overcharge page urgent,Billing
+3,3,2,3,7,0,14,212.41,1,16,2,today access access update service phishing please please,Security
+1,27,0,2,21,0,3,1074.56,3,2,1,check please overcharge resolved check check yesterday broken,Billing
+2,15,3,1,23,0,23,640.24,1,32,0,today details issue bug loading team help,Technical
+2,4,0,1,12,0,9,740.21,1,21,0,change roadmap error error support need team not working,Feature_Request
+1,2,3,1,8,0,25,229.95,3,73,2,urgent fix information user permission details access,Account
+2,8,1,1,8,0,22,257.9,4,22,1,request not working issue please overcharge details unable urgent,Billing
+3,30,3,1,15,0,10,1398.59,3,5,0,check urgent not working need unable login information page fix need,Account
+1,5,1,1,10,1,15,142.76,4,6,0,please access fix password information contact change,Account
+2,1,1,1,3,0,8,1372.15,0,17,0,team system resolved details error,Security
+0,19,2,3,20,0,14,1985.45,1,48,0,details user issue service fix contact unable setup access error,Onboarding
+1,33,1,2,17,0,25,204.0,0,5,0,account need details not working contact urgent getting started,Onboarding
+0,22,2,1,3,0,4,2885.86,3,65,1,fix error crash update page urgent time,Technical
+3,16,1,1,16,0,14,879.26,4,9,1,change would like user contact need,Feature_Request
+2,26,1,1,7,0,30,76.51,4,52,0,unable information page fix overcharge help urgent change,Billing
+0,12,0,3,3,0,10,4030.25,1,5,1,error error support please resolved details problem problem,Security
+2,21,1,2,22,0,2,185.7,5,32,1,details today problem help change issue time API service,Technical
+3,6,5,1,21,1,6,1847.67,5,73,0,urgent error unable request today update error check update,Billing
+2,68,1,1,18,0,41,802.19,5,23,0,urgent request support support loading import data,Onboarding
+3,29,2,1,17,0,31,195.6,5,79,0,account issue not working today permission urgent help SSO service,Account
+2,43,4,3,23,0,5,204.18,2,85,1,team resolved getting started need error,Onboarding
+2,8,3,2,5,0,25,2388.91,5,77,1,user urgent page fix getting started update loading user fix,Onboarding
+0,15,0,1,12,0,6,319.26,0,16,0,help time refund urgent account time account broken,Billing
+1,12,2,3,13,0,1,388.33,4,40,0,broken issue roadmap request page,Feature_Request
+0,4,2,3,0,1,31,1457.05,1,10,1,resolved problem help problem overcharge system service,Billing
+2,13,3,1,10,0,11,310.66,5,7,0,support resolved urgent yesterday information update today broken,Technical
+2,22,2,2,4,0,11,697.11,1,28,0,resolved urgent support would like error system need urgent information,Feature_Request
+3,13,0,2,8,0,14,407.66,5,25,1,broken urgent migration check check,Onboarding
+1,11,0,2,23,1,5,33.31,4,76,0,yesterday API service problem update error,Technical
+0,1,0,2,7,0,2,53.91,4,0,3,invoice today fix help change need details access not working,Billing
+0,44,2,1,13,0,6,1894.89,2,8,0,need fix access issue breach request error change problem,Security
+2,16,3,1,11,0,16,508.69,5,10,0,breach change support help error help error check,Security
+3,11,3,2,13,0,26,309.53,5,2,0,please fix request fix access API,Technical
+1,15,3,2,0,0,5,237.76,0,9,0,resolved account yesterday not working urgent information getting started,Onboarding
+3,5,4,2,22,0,3,350.67,1,12,1,today problem not working urgent broken request yesterday account API,Technical
+0,40,2,3,12,0,5,631.45,5,50,0,information error loading unable access,Technical
+0,18,1,1,14,0,4,544.58,0,16,0,today need crash request system,Technical
+0,9,2,2,22,1,4,396.97,3,73,0,not working access contact add feature change broken urgent change,Feature_Request
+2,17,3,1,6,0,3,235.23,1,25,0,support yesterday getting started system update need system setup,Onboarding
+1,10,3,2,13,0,12,1349.42,5,96,2,access access details enhance team need page,Feature_Request
+0,20,2,2,5,0,2,40.6,0,0,0,update loading team need add feature,Feature_Request
+2,49,2,2,15,0,7,627.47,2,9,2,request page update page loading unable yesterday please,Technical
+1,7,0,1,21,0,15,673.15,3,18,0,details error request invoice request,Billing
+2,66,1,3,20,0,10,897.49,0,51,1,change error vulnerability unable error resolved unable change help account,Security
+1,27,1,2,8,1,22,3388.91,1,94,0,access check refund system page,Billing
+1,7,4,2,20,1,2,196.63,4,15,2,access team check change getting started service,Onboarding
+1,4,2,2,2,0,5,1927.49,4,36,0,change broken unable user account please today system,Technical
+2,72,3,2,17,0,8,121.74,1,1,1,system unauthorized account not working update,Security
+2,1,0,2,22,0,14,390.34,5,12,0,problem unauthorized please page service system,Security
+0,8,0,1,2,1,5,91.99,3,41,0,information account login information check system resolved,Account
+3,93,2,1,12,0,50,535.14,5,17,0,support urgent setup contact support not working details error update,Onboarding
+0,8,1,3,5,0,8,510.52,1,5,1,support crash urgent support team issue request broken not working error,Technical
+3,14,2,2,3,0,6,270.61,1,14,0,problem contact help phishing request fix request request,Security
+0,72,0,1,17,0,1,183.98,1,12,1,help user loading API fix information not working,Technical
+3,6,4,1,16,1,5,641.44,3,80,0,service unable user need permission help,Account
+2,32,0,1,14,0,4,1858.72,0,28,0,not working overcharge details loading check change yesterday yesterday,Billing
+2,64,3,1,10,0,12,210.53,1,134,0,user user crash service need information,Technical
+3,28,2,1,13,1,8,6690.45,4,38,0,unable update team service request system check check,Billing
+1,34,3,2,12,0,12,5752.62,5,40,0,invoice support loading fix check team team access,Billing
+2,4,4,1,12,0,16,487.6,3,41,0,change request crash problem page information,Technical
+1,8,0,1,4,1,5,284.34,0,33,0,access team help error contact help contact,Technical
+1,1,0,1,14,0,12,530.19,0,7,2,getting started fix fix fix fix help not working resolved need,Onboarding
+3,10,2,2,4,1,4,22.8,4,40,0,yesterday problem access crash update account urgent page unable,Technical
+0,6,2,3,20,1,4,523.59,3,36,1,loading today unable loading information error issue error team migration,Onboarding
+1,19,0,2,1,0,7,1397.17,5,24,0,crash please fix today support information details,Technical
+2,16,1,1,3,1,27,587.52,4,55,0,problem subscription invoice help details system,Billing
+1,23,2,3,14,0,9,389.02,3,73,0,yesterday support today bug access check resolved update,Technical
+2,4,3,1,12,0,13,484.19,2,9,0,issue need system request account resolved,Billing
+2,34,1,3,3,1,23,1310.96,0,46,0,update need user bug access today contact need unable,Technical
+2,55,1,1,4,0,48,986.54,5,15,1,please check check resolved time fix issue overcharge,Billing
+1,44,2,2,22,0,21,331.61,4,62,0,issue roadmap contact would like details team problem issue help yesterday,Feature_Request
+3,19,2,2,4,0,12,278.85,4,7,1,page details today support support help issue please,Feature_Request
+3,13,3,1,0,0,9,2169.18,5,8,0,user request update change timeout page please,Technical
+3,18,2,2,17,0,18,36.04,4,4,0,contact change invoice help urgent change issue system account today,Billing
+3,9,3,1,4,0,23,323.9,3,20,0,add feature contact problem contact contact system request,Feature_Request
+0,32,0,2,0,0,3,78.03,0,42,0,login account loading need loading page not working problem error,Account
+1,18,0,2,3,0,5,1040.93,1,18,1,password service change update access resolved need,Account
+2,19,1,2,16,0,3,417.66,3,32,0,page API fix time service check today information change information,Technical
+2,16,0,1,3,1,5,1217.53,4,14,0,page urgent roadmap team user team unable system system,Feature_Request
+2,27,1,3,10,0,12,404.75,3,57,1,yesterday add feature system information need information enhance change change,Feature_Request
+3,19,2,1,7,0,2,566.69,3,15,0,yesterday invoice information yesterday urgent check not working,Billing
+1,1,1,1,3,0,9,144.24,1,29,1,time check urgent bug check account urgent request time,Technical
+2,24,0,1,22,0,5,90.77,2,6,0,help broken update access migration page,Onboarding
+1,8,1,3,1,0,11,172.34,0,27,1,refund change information issue change subscription contact check support contact,Billing
+0,14,2,1,9,0,36,28.46,2,41,0,not working not working unable page urgent urgent support problem user,Onboarding
+0,41,0,2,3,0,4,602.96,3,6,0,please change API team time,Technical
+1,39,0,3,15,0,25,114.21,4,15,1,account details API information today page details,Technical
+0,34,2,1,15,1,34,75.2,1,47,0,please loading broken update bug user bug please please change access,Technical
+0,28,1,2,2,0,9,417.15,1,44,0,check not working check details getting started support support update unable,Onboarding
+3,7,2,2,7,1,1,317.69,4,7,1,change resolved service vulnerability change user broken problem,Security
+1,7,2,1,5,0,26,163.38,5,17,0,please account overcharge loading not working update unable system,Billing
+1,18,0,1,17,1,1,255.03,1,49,1,issue request help login service user loading,Account
+0,25,0,1,14,0,4,913.83,2,2,0,timeout loading need problem account system user access,Technical
+1,21,3,1,13,0,62,4872.12,0,17,0,vulnerability service broken request page,Security
+0,37,6,1,1,1,12,431.39,4,7,0,time today import data error request help broken problem,Onboarding
+3,24,3,1,22,0,1,1515.99,2,75,1,error change not working unable support,Account
+0,10,0,1,15,0,48,372.05,0,2,1,today API page contact urgent issue information,Technical
+1,1,1,2,11,0,12,666.12,1,20,0,today import data import data not working system issue error change,Onboarding
+3,34,2,1,23,0,16,506.68,5,42,2,help user timeout need fix,Technical
+2,3,1,1,21,0,15,392.59,5,58,2,loading system request API help not working,Technical
+0,1,2,1,4,0,18,18.49,3,2,0,help loading time migration team today broken,Onboarding
+0,11,2,1,14,0,2,407.95,3,8,2,update yesterday bug help problem problem today,Technical
+0,16,2,1,19,0,4,280.67,4,0,1,need today fix user,Onboarding
+0,14,0,2,21,0,21,431.46,1,40,0,issue urgent change SSO system need,Account
+1,1,3,1,4,1,1,182.38,4,77,1,request team not working time system change loading subscription,Billing
+3,25,0,3,7,0,6,7531.43,2,8,1,page contact setup urgent access setup account,Onboarding
+3,11,3,1,18,0,1,3080.6,4,11,0,user unable user time update invoice urgent,Billing
+2,87,2,1,17,0,1,13.3,5,17,0,today update urgent overcharge access help broken,Billing
+2,14,0,3,9,0,6,125.67,3,45,1,urgent time request update information system help,Feature_Request
+1,31,4,3,2,0,9,837.29,2,29,1,update team yesterday broken service time problem system details,Billing
+3,6,2,1,7,0,2,308.41,1,9,1,page resolved error subscription fix unable loading,Billing
+1,18,2,2,14,0,4,491.48,5,101,1,resolved system today information system yesterday contact request help getting started,Onboarding
+2,3,0,1,4,0,22,348.2,2,0,1,problem update page team details yesterday bug error please not working,Technical
+1,6,0,1,5,0,1,1707.37,2,19,1,system time service phishing yesterday,Security
+2,11,5,1,4,0,2,3175.4,0,3,0,issue check problem add feature issue add feature time,Feature_Request
+2,8,6,1,14,0,4,339.29,5,53,0,login error please page error issue,Account
+3,16,0,1,21,0,3,925.93,5,39,0,problem account today please crash,Technical
+1,21,1,2,0,1,12,284.64,3,5,0,change unable issue today team error update,Account
+3,1,4,1,20,1,8,808.05,1,34,0,need details error account login account,Account
+2,17,1,2,2,0,3,144.06,3,17,0,time request setup service details,Onboarding
+1,25,3,2,4,0,7,5462.17,2,20,0,unable request need support unable today breach,Security
+2,16,1,1,10,0,7,7364.47,2,59,0,page information invoice change broken,Billing
+0,21,3,1,20,0,7,95.85,3,54,0,unable SSO access service contact today not working request,Account
+1,3,2,1,19,1,2,116.21,5,11,1,problem support account resolved vulnerability urgent need team urgent today,Security
+3,3,2,1,23,1,10,598.33,0,4,0,unauthorized system information unauthorized fix support team team,Security
+2,24,0,2,8,1,6,253.91,2,30,1,team today today time not working API support today issue,Technical
+2,1,0,2,19,0,7,391.98,0,17,0,request problem overcharge today urgent details,Billing
+3,9,2,2,3,0,10,125.67,2,16,0,check update time timeout information,Technical
+2,3,1,1,14,1,19,1819.23,1,10,3,resolved resolved login page unable update,Account
+2,1,1,2,6,0,5,4194.67,0,30,3,details service update resolved getting started need help,Onboarding
+3,55,2,2,6,0,8,110.12,0,21,0,need contact page update request unable update urgent service,Security
+1,9,2,1,5,1,1,25.63,1,20,1,broken broken fix crash fix information,Technical
+2,34,2,1,19,0,1,390.15,1,9,2,update help user team service request,Technical
+1,21,3,1,2,0,125,1332.46,2,4,0,problem access need yesterday service loading issue,Security
+3,10,2,3,4,0,4,863.99,1,47,2,page need system check resolved need add feature,Feature_Request
+0,33,2,1,3,0,20,418.87,4,5,0,check problem system loading support loading API unable details,Technical
+1,13,2,1,23,0,10,1920.97,0,40,1,fix overcharge user page help,Billing
+1,37,3,2,15,0,2,125.36,3,16,0,resolved timeout contact unable problem,Technical
+1,39,1,1,2,0,6,30.1,0,33,0,error access access user crash urgent service page need,Technical
+1,49,1,3,23,0,7,2131.64,5,38,1,broken broken permission request check not working,Account
+3,59,2,3,6,0,24,339.76,4,3,1,error user change urgent page,Security
+3,70,0,1,21,0,4,1321.65,4,69,0,contact issue not working broken urgent contact unauthorized information access,Security
+3,3,2,3,17,0,1,1704.76,2,12,1,issue issue details information broken import data system,Onboarding
+0,1,4,1,1,0,1,62.67,1,11,0,problem system fix loading team change timeout request,Technical
+0,50,2,1,8,0,11,333.11,3,15,0,today help subscription change overcharge change,Billing
+0,11,1,3,2,0,2,259.15,2,49,0,issue contact update urgent resolved help broken broken password,Account
+0,25,2,1,23,0,2,64.52,0,5,0,error user loading crash resolved,Technical
+2,32,0,2,18,0,30,476.32,0,18,0,page request not working account help crash,Technical
+2,57,0,2,20,0,5,73.5,5,11,3,request SSO problem broken problem permission page check loading account need,Account
+0,8,3,1,23,1,5,520.58,4,48,1,loading problem user access support,Technical
+0,6,5,2,22,0,3,46.13,3,9,0,unable request check crash yesterday check please check yesterday,Technical
+0,74,0,1,2,0,2,2270.75,1,5,1,team yesterday yesterday update overcharge loading yesterday help overcharge system update,Billing
+3,25,1,2,23,0,52,390.02,4,6,1,user time breach error update,Security
+1,21,2,1,18,0,2,635.28,4,46,1,permission resolved issue urgent team help request SSO issue not working,Account
+0,18,1,3,18,0,7,56.67,5,66,1,need check support support update help information loading refund,Billing
+3,60,1,1,5,0,1,86.41,3,10,0,fix support loading service login,Account
+3,18,2,1,10,0,16,137.93,5,5,0,help contact update issue information API user change help,Technical
+3,23,2,2,7,0,2,47.11,3,42,0,system not working page error information login page update,Account
+2,20,1,2,19,1,4,90.27,2,54,1,time details please refund loading time update support,Billing
+0,18,0,2,4,0,7,104.34,0,29,1,issue need timeout page today issue resolved change,Technical
+3,1,1,3,7,1,8,62.84,1,33,2,team today phishing loading user problem check check,Security
+2,5,5,1,17,0,5,814.19,3,53,0,check need resolved team access details,Security
+1,2,1,1,9,0,3,639.41,4,35,0,timeout check not working need change,Technical
+1,20,1,3,0,0,9,26.7,5,16,0,request page error crash user account information check,Technical
+2,3,2,2,3,1,2,2805.28,5,84,0,invoice loading account fix information page information contact subscription resolved request,Billing
+3,5,1,1,10,0,26,403.48,1,61,0,not working team resolved please timeout,Technical
+1,15,0,2,10,0,2,228.53,1,0,0,yesterday timeout please time resolved unable details timeout error team,Technical
+0,27,0,1,6,1,15,827.28,0,0,1,unable today support user migration account update today,Onboarding
+2,40,0,1,20,0,25,247.97,5,40,3,problem refund issue system change,Billing
+3,2,1,2,21,0,13,1009.73,4,21,1,password update loading loading contact account support time information,Account
+1,3,4,2,9,1,15,1357.52,4,2,0,details service information timeout support unable page request team,Technical
+0,45,4,2,5,0,2,931.29,4,39,0,support unable request check,Onboarding
+2,19,1,2,0,0,8,2191.46,5,26,0,yesterday team unauthorized user support,Security
+1,75,2,2,10,1,8,217.44,4,69,0,check issue contact support breach change not working not working,Security
+1,47,1,1,17,0,8,610.64,1,27,1,migration fix system information team system user,Onboarding
+2,31,2,2,16,0,11,1875.55,1,58,0,check page change information,Technical
+1,31,2,2,3,0,3,590.55,0,59,1,urgent problem update resolved issue subscription,Billing
+0,2,1,1,12,0,3,3350.86,5,61,1,problem yesterday check support unable,Security
+1,7,3,2,2,0,6,387.01,2,10,1,issue error problem overcharge resolved,Billing
+3,6,2,2,20,0,25,358.5,1,12,0,update system change please information issue details help page,Feature_Request
+2,5,1,2,13,0,7,1294.82,1,60,0,not working problem not working not working password,Account
+3,4,1,2,0,0,2,716.76,3,4,1,loading access need invoice fix today,Billing
+3,29,1,2,13,0,8,291.88,1,113,0,update service page access,Onboarding
+2,36,3,2,20,1,6,283.4,4,17,0,resolved page unable details details yesterday update,Technical
+2,1,0,1,8,0,3,520.39,1,38,2,unable system yesterday service yesterday,Security
+3,1,3,3,3,0,9,542.22,3,52,0,support yesterday support access bug API,Technical
+1,2,2,1,14,0,10,668.33,2,10,1,service urgent resolved change API urgent,Technical
+1,7,0,1,4,0,2,401.4,5,9,0,yesterday resolved error timeout access,Technical
+1,20,0,1,5,0,5,170.98,0,8,0,check user details password information service user account today contact,Account
+0,24,1,1,10,0,5,2560.3,2,6,2,enhance urgent access error access,Feature_Request
+0,87,1,3,9,0,4,1911.68,5,17,1,system contact system fix check invoice urgent,Billing
+1,1,5,1,0,0,10,56.67,2,7,0,team need subscription issue information,Billing
+0,34,3,1,5,0,5,133.52,5,11,0,request check request crash service broken,Technical
+3,31,1,1,14,0,19,162.8,1,13,0,service information check issue subscription yesterday team help account,Billing
+1,22,1,1,5,0,10,219.24,0,22,0,contact update contact support crash,Technical
+2,7,3,1,2,1,4,1645.8,4,15,0,details system details yesterday details page API change,Technical
+3,17,0,1,3,1,24,515.1,3,56,0,update update bug time not working yesterday yesterday,Technical
+3,51,2,3,22,0,8,64.54,5,26,2,urgent information time bug crash fix access help user urgent yesterday,Technical
+0,6,1,2,6,0,1,170.97,0,35,0,yesterday problem request migration details yesterday time contact information unable,Onboarding
+3,72,2,1,18,0,2,444.86,1,101,0,problem issue page timeout error account,Technical
+0,105,2,1,4,0,18,4104.27,0,22,0,yesterday change request need,Feature_Request
+2,65,1,2,12,1,9,485.94,0,21,0,page page issue help today bug,Technical
+2,57,1,3,13,0,8,3030.45,5,9,1,problem contact system today system broken account system bug resolved,Technical
+2,19,2,3,1,0,7,286.88,4,68,0,service change need account user invoice,Billing
+0,8,1,2,0,0,7,1577.07,5,15,0,system need not working permission information help resolved broken loading change,Account
+3,7,2,1,3,0,2,212.66,0,2,0,yesterday account urgent problem,Feature_Request
+2,1,3,3,0,0,12,567.75,5,0,0,error change urgent help request request page setup change page,Onboarding
+0,38,1,2,1,0,3,983.49,1,14,1,loading crash unable service information time error time service,Technical
+2,1,1,2,5,0,38,213.3,1,7,0,information loading system team import data broken,Onboarding
+2,1,1,1,8,0,1,71.29,3,55,0,time getting started request page need details,Onboarding
+3,12,3,3,17,0,12,590.87,1,37,1,account details update broken request support access API,Technical
+3,28,2,2,23,0,6,202.33,0,16,3,team system timeout loading contact fix unable unable change,Technical
+0,3,3,2,8,0,20,354.13,3,24,0,resolved resolved request error help bug team resolved,Technical
+3,25,1,1,19,0,29,153.81,5,108,2,user system access login SSO check need,Account
+3,63,2,3,21,0,1,35.29,4,83,0,check contact contact migration account,Onboarding
+0,12,2,1,10,0,4,2569.79,3,23,0,user account update access,Account
+0,14,2,1,7,1,24,41.83,1,122,0,page help yesterday need not working yesterday not working,Onboarding
+1,7,3,1,11,0,1,133.39,4,13,2,information support fix service account unable team,Onboarding
+0,6,2,2,2,0,8,320.73,0,8,0,resolved system today login urgent access urgent access yesterday,Account
+2,26,0,3,12,0,1,248.5,1,24,0,problem yesterday system need crash,Technical
+2,20,1,1,12,0,11,388.61,2,21,0,today information update bug urgent page team request need,Technical
+0,3,0,1,16,0,3,549.88,3,84,0,unable support unable team issue,Billing
+2,55,1,3,19,0,44,258.57,4,17,1,fix account service contact overcharge update broken issue details time,Billing
+2,96,1,1,0,0,17,1329.09,0,10,3,bug time account problem team change information change issue,Technical
+2,3,0,2,13,0,67,810.87,2,60,0,contact request issue setup user,Onboarding
+3,3,3,2,16,0,10,1436.17,3,22,1,help unable resolved account system error,Technical
+1,8,0,1,23,0,3,1014.1,0,3,0,access not working access need crash,Technical
+3,1,1,2,6,0,14,337.85,0,5,0,need error please access,Security
+2,25,1,1,9,1,10,5188.29,0,75,1,unable change service unable problem migration problem,Onboarding
+1,32,1,1,8,0,3,1038.6,3,4,0,user urgent support loading password support yesterday account service,Account
+0,4,3,1,14,0,14,59.4,0,12,0,broken team loading service change system request service user,Onboarding
+1,17,1,3,9,1,2,365.15,1,15,1,help error yesterday time bug,Technical
+1,8,0,1,2,0,4,3110.67,4,12,0,loading information yesterday account system please not working,Billing
+0,10,5,2,8,1,12,145.8,5,31,0,user issue bug crash problem system,Technical
+3,9,2,1,3,0,15,511.02,3,44,0,service change unable need getting started today support page need,Onboarding
+1,6,1,3,22,0,4,315.27,0,21,0,breach access yesterday broken error contact today,Security
+1,91,0,3,0,0,80,592.87,4,8,0,resolved urgent not working change issue update change add feature service,Feature_Request
+3,37,1,1,2,0,1,234.13,4,10,0,urgent update import data unable update urgent,Onboarding
+1,5,0,3,23,0,1,411.8,5,44,0,contact team unable would like request,Feature_Request
+2,3,2,3,16,0,4,365.83,0,26,0,bug yesterday not working not working API request team,Technical
+0,27,2,1,18,0,1,247.74,0,66,0,resolved loading urgent unable error add feature update time problem need,Feature_Request
+2,5,2,2,6,0,5,228.02,5,3,1,account update user please support yesterday need user update subscription,Billing
+3,21,2,1,17,0,4,423.52,3,4,1,fix details SSO fix resolved need help need,Account
+1,7,1,3,4,0,3,538.88,0,33,0,help loading please urgent user contact subscription,Billing
+1,17,4,2,19,0,6,2045.42,3,27,1,system system contact migration user contact check broken,Onboarding
+2,52,2,2,17,0,4,207.31,3,56,0,page details change change page broken team error,Technical
+2,23,1,1,0,0,12,209.36,3,22,1,service account details request add feature yesterday,Feature_Request
+1,23,0,1,20,0,27,24.74,3,4,1,access team bug loading information support page details unable,Technical
+0,1,4,1,2,0,6,4133.3,5,92,0,system request service unable subscription time access check,Billing
+2,7,1,2,17,1,33,90.94,4,14,1,crash please time change time service,Technical
+0,4,0,1,6,0,15,928.23,5,13,2,bug check team problem access account update time yesterday,Technical
+3,17,0,1,23,0,3,364.68,5,50,0,crash help update support not working not working service,Technical
+2,16,2,3,7,0,113,247.1,5,9,1,today yesterday contact today fix system user information resolved,Technical
+2,35,2,2,3,0,1,261.27,0,36,0,details help contact bug account,Technical
+1,57,4,2,0,1,12,121.92,0,28,1,check urgent account fix contact unable contact invoice change,Billing
+3,30,1,2,9,0,5,233.74,2,86,1,error unable page refund update yesterday time issue today,Billing
+1,18,1,2,12,0,4,173.67,4,46,2,page system time page timeout system loading need,Technical
+3,83,0,1,14,0,3,538.28,5,55,1,getting started time time unable resolved please import data contact update unable problem,Onboarding
+1,13,0,1,5,0,6,224.89,4,63,0,migration today urgent page check access change service update user,Onboarding
+2,15,1,2,20,0,3,99.48,4,39,0,yesterday account bug user check request not working need details support,Technical
+1,6,2,2,20,0,37,83.43,2,9,0,check problem service page check time broken,Onboarding
+2,31,2,3,10,0,21,2749.51,1,13,1,today change request need,Account
+3,11,0,2,16,1,2,1051.03,1,46,1,support loading contact system bug team,Technical
+1,54,1,2,1,0,10,229.43,0,6,0,system API fix system details fix details broken update team,Technical
+3,31,4,1,19,0,7,1423.91,1,1,0,update information need SSO issue contact update,Account
+2,4,2,1,12,0,20,288.07,4,43,1,permission request help access team time urgent,Account
+0,2,1,1,23,0,29,426.51,1,53,0,fix update loading error update subscription please service,Billing
+2,10,1,2,9,0,4,217.16,3,10,0,please urgent resolved overcharge account fix access,Billing
+2,3,3,1,11,0,3,120.5,2,50,0,information support account help access help crash please team,Technical
+1,12,0,2,11,0,11,258.66,0,34,0,resolved contact urgent refund change error yesterday,Billing
+2,5,2,2,23,0,3,482.04,1,8,0,not working problem crash team today,Technical
+2,12,2,1,15,0,16,278.1,1,8,4,loading issue timeout please today update account user error time,Technical
+2,43,0,2,6,0,34,208.52,3,12,1,support not working not working broken crash system access check,Technical
+1,11,0,2,4,0,22,2031.76,2,12,0,support API user time time,Technical
+3,1,2,3,0,0,28,728.52,4,9,1,yesterday error yesterday SSO check help broken team check,Account
+0,6,1,1,12,0,4,471.72,2,1,0,page broken issue broken error broken today team unable,Technical
+0,11,1,2,12,1,7,162.0,0,14,2,not working time password check page urgent loading information broken account,Account
+1,2,2,2,3,0,2,691.44,3,5,2,problem issue request not working today system,Security
+0,12,1,2,18,0,5,55.55,0,36,0,update page resolved service system account information information details,Billing
+3,26,1,2,19,0,4,268.72,1,30,2,SSO service loading team urgent details broken check problem unable,Account
+3,17,2,2,20,0,38,532.23,2,29,0,problem access resolved change information roadmap system,Feature_Request
+2,10,2,1,12,0,3,25.11,0,22,0,time fix change issue broken SSO time,Account
+0,1,0,1,0,0,2,1335.04,5,57,1,broken account loading access crash check,Technical
+3,15,3,1,18,0,2,2203.99,0,64,0,contact help unauthorized change team error page,Security
+2,7,2,1,19,0,16,1875.29,2,4,1,service unable invoice help check problem user urgent,Billing
+1,17,1,1,12,0,16,192.55,2,22,0,error page information today time broken update broken,Billing
+0,34,1,1,17,0,11,774.01,2,26,0,urgent need system urgent,Onboarding
+1,16,0,1,13,1,23,127.64,5,9,0,problem subscription problem support time information contact unable urgent,Billing
+3,58,2,1,12,0,1,339.18,2,2,2,system loading update bug today please today time,Technical
+1,11,3,1,15,0,4,1338.72,4,13,1,issue system yesterday subscription refund check please,Billing
+0,83,3,1,19,0,5,882.75,3,7,0,error system loading loading issue bug change update,Technical
+1,19,1,1,15,0,15,12.33,2,28,1,change today issue help update,Technical
+2,10,3,1,2,0,16,611.67,3,47,0,import data support yesterday urgent problem not working need not working,Onboarding
+2,23,0,1,23,0,10,877.01,1,8,0,issue vulnerability time unable access not working not working,Security
+0,13,2,1,11,0,13,60.79,1,39,0,not working error access issue need time account help import data,Onboarding
+3,71,2,3,22,0,1,1122.97,1,0,0,error access API service service,Technical
+2,23,0,2,23,1,7,936.74,2,0,0,user please time problem team subscription error,Billing
+2,18,2,2,17,0,6,419.97,3,88,0,today help unable please request unable subscription unable today,Billing
+3,16,1,1,19,0,38,74.65,5,10,0,broken error help page information timeout time support,Technical
+3,1,0,1,18,0,4,506.45,5,64,1,problem details need account time team timeout support details,Technical
+3,3,3,2,2,0,14,320.9,1,7,0,refund system service request page,Billing
+3,11,1,1,19,0,13,246.6,4,26,2,help login please information update update system time,Account
+1,30,4,1,1,0,2,30.05,1,31,2,update not working import data error fix,Onboarding
+0,11,0,1,16,0,4,916.65,5,42,0,request issue details today unable help service fix,Feature_Request
+1,7,1,3,10,0,7,127.28,4,6,0,check account resolved user user information,Onboarding
+0,23,0,2,1,0,9,552.51,5,45,1,unable crash contact details urgent details help,Technical
+0,2,0,1,1,0,8,879.37,4,37,0,resolved loading please crash urgent problem,Technical
+1,20,2,1,12,0,1,210.22,3,5,0,migration yesterday user access help please help team,Onboarding
+2,24,1,1,23,1,30,98.09,0,17,0,not working would like account contact issue information update time please support,Feature_Request
+3,8,1,1,0,1,13,173.73,5,10,1,resolved information need resolved loading overcharge time error,Billing
+0,3,3,2,13,0,2,457.63,4,16,0,error error user resolved migration problem today access details please,Onboarding
+2,4,0,2,21,0,2,6892.48,2,114,1,request access issue details check service login permission details,Account
+3,32,0,1,19,0,3,869.78,5,11,1,help resolved check resolved roadmap information need,Feature_Request
+3,65,2,1,1,1,3,148.49,0,13,1,subscription today account user system,Billing
+2,2,0,2,19,0,6,223.9,1,98,0,account need today error need,Security
+1,36,0,1,7,0,13,105.28,0,33,0,access error bug unable yesterday crash problem contact,Technical
+1,10,1,2,4,0,10,696.57,0,87,2,today API update request broken,Technical
+1,2,2,3,8,1,5,233.2,1,0,1,contact update not working crash service,Technical
+3,13,1,1,7,0,71,353.11,1,36,0,overcharge urgent information update update access account issue issue,Billing
+1,2,1,2,12,0,59,273.97,3,5,0,service unable help urgent today service timeout request,Technical
+3,54,0,2,11,0,3,492.01,1,12,0,change time invoice not working update,Billing
+3,16,1,1,7,0,4,377.86,1,47,1,user details urgent information today broken fix,Account
+2,5,1,2,5,0,4,210.18,4,100,0,crash access system system system loading help unable,Technical
+0,16,0,2,20,0,48,233.34,0,49,1,support urgent need timeout resolved team team time today,Technical
+2,17,1,2,22,0,3,323.29,2,42,0,access service change broken fix roadmap help,Feature_Request
+3,8,3,1,3,0,1,81.15,1,6,1,error contact not working user setup unable team loading fix support,Onboarding
+1,44,1,1,10,1,9,90.24,5,20,0,support team fix import data error time help,Onboarding
+2,29,0,1,14,0,12,2226.41,2,68,0,user login information fix error fix broken,Account
+3,36,2,3,21,0,9,1911.48,2,10,0,time need loading information urgent migration not working,Onboarding
+1,81,0,2,4,1,30,1067.12,3,7,0,contact setup problem need help error request change user broken,Onboarding
+0,6,1,3,13,0,7,3546.22,1,6,0,request page yesterday team password,Account
+3,13,0,1,16,1,10,230.58,1,11,1,fix update fix contact details broken contact refund subscription,Billing
+1,24,2,1,19,0,3,398.38,2,2,0,urgent check loading please unable problem API not working team,Technical
+3,22,1,1,3,0,4,572.89,3,14,0,service page request loading resolved,Technical
+0,12,4,1,7,0,1,1040.72,1,4,0,issue system unable access import data help broken loading support,Onboarding
+2,14,0,2,6,0,5,276.03,4,35,2,loading loading API support problem change urgent user problem check,Technical
+1,3,0,2,15,0,31,134.03,1,0,1,urgent not working system API error update request page,Technical
+1,22,2,1,3,0,8,56.35,3,8,0,details resolved page check account check support update urgent,Security
+1,19,2,1,16,0,4,164.93,2,123,1,help time problem urgent check today add feature unable not working,Feature_Request
+2,60,1,1,21,1,4,1403.12,0,20,1,information access permission system broken page today error,Account
+3,41,2,2,11,0,4,841.15,2,58,0,account check timeout check yesterday access,Technical
+3,4,1,3,12,0,2,1242.46,2,2,0,urgent support fix update request unable please API today,Technical
+0,38,0,1,19,1,26,578.55,0,25,0,information help request resolved page overcharge,Billing
+1,17,1,1,2,0,1,1775.38,2,10,0,broken please issue yesterday request,Onboarding
+0,38,2,2,19,0,5,156.39,1,36,0,account check contact bug service help page,Technical
+0,16,1,1,4,0,15,349.08,1,1,0,team time need not working breach help problem not working,Security
+1,19,2,1,3,0,12,155.12,5,13,0,change problem SSO need fix login,Account
+3,18,3,1,4,0,1,612.99,5,0,0,loading details information check information,Billing
+3,66,2,1,6,0,4,321.28,4,9,1,access please information details issue system check,Technical
+1,13,1,1,16,0,23,446.64,3,82,0,system help details user,Onboarding
+2,1,1,3,19,0,45,364.04,0,0,1,need SSO access contact contact access issue fix fix,Account
+1,4,0,2,16,0,11,2530.19,4,36,0,account change support problem urgent resolved information account details,Account
+3,8,2,1,0,0,26,476.41,3,71,0,system support details issue account error,Technical
+1,21,1,2,0,0,5,227.72,4,31,0,urgent contact resolved unable crash issue need help service,Technical
+0,7,2,1,20,0,12,2914.43,3,0,0,check support update today overcharge,Billing
+1,83,0,1,19,0,3,888.05,4,12,1,change update check help unable contact crash access request team,Technical
+1,5,2,2,5,0,6,307.49,1,1,0,resolved not working not working phishing yesterday error please request today,Security
+2,25,0,2,10,0,71,1709.48,3,18,0,refund help update issue change today urgent,Billing
+2,36,1,2,9,0,5,984.67,0,16,0,system unable error service please refund user broken help resolved,Billing
+0,6,0,2,11,0,4,331.98,4,0,0,time today resolved crash change account page information,Technical
+1,10,2,1,6,0,6,197.06,3,91,0,error error loading page problem API not working broken service,Technical
+2,17,2,1,6,0,6,264.53,2,0,0,broken user user request resolved help bug system timeout access details,Technical
+0,17,1,2,20,1,7,506.35,5,115,1,urgent information system check user system add feature system,Feature_Request
+0,27,1,1,5,0,1,344.64,3,4,1,issue loading unauthorized support information service team information support,Security
+3,5,1,3,16,0,4,342.47,4,150,0,error details refund fix service check account details system,Billing
+1,9,1,1,19,0,1,125.53,4,47,1,not working unable yesterday loading help login request,Account
+1,120,2,1,20,1,34,667.61,4,131,0,page page problem system contact loading time SSO,Account
+1,12,2,1,11,0,1,2928.64,5,15,1,issue yesterday please resolved enhance service,Feature_Request
+1,29,5,1,1,0,2,227.8,4,19,1,update team details need today contact API today request,Technical
+3,48,1,1,15,1,12,689.22,2,11,1,error resolved please today contact yesterday unable details overcharge today,Billing
+1,72,0,1,11,0,5,44.93,0,32,0,not working check details bug error contact contact change page system,Technical
+2,8,3,1,9,0,8,291.64,2,34,1,system yesterday setup fix service contact service check account,Onboarding
+0,3,1,1,10,0,4,2098.44,3,111,0,loading details setup not working loading,Onboarding
+2,9,4,1,20,0,3,1422.81,5,45,1,page bug system details urgent need update broken user,Technical
+0,50,2,2,2,1,11,185.59,5,22,1,refund please today overcharge not working please,Billing
+0,5,1,2,11,0,4,484.86,5,37,0,page crash today request today information information support fix time,Technical
+0,18,0,2,14,0,41,639.69,5,26,0,issue overcharge resolved problem team please page,Billing
+3,51,1,1,20,0,18,41.22,2,5,0,account unable page loading subscription team team user system system,Billing
+3,36,1,2,13,0,11,178.3,5,12,1,service system yesterday urgent contact service error check problem,Technical
+1,42,1,1,5,0,3,234.91,3,19,2,not working information error problem fix team help timeout broken check,Technical
+2,15,1,1,22,0,3,651.2,5,9,1,yesterday timeout today request unable system access contact check,Technical
+0,38,2,1,21,1,42,375.45,3,3,1,loading details error add feature check,Feature_Request
+0,131,1,1,19,0,5,850.65,5,7,2,access service issue overcharge error change update time account request,Billing
+2,5,1,2,18,0,9,147.47,2,1,1,urgent resolved update overcharge loading loading check request team,Billing
+0,39,0,2,15,0,10,172.67,1,53,0,team yesterday user migration request team problem,Onboarding
+2,12,0,1,8,0,6,50.69,3,61,0,service information breach urgent error system request not working help check,Security
+1,1,0,1,17,0,29,831.07,4,14,1,access bug team unable page,Technical
+0,3,2,2,18,0,8,881.1,3,4,1,problem support roadmap access system update help update,Feature_Request
+1,37,1,2,23,0,2,132.95,1,24,1,urgent details not working change yesterday migration today,Onboarding
+2,49,0,3,14,0,22,2186.77,4,14,1,system change contact help,Billing
+3,116,2,3,12,0,6,71.27,4,4,0,yesterday service please vulnerability urgent team urgent unable phishing broken,Security
+3,34,2,2,2,1,23,737.87,1,106,0,bug today fix broken request access yesterday error,Technical
+0,102,5,1,8,0,11,560.09,2,4,0,today account update urgent permission issue password,Account
+0,18,0,2,20,1,4,3845.16,5,7,4,urgent loading not working request error fix details not working,Technical
+0,39,1,1,3,0,40,1192.41,1,27,2,request crash not working loading service team,Technical
+0,4,1,1,17,0,9,21.72,5,11,0,issue loading issue page system unauthorized,Security
+2,47,0,2,16,0,17,163.26,5,37,0,unable today not working crash issue crash loading unable information check,Technical
+3,9,1,2,15,0,14,139.1,2,17,0,urgent need today user information crash check check fix change,Technical
+2,4,0,3,10,0,4,283.26,2,10,1,check unable yesterday contact loading API unable,Technical
+1,48,1,1,23,0,39,236.57,2,48,0,loading please broken broken,Feature_Request
+0,2,1,2,15,0,4,69.25,5,13,1,system service information update broken please issue update details,Billing
+1,5,2,1,14,0,47,380.64,2,13,0,help contact today subscription details check refund yesterday user,Billing
+0,104,4,1,20,0,7,359.81,3,13,1,service time contact breach user problem loading please information,Security
+1,26,1,1,22,0,8,969.91,3,3,1,unable error SSO urgent problem fix permission,Account
+3,3,1,1,4,0,15,35.45,1,80,0,user please migration error today not working account service support,Onboarding
+2,49,1,1,23,0,95,371.98,3,45,0,problem today access loading timeout,Technical
+3,12,1,1,15,0,3,485.54,3,11,2,resolved permission loading resolved system system update SSO,Account
+1,73,2,1,19,0,1,83.14,2,9,0,access need details check please loading urgent vulnerability information,Security
+3,37,4,1,5,0,4,267.5,0,47,0,account user would like resolved problem,Feature_Request
+0,23,3,2,21,0,18,617.35,4,84,0,error bug account please page resolved,Technical
+1,30,0,2,10,0,22,4245.24,2,14,3,account information service loading broken change invoice please urgent need,Billing
+0,48,0,1,5,0,3,390.53,0,19,0,issue account user setup time unable not working,Onboarding
+0,24,2,1,12,0,4,140.67,5,17,0,permission service information not working change update request,Account
+1,31,1,2,0,0,8,49.7,3,76,1,check change request not working need update check request roadmap,Feature_Request
+1,1,0,2,16,0,63,304.21,1,1,0,system check page today page loading today bug service,Technical
+1,1,2,2,2,0,1,414.95,5,1,1,invoice issue request help today fix loading support,Billing
+0,64,2,2,14,0,16,2140.87,0,5,2,access details service unable system add feature support issue loading support,Feature_Request
+2,3,2,1,7,0,12,379.15,3,1,0,request request unauthorized user account request service fix resolved,Security
+3,7,2,2,5,0,3,702.8,0,0,0,information team need need login details unable permission resolved need,Account
+1,18,0,1,13,0,3,312.03,2,5,0,resolved system invoice today contact account fix invoice support yesterday,Billing
+1,26,0,2,16,1,39,990.94,3,3,3,unable time error user breach today today resolved,Security
+1,76,0,1,18,1,1,483.8,5,99,0,details error access information urgent change,Technical
+1,6,2,1,3,0,8,836.26,0,25,0,change check request service urgent page system urgent,Billing
+1,26,2,1,23,0,8,1513.19,0,15,1,system loading today today please broken API update fix,Technical
+3,4,1,1,2,0,4,1200.5,5,9,0,system change unable information error check overcharge urgent,Billing
+3,14,1,1,1,0,11,258.42,1,34,0,fix service bug problem contact not working,Technical
+2,6,0,1,20,0,2,752.73,4,5,1,fix update information loading change roadmap information time support contact,Feature_Request
+2,43,3,2,0,0,4,58.58,2,1,0,page yesterday details check roadmap contact,Feature_Request
+0,30,0,1,11,0,7,392.88,4,29,1,refund not working time access service fix yesterday page issue update,Billing
+1,12,3,1,16,0,4,143.38,5,72,0,need refund yesterday loading service contact details yesterday today,Billing
+2,21,2,1,9,0,6,357.93,2,12,1,user help time resolved page time support help migration details,Onboarding
+0,2,2,1,3,0,7,4240.28,2,4,0,system urgent error getting started urgent information request,Onboarding
+3,2,1,1,1,0,88,277.42,1,65,0,information contact service today change today page page not working,Technical
+1,6,3,1,14,0,13,4149.05,4,1,0,API resolved team service team fix yesterday urgent,Technical
+3,144,2,2,20,0,17,32.81,3,68,0,team details fix today issue yesterday API team user help,Technical
+3,16,2,3,3,0,31,96.58,2,0,1,loading contact time information yesterday setup loading team,Onboarding
+3,39,3,1,4,0,6,68.91,1,7,0,issue check timeout change information need broken fix contact,Technical
+1,19,1,3,17,0,15,183.05,1,78,1,account system page service unable,Billing
+2,58,1,1,21,0,2,159.4,0,10,1,invoice system information user account not working details please service,Billing
+0,1,2,1,16,0,2,3107.54,1,63,0,support need loading unable user broken change,Technical
+3,51,2,1,17,0,15,89.15,5,63,1,error loading check system please issue help service team,Security
+3,17,1,2,7,0,4,804.66,1,1,0,problem update page support,Technical
+2,31,2,2,3,0,28,194.88,3,63,2,support page loading resolved crash,Technical
+2,21,3,2,3,1,14,763.68,1,12,0,problem fix issue not working error,Feature_Request
+0,21,0,1,8,0,5,224.19,1,15,0,time problem refund help need user,Billing
+2,1,3,2,0,0,1,8947.87,0,0,0,service yesterday support password team user access,Account
+2,39,2,2,21,1,6,594.29,2,9,1,service issue information resolved problem system urgent subscription account,Billing
+0,45,2,2,20,0,5,158.41,4,18,1,issue subscription change information yesterday update today,Billing
+1,42,3,3,20,0,3,394.01,4,4,1,loading resolved need urgent not working please crash,Technical
+1,26,0,2,11,0,2,167.64,5,58,0,service information team access please change access change problem,Technical
+0,10,1,2,5,0,4,158.45,0,82,1,check refund information please today today user invoice,Billing
+0,5,2,3,8,0,2,156.71,0,33,1,access request page information problem need broken help,Account
+3,13,0,2,8,0,6,248.34,4,4,0,fix broken broken details information refund,Billing
+0,6,2,1,22,0,3,5663.98,1,23,1,broken team information problem team details time bug,Technical
+2,2,2,2,9,1,34,2422.47,2,6,0,unable please issue resolved urgent issue information access API help,Technical
+1,4,2,3,4,0,9,61.02,0,59,3,issue breach access service information,Security
+2,6,1,1,8,0,1,1026.31,2,2,1,please issue time unable information getting started fix,Onboarding
+1,1,0,3,7,0,23,392.57,0,3,1,time system breach information team check information user,Security
+3,6,0,2,19,0,17,116.95,4,15,0,need broken check not working information update please yesterday enhance service,Feature_Request
+3,11,0,3,9,1,30,95.2,3,15,1,team subscription not working today system,Billing
+1,26,0,3,10,0,4,178.78,0,47,1,check error not working access request,Technical
+1,55,1,1,6,0,10,198.92,3,32,1,help please user time loading urgent support login,Account
+1,52,2,2,15,0,6,65.24,4,57,1,not working request check resolved change would like,Feature_Request
+3,17,0,2,21,1,12,21.02,1,34,0,user today information please subscription,Billing
+2,4,1,1,1,0,3,154.65,0,98,0,access permission today update not working error page team broken please,Account
+3,8,1,1,14,0,11,279.85,5,11,2,problem update yesterday fix crash update,Technical
+3,35,4,1,7,1,13,179.86,2,66,0,subscription urgent details update update,Billing
+1,3,0,3,11,1,1,18.61,0,103,0,information support system issue service page loading,Billing
+3,7,1,1,23,0,4,827.74,2,22,0,today loading page refund user problem help check,Billing
+0,14,2,2,15,0,62,223.84,2,25,1,today resolved bug fix issue,Technical
+3,14,1,2,15,0,47,279.73,5,6,1,unable update account password unable check issue resolved,Account
+1,29,1,1,19,0,18,73.02,1,6,0,fix account time service user change information fix account,Account
+2,1,1,1,1,1,6,188.97,4,6,1,broken time invoice time service fix problem problem,Billing
+0,36,4,3,5,0,2,566.1,4,2,0,not working issue bug details need details user page update,Technical
+0,17,4,1,17,0,15,899.92,4,72,0,update urgent please check login request resolved,Account
+1,2,2,1,8,0,21,424.57,3,2,1,resolved service user contact fix broken account contact contact subscription,Billing
+3,2,3,2,3,0,70,42.18,4,77,0,service access update contact refund resolved,Billing
+3,61,0,1,5,0,2,180.8,3,23,0,need urgent help API contact issue timeout contact request,Technical
+2,6,2,1,16,1,13,2268.77,5,119,0,problem account not working time contact SSO contact service error,Account
+1,33,2,3,9,0,1,430.98,0,2,0,fix overcharge update details unable user service service,Billing
+2,26,2,1,3,0,44,317.27,3,28,1,account time support loading overcharge,Billing
+2,12,2,2,15,0,4,941.0,2,61,1,API resolved system help page error system service access,Technical
+2,3,4,3,22,0,3,869.29,4,76,0,request error unable support broken support time information SSO loading,Account
+3,42,1,1,11,0,2,247.61,3,42,0,fix page system details change account invoice,Billing
+2,1,0,2,6,0,5,814.51,2,66,1,not working service time user invoice need,Billing
+2,8,0,3,17,0,5,3273.46,0,15,1,API problem service yesterday change,Technical
+1,49,3,1,10,0,2,1041.48,5,41,0,account check resolved team error,Technical
+1,8,1,1,11,0,16,28.21,2,3,1,problem not working please overcharge issue,Billing
+3,11,1,1,20,0,4,88.73,0,14,0,access system need service vulnerability,Security
+0,9,0,1,8,0,29,14.37,4,33,0,help urgent import data update team,Onboarding
+0,3,2,1,16,0,13,409.73,1,37,0,details details setup import data service user problem,Onboarding
+2,74,0,1,11,0,3,781.45,1,9,0,team help invoice please check details help need time help,Billing
+2,9,2,2,11,0,2,985.17,3,5,2,support issue resolved urgent system account not working need invoice yesterday,Billing
+0,6,0,1,1,0,47,2026.24,0,36,0,invoice time access today please contact contact,Billing
+2,34,0,1,22,0,9,196.0,2,14,0,roadmap urgent request broken broken,Feature_Request
+2,8,3,2,4,0,9,1257.6,1,0,0,page time system bug unable issue,Technical
+1,17,2,2,21,0,12,260.23,0,33,0,fix breach page update account contact user urgent team fix,Security
+3,11,2,1,0,0,18,313.26,1,5,0,information problem account error loading unable API,Technical
+3,4,2,1,22,0,12,1344.23,3,3,0,not working unable getting started error details issue import data,Onboarding
+2,16,0,1,1,0,8,109.81,4,5,0,unable account timeout loading request update broken unable request fix,Technical
+1,88,2,1,1,0,6,1856.65,4,14,1,change need breach contact system,Security
+1,3,2,1,22,0,3,405.17,0,31,0,today help account change contact vulnerability today help today time,Security
+3,41,3,1,1,0,31,3822.06,1,8,0,service contact error yesterday not working phishing broken page loading,Security
+2,24,1,1,20,1,12,1076.38,1,62,0,invoice check support yesterday not working,Billing
+0,26,0,1,17,0,1,111.16,0,8,1,error issue information service account system issue page,Technical
+1,9,4,1,8,0,3,791.83,1,36,0,not working system loading overcharge change issue not working,Billing
+3,15,3,1,18,0,12,107.72,5,17,0,change change need timeout issue yesterday resolved error,Technical
+1,66,1,1,8,0,3,218.76,4,44,0,account update broken please check please system team access,Onboarding
+3,20,2,1,21,0,10,300.45,3,31,0,timeout information today team bug team information problem today,Technical
+0,23,0,1,14,0,10,261.55,2,13,1,details fix help today,Billing
+3,12,2,1,7,0,5,394.15,3,4,1,page resolved details service fix request crash broken need,Technical
+2,1,1,2,11,0,14,962.71,0,13,1,user yesterday time system user getting started change,Onboarding
+1,18,1,1,8,0,5,310.86,0,54,1,today system unable resolved invoice contact,Billing
+2,9,2,1,11,0,4,129.36,3,31,1,issue yesterday contact need please crash,Technical
+2,18,1,1,23,0,6,113.18,0,23,0,help broken contact service issue support subscription support please,Billing
+3,34,2,1,2,0,105,39.43,5,91,0,user not working yesterday broken check resolved please check unauthorized,Security
+3,21,1,1,19,0,3,58.5,1,41,0,problem time unable need account need import data,Onboarding
+3,76,4,1,6,0,6,765.92,4,23,0,yesterday team user help request update team issue subscription,Billing
+0,33,1,2,2,0,28,282.79,2,18,0,support today please add feature account user please request,Feature_Request
+2,15,2,2,7,0,1,162.08,2,19,1,help password team request not working,Account
+3,60,2,2,16,0,3,1239.87,5,50,0,please page fix not working error yesterday system error help timeout,Technical
+2,42,3,3,16,0,5,907.08,1,17,0,issue need user system fix system error user SSO,Account
+3,4,1,3,19,0,8,209.02,1,0,1,resolved access yesterday today loading loading support subscription,Billing
+2,20,0,2,1,0,1,192.47,2,18,2,API unable fix details unable account help unable yesterday,Technical
+0,11,1,1,2,0,8,3886.78,2,26,0,contact issue error would like problem yesterday user update team,Feature_Request
+0,24,1,1,17,0,23,168.84,2,24,0,service details need check timeout access change request,Technical
+3,20,1,1,11,0,6,547.54,3,20,1,need problem team not working resolved password today,Account
+3,36,0,3,16,1,5,934.19,4,2,0,issue contact change details team loading loading check broken,Feature_Request
+0,25,2,1,13,0,24,405.71,1,31,1,access crash urgent information loading request today details request account,Technical
+1,1,0,1,5,0,11,1768.26,5,21,2,check not working yesterday today urgent invoice,Billing
+1,1,2,3,21,0,1,1802.45,3,21,1,resolved information issue service service change time invoice,Billing
+2,46,0,1,0,0,1,730.72,3,11,0,help support resolved resolved team need details API request page,Technical
+0,32,5,2,16,0,2,878.84,3,24,1,change support today details password resolved,Account
+0,10,3,2,13,1,19,104.12,1,3,0,not working service invoice update information fix issue time,Billing
+3,4,0,1,9,0,64,1465.47,2,39,1,urgent details contact contact today,Technical
+3,1,0,1,6,0,39,1594.41,4,1,3,access page urgent yesterday,Billing
+0,11,0,3,9,0,17,195.31,1,6,0,problem access support unable team not working unable bug system check,Technical
+0,30,2,1,4,0,15,4766.86,4,70,1,error please problem access access account enhance user fix,Feature_Request
+2,8,2,3,7,1,2,389.84,3,10,0,resolved support user page broken please please check getting started,Onboarding
+3,34,3,2,22,0,27,363.29,0,47,1,unable today details error team update subscription resolved,Billing
+0,19,1,1,15,0,3,14.89,4,11,2,bug resolved change information contact,Technical
+2,25,1,2,10,0,9,85.8,2,2,0,time bug fix yesterday help,Technical
+0,49,4,1,15,0,26,231.42,0,22,0,support subscription unable information broken not working time unable,Billing
+2,1,1,3,22,0,8,207.34,0,11,1,contact crash request information information update,Technical
+2,18,3,1,17,0,18,116.07,5,26,1,unable time access help broken invoice details,Billing
+3,11,0,1,17,0,1,952.17,3,66,0,help change breach contact access,Security
+2,22,3,1,3,0,13,96.83,3,0,2,details time access please loading,Billing
+1,1,1,1,4,1,8,71.13,1,19,0,service problem service migration need,Onboarding
+1,23,1,1,2,0,1,651.59,0,17,0,please time resolved help urgent urgent yesterday yesterday unable,Onboarding
+3,1,3,3,0,0,8,157.43,0,2,1,problem problem fix error breach loading,Security
+1,55,0,1,6,1,2,1075.67,2,12,0,not working broken time update urgent problem details please password need,Account
+3,2,2,2,7,1,25,624.53,5,20,0,problem resolved contact broken details account enhance contact,Feature_Request
+0,21,1,1,16,1,7,100.83,4,13,0,password check not working broken time information need error loading fix,Account
+3,2,2,1,21,0,4,41.93,2,3,1,request request details change system today yesterday broken vulnerability,Security
+0,9,1,1,21,0,6,781.04,4,72,0,page error details page need support please loading yesterday,Technical
+3,5,2,1,15,0,14,310.35,3,44,0,account problem problem need urgent change enhance fix,Feature_Request
+0,11,2,2,1,0,2,112.31,3,123,0,team contact unable system add feature contact,Feature_Request
+1,47,1,2,20,0,1,864.23,5,105,0,error login check please problem,Account
+0,16,1,1,23,1,12,352.32,3,34,0,access system overcharge broken request,Billing
+3,91,1,1,9,0,1,577.3,5,24,1,help today not working overcharge check user invoice broken update check not working,Billing
+1,8,1,1,11,0,13,184.33,1,13,0,today team problem loading urgent password service,Account
+3,14,0,1,15,0,11,706.78,2,79,1,loading time support service request,Technical
+3,12,1,2,3,1,3,2003.1,1,20,1,service would like resolved user information issue,Feature_Request
+2,7,2,1,20,0,17,182.43,5,35,0,details page time update invoice information,Billing
+3,24,2,1,0,0,20,642.71,0,16,3,service access access support problem contact resolved problem,Account
+0,29,1,1,8,0,3,160.35,5,15,1,please contact help timeout team account,Technical
+0,64,2,2,19,0,7,341.14,0,2,1,team account support details page timeout,Technical
+0,2,1,1,1,0,5,1415.06,1,9,0,support need update account crash request urgent service please service,Technical
+1,3,2,1,13,0,2,1251.11,3,83,0,system problem time problem API unable contact,Technical
+1,40,1,1,2,0,2,164.24,5,20,0,broken service problem overcharge please details unable resolved,Billing
+1,8,1,3,23,0,23,35.49,0,29,1,page broken details loading change roadmap urgent fix,Feature_Request
+0,19,1,2,12,0,9,1515.16,5,9,0,request check time update request subscription,Billing
+3,69,3,3,16,1,19,235.66,0,4,0,team help time issue,Technical
+1,24,2,2,2,0,13,658.61,4,11,0,user information page API fix check urgent,Technical
+1,75,2,1,21,0,2,993.29,1,6,0,urgent service change broken check subscription need issue,Billing
+1,77,1,1,15,0,4,7797.41,2,23,1,yesterday broken overcharge need check,Billing
+1,21,3,2,8,0,1,68.42,4,29,0,would like problem change please update error,Feature_Request
+3,7,2,2,14,1,29,530.72,3,9,0,yesterday team need team information,Technical
+2,1,0,1,3,0,4,367.25,2,37,0,urgent need account change request request timeout service urgent need,Technical
+0,1,2,2,22,1,23,9597.67,1,18,0,resolved contact refund support contact,Billing
+1,37,0,3,17,0,3,270.99,4,8,0,urgent resolved password today user,Account
+0,2,2,1,4,0,34,32.94,1,11,0,service page broken system breach service time,Security
+1,1,3,2,6,0,2,4304.6,3,67,0,today help bug please check time page,Technical
+2,1,2,1,14,0,22,72.79,0,8,1,today time page error help time error time migration service,Onboarding
+2,21,1,2,4,0,33,818.42,5,32,0,need time change team broken error yesterday resolved password,Account
+0,23,1,1,6,0,20,395.0,0,29,0,update broken change not working user user check system migration,Onboarding
+1,21,2,1,13,0,14,463.07,3,16,0,urgent loading urgent need enhance team,Feature_Request
+1,15,0,1,1,0,7,319.71,1,4,0,page overcharge need error unable page,Billing
+1,12,0,2,14,0,7,956.54,0,70,0,access update please time problem service refund request unable,Billing
+0,59,2,1,11,0,4,76.84,1,8,1,page yesterday fix unable information update crash support team check,Technical
+1,12,1,1,22,0,8,598.78,0,14,0,account change not working help problem check broken,Billing
+1,10,0,1,21,1,22,418.68,1,6,0,error user issue API account unable system check change loading,Technical
+2,26,0,1,19,0,2,265.53,1,11,1,time broken urgent urgent change page would like loading please unable,Feature_Request
+0,4,3,2,15,1,5,775.93,2,35,0,information fix resolved system not working API need request check,Technical
+3,27,2,1,12,0,10,109.1,3,31,0,broken urgent urgent issue bug page access,Technical
+3,10,1,2,21,0,6,281.81,0,42,1,request details broken issue time time please contact user,Billing
+0,15,0,3,21,0,8,1526.35,2,11,1,page not working please change support,Onboarding
+2,25,0,2,2,0,6,162.03,3,4,0,issue account error system request request error fix login,Account
+0,4,0,2,5,0,20,1719.23,1,80,1,not working access overcharge loading urgent access service account help issue,Billing
+0,3,2,1,21,0,3,80.25,5,1,0,overcharge time need fix broken not working need loading fix,Billing
+3,38,0,3,20,0,6,171.84,1,13,0,contact issue support problem need access not working,Technical
+1,19,2,2,11,0,13,1891.06,4,1,0,resolved help SSO error yesterday user help access access fix,Account
+0,4,2,1,10,0,4,21.42,0,13,0,urgent account details system subscription information problem loading,Billing
+1,23,2,1,9,0,7,7957.78,4,5,0,roadmap access broken please broken loading page,Feature_Request
+0,37,3,2,18,0,7,186.43,1,56,1,need not working access check check service need information,Feature_Request
+1,33,0,1,16,0,53,863.42,0,13,1,service login request request help loading time request system,Account
+3,6,2,2,0,0,29,506.45,3,3,1,urgent urgent bug need time resolved page information,Technical
+1,22,2,1,21,0,5,204.66,3,14,0,problem unable SSO help support loading,Account
+2,18,1,1,14,0,8,3580.64,5,2,1,invoice system update issue service check,Billing
+3,10,0,2,17,0,7,233.03,4,9,0,not working help access team bug please,Technical
+0,1,2,2,2,0,17,148.98,1,46,0,information details account issue unable,Technical
+2,23,1,3,22,0,1,493.81,4,4,1,password password today urgent error resolved loading information contact unable yesterday,Account
+1,24,1,2,7,1,6,607.3,3,0,0,check would like time request information,Feature_Request
+2,11,0,1,17,0,2,129.95,5,26,0,invoice today problem issue yesterday information error request check user,Billing
+2,31,0,2,23,1,2,468.01,2,9,0,resolved details API change account account today,Technical
+2,9,3,2,0,1,5,98.14,3,117,1,please user urgent not working issue contact broken contact permission account,Account
+1,6,3,3,16,0,6,524.24,5,8,0,access broken user page add feature service yesterday please account,Feature_Request
+1,1,1,1,11,0,6,3801.45,5,8,0,page help please system problem loading overcharge system fix,Billing
+1,69,1,1,12,1,7,883.61,4,5,0,access please please information broken error account,Technical
+2,18,0,2,23,0,9,129.06,0,46,1,change yesterday system bug access check,Technical
+1,23,2,1,0,0,7,263.05,2,22,1,enhance team please update user page user service page not working,Feature_Request
+3,5,2,1,15,1,4,474.17,2,20,0,access loading check update resolved loading system subscription fix,Billing
+0,50,3,1,9,0,3,191.22,5,41,0,support change error request problem check error check error bug,Technical
+3,46,0,2,2,1,2,592.5,4,20,1,contact error page today SSO check password account issue help,Account
+1,1,3,1,10,1,1,336.17,3,0,0,system resolved account API check unable crash,Technical
+0,12,2,1,1,0,11,941.92,4,65,1,unable import data loading problem information please update error,Onboarding
+1,13,3,1,2,0,3,105.43,4,18,0,service access password today issue,Account
+3,1,0,2,19,0,6,357.42,0,5,1,urgent page service resolved,Feature_Request
+2,8,2,1,13,0,6,1719.15,2,22,1,please team resolved unable error access check import data,Onboarding
+2,18,2,1,18,1,27,210.62,4,10,0,contact yesterday support time fix urgent phishing today unable,Security
+2,7,1,1,12,0,35,510.67,1,39,0,urgent not working service account time refund today user,Billing
+1,9,2,1,1,1,2,239.06,1,45,0,user unable information user information today timeout,Technical
+0,56,0,1,9,0,4,107.33,2,46,2,fix bug please service contact access unable,Technical
+0,44,1,1,8,0,13,360.22,0,24,0,user loading team check system SSO team,Account
+2,45,1,3,14,0,3,776.7,2,61,0,fix time today not working update,Billing
+3,13,0,3,12,0,35,2395.82,5,26,0,information unable roadmap support add feature details,Feature_Request
+2,35,3,1,10,0,9,56.56,3,69,1,loading user system contact need need issue crash request today,Technical
+2,20,3,1,5,0,45,140.62,1,86,2,resolved yesterday resolved user login urgent,Account
+2,59,0,1,22,0,23,6955.52,4,30,0,urgent please loading need support change fix,Onboarding
+1,13,1,1,18,0,21,112.2,5,17,0,support check check contact contact permission,Account
+2,10,2,3,1,1,11,139.31,4,66,3,error contact account request information vulnerability,Security
+1,42,0,3,2,0,11,24.82,2,92,1,fix error enhance user fix not working access unable,Feature_Request
+0,34,4,2,5,0,14,1310.3,1,30,0,yesterday system check error today today timeout loading check fix,Technical
+0,4,5,1,0,0,2,225.77,1,27,1,help time access fix bug resolved today resolved,Technical
+0,3,1,1,10,0,9,172.45,2,56,0,problem help need access user help bug check,Technical
+2,6,2,1,14,1,75,1045.16,1,1,1,issue user issue yesterday yesterday enhance,Feature_Request
+0,23,0,1,23,0,19,303.05,0,26,1,today loading loading vulnerability time check,Security
+3,36,0,2,6,1,12,319.33,3,3,0,support contact information crash information user change loading information,Technical
+0,26,1,2,3,0,3,136.72,2,32,0,problem request system subscription fix,Billing
+0,5,2,1,8,0,2,204.32,2,61,0,team check broken time,Technical
+1,19,0,1,9,0,1,466.43,0,14,0,contact enhance not working team add feature problem today,Feature_Request
+1,2,0,2,16,0,3,275.94,3,26,0,check user crash help request bug check,Technical
+1,26,0,2,13,0,4,42.54,3,26,0,issue unable today loading crash help urgent contact user,Technical
+3,32,4,3,22,0,12,441.59,5,11,0,check team urgent bug request help access,Technical
+0,1,1,1,22,0,45,288.16,5,6,0,page bug today change help problem loading,Technical
+1,59,4,1,17,0,14,448.21,2,6,1,loading team page time,Account
+1,53,0,1,17,0,102,1021.43,5,10,0,problem refund not working details time yesterday please,Billing
+2,3,3,2,8,0,18,5119.04,3,67,0,team check check timeout urgent,Technical
+2,41,2,1,17,0,19,359.84,5,28,0,team bug page check user API user,Technical
+1,15,3,1,9,0,4,208.57,1,74,0,please unauthorized today account unable account support,Security
+1,79,3,1,15,0,6,706.48,5,1,2,resolved check today time team,Account
+0,49,1,2,0,0,12,442.8,0,8,2,please help update please,Technical
+2,18,1,1,20,0,4,323.72,2,82,0,not working timeout check problem team,Technical
+0,51,1,1,10,0,10,312.64,4,19,0,time resolved check information time change problem,Billing
+3,37,1,1,20,1,8,625.92,0,2,0,user access problem check crash request,Technical
+3,3,2,2,10,1,15,368.71,5,5,1,change change change not working yesterday urgent page service refund,Billing
+2,3,2,3,10,0,2,319.16,1,21,1,resolved user error time urgent team loading contact setup system,Onboarding
+2,25,4,1,2,0,11,1125.53,4,7,0,team help issue loading broken today details not working page,Technical
+3,16,4,1,19,1,2,1077.95,0,35,0,details broken loading urgent resolved not working enhance,Feature_Request
+1,38,1,1,6,0,4,203.14,1,1,1,update user fix access timeout,Technical
+3,9,2,1,3,0,4,1004.78,5,5,0,problem yesterday overcharge check system,Billing
+2,2,4,3,13,0,15,289.91,1,19,0,details change problem yesterday urgent update,Account
+1,26,0,2,7,1,26,1489.87,5,13,1,help broken yesterday problem crash urgent,Technical
+0,41,2,1,2,0,2,486.54,2,6,0,help broken need details unable timeout check update issue,Technical
+3,1,3,1,6,1,7,5203.08,0,28,0,check page time contact information information information service password,Account
+3,21,3,2,8,0,5,1333.8,4,21,0,today access API fix update issue change service please,Technical
+1,5,1,3,5,0,3,1791.51,0,66,0,resolved system resolved please page account update crash broken,Technical
+0,12,1,1,10,0,7,390.59,2,33,0,today information broken user details getting started team team,Onboarding
+0,57,0,2,20,0,3,820.58,4,82,0,user help information loading,Feature_Request
+2,7,1,1,14,0,21,526.1,2,12,0,access issue bug page today,Technical
+3,38,1,2,18,1,9,805.78,1,0,1,information not working service help migration system getting started unable user,Onboarding
+2,14,2,1,22,0,27,5477.1,2,30,1,support service yesterday need,Account
+1,7,3,2,12,0,17,325.81,0,15,0,service overcharge loading team please today broken,Billing
+2,35,0,2,20,0,2,305.78,4,13,0,bug error details page problem,Technical
+1,16,1,2,11,0,1,14304.43,3,51,1,information request migration resolved details user change,Onboarding
+3,44,3,2,19,0,1,188.56,2,26,0,information help change getting started request need check access,Onboarding
+3,2,0,1,12,0,5,2853.77,4,37,0,invoice please fix urgent need change check,Billing
+3,60,0,1,14,0,18,1263.65,2,59,0,loading change unable change today yesterday update unable API service,Technical
+1,5,3,1,10,0,23,1388.79,4,54,0,service not working contact problem problem,Onboarding
+3,3,4,2,15,1,13,871.78,2,29,0,change error issue roadmap error,Feature_Request
+3,20,2,2,11,0,8,602.78,2,53,2,broken information fix API access user update yesterday details,Technical
+3,8,0,2,11,0,4,216.95,0,3,0,urgent update information unable page check subscription,Billing
+2,102,0,2,9,1,2,337.11,1,54,0,today refund broken user user account yesterday need help,Billing
+2,14,0,2,6,0,19,536.55,4,6,0,service need access access system unable overcharge update,Billing
+1,25,0,2,15,1,3,63.31,2,12,1,issue account timeout time request urgent team system team,Technical
+2,13,1,2,16,0,11,1303.44,2,1,0,update details change system details fix change would like not working,Feature_Request
+2,114,2,1,4,1,4,595.99,0,11,1,permission today please check broken error team service issue,Account
+3,32,2,1,16,0,11,1093.97,4,2,1,team timeout team account account problem problem,Technical
+1,6,3,2,8,0,7,1735.61,3,13,0,help unable timeout urgent resolved timeout issue support urgent,Technical
+3,13,1,3,7,1,7,240.92,1,11,1,refund user error service service system,Billing
+2,5,5,2,13,0,2,63.88,5,3,0,help check support service team,Feature_Request
+3,12,1,2,23,0,4,39.04,2,2,1,yesterday overcharge update change access resolved unable details problem,Billing
+0,26,4,2,17,0,4,1311.54,3,61,0,loading not working time yesterday timeout update,Technical
+1,4,0,1,1,0,10,153.11,4,14,0,contact error broken problem information user support details,Onboarding
+0,7,3,3,5,1,2,2971.19,0,28,3,page problem user check crash loading,Technical
+2,12,2,1,15,0,5,1187.12,1,11,0,team help time access support contact resolved migration support contact,Onboarding
+2,23,1,1,13,0,1,396.71,3,7,1,unable user system urgent,Account
+3,68,0,1,13,0,6,624.06,5,13,1,yesterday information enhance page check update issue system user,Feature_Request
+0,5,0,1,19,0,11,263.78,5,38,0,unable team invoice unable issue urgent problem invoice not working update,Billing
+0,10,3,3,19,1,4,8170.74,2,34,0,problem access request SSO contact,Account
+0,77,1,1,2,0,3,168.87,2,3,0,support contact unable user support timeout not working,Technical
+1,68,2,1,9,0,3,253.47,4,15,1,contact resolved change resolved issue login page yesterday not working,Account
+2,3,1,2,19,1,6,53.73,4,3,0,check team not working team,Account
+3,17,0,2,14,0,15,49.18,0,24,0,account resolved change urgent add feature not working team,Feature_Request
+0,19,0,2,12,0,1,4111.9,1,59,1,help yesterday details request help refund,Billing
+3,2,3,2,7,0,1,164.4,5,24,1,urgent fix error today team help system fix page,Feature_Request
+3,27,2,2,3,0,48,19.26,4,15,0,problem user contact change check time invoice user access,Billing
+2,35,2,3,3,0,7,406.25,4,53,1,unable error request not working problem subscription system update resolved,Billing
+3,2,3,1,4,0,45,433.63,1,78,1,service information help support vulnerability information today please help,Security
+0,43,1,2,23,0,45,8569.38,0,13,1,not working time timeout please contact fix fix today,Technical
+1,8,0,1,7,1,15,713.52,4,15,1,error broken update please problem need update not working contact refund,Billing
+3,16,1,2,11,0,20,595.9,3,18,1,enhance change urgent loading user details user not working change,Feature_Request
+2,7,1,3,20,0,11,331.99,2,8,1,contact support urgent please today support overcharge today change check,Billing
+2,1,3,2,6,0,40,728.01,0,60,0,access problem contact account yesterday getting started help system resolved,Onboarding
+2,2,2,1,10,0,10,2527.48,0,34,2,check unable migration help broken,Onboarding
+0,7,1,2,0,0,16,324.77,4,9,0,need SSO team help resolved user today password issue support access,Account
+2,13,1,2,8,0,6,273.2,4,18,0,refund urgent system user check request system not working,Billing
+3,28,1,3,17,0,11,1238.2,1,27,0,issue support details account change unable service,Feature_Request
+2,86,2,1,7,0,5,1722.56,4,30,0,problem urgent system fix overcharge problem,Billing
+0,59,1,1,12,1,13,139.24,4,7,1,migration request urgent page error,Onboarding
+2,19,0,3,23,0,1,171.65,3,27,0,unable contact please unable timeout change fix resolved loading contact,Technical
+1,17,3,1,1,0,39,1043.36,4,22,0,broken help invoice refund urgent issue user broken,Billing
+2,22,1,1,11,0,6,1627.1,3,25,1,system today problem broken login time change page user loading,Account
+3,17,2,2,13,1,6,759.18,4,99,0,phishing request broken details error,Security
+1,9,1,2,5,0,1,3292.34,0,56,1,need service issue broken yesterday refund user system service,Billing
+2,37,1,3,9,0,7,197.05,1,9,0,please invoice system yesterday contact yesterday access error urgent not working,Billing
+1,24,2,1,17,0,12,141.13,5,13,0,need time issue account problem permission,Account
+3,1,1,1,16,0,13,162.0,2,58,0,resolved fix yesterday help check crash update,Technical
+2,1,2,1,1,1,10,681.65,4,4,0,permission contact page access change information unable,Account
+1,16,1,2,8,0,50,456.65,0,10,2,refund issue broken service change information request please please resolved,Billing
+3,2,0,1,7,0,22,692.98,4,23,2,time unable team loading request subscription page request problem issue,Billing
+0,2,1,1,14,0,5,249.36,3,1,0,today subscription request account system,Billing
+1,55,3,1,12,0,37,972.85,1,25,1,today please contact overcharge unable,Billing
+0,32,1,1,7,0,4,509.58,2,11,2,check problem account crash information update error support yesterday,Technical
+2,1,1,1,11,1,13,3126.11,5,2,0,time user please loading today timeout account resolved contact loading,Technical
+0,42,2,3,12,1,8,89.09,3,0,2,yesterday unable need unable invoice,Billing
+0,11,2,1,20,0,20,843.03,2,26,0,help details team refund details,Billing
+2,1,1,2,15,1,5,495.85,3,15,0,not working page crash unable update change,Technical
+2,3,0,1,13,0,4,82.04,1,26,0,team check overcharge team system service,Billing
+0,15,1,3,21,0,1,1380.13,0,38,0,please information team issue support overcharge contact,Billing
+0,44,1,2,5,1,4,1128.61,5,166,0,access time account fix loading,Account
+1,7,1,3,6,0,6,701.74,4,28,0,migration request information please broken team,Onboarding
+2,41,1,2,16,1,7,664.82,0,110,0,team request today broken information time broken not working bug request,Technical
+1,42,0,1,10,0,15,365.57,0,22,1,help information contact access details getting started broken,Onboarding
+0,104,1,2,22,0,2,49.94,5,1,1,yesterday problem problem migration need import data yesterday,Onboarding
+1,55,0,2,12,1,1,509.7,0,18,0,urgent request update user yesterday vulnerability,Security
+0,35,2,2,14,0,25,581.57,2,7,2,change permission access system change today loading,Account
+0,7,0,1,14,0,10,87.28,1,2,1,refund fix need request page broken urgent update,Billing
+3,39,0,1,11,0,3,568.1,0,6,0,enhance yesterday resolved information unable support page error please,Feature_Request
+1,18,3,1,22,0,1,342.79,2,51,0,change please loading service fix issue setup,Onboarding
+1,25,2,1,18,0,9,1732.26,2,1,0,password need not working today system support,Account
+0,5,1,2,19,1,15,324.29,4,22,0,need invoice issue contact broken not working check,Billing
+2,21,1,1,17,0,11,200.27,2,17,3,yesterday details request page unable,Onboarding
+2,14,1,3,14,0,2,94.81,3,10,0,issue request fix loading API request,Technical
+3,30,2,1,10,0,7,206.96,5,1,1,details issue broken change contact issue refund request,Billing
+0,13,2,2,2,0,23,2676.39,0,5,0,support details user unable access refund today,Billing
+3,44,3,1,8,0,9,373.66,4,11,0,overcharge details information system resolved fix please check service,Billing
+0,1,1,2,13,0,4,784.08,0,13,1,time contact check team need team timeout check account,Technical
+1,18,1,3,16,0,51,32.7,1,40,1,change check unable need team password information,Account
+3,5,1,1,5,0,2,171.08,2,32,0,broken yesterday support resolved change SSO,Account
+1,9,1,1,4,1,10,289.98,2,57,0,invoice fix loading need account subscription,Billing
+0,24,4,2,1,0,3,107.43,4,97,2,today account support today update support not working information invoice broken,Billing
+2,33,2,1,3,0,10,340.14,3,72,0,help details broken support crash details loading service,Technical
+2,7,2,1,21,1,23,546.54,2,15,0,fix update support error login fix resolved,Account
+3,28,2,2,6,0,3,327.96,2,6,0,yesterday page not working change would like broken,Feature_Request
+2,20,2,1,19,0,12,33.41,1,0,1,please migration loading yesterday yesterday problem time unable time update,Onboarding
+2,1,0,2,1,1,43,30.11,1,11,0,team access help check urgent team service please subscription yesterday,Billing
+0,89,0,1,6,0,17,234.81,1,16,1,urgent urgent check help unable error migration support error,Onboarding
+2,1,2,1,0,0,1,807.19,3,7,0,information support time overcharge information unable yesterday,Billing
+3,55,0,1,6,1,7,112.51,5,78,0,details permission urgent check fix change fix unable,Account
+3,18,2,2,18,0,8,1543.68,4,12,1,error time fix user request information broken issue resolved,Billing
+1,54,3,1,3,0,5,360.98,5,132,2,account user page urgent permission loading,Account
+0,21,3,1,6,0,7,330.63,5,20,3,not working check system check problem page would like unable,Feature_Request
+0,13,1,1,8,1,36,1565.25,1,3,1,information account broken need please information not working today,Billing
+2,15,0,1,4,0,25,1417.4,3,37,0,today request SSO broken system unable broken,Account
+0,25,1,2,10,0,1,2895.68,0,30,1,broken account change time update,Technical
+3,11,4,2,2,0,4,1160.24,1,50,0,resolved details change contact not working help subscription refund,Billing
+2,26,0,1,22,0,3,330.89,3,0,0,problem timeout not working contact please resolved issue resolved yesterday,Technical
+0,10,0,2,12,0,4,390.74,5,21,0,help change fix page problem time access,Billing
+1,1,3,1,22,0,2,939.84,1,19,0,information vulnerability time unauthorized problem account,Security
+3,57,1,1,15,0,16,2214.44,2,24,2,time urgent resolved today resolved details page invoice update,Billing
+2,18,0,1,5,0,21,880.15,0,15,2,support error contact subscription unable service,Billing
+1,20,2,1,20,0,3,573.09,5,22,0,change time information setup problem check check yesterday,Onboarding
+2,54,2,1,18,0,2,944.11,1,4,0,today contact timeout bug urgent update,Technical
+3,30,2,2,5,0,9,285.4,1,5,2,team not working today update change system subscription,Billing
+1,3,2,2,8,1,33,1401.33,2,9,0,yesterday request information need not working overcharge,Billing
+3,7,1,1,1,0,3,173.71,5,5,0,import data resolved today account getting started access please,Onboarding
+3,19,1,1,12,0,28,562.09,1,21,0,access user check user yesterday permission,Account
+3,1,1,2,3,0,10,236.83,0,33,1,page today information support,Technical
+0,9,1,1,23,0,2,1141.16,2,26,0,time not working time need not working user migration details,Onboarding
+2,68,1,1,15,0,1,438.29,1,13,1,please import data unable help resolved user getting started today not working,Onboarding
+2,9,3,2,1,0,40,86.8,2,27,0,support today yesterday user fix resolved access details,Onboarding
+2,7,2,2,17,0,3,195.94,5,15,0,access password please today account please yesterday need request not working,Account
+2,49,1,1,14,0,16,93.77,4,46,0,contact crash check today page service help crash update urgent today,Technical
+2,2,1,2,20,0,3,507.25,0,77,1,details contact team bug time urgent,Technical
+2,1,0,1,16,1,6,153.11,4,12,0,contact support account change urgent user resolved bug,Technical
+1,4,1,1,18,0,5,618.04,3,8,1,broken fix problem information account not working system issue,Feature_Request
+3,24,3,2,23,1,15,424.57,3,17,1,request API yesterday loading urgent yesterday,Technical
+3,20,0,1,9,0,2,517.56,4,41,0,overcharge please not working time time system,Billing
+2,82,0,2,15,0,6,4271.0,5,74,1,time need timeout resolved service account not working change,Technical
+2,9,1,1,20,0,26,397.78,2,15,0,resolved update contact check access check error loading,Technical
+3,32,0,3,10,0,36,295.43,0,25,0,would like loading issue error error page,Feature_Request
+3,18,0,1,7,0,6,2191.58,5,28,1,details loading API need help fix service information request help API,Technical
+0,5,1,1,4,0,2,1301.39,1,7,1,subscription contact loading page need,Billing
+3,68,3,1,0,0,7,431.26,5,9,0,details password change not working issue change,Account
+2,34,1,1,13,0,13,519.13,3,37,2,not working help user please yesterday request bug access details,Technical
+3,4,0,2,8,0,8,119.6,5,5,0,yesterday loading error resolved user page user,Billing
+2,1,1,2,7,0,3,913.12,5,50,1,resolved change time team page,Technical
+3,112,1,3,17,0,38,150.58,3,1,0,time problem permission update yesterday team help request,Account
+1,7,2,1,21,0,8,1570.59,4,2,0,would like issue issue not working page fix check,Feature_Request
+1,1,6,2,9,0,5,251.93,1,4,0,yesterday password support update resolved loading today problem user,Account
+1,23,0,2,0,0,3,191.71,0,51,1,contact fix urgent unauthorized problem account contact,Security
+3,2,0,2,2,0,4,387.33,3,6,2,change check system please,Billing
+0,14,1,1,1,0,3,245.89,3,32,0,yesterday time support service fix urgent bug request,Technical
+3,51,3,2,22,0,23,1533.99,1,8,0,details bug urgent details update loading,Technical
+1,30,0,1,11,0,3,450.55,0,14,1,please please request update subscription user please time loading page,Billing
+2,8,1,2,2,0,23,1090.49,3,5,0,details permission service access broken,Account
+3,15,1,2,16,0,8,208.6,4,28,1,support getting started support account change page unable support,Onboarding
+1,19,4,1,20,0,28,724.05,0,6,0,time details service overcharge request update error need time broken,Billing
+2,87,1,2,12,1,10,1966.52,4,18,0,check fix update time information time invoice,Billing
+0,18,1,1,4,1,3,160.98,1,55,0,need unable page setup check issue support,Onboarding
+0,30,2,1,21,0,11,2198.52,5,1,0,information invoice broken loading urgent information unable check service,Billing
+0,1,3,1,14,1,5,133.96,5,16,0,account urgent problem help information time check page contact roadmap,Feature_Request
+1,4,0,1,9,0,22,44.92,0,17,0,check urgent timeout account broken support loading,Technical
+0,58,1,2,13,0,7,1243.41,0,6,0,overcharge request page not working subscription page loading account yesterday help request,Billing
+0,2,0,2,6,0,8,513.76,0,1,0,team account request unable problem system information team account migration getting started,Onboarding
+3,2,1,1,22,0,1,141.83,3,8,0,help change error problem information unable bug problem,Technical
+3,68,1,1,22,0,2,501.0,1,4,1,loading user subscription invoice page user need request not working error,Billing
+2,5,0,2,17,1,2,60.02,1,8,1,information update subscription team access account please request change,Billing
+2,4,0,1,18,0,4,563.29,3,25,0,details not working information access user page,Billing
+2,19,1,3,0,0,4,2727.56,5,4,1,problem update fix request yesterday need would like page help please,Feature_Request
+1,48,2,1,19,1,3,991.88,2,9,1,request yesterday subscription resolved resolved yesterday yesterday refund,Billing
+0,5,0,1,7,0,4,387.86,5,24,0,information time today problem refund broken information,Billing
+0,13,3,3,0,0,27,1262.59,5,78,0,account issue please add feature information time contact change,Feature_Request
+2,1,0,1,7,1,3,197.26,2,5,0,loading timeout loading change need crash urgent issue change account team,Technical
+2,4,3,1,17,0,6,1041.76,5,0,0,broken user bug urgent service change team problem problem contact,Technical
+1,30,0,2,17,0,10,1866.57,3,66,1,account getting started unable team urgent,Onboarding
+2,1,2,1,8,0,27,1144.98,4,117,0,unable check crash service yesterday team team,Technical
+2,24,2,1,14,1,19,1511.59,3,42,1,access broken access migration need page not working issue,Onboarding
+3,29,2,1,11,0,38,1275.03,3,20,0,service SSO urgent issue today contact access account broken contact,Account
+2,9,0,1,15,0,2,202.87,0,27,0,contact resolved details please invoice service time support,Billing
+1,15,1,1,5,1,2,303.1,3,32,1,today request service password issue issue access page problem,Account
+1,20,1,1,19,0,4,807.44,1,79,1,user not working unable check crash page account account,Technical
+3,48,0,2,10,0,14,311.67,2,2,0,fix support SSO fix request loading service contact loading,Account
+0,9,0,1,20,0,7,4625.85,4,25,0,service request page page page user information today roadmap help,Feature_Request
+2,10,2,1,12,0,3,86.17,2,7,2,today service please user refund check,Billing
+3,1,1,1,12,0,3,1398.85,4,45,0,account account error problem system contact crash,Technical
+0,33,1,2,10,1,13,120.54,4,0,0,change time details API yesterday time error urgent,Technical
+3,27,1,2,0,0,8,378.16,4,47,0,request permission team details please contact error access need fix,Account
+3,18,1,1,13,0,1,446.18,5,2,0,system system add feature contact user update change,Feature_Request
+3,28,1,2,0,1,3,328.31,3,36,0,please check details change broken team API broken urgent contact,Technical
+2,28,0,2,2,0,7,336.39,4,2,0,timeout time contact change check page issue system service problem,Technical
+2,27,1,2,14,1,32,452.84,4,4,0,contact team migration support service,Onboarding
+1,62,1,2,23,0,6,956.72,2,69,1,contact today request please import data broken,Onboarding
+1,1,0,1,6,0,5,105.86,3,45,1,problem information update broken,Technical
+0,27,1,1,22,1,28,325.03,1,3,1,service issue request page help details unable update subscription loading,Billing
+1,10,0,1,3,0,1,5915.19,2,17,0,update update page access update crash contact,Technical
+1,2,2,3,23,0,7,81.34,1,62,1,information invoice page system resolved refund access,Billing
+1,7,0,3,9,0,6,69.63,4,81,0,migration urgent fix need access loading team error please,Onboarding
+2,25,0,2,8,0,1,2275.27,4,21,0,details API time crash contact team,Technical
+0,9,1,1,3,0,3,459.74,1,26,0,fix yesterday time refund update details please,Billing
+2,16,1,1,20,0,6,195.38,4,5,0,system access request service loading need,Account
+1,103,0,3,4,0,5,374.7,2,1,0,unable details resolved help service user access update crash timeout today,Technical
+2,34,1,3,13,0,52,876.77,3,0,1,timeout problem account bug user loading not working,Technical
+0,11,0,1,1,0,4,504.01,4,40,0,account urgent loading issue enhance team problem problem change error,Feature_Request
+3,25,3,3,18,0,18,94.99,4,32,0,request user support login check time user need access problem,Account
+3,30,1,2,13,0,11,3674.94,1,3,1,update system error broken API,Technical
+3,28,2,1,0,0,9,840.98,2,9,0,urgent check details please team problem refund access change support,Billing
+0,71,0,1,17,0,5,293.97,0,7,0,urgent today update resolved user timeout,Technical
+3,44,1,1,10,0,17,32.22,3,7,0,unable update resolved account bug information service,Technical
+2,15,1,1,23,0,9,1956.54,5,6,0,issue unable user broken breach information change,Security
+2,1,3,2,8,0,3,3350.29,0,26,0,yesterday yesterday change time account API help,Technical
+3,15,3,3,1,0,6,226.86,2,17,0,loading fix time broken account add feature urgent unable,Feature_Request
+2,16,1,1,13,0,29,503.62,2,7,0,request details update API update need not working broken check,Technical
+2,39,1,1,19,0,11,841.81,3,4,0,issue change information page problem yesterday change help invoice system,Billing
+0,2,2,1,12,0,6,3796.98,3,20,2,yesterday need permission yesterday need loading request access,Account
+2,35,2,3,5,1,2,247.73,5,16,0,request account service account not working update issue,Technical
+0,59,2,1,4,0,22,217.4,2,4,1,check crash bug contact not working please,Technical
+3,77,1,3,19,0,8,436.15,0,0,0,unable system check access crash system yesterday,Technical
+1,6,1,1,11,0,15,586.41,0,3,0,today bug unable help need team system page,Technical
+3,6,2,1,18,0,1,352.89,0,64,1,crash loading urgent issue help issue issue please account,Technical
+0,4,0,1,18,0,2,231.19,1,1,1,yesterday update update today check fix,Feature_Request
+2,38,2,1,23,0,4,1321.82,3,28,1,information team subscription account resolved system team unable invoice,Billing
+1,1,2,1,8,0,1,450.29,1,11,0,please service broken today resolved need login please,Account
+0,35,1,3,17,0,4,282.92,5,7,0,loading crash system urgent details user system problem unable issue,Technical
+0,17,0,2,22,0,8,191.96,5,0,0,today account error check permission unable account team update details,Account
+1,13,1,1,4,0,1,2977.5,5,41,0,add feature change urgent service page issue roadmap team error,Feature_Request
+2,23,2,1,21,0,17,438.62,1,17,1,time request fix update unauthorized issue issue breach need error help,Security
+2,1,2,1,23,0,3,3082.45,3,1,0,urgent error broken service account,Security
+1,6,2,1,13,0,6,716.53,1,63,2,support unable contact please support,Billing
+3,3,0,2,22,0,4,3369.33,1,49,2,today issue problem team details overcharge resolved contact,Billing
+3,76,2,1,8,1,6,70.99,4,8,1,add feature page unable change service yesterday page roadmap not working page,Feature_Request
+2,5,0,1,5,0,12,1428.53,2,29,1,change information service team change fix timeout access need request,Technical
+2,70,3,3,2,0,1,476.96,5,29,3,support check information need,Feature_Request
+1,4,0,1,0,1,4,202.01,3,70,2,refund information check yesterday details system problem yesterday help,Billing
+2,23,2,2,20,0,2,1987.41,3,4,0,details invoice user yesterday please error subscription unable,Billing
+3,67,3,2,16,0,1,533.27,1,37,1,check resolved today roadmap check broken,Feature_Request
+3,75,0,3,16,0,1,97.2,5,9,1,need check timeout unable system information API contact fix error,Technical
+3,8,2,3,17,0,13,183.53,2,61,0,need issue service crash access account,Technical
+2,17,4,1,1,0,7,390.22,2,13,1,issue details loading error API broken,Technical
+3,4,3,1,0,0,12,88.84,3,16,0,fix user API yesterday please check need,Technical
+2,41,1,1,6,0,32,345.62,2,11,1,update yesterday error change password request,Account
+0,22,1,1,23,1,1,528.2,2,56,3,error breach not working today team loading access service resolved phishing,Security
+1,22,2,2,9,0,2,1442.37,1,31,1,broken error time change team help unable,Technical
+1,26,2,2,19,0,21,298.75,3,156,1,not working update unable subscription details today fix service account invoice,Billing
+0,15,2,2,12,0,10,869.75,0,2,0,getting started change team access service,Onboarding
+1,25,2,1,23,0,1,344.8,2,3,0,issue please would like update user,Feature_Request
+3,30,1,1,3,0,2,315.54,5,8,2,fix API change today resolved problem,Technical
+2,27,1,1,7,0,23,765.92,2,13,0,refund page yesterday please problem problem system request,Billing
+2,1,0,1,23,0,2,1191.39,3,20,0,vulnerability help broken access broken information update details,Security
+2,18,3,3,5,0,45,206.76,4,30,0,user account team resolved subscription,Billing
+1,5,1,1,19,1,3,30.48,1,42,0,urgent overcharge help help update today today,Billing
+2,20,2,2,1,0,7,415.09,0,42,1,broken user resolved enhance not working,Feature_Request
+2,19,1,2,18,0,1,76.23,4,0,2,help unable urgent time migration,Onboarding
+3,3,4,1,9,0,5,684.98,2,12,0,user user fix not working broken account vulnerability,Security
+1,52,0,1,18,0,8,71.33,4,7,0,yesterday need problem support invoice page information overcharge,Billing
+3,40,3,1,14,0,3,254.94,4,0,0,today subscription refund please issue help details check,Billing
+3,1,0,1,9,0,6,1391.17,5,22,0,timeout service page contact details help user,Technical
+1,36,1,2,12,0,5,2638.91,1,4,0,change page yesterday yesterday support details today timeout check issue,Technical
+0,117,1,1,23,1,9,564.74,1,103,0,yesterday loading bug system crash issue,Technical
+0,31,4,1,17,0,9,1475.57,5,10,1,service invoice service urgent user team request not working urgent team,Billing
+0,32,1,2,19,0,7,698.9,2,4,2,loading issue help account permission system service,Account
+2,22,0,1,0,0,19,633.87,5,24,0,resolved error overcharge help please,Billing
+3,3,1,2,22,0,5,484.42,0,48,2,today loading information error access contact team system urgent,Onboarding
+1,14,1,1,15,0,8,3464.49,0,13,0,problem roadmap change user unable user issue,Feature_Request
+3,1,2,2,7,0,10,80.02,3,5,0,loading password system resolved information resolved user check time,Account
+3,2,1,1,11,0,9,524.44,0,31,0,please problem timeout today today broken unable,Technical
+0,15,1,2,15,0,5,115.75,0,30,0,time yesterday phishing please broken,Security
+0,42,1,3,11,0,17,540.96,4,5,0,team refund issue support user information issue,Billing
+1,18,0,2,4,1,66,453.86,3,10,0,roadmap issue loading issue resolved broken information roadmap urgent,Feature_Request
+0,9,3,2,9,0,15,83.91,0,1,0,issue today help unauthorized not working,Security
+1,3,3,2,22,0,4,331.08,2,80,0,urgent check urgent details please invoice,Billing
+3,35,2,2,18,0,10,6432.06,3,1,1,resolved time check not working need,Technical
+1,15,0,2,6,0,9,812.68,1,0,0,account check timeout problem problem time contact resolved check,Technical
+0,5,0,1,6,0,1,91.89,2,49,0,contact issue unable subscription help request,Billing
+2,56,1,1,8,0,5,1099.15,2,9,4,access broken issue need,Billing
+3,1,2,3,11,0,5,105.61,4,11,0,details unable support request API service broken information resolved page,Technical
+3,11,1,1,18,1,2,948.23,2,25,0,team fix bug yesterday access time error request yesterday,Technical
+1,31,1,2,6,0,41,1198.25,3,21,0,account refund contact unable contact error page,Billing
+1,34,1,2,20,0,2,126.32,4,28,0,bug not working resolved need error,Technical
+3,99,2,1,7,0,4,412.2,4,3,0,not working request today issue information urgent access error,Account
+2,12,0,3,10,0,2,382.08,4,29,0,error page loading change request support bug information account,Technical
+0,8,4,2,4,1,3,231.02,3,10,3,loading broken details update account timeout today change please loading,Technical
+3,16,2,2,7,0,17,844.44,4,0,0,please help not working service fix service bug,Technical
+1,13,2,1,3,0,7,427.65,0,14,0,need contact check would like request user error broken,Feature_Request
+1,52,1,2,2,0,8,1068.37,1,34,2,user check request bug today change service urgent support fix,Technical
+1,11,2,1,0,0,4,265.83,1,37,0,today permission service issue request,Account
+0,73,3,2,13,0,36,566.24,5,35,0,help contact unable details contact login broken service,Account
+0,9,2,3,10,0,3,1062.81,1,34,1,account system crash team team request system,Technical
+3,7,1,2,1,0,6,3191.33,0,14,0,overcharge unable please service need issue support contact time,Billing
+2,7,1,1,9,0,9,300.24,1,82,1,urgent loading support issue need error loading unable,Technical
+0,6,2,1,16,0,3,420.38,3,30,0,support add feature broken issue yesterday not working,Feature_Request
+3,21,3,2,19,0,7,761.24,3,23,0,account support issue need API request,Technical
+2,4,0,1,13,0,13,262.43,4,0,1,refund unable need service help,Billing
+1,1,1,1,0,0,12,99.45,5,39,1,service account details request check issue urgent password,Account
+3,1,1,1,17,0,3,516.34,2,11,0,update access bug issue loading,Technical
+1,63,0,1,8,0,50,1755.1,2,107,0,SSO team team contact unable SSO unable broken unable problem loading,Account
+2,37,4,1,11,0,3,9.35,1,53,0,help access SSO details urgent,Account
+0,14,3,1,0,0,2,1031.98,2,19,1,yesterday permission page broken update broken password unable,Account
+3,2,1,3,5,0,20,132.87,5,14,1,yesterday help bug please problem resolved,Technical
+2,45,1,2,21,0,10,461.4,0,15,0,team bug information broken issue please help contact support today,Technical
+1,28,3,1,7,0,12,71.13,1,8,0,issue account today resolved subscription urgent broken,Billing
+2,4,2,1,7,0,5,721.96,4,35,2,import data service problem loading account team support resolved import data,Onboarding
+3,8,0,1,7,0,8,682.32,5,22,2,unable please please request crash account urgent information issue,Technical
+0,12,1,2,3,0,23,7304.03,2,58,0,team fix service user contact broken,Billing
+0,2,2,1,12,0,24,49.33,1,5,1,yesterday yesterday today request loading fix breach,Security
+2,20,2,1,20,0,14,415.64,5,16,0,yesterday permission user problem support,Account
+0,18,0,3,5,0,8,1118.55,2,8,1,need contact team broken subscription today unable,Billing
+2,2,1,3,5,0,118,560.63,5,59,2,urgent update login check details page,Account
+0,17,0,1,3,0,7,365.97,1,66,0,yesterday fix team need account system timeout,Technical
+1,5,0,3,18,0,13,402.06,0,122,0,error need details check setup,Onboarding
+1,1,1,2,8,0,6,216.07,4,24,2,page yesterday migration support setup broken please time broken error user,Onboarding

@@ -1,0 +1,801 @@
+order_id,customer_id,order_date,product,quantity,unit_price,channel
+5001,121,2025-08-10,Decaf Colombian,7,13.99,in-store
+5002,124,2025-06-03,Ethiopian Yirgacheffe,7,11.99,in-store
+5003,187,2025-08-21,Costa Rica Tarrazu,5,13.49,online
+5004,124,2025-04-11,Sumatra Mandheling,6,15.49,in-store
+5005,4,2025-09-09,Burr Grinder,9,22.0,in-store
+5006,102,2025-11-25,Horizon Tumbler (16 oz),6,13.49,online
+5007,10,2025-03-25,Aeropress,2,13.49,wholesale
+5008,66,2025-11-22,Horizon Mug (12 oz),6,13.99,in-store
+5009,167,2025-09-02,French Roast,7,22.0,online
+5010,162,2025-03-17,Matcha Powder,1,24.99,in-store
+5011,175,2025-12-06,Guatemala Antigua,5,15.99,in-store
+5012,901,2025-02-11,Nitro Cold Brew,7,13.49,in-store
+5013,109,2025-09-14,Costa Rica Tarrazu,7,29.99,in-store
+5014,98,2025-02-15,Caramel Pecan,5,22.0,online
+5015,89,2025-07-23,French Press (32 oz),3,29.99,in-store
+5016,902,2025-12-23,French Press (32 oz),8,16.99,online
+5017,74,2025-04-06,Horizon Tumbler (16 oz),7,16.49,online
+5018,47,2025-04-19,Vanilla Hazelnut,2,14.99,in-store
+5019,47,2025-07-29,Pour-Over Kit,4,29.99,wholesale
+5020,28,2025-07-13,Burr Grinder,3,15.99,online
+5021,8,2025-02-21,Caramel Pecan,4,,online
+5022,2,2025-02-19,Chai Latte Mix,10,34.99,wholesale
+5023,97,2025-09-06,Cold Brew Concentrate,9,14.0,online
+5024,110,2025-06-11,Espresso Classico,6,10.99,in-store
+5025,171,2025-07-02,French Roast,7,18.99,online
+5026,1,2025-03-13,Decaf Colombian,7,,in-store
+5027,136,2025-12-18,Hawaiian Kona,4,12.99,online
+5028,106,2025-06-14,Chai Latte Mix,4,,wholesale
+5029,12,2025-11-07,Pour-Over Kit,6,10.99,online
+5030,21,2025-09-01,Morning Sunrise Blend,7,39.99,wholesale
+5031,26,2025-12-31,Horizon Tumbler (16 oz),7,49.99,in-store
+5032,147,2025-02-14,Pour-Over Kit,9,14.99,online
+5033,141,2025-03-01,Burr Grinder,8,16.49,in-store
+5034,63,2025-12-25,Brazil Santos,3,14.0,wholesale
+5035,184,2025-07-16,Ethiopian Yirgacheffe,3,39.99,wholesale
+5036,66,2025-12-07,Chai Latte Mix,8,44.99,in-store
+5037,186,2025-04-25,Decaf House Blend,2,34.99,in-store
+5038,154,2025-07-15,Sumatra Mandheling,6,13.49,wholesale
+5039,112,2025-05-29,Pour-Over Kit,4,15.99,online
+5040,190,2025-10-21,Caramel Pecan,4,22.0,wholesale
+5041,98,2025-10-02,Caramel Pecan,1,49.99,online
+5042,109,2025-03-06,Espresso Classico,6,34.99,in-store
+5043,57,2025-08-24,Kenya AA,7,16.99,in-store
+5044,76,2025-03-17,French Press (32 oz),4,12.99,in-store
+5045,171,2025-09-15,Burr Grinder,1,18.99,online
+5046,181,2025-09-11,Caramel Pecan,8,21.99,in-store
+5047,16,2025-04-18,Pour-Over Kit,6,15.49,in-store
+5048,58,2025-04-02,Matcha Powder,1,39.99,in-store
+5049,77,2025-06-22,French Press (32 oz),3,16.99,in-store
+5050,90,2025-05-25,Horizon Mug (12 oz),7,13.49,online
+5051,180,2025-06-15,Burr Grinder,9,13.49,online
+5052,14,2025-10-23,Burr Grinder,5,14.99,in-store
+5053,75,2025-04-11,Gooseneck Kettle,3,13.99,online
+5054,905,2025-08-07,Kenya AA,3,13.49,wholesale
+5055,15,2025-01-27,Kenya AA,6,12.99,online
+5056,87,2025-07-26,Caramel Pecan,7,15.49,in-store
+5057,102,2025-03-30,Decaf House Blend,5,24.99,in-store
+5058,178,2025-11-29,Pour-Over Kit,2,14.0,online
+5059,114,2025-03-04,Morning Sunrise Blend,1,17.99,online
+5060,131,2025-10-21,Java Estate,1,14.49,in-store
+5061,25,2025-11-27,Pour-Over Kit,10,16.49,online
+5062,33,2025-10-03,Kenya AA,6,15.99,in-store
+5063,6,2025-09-29,French Roast,9,29.99,in-store
+5064,150,2025-12-04,Chocolate Raspberry,2,14.0,in-store
+5065,154,2025-06-10,Matcha Powder,3,16.99,in-store
+5066,53,2025-01-18,Nitro Cold Brew,3,15.99,in-store
+5067,77,2025-12-03,Morning Sunrise Blend,9,,online
+5068,133,2025-03-13,Gooseneck Kettle,5,10.99,in-store
+5069,134,2025-04-18,Aeropress,6,18.99,in-store
+5070,12,2025-04-21,Java Estate,1,13.99,online
+5071,56,2025-11-15,Caramel Pecan,6,29.99,online
+5072,67,2025-05-11,French Roast,3,13.49,online
+5073,37,2025-05-18,Chocolate Raspberry,4,15.99,in-store
+5074,50,2025-09-19,Matcha Powder,6,14.49,in-store
+5075,40,2025-11-06,Espresso Classico,7,13.49,online
+5076,137,2025-11-24,Kenya AA,9,11.99,online
+5077,200,2025-05-21,Hawaiian Kona,3,,in-store
+5078,57,2025-03-31,French Roast,2,34.99,wholesale
+5079,151,2025-12-25,French Press (32 oz),8,17.99,in-store
+5080,70,2025-06-12,Cold Brew Concentrate,2,44.99,online
+5081,89,2025-07-26,Pour-Over Kit,9,13.99,in-store
+5082,3,2025-03-06,Chai Latte Mix,9,24.99,online
+5083,69,2025-12-14,Colombian Supremo,6,24.99,in-store
+5084,47,2025-05-27,Decaf Colombian,6,34.99,online
+5085,184,2025-02-14,Gooseneck Kettle,4,49.99,in-store
+5086,81,2025-05-03,Burr Grinder,2,21.99,online
+5087,15,2025-01-06,Sumatra Mandheling,5,13.99,wholesale
+5088,131,2025-12-17,Aeropress,3,12.99,online
+5089,179,2025-01-04,Kenya AA,7,16.99,in-store
+5090,192,2025-09-28,Morning Sunrise Blend,4,22.0,in-store
+5091,115,2025-02-08,Costa Rica Tarrazu,9,44.99,online
+5092,91,2025-07-11,Colombian Supremo,7,12.99,online
+5093,174,2025-03-02,Java Estate,9,59.99,in-store
+5094,68,2025-07-21,Brazil Santos,1,22.0,in-store
+5095,165,2025-11-13,Vanilla Hazelnut,1,39.99,online
+5096,2,2025-02-24,Cold Brew Concentrate,8,,online
+5097,48,2025-09-09,French Roast,6,16.99,online
+5098,40,2025-03-21,House Blend,2,39.99,online
+5099,121,2025-04-04,French Roast,6,49.99,online
+5100,113,2025-08-11,Chai Latte Mix,8,,online
+5101,182,2025-03-10,Brazil Santos,2,13.99,online
+5102,9,2025-05-17,Costa Rica Tarrazu,4,12.99,wholesale
+5103,127,2025-07-24,Pour-Over Kit,3,14.49,in-store
+5104,100,2025-03-06,Guatemala Antigua,2,17.99,in-store
+5105,197,2025-06-25,Chai Latte Mix,4,14.99,in-store
+5106,3,2025-02-12,House Blend,8,49.99,online
+5107,40,2025-02-28,Horizon Tumbler (16 oz),9,16.49,online
+5108,64,2025-02-22,Chai Latte Mix,7,13.99,online
+5109,47,2025-04-28,Brazil Santos,10,21.99,in-store
+5110,71,2025-04-13,Brazil Santos,3,11.99,online
+5111,105,2025-04-29,Vanilla Hazelnut,5,24.99,in-store
+5112,16,2025-02-26,Vanilla Hazelnut,7,21.99,online
+5113,90,2025-01-25,Matcha Powder,7,15.99,online
+5114,903,2025-11-07,Brazil Santos,5,12.99,online
+5115,126,2025-12-09,Morning Sunrise Blend,6,,online
+5116,34,2025-10-29,Espresso Classico,6,22.0,in-store
+5117,167,2025-02-24,Hawaiian Kona,4,14.49,online
+5118,31,2025-04-08,Colombian Supremo,10,39.99,in-store
+5119,26,2025-08-31,Sumatra Mandheling,9,18.99,online
+5120,185,2025-10-09,Guatemala Antigua,1,15.49,online
+5121,195,2025-08-18,Burr Grinder,9,12.99,in-store
+5122,112,2025-09-15,Sumatra Mandheling,8,11.99,in-store
+5123,71,2025-10-17,Matcha Powder,3,49.99,online
+5124,49,2025-09-20,Horizon Tumbler (16 oz),7,12.99,in-store
+5125,193,2025-07-25,Vanilla Hazelnut,7,13.99,in-store
+5126,1,2025-01-05,Costa Rica Tarrazu,10,13.99,in-store
+5127,117,2025-04-23,Vanilla Hazelnut,9,29.99,online
+5128,31,2025-05-30,Costa Rica Tarrazu,4,14.99,in-store
+5129,72,2025-01-27,Aeropress,3,29.99,in-store
+5130,54,2025-11-20,Chocolate Raspberry,2,16.99,in-store
+5131,22,2025-07-29,Matcha Powder,9,29.99,in-store
+5132,15,2025-05-24,Nitro Cold Brew,1,29.99,online
+5133,138,2025-12-19,Chai Latte Mix,10,17.99,in-store
+5134,161,2025-08-15,Nitro Cold Brew,10,13.99,online
+5135,149,2025-08-11,Nitro Cold Brew,7,15.49,online
+5136,24,2025-04-01,Decaf House Blend,3,14.99,online
+5137,187,2025-04-01,Costa Rica Tarrazu,5,16.99,online
+5138,49,2025-08-21,Sumatra Mandheling,3,15.99,online
+5139,26,2025-01-07,Horizon Tumbler (16 oz),9,15.49,in-store
+5140,6,2025-01-23,Kenya AA,1,14.0,in-store
+5141,69,2025-01-05,Guatemala Antigua,10,16.99,in-store
+5142,189,2025-04-14,French Press (32 oz),6,59.99,in-store
+5143,114,2025-03-21,French Press (32 oz),3,49.99,online
+5144,69,2025-01-23,Nitro Cold Brew,9,17.99,online
+5145,131,2025-04-25,Gooseneck Kettle,7,,online
+5146,38,2025-12-17,Morning Sunrise Blend,5,15.99,wholesale
+5147,29,2025-05-25,Decaf House Blend,3,17.99,online
+5148,31,2025-03-19,Morning Sunrise Blend,2,44.99,online
+5149,154,2025-12-18,Costa Rica Tarrazu,7,15.49,in-store
+5150,90,2025-12-05,Gooseneck Kettle,2,29.99,wholesale
+5151,183,2025-03-18,Pour-Over Kit,2,34.99,online
+5152,38,2025-09-02,French Roast,8,22.0,in-store
+5153,110,2025-03-07,Horizon Tumbler (16 oz),5,15.49,online
+5154,82,2025-07-31,Decaf House Blend,7,12.99,in-store
+5155,36,2025-09-12,Pour-Over Kit,4,13.49,online
+5156,138,2025-08-04,French Press (32 oz),4,13.49,online
+5157,192,2025-04-15,Java Estate,2,15.99,online
+5158,905,2025-06-28,Decaf House Blend,3,39.99,online
+5159,200,2025-10-10,French Press (32 oz),3,49.99,online
+5160,63,2025-03-02,Brazil Santos,4,14.99,in-store
+5161,97,2025-07-10,Horizon Tumbler (16 oz),1,24.99,wholesale
+5162,149,2025-03-22,Sumatra Mandheling,8,29.99,in-store
+5163,21,2025-08-02,Java Estate,2,16.99,in-store
+5164,191,2025-08-29,Guatemala Antigua,9,24.99,wholesale
+5165,166,2025-01-31,Matcha Powder,1,49.99,online
+5166,193,2025-08-05,Costa Rica Tarrazu,9,16.49,online
+5167,142,2025-06-06,Matcha Powder,5,39.99,in-store
+5168,41,2025-03-06,Hawaiian Kona,2,13.99,online
+5169,15,2025-10-14,Java Estate,7,16.49,in-store
+5170,178,2025-07-27,Decaf Colombian,8,14.49,in-store
+5171,96,2025-02-23,Nitro Cold Brew,7,13.99,online
+5172,86,2025-02-24,Ethiopian Yirgacheffe,4,49.99,online
+5173,194,2025-11-23,Aeropress,5,13.99,in-store
+5174,22,2025-09-05,Caramel Pecan,10,14.99,in-store
+5175,80,2025-07-23,Ethiopian Yirgacheffe,6,14.0,online
+5176,101,2025-02-19,Horizon Tumbler (16 oz),6,15.49,in-store
+5177,129,2025-01-13,Kenya AA,9,34.99,in-store
+5178,151,2025-12-16,Burr Grinder,1,49.99,online
+5179,24,2025-12-15,Matcha Powder,4,44.99,online
+5180,42,2025-09-25,Vanilla Hazelnut,9,22.0,in-store
+5181,34,2025-08-09,Espresso Classico,5,12.99,in-store
+5182,175,2025-11-07,French Roast,4,13.99,wholesale
+5183,161,2025-06-08,Decaf House Blend,2,34.99,online
+5184,23,2025-06-01,Decaf House Blend,2,14.99,online
+5185,94,2025-08-24,Morning Sunrise Blend,2,15.99,online
+5186,66,2025-03-05,Horizon Mug (12 oz),8,21.99,wholesale
+5187,94,2025-11-14,Burr Grinder,5,13.49,online
+5188,94,2025-12-16,Vanilla Hazelnut,10,14.49,online
+5189,175,2025-05-06,Colombian Supremo,10,21.99,online
+5190,40,2025-10-19,Burr Grinder,2,49.99,online
+5191,100,2025-08-27,Burr Grinder,8,10.99,online
+5192,120,2025-07-23,Kenya AA,2,16.49,in-store
+5193,85,2025-09-06,Sumatra Mandheling,6,14.49,wholesale
+5194,30,2025-08-29,Hawaiian Kona,8,14.99,in-store
+5195,146,2025-07-05,Colombian Supremo,10,14.0,online
+5196,55,2025-12-17,Colombian Supremo,4,59.99,online
+5197,46,2025-02-11,Sumatra Mandheling,3,15.99,online
+5198,108,2025-04-05,Vanilla Hazelnut,4,10.99,in-store
+5199,110,2025-08-03,Espresso Classico,5,16.49,online
+5200,42,2025-10-20,Matcha Powder,7,12.99,wholesale
+5201,905,2025-11-12,Brazil Santos,2,22.0,in-store
+5202,188,2025-08-23,Horizon Tumbler (16 oz),6,16.99,online
+5203,82,2025-01-02,Kenya AA,7,29.99,in-store
+5204,33,2025-02-19,Nitro Cold Brew,8,21.99,wholesale
+5205,49,2025-07-13,House Blend,9,14.0,online
+5206,49,2025-07-06,Chai Latte Mix,10,,online
+5207,129,2025-08-22,French Press (32 oz),2,24.99,online
+5208,139,2025-04-01,House Blend,9,14.0,online
+5209,142,2025-05-26,Cold Brew Concentrate,3,13.99,online
+5210,112,2025-02-20,Nitro Cold Brew,5,24.99,in-store
+5211,27,2025-02-23,Sumatra Mandheling,1,18.99,wholesale
+5212,140,2025-01-17,Kenya AA,8,13.99,in-store
+5213,55,2025-04-11,Java Estate,8,13.99,online
+5214,90,2025-11-27,Pour-Over Kit,8,11.99,wholesale
+5215,2,2025-12-04,Morning Sunrise Blend,4,13.99,online
+5216,107,2025-08-01,Chai Latte Mix,4,16.99,wholesale
+5217,96,2025-06-12,French Press (32 oz),9,29.99,in-store
+5218,111,2025-11-26,Java Estate,9,13.49,online
+5219,148,2025-03-30,House Blend,3,21.99,online
+5220,41,2025-03-06,House Blend,4,17.99,in-store
+5221,101,2025-06-15,French Press (32 oz),5,29.99,in-store
+5222,112,2025-12-29,Ethiopian Yirgacheffe,10,15.49,online
+5223,147,2025-08-21,French Roast,1,22.0,in-store
+5224,48,2025-05-06,Java Estate,4,49.99,online
+5225,97,2025-02-12,Horizon Mug (12 oz),5,10.99,online
+5226,164,2025-11-02,Caramel Pecan,2,17.99,online
+5227,68,2025-07-05,Gooseneck Kettle,3,15.99,online
+5228,26,2025-11-17,Decaf House Blend,1,11.99,online
+5229,97,2025-03-24,Gooseneck Kettle,6,21.99,wholesale
+5230,902,2025-01-17,Chai Latte Mix,10,21.99,in-store
+5231,89,2025-03-23,Decaf House Blend,10,18.99,in-store
+5232,32,2025-09-23,Brazil Santos,10,16.99,in-store
+5233,94,2025-04-23,Kenya AA,4,16.99,online
+5234,33,2025-02-17,Hawaiian Kona,5,12.99,online
+5235,76,2025-07-24,Decaf Colombian,8,11.99,in-store
+5236,51,2025-10-28,Chai Latte Mix,5,13.49,online
+5237,185,2025-11-02,Decaf House Blend,7,44.99,online
+5238,160,2025-10-18,Kenya AA,10,13.49,online
+5239,17,2025-09-19,Decaf Colombian,3,44.99,online
+5240,155,2025-02-28,French Press (32 oz),9,12.99,online
+5241,48,2025-07-10,Morning Sunrise Blend,4,15.99,online
+5242,32,2025-06-18,Ethiopian Yirgacheffe,6,24.99,online
+5243,83,2025-05-26,Gooseneck Kettle,4,13.99,online
+5244,27,2025-12-10,Chocolate Raspberry,5,24.99,in-store
+5245,108,2025-04-12,Chai Latte Mix,7,14.49,in-store
+5246,128,2025-08-20,Colombian Supremo,5,11.99,online
+5247,99,2025-11-26,Java Estate,10,16.99,online
+5248,2,2025-07-26,Aeropress,8,49.99,online
+5249,136,2025-08-29,Colombian Supremo,6,21.99,online
+5250,186,2025-07-24,Jamaican Blue Mountain,5,14.49,in-store
+5251,127,2025-08-21,Cold Brew Concentrate,1,13.49,online
+5252,32,2025-04-25,French Press (32 oz),6,18.99,online
+5253,901,2025-04-08,Espresso Classico,7,15.99,online
+5254,138,2025-01-23,Ethiopian Yirgacheffe,1,29.99,in-store
+5255,20,2025-07-14,Hawaiian Kona,6,24.99,in-store
+5256,36,2025-03-17,Caramel Pecan,8,17.99,online
+5257,106,2025-09-28,Nitro Cold Brew,8,10.99,online
+5258,126,2025-04-26,Hawaiian Kona,6,14.0,in-store
+5259,183,2025-05-05,Sumatra Mandheling,6,13.99,in-store
+5260,53,2025-01-31,Matcha Powder,2,15.99,wholesale
+5261,120,2025-06-24,French Press (32 oz),7,13.99,online
+5262,136,2025-12-29,Vanilla Hazelnut,6,14.0,wholesale
+5263,130,2025-07-17,Kenya AA,3,15.99,wholesale
+5264,132,2025-08-05,Brazil Santos,7,13.99,online
+5265,148,2025-02-24,Nitro Cold Brew,2,15.49,online
+5266,118,2025-09-29,Costa Rica Tarrazu,5,16.99,online
+5267,141,2025-07-23,Sumatra Mandheling,6,11.99,online
+5268,14,2025-11-29,Decaf Colombian,5,12.99,online
+5269,50,2025-05-22,Jamaican Blue Mountain,4,13.49,online
+5270,111,2025-02-26,Kenya AA,1,21.99,online
+5271,10,2025-02-21,Caramel Pecan,5,15.99,online
+5272,180,2025-04-23,Matcha Powder,7,13.49,online
+5273,69,2025-06-27,Decaf House Blend,4,16.49,in-store
+5274,74,2025-12-25,Horizon Tumbler (16 oz),1,17.99,online
+5275,177,2025-03-27,Java Estate,3,14.49,in-store
+5276,37,2025-04-01,Ethiopian Yirgacheffe,8,11.99,online
+5277,44,2025-08-31,Chai Latte Mix,1,18.99,online
+5278,64,2025-10-18,Decaf House Blend,2,14.99,in-store
+5279,59,2025-02-18,Vanilla Hazelnut,9,16.49,in-store
+5280,86,2025-10-07,Decaf Colombian,8,22.0,online
+5281,94,2025-12-30,Decaf Colombian,1,29.99,online
+5282,170,2025-12-18,Burr Grinder,10,12.99,online
+5283,38,2025-07-02,House Blend,4,10.99,wholesale
+5284,190,2025-02-15,Matcha Powder,7,12.99,online
+5285,164,2025-10-06,Kenya AA,5,44.99,in-store
+5286,135,2025-06-19,Costa Rica Tarrazu,5,39.99,in-store
+5287,71,2025-12-26,Jamaican Blue Mountain,4,14.99,in-store
+5288,111,2025-06-27,Pour-Over Kit,8,14.49,wholesale
+5289,128,2025-09-25,Aeropress,3,14.99,in-store
+5290,171,2025-05-31,Costa Rica Tarrazu,5,,online
+5291,73,2025-06-06,French Press (32 oz),10,,online
+5292,1,2025-05-26,Colombian Supremo,5,15.49,online
+5293,197,2025-03-15,Chocolate Raspberry,3,15.99,in-store
+5294,150,2025-08-31,Aeropress,2,49.99,online
+5295,174,2025-02-20,Nitro Cold Brew,7,11.99,online
+5296,153,2025-06-15,Jamaican Blue Mountain,3,14.49,online
+5297,197,2025-04-13,Brazil Santos,5,15.49,online
+5298,146,2025-08-12,Aeropress,8,13.99,online
+5299,178,2025-07-03,Espresso Classico,9,39.99,in-store
+5300,108,2025-01-14,House Blend,8,16.99,wholesale
+5301,194,2025-05-05,Guatemala Antigua,10,39.99,online
+5302,159,2025-07-21,Chocolate Raspberry,10,44.99,online
+5303,119,2025-02-13,Pour-Over Kit,9,14.99,in-store
+5304,167,2025-05-29,Kenya AA,6,18.99,online
+5305,16,2025-01-28,Kenya AA,10,10.99,in-store
+5306,144,2025-12-12,Horizon Tumbler (16 oz),8,15.49,online
+5307,161,2025-12-19,Jamaican Blue Mountain,1,34.99,online
+5308,40,2025-04-15,Cold Brew Concentrate,2,13.99,online
+5309,130,2025-06-03,Decaf Colombian,7,14.99,wholesale
+5310,61,2025-12-15,French Press (32 oz),9,29.99,in-store
+5311,32,2025-03-14,House Blend,3,21.99,online
+5312,44,2025-05-29,Vanilla Hazelnut,9,13.99,online
+5313,151,2025-07-17,Decaf House Blend,6,10.99,online
+5314,107,2025-08-23,French Press (32 oz),7,15.49,online
+5315,149,2025-12-03,Jamaican Blue Mountain,1,21.99,in-store
+5316,91,2025-05-22,Guatemala Antigua,8,,in-store
+5317,129,2025-12-28,Burr Grinder,9,13.99,online
+5318,45,2025-10-16,Nitro Cold Brew,3,12.99,in-store
+5319,36,2025-11-27,Hawaiian Kona,5,39.99,online
+5320,156,2025-09-17,Chai Latte Mix,3,14.49,in-store
+5321,34,2025-06-28,Matcha Powder,6,14.49,wholesale
+5322,18,2025-04-29,Colombian Supremo,1,59.99,in-store
+5323,174,2025-05-02,Decaf House Blend,6,14.0,online
+5324,187,2025-02-02,Gooseneck Kettle,7,14.0,wholesale
+5325,10,2025-11-07,Burr Grinder,2,14.99,in-store
+5326,45,2025-03-10,Espresso Classico,2,24.99,online
+5327,52,2025-05-27,Brazil Santos,5,12.99,online
+5328,112,2025-02-14,French Press (32 oz),9,34.99,in-store
+5329,172,2025-01-03,Kenya AA,4,14.99,in-store
+5330,140,2025-11-25,Burr Grinder,2,14.49,online
+5331,54,2025-11-13,Caramel Pecan,8,13.99,online
+5332,18,2025-02-06,Decaf Colombian,7,21.99,online
+5333,133,2025-01-27,Jamaican Blue Mountain,2,17.99,online
+5334,58,2025-07-19,French Press (32 oz),5,39.99,in-store
+5335,41,2025-09-23,Jamaican Blue Mountain,2,13.99,in-store
+5336,103,2025-02-26,Cold Brew Concentrate,1,13.99,in-store
+5337,68,2025-05-14,Nitro Cold Brew,1,14.99,online
+5338,16,2025-06-18,Guatemala Antigua,4,13.99,in-store
+5339,16,2025-10-16,Java Estate,8,15.99,in-store
+5340,196,2025-08-02,Pour-Over Kit,1,12.99,wholesale
+5341,21,2025-05-19,Gooseneck Kettle,9,12.99,wholesale
+5342,128,2025-09-02,Vanilla Hazelnut,4,21.99,online
+5343,59,2025-04-11,Ethiopian Yirgacheffe,1,16.99,in-store
+5344,175,2025-07-18,Chai Latte Mix,1,13.99,online
+5345,111,2025-08-13,Matcha Powder,7,13.99,online
+5346,95,2025-01-30,Morning Sunrise Blend,4,14.49,online
+5347,3,2025-10-02,Java Estate,7,22.0,in-store
+5348,4,2025-01-30,Burr Grinder,4,29.99,online
+5349,12,2025-05-06,Espresso Classico,6,18.99,in-store
+5350,102,2025-05-09,Decaf House Blend,2,10.99,online
+5351,181,2025-04-23,Horizon Tumbler (16 oz),6,44.99,wholesale
+5352,94,2025-05-06,Horizon Mug (12 oz),9,49.99,in-store
+5353,179,2025-07-30,Chocolate Raspberry,9,17.99,online
+5354,72,2025-09-24,Sumatra Mandheling,4,39.99,online
+5355,54,2025-03-14,Kenya AA,6,22.0,in-store
+5356,113,2025-01-18,Nitro Cold Brew,8,17.99,online
+5357,77,2025-11-09,French Press (32 oz),2,14.99,online
+5358,904,2025-07-14,French Roast,8,14.99,online
+5359,14,2025-06-28,Chai Latte Mix,5,14.99,in-store
+5360,194,2025-05-15,Gooseneck Kettle,6,39.99,in-store
+5361,194,2025-08-11,Ethiopian Yirgacheffe,6,22.0,in-store
+5362,189,2025-07-18,Horizon Mug (12 oz),1,34.99,online
+5363,74,2025-10-18,Burr Grinder,9,14.99,online
+5364,98,2025-05-24,Decaf Colombian,4,15.49,wholesale
+5365,22,2025-07-22,Java Estate,9,49.99,online
+5366,69,2025-11-08,Chai Latte Mix,5,,in-store
+5367,170,2025-08-25,Espresso Classico,5,,online
+5368,901,2025-04-22,Morning Sunrise Blend,8,21.99,in-store
+5369,21,2025-02-02,Hawaiian Kona,10,13.99,online
+5370,71,2025-03-31,Hawaiian Kona,8,15.49,online
+5371,13,2025-12-17,Java Estate,2,21.99,online
+5372,82,2025-05-13,Colombian Supremo,9,24.99,online
+5373,903,2025-02-25,Chocolate Raspberry,1,18.99,online
+5374,131,2025-07-10,Sumatra Mandheling,4,13.99,online
+5375,19,2025-01-13,Nitro Cold Brew,7,44.99,online
+5376,86,2025-05-31,House Blend,6,12.99,wholesale
+5377,12,2025-02-24,Jamaican Blue Mountain,3,39.99,in-store
+5378,131,2025-06-26,Matcha Powder,9,34.99,in-store
+5379,150,2025-11-29,Colombian Supremo,3,13.49,in-store
+5380,58,2025-08-03,Caramel Pecan,9,14.49,in-store
+5381,136,2025-09-26,Pour-Over Kit,1,18.99,online
+5382,50,2025-06-18,French Press (32 oz),10,49.99,wholesale
+5383,93,2025-03-01,Java Estate,8,14.49,in-store
+5384,105,2025-02-09,Morning Sunrise Blend,2,12.99,in-store
+5385,155,2025-10-19,Java Estate,8,34.99,online
+5386,138,2025-03-12,Java Estate,7,10.99,in-store
+5387,88,2025-09-16,Espresso Classico,2,15.99,online
+5388,162,2025-08-21,Gooseneck Kettle,4,,online
+5389,68,2025-02-21,Horizon Mug (12 oz),9,24.99,wholesale
+5390,111,2025-09-29,Ethiopian Yirgacheffe,3,15.99,online
+5391,91,2025-12-31,Guatemala Antigua,7,24.99,in-store
+5392,87,2025-01-24,Caramel Pecan,10,18.99,online
+5393,115,2025-08-12,Aeropress,7,21.99,online
+5394,35,2025-09-18,Horizon Tumbler (16 oz),3,22.0,in-store
+5395,152,2025-07-14,Caramel Pecan,6,10.99,in-store
+5396,185,2025-06-02,Caramel Pecan,5,14.0,online
+5397,133,2025-08-07,Gooseneck Kettle,9,14.49,in-store
+5398,194,2025-04-18,Costa Rica Tarrazu,3,14.99,in-store
+5399,158,2025-03-02,Espresso Classico,2,12.99,online
+5400,58,2025-05-13,Gooseneck Kettle,3,49.99,wholesale
+5401,60,2025-10-10,Chai Latte Mix,5,15.49,online
+5402,8,2025-04-10,Cold Brew Concentrate,1,,in-store
+5403,7,2025-10-20,Morning Sunrise Blend,4,49.99,wholesale
+5404,33,2025-12-28,French Press (32 oz),8,49.99,wholesale
+5405,111,2025-05-23,Decaf House Blend,5,15.99,in-store
+5406,91,2025-02-08,Pour-Over Kit,2,22.0,in-store
+5407,71,2025-12-28,Decaf Colombian,9,10.99,in-store
+5408,10,2025-09-24,House Blend,2,39.99,in-store
+5409,170,2025-05-06,French Press (32 oz),1,21.99,in-store
+5410,57,2025-09-06,Chai Latte Mix,4,29.99,online
+5411,73,2025-09-22,Guatemala Antigua,4,21.99,in-store
+5412,1,2025-04-17,House Blend,2,12.99,in-store
+5413,177,2025-05-01,Hawaiian Kona,10,13.49,in-store
+5414,169,2025-05-30,Costa Rica Tarrazu,5,29.99,online
+5415,162,2025-06-01,French Roast,10,12.99,in-store
+5416,194,2025-06-16,Horizon Mug (12 oz),5,11.99,wholesale
+5417,46,2025-12-23,Decaf Colombian,6,10.99,online
+5418,124,2025-05-01,French Press (32 oz),8,,online
+5419,56,2025-06-15,Gooseneck Kettle,7,14.99,in-store
+5420,101,2025-01-28,Pour-Over Kit,8,11.99,online
+5421,87,2025-04-24,Nitro Cold Brew,1,49.99,online
+5422,53,2025-03-08,Horizon Mug (12 oz),2,18.99,in-store
+5423,901,2025-06-20,Pour-Over Kit,7,15.99,in-store
+5424,142,2025-10-02,Sumatra Mandheling,1,13.99,online
+5425,138,2025-07-11,French Roast,4,49.99,in-store
+5426,188,2025-09-27,Java Estate,1,14.99,in-store
+5427,125,2025-04-28,Colombian Supremo,3,49.99,online
+5428,9,2025-12-02,Hawaiian Kona,2,29.99,in-store
+5429,70,2025-12-27,Burr Grinder,2,15.99,online
+5430,4,2025-02-18,Horizon Tumbler (16 oz),9,18.99,wholesale
+5431,50,2025-06-15,French Press (32 oz),10,59.99,online
+5432,78,2025-12-02,Hawaiian Kona,8,13.99,online
+5433,110,2025-09-05,Sumatra Mandheling,4,11.99,in-store
+5434,130,2025-07-21,Java Estate,7,16.99,wholesale
+5435,183,2025-01-13,Kenya AA,8,15.99,in-store
+5436,95,2025-06-20,Decaf House Blend,10,17.99,in-store
+5437,22,2025-09-08,Kenya AA,9,16.49,online
+5438,104,2025-10-18,Cold Brew Concentrate,8,13.99,in-store
+5439,127,2025-03-19,Hawaiian Kona,7,49.99,in-store
+5440,154,2025-10-15,House Blend,1,29.99,in-store
+5441,81,2025-09-05,Nitro Cold Brew,4,14.49,online
+5442,188,2025-07-12,Sumatra Mandheling,2,11.99,in-store
+5443,905,2025-02-28,Horizon Tumbler (16 oz),2,16.49,online
+5444,44,2025-10-08,Nitro Cold Brew,9,12.99,online
+5445,901,2025-12-13,House Blend,5,22.0,wholesale
+5446,96,2025-12-17,Caramel Pecan,3,15.49,online
+5447,183,2025-08-25,Morning Sunrise Blend,9,18.99,online
+5448,192,2025-08-31,Horizon Tumbler (16 oz),3,,in-store
+5449,39,2025-04-07,Decaf House Blend,2,16.99,online
+5450,118,2025-11-01,Espresso Classico,2,14.99,in-store
+5451,144,2025-04-09,Gooseneck Kettle,4,12.99,in-store
+5452,110,2025-07-26,Caramel Pecan,5,12.99,in-store
+5453,165,2025-02-22,Chai Latte Mix,4,15.99,in-store
+5454,68,2025-10-28,Caramel Pecan,2,15.49,in-store
+5455,148,2025-11-12,Horizon Mug (12 oz),10,18.99,online
+5456,44,2025-11-11,Ethiopian Yirgacheffe,4,13.99,online
+5457,1,2025-03-12,Espresso Classico,2,44.99,wholesale
+5458,171,2025-03-02,Decaf House Blend,6,49.99,in-store
+5459,199,2025-09-25,French Roast,8,12.99,online
+5460,155,2025-05-23,French Press (32 oz),4,16.49,wholesale
+5461,144,2025-12-17,Decaf Colombian,8,24.99,in-store
+5462,167,2025-08-27,Morning Sunrise Blend,3,16.99,in-store
+5463,109,2025-04-08,Brazil Santos,10,13.99,in-store
+5464,192,2025-04-10,Ethiopian Yirgacheffe,4,,online
+5465,25,2025-01-07,Aeropress,6,39.99,online
+5466,71,2025-12-23,Nitro Cold Brew,8,13.49,online
+5467,15,2025-08-30,Caramel Pecan,1,59.99,in-store
+5468,126,2025-10-07,Costa Rica Tarrazu,8,22.0,in-store
+5469,8,2025-03-09,Cold Brew Concentrate,3,24.99,in-store
+5470,31,2025-06-10,Colombian Supremo,8,21.99,in-store
+5471,50,2025-12-11,Nitro Cold Brew,10,22.0,online
+5472,182,2025-09-22,Costa Rica Tarrazu,10,,wholesale
+5473,107,2025-09-14,French Press (32 oz),1,15.99,online
+5474,45,2025-12-19,Decaf Colombian,1,29.99,in-store
+5475,192,2025-06-29,French Press (32 oz),1,49.99,online
+5476,179,2025-03-01,Sumatra Mandheling,10,39.99,online
+5477,23,2025-01-11,Costa Rica Tarrazu,6,14.49,in-store
+5478,56,2025-05-07,Nitro Cold Brew,6,14.99,online
+5479,49,2025-12-28,Horizon Tumbler (16 oz),3,49.99,online
+5480,145,2025-05-20,Espresso Classico,7,15.99,in-store
+5481,76,2025-07-01,Hawaiian Kona,8,29.99,online
+5482,165,2025-03-29,Vanilla Hazelnut,8,29.99,in-store
+5483,99,2025-12-26,Guatemala Antigua,9,14.49,online
+5484,175,2025-09-15,Pour-Over Kit,5,13.99,online
+5485,69,2025-04-22,Sumatra Mandheling,9,14.0,online
+5486,30,2025-10-28,Vanilla Hazelnut,3,12.99,online
+5487,169,2025-11-19,Caramel Pecan,1,14.49,in-store
+5488,41,2025-02-21,House Blend,8,14.49,online
+5489,42,2025-08-13,Decaf Colombian,9,16.49,in-store
+5490,148,2025-05-05,Matcha Powder,7,22.0,online
+5491,87,2025-04-30,Decaf House Blend,7,49.99,online
+5492,130,2025-10-23,Kenya AA,7,11.99,in-store
+5493,132,2025-12-24,Costa Rica Tarrazu,5,44.99,in-store
+5494,146,2025-01-28,Horizon Mug (12 oz),3,15.49,in-store
+5495,197,2025-08-24,Guatemala Antigua,6,,online
+5496,45,2025-04-15,Jamaican Blue Mountain,5,15.99,online
+5497,40,2025-01-03,Chai Latte Mix,9,59.99,in-store
+5498,121,2025-08-30,Chocolate Raspberry,7,24.99,online
+5499,181,2025-03-10,Java Estate,2,13.49,online
+5500,73,2025-02-06,French Press (32 oz),7,18.99,online
+5501,151,2025-05-01,Ethiopian Yirgacheffe,4,44.99,in-store
+5502,1,2025-02-09,Cold Brew Concentrate,10,14.0,online
+5503,49,2025-06-23,Colombian Supremo,4,49.99,online
+5504,39,2025-09-04,Jamaican Blue Mountain,5,13.49,in-store
+5505,108,2025-02-24,Costa Rica Tarrazu,3,13.49,in-store
+5506,176,2025-01-07,Horizon Tumbler (16 oz),2,21.99,in-store
+5507,130,2025-12-10,French Roast,8,16.99,online
+5508,78,2025-11-06,House Blend,5,22.0,in-store
+5509,129,2025-10-01,Morning Sunrise Blend,8,24.99,online
+5510,46,2025-12-12,House Blend,9,14.0,online
+5511,905,2025-08-21,Hawaiian Kona,4,13.99,in-store
+5512,11,2025-11-03,Kenya AA,8,14.99,online
+5513,87,2025-10-05,Chai Latte Mix,5,14.0,in-store
+5514,107,2025-01-19,Ethiopian Yirgacheffe,8,14.49,online
+5515,10,2025-10-01,Chocolate Raspberry,7,15.99,online
+5516,163,2025-08-23,Decaf House Blend,7,44.99,online
+5517,188,2025-02-09,French Press (32 oz),9,14.49,online
+5518,156,2025-02-10,Horizon Tumbler (16 oz),2,13.49,in-store
+5519,78,2025-05-12,House Blend,7,16.99,online
+5520,21,2025-10-20,French Press (32 oz),7,17.99,in-store
+5521,132,2025-07-11,Chocolate Raspberry,4,24.99,in-store
+5522,112,2025-01-24,Hawaiian Kona,3,29.99,in-store
+5523,174,2025-01-10,Jamaican Blue Mountain,5,16.99,online
+5524,71,2025-11-22,Hawaiian Kona,8,18.99,in-store
+5525,5,2025-05-28,Matcha Powder,6,15.99,online
+5526,118,2025-10-05,Caramel Pecan,7,21.99,in-store
+5527,4,2025-08-16,Espresso Classico,6,14.49,online
+5528,128,2025-07-19,Brazil Santos,9,24.99,online
+5529,147,2025-02-12,Sumatra Mandheling,8,13.99,wholesale
+5530,95,2025-12-12,Jamaican Blue Mountain,5,14.0,online
+5531,150,2025-08-01,Costa Rica Tarrazu,10,12.99,in-store
+5532,73,2025-10-03,Chocolate Raspberry,8,15.99,online
+5533,32,2025-02-26,Kenya AA,7,13.99,online
+5534,41,2025-04-22,Horizon Mug (12 oz),7,13.99,online
+5535,82,2025-12-18,Horizon Mug (12 oz),6,21.99,online
+5536,82,2025-07-26,Vanilla Hazelnut,9,13.99,online
+5537,116,2025-09-30,Costa Rica Tarrazu,3,13.49,online
+5538,168,2025-08-03,Costa Rica Tarrazu,2,13.49,in-store
+5539,163,2025-11-14,Ethiopian Yirgacheffe,10,15.99,online
+5540,147,2025-05-08,Horizon Tumbler (16 oz),7,16.99,online
+5541,176,2025-12-01,Sumatra Mandheling,6,16.99,in-store
+5542,50,2025-05-03,Burr Grinder,3,14.99,online
+5543,52,2025-01-16,Espresso Classico,3,49.99,online
+5544,63,2025-04-01,Chai Latte Mix,10,14.99,wholesale
+5545,29,2025-03-23,Pour-Over Kit,10,29.99,online
+5546,18,2025-09-24,Ethiopian Yirgacheffe,1,10.99,in-store
+5547,19,2025-10-03,Pour-Over Kit,7,29.99,in-store
+5548,166,2025-01-31,Chocolate Raspberry,1,14.99,online
+5549,186,2025-09-19,Horizon Mug (12 oz),1,12.99,online
+5550,32,2025-10-24,Kenya AA,3,59.99,online
+5551,44,2025-05-05,Morning Sunrise Blend,7,10.99,online
+5552,25,2025-09-09,Espresso Classico,2,14.99,in-store
+5553,88,2025-12-25,Jamaican Blue Mountain,8,14.49,in-store
+5554,10,2025-01-14,Horizon Mug (12 oz),3,15.49,in-store
+5555,93,2025-03-23,Matcha Powder,5,49.99,wholesale
+5556,183,2025-12-22,Decaf Colombian,5,15.49,in-store
+5557,99,2025-10-26,Hawaiian Kona,4,16.99,in-store
+5558,67,2025-09-22,Morning Sunrise Blend,9,22.0,in-store
+5559,44,2025-06-10,Morning Sunrise Blend,3,14.49,in-store
+5560,125,2025-03-31,Nitro Cold Brew,3,59.99,in-store
+5561,172,2025-04-25,Sumatra Mandheling,6,15.99,online
+5562,187,2025-09-13,Pour-Over Kit,2,21.99,online
+5563,4,2025-04-14,French Press (32 oz),9,44.99,online
+5564,161,2025-10-11,Kenya AA,6,13.99,online
+5565,138,2025-10-18,Burr Grinder,2,34.99,online
+5566,190,2025-08-22,Costa Rica Tarrazu,4,15.99,in-store
+5567,69,2025-02-02,Chocolate Raspberry,5,15.99,in-store
+5568,78,2025-10-25,Colombian Supremo,4,15.99,online
+5569,14,2025-08-15,Espresso Classico,2,13.99,online
+5570,139,2025-10-19,Caramel Pecan,4,,online
+5571,29,2025-10-29,Horizon Tumbler (16 oz),8,14.0,in-store
+5572,117,2025-05-19,Ethiopian Yirgacheffe,5,14.0,online
+5573,130,2025-06-03,Decaf House Blend,9,49.99,wholesale
+5574,88,2025-08-14,Hawaiian Kona,9,13.99,online
+5575,47,2025-09-18,Decaf House Blend,1,14.49,in-store
+5576,17,2025-08-15,Horizon Mug (12 oz),7,10.99,online
+5577,47,2025-06-07,Brazil Santos,2,14.0,online
+5578,136,2025-11-09,Decaf House Blend,2,10.99,online
+5579,83,2025-03-29,Costa Rica Tarrazu,4,14.0,online
+5580,41,2025-08-02,Espresso Classico,9,12.99,in-store
+5581,68,2025-06-20,Decaf House Blend,5,12.99,online
+5582,81,2025-08-02,Decaf Colombian,5,,in-store
+5583,15,2025-08-22,House Blend,6,21.99,in-store
+5584,902,2025-01-13,Brazil Santos,5,49.99,in-store
+5585,84,2025-04-21,Chocolate Raspberry,9,22.0,online
+5586,71,2025-09-03,Kenya AA,2,15.99,online
+5587,12,2025-12-28,Horizon Mug (12 oz),7,24.99,wholesale
+5588,156,2025-11-24,Caramel Pecan,7,14.99,online
+5589,113,2025-02-07,Aeropress,5,17.99,online
+5590,106,2025-06-03,French Press (32 oz),3,59.99,online
+5591,113,2025-12-05,Java Estate,6,14.49,in-store
+5592,75,2025-02-04,Matcha Powder,1,15.49,in-store
+5593,190,2025-04-20,Espresso Classico,6,44.99,in-store
+5594,118,2025-12-27,Morning Sunrise Blend,6,13.99,in-store
+5595,6,2025-07-22,Guatemala Antigua,2,21.99,online
+5596,136,2025-08-12,Colombian Supremo,9,12.99,online
+5597,84,2025-06-20,Pour-Over Kit,9,12.99,online
+5598,145,2025-03-23,Sumatra Mandheling,9,14.0,online
+5599,23,2025-04-08,Caramel Pecan,8,18.99,in-store
+5600,111,2025-03-19,French Press (32 oz),5,14.99,online
+5601,166,2025-12-21,Caramel Pecan,6,14.99,in-store
+5602,6,2025-07-19,French Roast,10,,online
+5603,110,2025-12-12,Guatemala Antigua,5,59.99,online
+5604,168,2025-07-01,Chai Latte Mix,4,14.0,in-store
+5605,148,2025-06-07,Guatemala Antigua,4,14.0,online
+5606,155,2025-06-28,Burr Grinder,1,14.0,online
+5607,81,2025-06-05,Aeropress,4,10.99,online
+5608,60,2025-03-12,Aeropress,4,14.0,online
+5609,32,2025-04-17,French Press (32 oz),7,16.99,online
+5610,103,2025-03-05,Brazil Santos,4,14.0,online
+5611,149,2025-04-18,Horizon Tumbler (16 oz),9,17.99,online
+5612,155,2025-02-16,Morning Sunrise Blend,6,11.99,online
+5613,66,2025-07-14,Vanilla Hazelnut,2,14.99,online
+5614,26,2025-08-11,Morning Sunrise Blend,6,49.99,in-store
+5615,59,2025-07-19,Matcha Powder,2,21.99,in-store
+5616,903,2025-05-08,Horizon Tumbler (16 oz),6,14.99,online
+5617,905,2025-01-20,Guatemala Antigua,3,24.99,online
+5618,190,2025-03-22,Chai Latte Mix,5,12.99,in-store
+5619,133,2025-02-26,Guatemala Antigua,3,12.99,in-store
+5620,53,2025-05-16,Jamaican Blue Mountain,7,21.99,online
+5621,7,2025-03-15,Espresso Classico,1,44.99,online
+5622,97,2025-03-22,Horizon Mug (12 oz),10,22.0,in-store
+5623,58,2025-09-01,Sumatra Mandheling,7,15.99,online
+5624,138,2025-11-23,Decaf Colombian,3,,in-store
+5625,66,2025-11-11,Guatemala Antigua,6,10.99,in-store
+5626,127,2025-09-21,Horizon Tumbler (16 oz),10,13.99,online
+5627,58,2025-07-26,Chai Latte Mix,2,22.0,online
+5628,64,2025-06-04,Java Estate,5,16.49,in-store
+5629,172,2025-05-17,Caramel Pecan,9,13.99,in-store
+5630,109,2025-01-18,Morning Sunrise Blend,3,14.49,in-store
+5631,162,2025-11-21,Colombian Supremo,4,16.49,online
+5632,42,2025-09-05,French Roast,6,16.99,in-store
+5633,148,2025-05-15,French Roast,8,13.99,online
+5634,72,2025-04-06,Nitro Cold Brew,9,39.99,online
+5635,125,2025-12-09,Horizon Mug (12 oz),9,14.99,in-store
+5636,68,2025-10-06,Sumatra Mandheling,6,11.99,in-store
+5637,118,2025-06-01,French Press (32 oz),2,17.99,in-store
+5638,116,2025-09-16,House Blend,9,15.99,wholesale
+5639,131,2025-01-09,Brazil Santos,3,29.99,in-store
+5640,135,2025-09-26,Cold Brew Concentrate,3,14.49,in-store
+5641,139,2025-02-21,Java Estate,9,16.49,online
+5642,159,2025-11-09,Java Estate,3,13.99,wholesale
+5643,13,2025-08-04,French Roast,5,13.49,wholesale
+5644,35,2025-12-29,Horizon Tumbler (16 oz),5,16.99,online
+5645,188,2025-07-30,Cold Brew Concentrate,10,15.99,online
+5646,42,2025-11-27,Horizon Mug (12 oz),4,13.49,in-store
+5647,64,2025-05-22,French Press (32 oz),6,15.99,online
+5648,186,2025-08-16,Horizon Tumbler (16 oz),10,10.99,online
+5649,84,2025-02-22,Ethiopian Yirgacheffe,2,13.99,online
+5650,60,2025-10-05,Chai Latte Mix,8,49.99,in-store
+5651,19,2025-01-21,Gooseneck Kettle,6,44.99,online
+5652,29,2025-12-30,Nitro Cold Brew,8,11.99,in-store
+5653,195,2025-11-05,Jamaican Blue Mountain,4,13.99,online
+5654,62,2025-08-10,Burr Grinder,8,29.99,in-store
+5655,198,2025-09-18,Hawaiian Kona,5,44.99,online
+5656,65,2025-09-06,Morning Sunrise Blend,2,16.99,online
+5657,152,2025-12-29,House Blend,5,17.99,wholesale
+5658,145,2025-12-08,French Roast,10,13.99,in-store
+5659,152,2025-05-03,French Press (32 oz),2,14.49,online
+5660,155,2025-06-27,House Blend,7,24.99,in-store
+5661,118,2025-11-18,Caramel Pecan,9,14.99,wholesale
+5662,7,2025-06-18,Brazil Santos,10,16.49,online
+5663,8,2025-07-03,Horizon Tumbler (16 oz),8,59.99,in-store
+5664,64,2025-08-23,Hawaiian Kona,8,34.99,online
+5665,197,2025-10-08,Pour-Over Kit,3,13.99,in-store
+5666,193,2025-02-15,Morning Sunrise Blend,3,59.99,online
+5667,190,2025-02-21,Pour-Over Kit,4,14.49,in-store
+5668,104,2025-07-15,Espresso Classico,10,12.99,in-store
+5669,125,2025-07-05,Morning Sunrise Blend,6,34.99,online
+5670,83,2025-09-17,Ethiopian Yirgacheffe,2,13.99,in-store
+5671,194,2025-12-23,Chocolate Raspberry,9,16.49,online
+5672,183,2025-06-24,Cold Brew Concentrate,7,59.99,online
+5673,99,2025-02-12,Kenya AA,5,18.99,in-store
+5674,11,2025-05-21,Java Estate,9,,in-store
+5675,178,2025-11-28,Java Estate,4,44.99,online
+5676,76,2025-08-13,Java Estate,1,59.99,in-store
+5677,146,2025-10-25,Brazil Santos,7,16.49,in-store
+5678,100,2025-07-06,Horizon Tumbler (16 oz),5,24.99,in-store
+5679,95,2025-02-09,Morning Sunrise Blend,4,14.49,in-store
+5680,180,2025-09-17,Java Estate,9,14.49,online
+5681,27,2025-12-26,Pour-Over Kit,10,15.99,in-store
+5682,58,2025-08-24,Decaf Colombian,5,14.49,in-store
+5683,112,2025-10-14,Sumatra Mandheling,3,16.99,in-store
+5684,123,2025-02-03,Burr Grinder,3,15.99,in-store
+5685,65,2025-08-09,Gooseneck Kettle,1,24.99,in-store
+5686,102,2025-12-12,Brazil Santos,8,49.99,in-store
+5687,131,2025-12-15,House Blend,3,14.0,in-store
+5688,157,2025-02-06,Colombian Supremo,6,14.49,online
+5689,187,2025-04-02,Costa Rica Tarrazu,4,15.99,wholesale
+5690,127,2025-07-26,Horizon Tumbler (16 oz),2,14.49,online
+5691,100,2025-03-12,Pour-Over Kit,7,13.49,in-store
+5692,80,2025-05-10,Morning Sunrise Blend,3,24.99,online
+5693,103,2025-11-21,Brazil Santos,4,12.99,wholesale
+5694,25,2025-02-01,Vanilla Hazelnut,5,16.99,in-store
+5695,96,2025-09-28,Kenya AA,3,,wholesale
+5696,79,2025-02-05,Ethiopian Yirgacheffe,10,14.49,online
+5697,159,2025-06-26,Decaf House Blend,3,13.99,online
+5698,40,2025-08-14,Cold Brew Concentrate,6,14.49,online
+5699,46,2025-01-16,Vanilla Hazelnut,3,29.99,in-store
+5700,31,2025-06-28,Pour-Over Kit,5,39.99,online
+5701,43,2025-03-21,Gooseneck Kettle,2,12.99,online
+5702,117,2025-08-18,Aeropress,9,29.99,online
+5703,17,2025-09-09,Espresso Classico,4,12.99,online
+5704,92,2025-12-04,Colombian Supremo,8,34.99,in-store
+5705,26,2025-06-14,Burr Grinder,9,15.99,in-store
+5706,180,2025-11-26,Chocolate Raspberry,9,13.49,in-store
+5707,115,2025-08-07,Horizon Mug (12 oz),4,49.99,wholesale
+5708,126,2025-09-05,Ethiopian Yirgacheffe,8,17.99,online
+5709,198,2025-04-07,Jamaican Blue Mountain,1,13.99,in-store
+5710,151,2025-06-10,Horizon Tumbler (16 oz),10,13.99,online
+5711,13,2025-10-03,Jamaican Blue Mountain,7,13.99,online
+5712,112,2025-09-18,Horizon Tumbler (16 oz),9,13.99,in-store
+5713,55,2025-12-31,Kenya AA,8,16.49,in-store
+5714,127,2025-01-24,Brazil Santos,10,21.99,in-store
+5715,177,2025-12-04,Kenya AA,5,16.99,wholesale
+5716,46,2025-07-25,French Roast,4,12.99,wholesale
+5717,64,2025-12-15,Cold Brew Concentrate,5,44.99,wholesale
+5718,161,2025-05-20,Jamaican Blue Mountain,4,44.99,in-store
+5719,904,2025-09-07,French Roast,5,29.99,wholesale
+5720,904,2025-04-25,Colombian Supremo,8,15.49,in-store
+5721,41,2025-06-17,Gooseneck Kettle,8,15.99,online
+5722,175,2025-05-26,Matcha Powder,7,49.99,in-store
+5723,195,2025-04-14,Kenya AA,7,29.99,in-store
+5724,128,2025-08-29,Brazil Santos,3,13.99,wholesale
+5725,10,2025-12-22,French Press (32 oz),7,16.49,online
+5726,158,2025-11-02,Morning Sunrise Blend,8,22.0,online
+5727,129,2025-06-12,Horizon Mug (12 oz),4,14.0,online
+5728,902,2025-08-25,Espresso Classico,5,39.99,online
+5729,101,2025-04-26,French Roast,3,49.99,in-store
+5730,169,2025-02-05,Horizon Tumbler (16 oz),8,16.99,in-store
+5731,74,2025-06-12,Chocolate Raspberry,3,15.49,in-store
+5732,105,2025-03-28,Vanilla Hazelnut,9,16.99,in-store
+5733,10,2025-07-15,Guatemala Antigua,2,,online
+5734,100,2025-11-18,Horizon Mug (12 oz),10,17.99,in-store
+5735,6,2025-07-17,Nitro Cold Brew,8,39.99,in-store
+5736,116,2025-05-09,Aeropress,4,10.99,online
+5737,117,2025-07-04,Decaf House Blend,3,14.99,in-store
+5738,188,2025-07-08,Costa Rica Tarrazu,7,29.99,in-store
+5739,77,2025-10-05,Guatemala Antigua,1,14.99,online
+5740,33,2025-08-04,French Press (32 oz),6,13.99,wholesale
+5741,116,2025-06-16,Decaf Colombian,7,14.99,online
+5742,136,2025-10-19,Brazil Santos,4,13.99,in-store
+5743,169,2025-10-08,Pour-Over Kit,10,12.99,wholesale
+5744,96,2025-08-29,Nitro Cold Brew,5,13.99,online
+5745,77,2025-04-22,Gooseneck Kettle,10,11.99,online
+5746,169,2025-08-15,French Roast,9,,online
+5747,146,2025-12-15,Chai Latte Mix,3,29.99,wholesale
+5748,103,2025-08-28,Caramel Pecan,4,15.49,online
+5749,196,2025-11-10,Aeropress,8,14.49,in-store
+5750,10,2025-01-11,Chai Latte Mix,2,,online
+5751,14,2025-07-02,Espresso Classico,2,14.49,wholesale
+5752,55,2025-06-11,Jamaican Blue Mountain,2,12.99,in-store
+5753,122,2025-10-15,Espresso Classico,3,49.99,online
+5754,42,2025-07-29,House Blend,2,13.99,wholesale
+5755,121,2025-05-08,Matcha Powder,5,24.99,in-store
+5756,38,2025-03-11,Aeropress,8,17.99,in-store
+5757,123,2025-07-05,Costa Rica Tarrazu,1,14.49,in-store
+5758,47,2025-10-18,Decaf Colombian,1,12.99,wholesale
+5759,22,2025-11-16,Gooseneck Kettle,6,15.99,online
+5760,39,2025-12-31,Kenya AA,4,21.99,online
+5761,91,2025-10-30,Cold Brew Concentrate,8,16.99,in-store
+5762,65,2025-01-13,Brazil Santos,9,29.99,wholesale
+5763,14,2025-08-18,Nitro Cold Brew,4,24.99,online
+5764,70,2025-10-10,Horizon Tumbler (16 oz),8,10.99,online
+5765,160,2025-04-13,Ethiopian Yirgacheffe,10,16.99,online
+5766,10,2025-07-07,Matcha Powder,5,24.99,online
+5767,109,2025-05-14,House Blend,6,15.49,wholesale
+5768,69,2025-12-08,Sumatra Mandheling,8,39.99,in-store
+5769,30,2025-05-05,Ethiopian Yirgacheffe,3,34.99,in-store
+5770,40,2025-02-08,Caramel Pecan,4,,online
+5771,903,2025-11-17,Burr Grinder,10,15.99,online
+5772,162,2025-11-10,Burr Grinder,6,34.99,in-store
+5773,52,2025-02-16,Aeropress,2,,online
+5774,60,2025-06-14,Brazil Santos,1,24.99,online
+5775,51,2025-08-29,Matcha Powder,8,18.99,in-store
+5776,16,2025-04-01,Decaf Colombian,3,13.99,online
+5777,139,2025-02-08,Caramel Pecan,4,24.99,online
+5778,194,2025-10-31,Java Estate,3,13.49,in-store
+5779,164,2025-06-26,Jamaican Blue Mountain,4,11.99,online
+5780,168,2025-02-03,Gooseneck Kettle,5,49.99,in-store
+5781,188,2025-02-10,Colombian Supremo,10,14.0,in-store
+5782,115,2025-07-05,Ethiopian Yirgacheffe,2,14.49,in-store
+5783,17,2025-08-19,Caramel Pecan,5,22.0,in-store
+5784,95,2025-10-07,Decaf House Blend,5,14.0,online
+5785,151,2025-08-27,Costa Rica Tarrazu,1,24.99,online
+5786,104,2025-07-17,Decaf Colombian,8,14.99,online
+5787,36,2025-11-20,Pour-Over Kit,6,13.49,wholesale
+5788,112,2025-04-05,Pour-Over Kit,3,15.49,in-store
+5789,904,2025-09-12,Guatemala Antigua,5,14.49,online
+5790,141,2025-09-13,Hawaiian Kona,4,13.99,online
+5791,41,2025-02-04,Decaf House Blend,1,12.99,wholesale
+5792,156,2025-09-11,Jamaican Blue Mountain,3,15.99,in-store
+5793,4,2025-12-17,Jamaican Blue Mountain,3,14.49,in-store
+5794,154,2025-07-11,Guatemala Antigua,9,49.99,online
+5795,95,2025-07-09,Caramel Pecan,8,15.99,online
+5796,84,2025-06-10,Matcha Powder,4,39.99,in-store
+5797,122,2025-06-19,Pour-Over Kit,5,13.99,online
+5798,83,2025-10-31,Pour-Over Kit,10,39.99,online
+5799,64,2025-06-10,Decaf House Blend,10,12.99,in-store
+5800,193,2025-09-09,Guatemala Antigua,10,14.49,online

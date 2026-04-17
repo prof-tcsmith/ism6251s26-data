@@ -1,0 +1,701 @@
+age,heart_rate,blood_pressure_systolic,blood_pressure_diastolic,temperature_f,respiratory_rate,oxygen_saturation,pain_score,arrival_mode,time_of_arrival_hour,is_weekend,num_previous_er_visits,has_chronic_condition,currently_on_medications,allergies_count,bmi,chief_complaint_notes,triage_level
+44,82,131,126,100.9,13,97.1,0,0,5,1,0,0,0,0,22.9,cough vomiting states patient reports prescription refill swelling fever,Non-Urgent
+36,71,130,81,98.1,34,94.4,0,1,17,0,1,0,1,0,30.6,rash no allergies fever,Non-Urgent
+46,77,89,80,98.6,23,97.8,3,1,23,0,1,0,1,0,32.6,fever abdominal no allergies chest weakness,Urgent
+22,76,106,91,98.4,18,97.4,0,0,19,0,3,1,1,1,33.9,patient reports rash history of,Urgent
+72,113,82,82,94.8,17,100.0,4,0,20,1,0,0,1,1,31.0,patient reports severe abdominal rash moderate states,Emergent
+35,75,192,57,98.3,16,92.3,9,0,14,0,2,0,0,2,31.3,dizziness vomiting days ago abdominal back patient reports,Emergent
+68,91,80,69,99.0,10,94.7,8,0,7,0,3,0,0,1,34.4,associated chest dizziness nausea,Emergent
+77,47,122,83,96.5,11,99.6,0,0,2,0,5,0,0,0,22.3,cough vomiting rash started,Non-Urgent
+21,95,99,75,99.2,17,93.2,6,2,15,0,3,0,1,2,30.0,worsening back onset alert oriented,Non-Urgent
+30,93,123,57,97.7,23,97.3,0,0,9,0,2,1,0,0,24.7,started nausea abdominal vomiting,Emergent
+25,97,92,55,96.4,25,84.9,7,0,0,0,0,0,0,4,32.2,dizziness no allergies swelling taking medication nausea history of fever,Emergent
+22,60,111,126,97.0,8,94.4,5,0,21,1,4,0,1,0,28.8,presenting with days ago intermittent days ago pain intermittent,Non-Urgent
+64,136,152,63,99.3,19,91.7,0,2,14,1,3,0,0,4,34.4,weakness vomiting complains of presenting with,Non-Urgent
+30,97,133,82,97.2,16,96.2,2,0,13,0,3,0,0,2,21.5,pain patient reports swelling prescription refill swelling vomiting,Non-Urgent
+46,96,100,75,97.7,25,97.2,8,0,2,1,1,0,0,1,29.1,rash states intermittent cough states alert oriented,Urgent
+52,50,99,102,95.7,8,95.0,3,0,14,0,4,0,0,3,32.5,alert oriented abdominal swelling abdominal breathing,Non-Urgent
+28,94,152,95,99.5,16,93.6,9,0,10,0,5,1,1,1,37.4,headache taking medication pain altered mental alert oriented alert oriented swelling,Emergent
+65,86,151,87,99.0,13,86.1,5,0,22,1,3,1,0,2,34.9,swelling patient reports denies sprained ankle no allergies associated no allergies moderate,Urgent
+87,116,174,90,95.2,8,89.9,7,0,0,1,4,0,0,0,26.3,weakness states onset,Emergent
+80,108,175,77,97.3,12,95.5,2,0,20,0,0,1,1,1,22.3,swelling complains of days ago insect bite states swelling,Non-Urgent
+38,131,80,101,100.1,21,95.3,4,0,23,0,1,1,0,3,27.9,worsening complains of persistent cough pain,Urgent
+7,87,80,71,98.6,16,100.0,0,0,4,0,3,0,0,0,37.5,onset pain vomiting,Urgent
+53,114,157,108,98.0,13,94.2,10,0,1,1,5,1,1,2,20.3,swelling states days ago days ago presenting with pain,Emergent
+110,40,91,95,99.5,8,99.3,2,0,16,1,0,1,1,0,33.2,weakness alert oriented worsening taking medication worsening moderate no allergies prescription refill,Non-Urgent
+33,76,159,79,99.7,14,99.0,8,1,6,0,4,0,1,1,26.9,started severe hemorrhage weakness started,Immediate
+22,105,94,80,98.6,14,92.8,3,0,15,0,2,0,0,2,33.3,nausea cough presenting with back dizziness abdominal,Emergent
+29,92,160,93,96.3,19,99.9,3,2,7,1,2,1,1,1,31.3,vomiting onset fever unresponsive fever,Immediate
+40,94,122,72,98.5,20,96.1,3,1,14,0,3,0,1,3,35.8,weakness cough denies denies,Emergent
+63,87,161,97,99.0,15,97.1,6,0,17,0,4,1,0,0,30.1,follow up patient reports no allergies back days ago days ago moderate swelling,Non-Urgent
+49,90,153,77,99.5,22,90.6,8,0,2,0,3,0,0,0,27.0,weakness breathing cough chest pain difficulty breathing,Emergent
+75,60,176,50,96.2,18,99.2,0,0,21,0,0,0,0,0,21.3,patient reports complains of follow up abdominal days ago,Non-Urgent
+46,69,169,115,96.0,31,95.9,2,0,18,0,2,0,1,1,18.7,cough breathing onset vomiting complains of complains of patient reports,Non-Urgent
+84,40,100,55,96.0,16,100.0,3,0,21,1,1,1,1,0,23.6,fever moderate worsening,Non-Urgent
+67,87,125,100,100.0,15,100.0,0,0,15,0,3,0,1,2,38.9,laceration vomiting weakness weakness denies,Urgent
+47,105,200,54,98.2,14,84.9,8,1,21,0,0,1,0,0,25.0,nausea dizziness taking medication back unresponsive,Immediate
+41,80,147,115,96.4,10,100.0,2,0,0,1,3,0,0,0,32.2,associated weakness chest fever weakness chest severe abdominal,Emergent
+64,72,130,93,97.7,16,87.3,0,0,15,1,2,0,0,0,38.0,abdominal prescription refill alert oriented complains of,Non-Urgent
+55,139,102,73,94.5,10,93.1,6,2,3,0,3,0,0,1,21.8,fever worsening moderate swelling alert oriented no allergies complains of,Urgent
+28,101,118,68,97.3,20,88.2,9,0,23,0,1,0,0,0,29.9,presenting with patient reports alert oriented headache patient reports prescription refill cough,Non-Urgent
+21,92,129,99,95.3,10,96.5,3,1,14,1,3,1,1,0,27.3,abdominal sprained ankle complains of vomiting dizziness dizziness started alert oriented,Urgent
+48,107,121,70,100.6,13,93.4,6,1,9,0,3,0,1,4,29.2,denies started started breathing vomiting cardiac arrest,Immediate
+60,89,93,53,97.9,22,92.8,8,0,3,1,2,0,0,2,23.1,dizziness presenting with breathing laceration,Urgent
+39,100,205,108,96.7,22,88.4,8,1,23,1,1,0,1,2,22.8,complains of history of chest,Emergent
+51,79,176,110,100.5,16,79.5,1,0,4,0,3,0,1,0,27.7,fever patient reports swelling moderate weakness chest denies follow up,Non-Urgent
+31,41,117,96,99.2,8,95.5,2,0,2,0,4,0,0,1,24.1,associated denies fever states onset onset nausea,Urgent
+11,61,98,105,96.8,11,91.5,4,0,16,1,0,0,0,1,30.5,headache vomiting nausea moderate taking medication swelling associated,Urgent
+57,77,104,85,101.4,15,93.9,0,1,9,0,2,0,1,2,19.4,alert oriented abdominal nausea denies days ago,Non-Urgent
+61,81,82,72,97.6,9,99.2,0,1,4,0,3,0,0,1,21.4,back dizziness moderate prescription refill,Non-Urgent
+60,72,93,61,98.7,12,100.0,0,1,7,1,1,0,1,1,26.7,vomiting patient reports patient reports,Non-Urgent
+63,105,150,116,96.8,20,100.0,0,0,10,0,2,1,0,2,30.6,nausea vomiting alert oriented headache chest weakness taking medication,Non-Urgent
+52,80,187,69,100.9,17,100.0,6,0,20,0,2,0,0,1,33.2,swelling history of cough persistent cough nausea,Urgent
+31,50,141,126,98.3,22,100.0,6,0,13,0,2,0,0,0,22.4,patient reports breathing dizziness sprained ankle alert oriented,Urgent
+53,99,124,94,102.6,11,100.0,1,0,21,0,2,1,1,0,19.9,headache laceration alert oriented taking medication,Urgent
+67,102,137,81,99.1,17,96.0,2,0,2,0,1,0,1,3,25.1,presenting with prescription refill onset weakness,Non-Urgent
+90,114,133,72,99.7,13,91.4,7,2,23,0,2,1,0,0,21.8,onset abdominal severe hemorrhage intermittent worsening complains of,Immediate
+49,104,157,73,97.4,13,97.1,8,1,1,1,3,0,0,1,26.3,taking medication onset chest headache,Immediate
+64,68,162,63,98.7,13,94.8,4,0,16,0,1,0,1,1,31.0,worsening laceration states denies nausea chest presenting with vomiting,Urgent
+49,99,160,68,99.7,22,95.9,0,1,13,0,4,0,1,0,32.6,onset pain patient reports patient reports persistent cough back,Urgent
+69,117,163,83,100.3,18,92.2,6,2,6,1,2,0,1,1,31.1,onset pain chest intermittent vomiting,Immediate
+49,123,138,63,99.1,19,86.0,1,0,3,0,3,0,1,3,27.4,history of patient reports nausea altered mental states,Emergent
+66,88,99,69,99.8,26,100.0,2,0,19,0,4,0,1,0,23.1,dizziness complains of worsening alert oriented insect bite pain abdominal,Non-Urgent
+6,100,129,66,98.5,8,100.0,2,0,5,0,1,1,0,0,27.9,complains of pain pain sprained ankle nausea weakness moderate fever,Urgent
+63,121,174,85,99.5,20,92.8,5,0,0,0,2,0,1,1,30.3,fever intermittent chest headache vomiting cough,Urgent
+18,91,108,86,95.5,9,92.0,10,2,22,0,1,0,0,0,27.1,presenting with worsening onset,Emergent
+54,90,192,112,100.4,11,91.4,9,0,23,0,1,1,0,2,28.5,worsening breathing breathing chest onset cough,Immediate
+56,82,138,111,100.4,28,94.3,5,0,2,0,0,0,0,3,34.0,breathing taking medication intermittent complains of,Urgent
+33,62,156,64,97.6,12,96.3,10,0,8,0,1,1,0,1,21.3,breathing alert oriented alert oriented cough pain intermittent patient reports sprained ankle,Urgent
+62,104,117,55,98.5,11,86.4,1,0,10,0,2,0,0,2,34.5,days ago started patient reports breathing pain back persistent cough started,Urgent
+41,54,164,98,98.6,19,92.5,0,0,13,1,5,1,1,1,26.1,pain rash chest no allergies,Urgent
+53,128,161,74,100.8,15,100.0,0,1,9,0,1,0,0,1,20.6,intermittent associated swelling,Emergent
+51,105,115,82,99.3,16,93.9,8,1,3,0,2,0,0,0,26.3,associated days ago denies rash dizziness,Urgent
+42,89,115,72,96.4,9,97.8,0,2,13,0,2,0,0,1,27.9,moderate chest headache onset sprained ankle taking medication,Urgent
+48,61,80,60,97.8,12,99.2,3,0,22,1,2,0,1,1,31.6,moderate back history of abdominal,Non-Urgent
+39,110,166,87,99.6,23,97.0,9,0,2,1,0,0,1,1,35.1,fever nausea patient reports prescription refill denies,Non-Urgent
+49,140,137,101,100.4,18,96.8,7,1,23,0,4,0,1,0,29.1,weakness history of intermittent rash abdominal history of alert oriented,Immediate
+62,113,169,90,94.9,15,95.9,5,0,14,0,2,0,0,0,15.6,onset complains of associated fever,Emergent
+40,82,105,92,100.6,22,86.8,6,0,2,1,2,0,1,1,29.8,chest complains of complains of nausea vomiting,Emergent
+30,125,141,99,97.8,21,99.6,9,0,0,1,6,0,1,1,26.7,pain worsening rash denies,Emergent
+48,90,80,50,97.7,20,94.0,8,2,21,0,1,1,0,2,29.4,worsening abdominal alert oriented alert oriented cough,Immediate
+50,81,137,105,99.2,22,93.9,0,0,2,0,1,1,0,2,32.5,cough laceration headache taking medication,Urgent
+49,97,112,66,97.6,19,99.5,2,0,19,0,0,0,1,3,25.4,alert oriented taking medication patient reports insect bite onset weakness worsening,Non-Urgent
+58,56,164,105,99.5,17,100.0,2,0,8,0,2,1,0,1,29.5,onset associated weakness patient reports denies back,Non-Urgent
+31,65,80,100,99.6,28,95.8,6,0,18,0,3,1,0,3,30.4,denies laceration fever patient reports chest breathing onset,Urgent
+37,109,87,111,98.2,17,93.4,4,0,18,0,1,0,0,0,25.3,sprained ankle swelling taking medication states worsening taking medication,Urgent
+64,103,186,50,100.1,18,97.9,6,0,8,0,2,0,0,2,28.4,back complains of worsening laceration fever back fever,Urgent
+39,79,94,60,96.7,24,94.9,3,0,20,0,0,0,1,1,36.6,states no allergies worsening,Urgent
+37,99,100,54,97.5,20,100.0,0,0,19,1,1,0,1,4,22.4,onset days ago no allergies,Urgent
+43,117,128,69,98.8,11,97.1,0,1,5,0,0,0,0,1,25.2,intermittent intermittent days ago insect bite nausea rash days ago moderate,Non-Urgent
+68,87,145,63,98.8,20,90.8,7,0,19,0,1,0,1,0,18.8,onset headache associated rash,Urgent
+47,66,176,91,100.7,10,95.4,4,1,5,0,2,0,0,0,29.7,dizziness breathing back weakness associated complains of back,Urgent
+17,68,110,100,99.1,18,92.6,9,0,16,0,1,0,0,2,22.8,rash states started,Urgent
+61,126,158,86,95.7,29,85.4,0,1,23,0,0,1,1,0,27.3,cough complains of days ago cough intermittent worsening alert oriented,Immediate
+62,94,101,50,99.5,17,87.2,4,0,19,0,2,1,0,2,29.5,headache no allergies started no allergies history of patient reports breathing,Urgent
+37,81,133,54,98.2,11,93.1,6,0,2,0,1,1,0,1,26.7,complains of denies cough,Emergent
+51,101,87,102,97.9,26,90.1,2,0,12,0,2,1,0,0,27.1,abdominal started moderate no allergies,Immediate
+40,59,121,76,99.5,16,95.1,4,1,22,0,2,0,0,2,28.2,back pain presenting with fever abdominal vomiting,Urgent
+62,52,134,67,98.6,14,85.8,3,1,15,0,2,0,0,2,20.6,insect bite dizziness states chest,Non-Urgent
+73,79,139,50,98.9,8,90.9,0,0,15,0,1,0,1,1,38.7,breathing intermittent difficulty breathing states,Emergent
+50,81,120,74,99.1,27,98.5,3,0,6,0,2,0,0,2,27.6,headache states sprained ankle alert oriented,Urgent
+45,87,158,102,98.4,20,93.8,7,0,4,0,2,0,0,2,37.5,intermittent patient reports swelling breathing no allergies taking medication persistent cough rash,Urgent
+7,130,135,69,97.0,31,87.6,3,2,4,0,3,0,0,0,30.2,breathing headache chest,Immediate
+60,76,86,51,101.9,8,94.6,0,0,7,1,3,0,1,1,26.5,worsening history of fever prescription refill back denies,Non-Urgent
+37,63,87,75,99.7,13,92.7,8,2,19,1,2,0,0,0,25.0,vomiting states weakness,Emergent
+65,98,90,88,100.0,20,98.6,0,0,4,0,4,1,0,4,31.4,no allergies moderate abdominal complains of swelling complains of associated,Non-Urgent
+22,62,111,66,94.2,10,90.8,6,1,3,0,2,0,0,0,27.6,intermittent days ago complains of breathing sprained ankle headache abdominal swelling,Urgent
+63,47,124,114,93.9,19,100.0,0,0,21,0,2,0,1,1,22.1,vomiting fever history of onset follow up dizziness history of presenting with,Non-Urgent
+19,115,115,85,98.4,11,97.8,0,0,12,0,4,0,0,1,32.9,cough prescription refill abdominal back,Non-Urgent
+90,87,163,72,97.9,18,91.5,3,1,5,0,0,0,1,0,30.9,rash swelling presenting with worsening,Emergent
+41,71,118,93,99.6,13,100.0,2,2,17,1,1,0,1,3,29.3,swelling worsening breathing days ago started abdominal,Non-Urgent
+52,95,189,68,96.9,20,100.0,4,1,4,0,4,0,0,1,28.5,intermittent intermittent headache fever insect bite headache pain headache,Non-Urgent
+29,76,115,55,97.3,12,98.1,5,0,0,0,1,1,1,1,18.9,onset nausea abdominal presenting with weakness severe abdominal started abdominal,Emergent
+81,45,114,112,100.0,17,99.2,0,0,4,1,2,0,1,0,30.5,swelling prescription refill no allergies vomiting rash denies started dizziness,Non-Urgent
+70,99,138,85,99.4,29,95.2,3,1,12,0,1,0,1,1,25.1,abdominal rash difficulty breathing taking medication breathing,Emergent
+79,63,81,102,99.5,18,94.5,6,0,14,0,1,0,0,0,19.3,nausea no allergies fever headache denies,Urgent
+67,85,153,63,96.1,8,94.0,3,0,9,0,2,0,1,1,24.1,pain swelling intermittent taking medication,Non-Urgent
+69,80,136,123,96.7,28,96.6,7,0,3,0,2,0,0,0,28.9,taking medication breathing moderate states,Urgent
+37,97,102,77,96.1,15,87.5,2,1,17,0,3,1,0,1,26.0,laceration no allergies started breathing moderate days ago,Urgent
+17,106,106,86,99.7,23,100.0,3,0,20,0,3,0,0,1,20.2,follow up history of history of chest vomiting back,Non-Urgent
+46,120,171,58,98.3,20,100.0,7,0,9,0,4,0,0,0,19.3,no allergies taking medication cough fever started,Emergent
+54,95,148,124,96.1,16,96.0,10,2,18,0,2,0,0,0,22.4,days ago breathing onset,Emergent
+42,82,138,102,94.7,18,94.9,3,0,12,1,2,0,0,0,29.9,no allergies states intermittent complains of follow up presenting with cough started,Non-Urgent
+65,105,160,72,97.7,18,100.0,0,2,22,1,8,0,0,0,38.1,associated sprained ankle denies cough,Urgent
+12,85,124,88,97.6,17,100.0,0,0,7,0,2,0,0,0,29.4,swelling headache denies abdominal insect bite onset,Non-Urgent
+84,80,148,96,99.1,11,93.1,9,2,20,0,2,1,1,2,29.1,fever abdominal associated worsening chest alert oriented,Urgent
+69,95,134,50,99.5,25,88.7,6,0,0,0,1,0,0,0,25.7,pain weakness patient reports difficulty breathing,Emergent
+80,99,166,76,100.0,21,87.3,4,0,15,0,3,1,0,1,37.7,taking medication presenting with cough cough prescription refill,Non-Urgent
+18,97,161,80,102.1,8,99.9,9,0,4,0,1,0,0,1,30.5,fever associated breathing back onset severe abdominal complains of,Emergent
+46,127,165,115,99.8,19,100.0,4,0,17,0,3,1,0,1,22.9,moderate headache no allergies dizziness abdominal onset states,Urgent
+59,76,130,111,97.8,14,96.8,2,0,12,0,1,0,1,1,27.3,states abdominal alert oriented worsening back no allergies,Non-Urgent
+48,89,134,101,95.9,16,100.0,5,0,13,0,1,0,1,0,30.5,states abdominal rash states headache,Non-Urgent
+36,104,100,65,98.2,9,89.6,0,0,20,1,3,0,0,1,29.6,patient reports weakness presenting with laceration,Urgent
+10,105,103,93,97.7,24,100.0,5,1,20,1,3,1,1,0,34.7,prescription refill nausea days ago breathing days ago onset worsening denies,Non-Urgent
+69,111,120,78,94.2,13,100.0,6,0,2,0,3,0,1,2,29.5,onset complains of swelling fever prescription refill breathing complains of,Non-Urgent
+16,122,109,51,99.0,24,94.6,3,0,9,0,1,0,1,0,27.6,associated severe abdominal chest fever patient reports weakness taking medication intermittent,Emergent
+49,107,105,85,96.7,34,100.0,4,0,17,0,1,0,0,1,33.9,states days ago abdominal moderate no allergies states swelling,Non-Urgent
+39,97,151,90,99.3,24,100.0,4,1,4,1,0,1,0,2,26.6,back no allergies abdominal back history of,Urgent
+18,100,104,71,97.8,14,89.5,0,0,9,1,1,1,0,0,35.2,insect bite rash history of alert oriented dizziness alert oriented worsening moderate,Non-Urgent
+47,64,163,72,100.4,28,98.5,6,0,16,0,2,0,0,1,23.5,headache worsening worsening worsening alert oriented onset denies,Non-Urgent
+48,82,180,94,97.8,14,95.4,6,0,14,1,5,1,0,4,35.1,associated started swelling worsening,Emergent
+62,100,136,86,98.2,33,100.0,8,0,10,0,1,1,1,0,33.6,taking medication fever cough altered mental,Emergent
+58,64,199,82,97.0,18,94.9,5,0,22,0,4,0,0,0,30.6,vomiting back altered mental headache,Emergent
+34,92,133,100,98.3,10,100.0,9,0,16,0,1,1,0,1,19.3,vomiting onset alert oriented,Urgent
+29,107,89,100,99.3,24,88.9,1,0,8,0,0,1,0,2,30.0,intermittent onset alert oriented onset associated,Urgent
+28,87,145,96,97.9,16,100.0,5,0,9,0,2,0,0,3,27.9,abdominal rash nausea difficulty breathing taking medication headache,Emergent
+65,74,190,78,98.3,16,91.0,2,2,13,1,1,0,0,0,30.0,sprained ankle worsening onset taking medication breathing moderate weakness dizziness,Urgent
+27,79,168,91,95.8,12,92.0,0,1,21,1,2,0,0,0,31.2,onset sprained ankle dizziness fever fever complains of,Urgent
+62,106,151,94,97.2,18,95.7,2,0,17,0,5,0,0,0,28.2,chest associated abdominal worsening complains of days ago states,Urgent
+14,62,150,71,97.6,20,90.0,3,2,17,1,3,0,0,1,35.5,started pain patient reports complains of difficulty breathing alert oriented,Emergent
+49,72,143,50,99.7,22,96.6,1,0,21,0,2,0,1,1,30.3,chest headache history of presenting with breathing prescription refill,Non-Urgent
+58,57,80,104,98.0,22,93.6,4,2,9,0,2,1,1,2,18.4,patient reports taking medication complains of intermittent weakness,Urgent
+55,102,106,66,98.1,17,99.4,1,0,2,0,1,0,1,1,34.8,history of denies vomiting,Urgent
+36,122,120,87,101.8,16,94.5,5,0,20,0,1,1,0,1,34.3,patient reports weakness chest vomiting,Urgent
+42,98,154,79,97.4,11,91.7,7,2,5,0,1,1,1,1,23.6,breathing nausea chest started associated,Urgent
+76,109,140,75,100.0,18,89.4,2,0,4,0,1,1,1,0,28.1,swelling pain no allergies cough laceration,Urgent
+49,116,123,50,96.7,23,91.4,5,2,17,0,2,0,0,0,29.1,complains of days ago patient reports no allergies complains of rash,Emergent
+46,112,121,69,100.8,11,91.9,6,0,14,0,3,0,0,0,24.9,complains of taking medication laceration moderate,Urgent
+77,96,164,68,96.3,17,89.9,4,0,11,1,3,0,1,0,31.3,rash severe hemorrhage vomiting abdominal taking medication,Immediate
+52,40,91,100,98.9,14,95.5,3,1,7,0,0,0,0,1,31.5,cough onset cough,Urgent
+37,103,151,81,98.6,8,98.1,2,0,16,0,1,0,0,1,30.1,chest fever dizziness vomiting patient reports,Emergent
+62,51,133,57,96.9,21,95.7,0,0,23,0,1,0,0,0,23.3,moderate moderate back complains of moderate,Urgent
+27,106,101,77,99.9,17,97.3,0,0,0,0,3,0,0,1,25.8,history of insect bite moderate vomiting back breathing cough,Non-Urgent
+32,100,119,91,98.2,16,89.7,1,0,17,0,2,1,0,1,29.1,days ago rash associated sprained ankle abdominal,Urgent
+42,78,182,76,95.9,16,98.7,8,0,13,0,3,1,0,1,35.7,intermittent moderate taking medication vomiting patient reports denies days ago,Urgent
+61,86,122,112,102.9,18,99.3,0,0,15,0,2,0,0,5,21.9,intermittent fever dizziness associated persistent cough weakness breathing,Urgent
+25,76,151,96,98.6,15,83.5,6,0,19,0,2,0,1,0,37.3,worsening alert oriented dizziness headache abdominal denies,Emergent
+66,117,147,95,95.7,15,100.0,9,1,12,0,2,0,1,1,27.9,back abdominal breathing alert oriented chest,Urgent
+52,76,191,64,96.1,21,93.0,1,0,8,1,3,0,0,0,24.7,alert oriented history of states sprained ankle headache,Urgent
+29,113,86,54,99.5,14,95.7,5,1,1,0,0,0,1,1,25.9,prescription refill moderate cough history of cough associated,Non-Urgent
+29,59,191,62,100.5,19,100.0,9,2,8,0,2,0,1,1,26.6,onset weakness presenting with,Urgent
+47,59,84,112,100.5,21,97.7,4,0,5,0,3,0,0,1,26.3,started associated history of days ago,Urgent
+38,75,119,86,97.1,19,91.8,8,0,13,0,2,0,1,0,35.5,rash presenting with complains of fever days ago started weakness,Emergent
+38,86,191,90,100.6,9,91.0,2,0,18,1,2,0,1,1,39.0,days ago patient reports cough associated started,Emergent
+37,69,116,50,98.6,20,94.7,3,0,10,0,2,0,0,2,29.7,presenting with back moderate headache sprained ankle associated breathing,Urgent
+47,45,168,89,97.3,8,98.6,2,2,17,0,1,0,1,0,35.3,denies headache alert oriented presenting with days ago,Urgent
+73,118,106,71,101.5,10,100.0,8,1,3,0,0,0,1,2,27.0,chest headache taking medication persistent cough moderate associated associated,Urgent
+73,83,174,65,97.5,18,100.0,1,0,18,0,1,0,0,1,18.4,dizziness started intermittent weakness abdominal taking medication,Non-Urgent
+42,95,136,83,96.6,27,100.0,0,0,9,0,2,0,0,1,29.6,started dizziness patient reports no allergies denies,Urgent
+54,79,103,101,99.2,15,94.2,7,0,9,0,3,1,0,1,19.7,presenting with taking medication follow up started,Non-Urgent
+57,95,91,72,97.7,18,95.8,0,0,19,1,1,0,1,2,35.9,onset worsening prescription refill fever,Non-Urgent
+49,120,105,85,95.7,22,92.3,0,0,1,0,4,0,1,0,21.8,rash associated difficulty breathing nausea no allergies presenting with patient reports breathing,Emergent
+58,83,130,50,95.8,19,100.0,4,0,12,0,3,0,0,2,31.7,persistent cough swelling weakness states breathing vomiting,Urgent
+41,92,104,97,99.1,17,90.3,2,0,0,0,1,0,0,0,30.9,nausea insect bite patient reports chest swelling associated abdominal,Non-Urgent
+68,66,143,65,97.5,12,99.6,0,0,5,0,1,0,0,2,23.2,fever vomiting no allergies abdominal started associated complains of prescription refill,Non-Urgent
+50,118,129,99,99.1,13,95.4,3,0,15,0,3,1,1,2,30.4,rash onset states patient reports dizziness prescription refill started,Non-Urgent
+51,89,133,102,97.6,18,96.0,4,0,23,0,3,0,1,1,29.5,chest difficulty breathing nausea presenting with fever,Emergent
+47,98,138,78,98.1,22,93.9,0,2,19,0,1,1,1,4,21.4,days ago laceration breathing rash,Urgent
+47,122,168,72,95.9,14,93.1,0,1,11,0,2,0,1,0,35.2,nausea patient reports rash worsening moderate cough intermittent,Urgent
+55,80,187,63,98.0,15,98.8,9,2,5,0,2,0,0,1,36.7,pain vomiting states laceration,Urgent
+31,95,105,94,99.5,8,86.9,10,0,18,1,2,1,1,1,30.4,back intermittent vomiting worsening persistent cough headache onset headache,Urgent
+70,135,170,89,97.0,12,92.3,6,0,3,1,1,0,0,1,30.8,altered mental back presenting with rash pain history of nausea swelling,Emergent
+74,68,158,56,97.8,18,94.3,0,0,4,0,2,1,0,0,32.4,associated taking medication dizziness patient reports pain,Urgent
+79,88,114,83,101.3,15,100.0,0,0,15,1,1,1,1,0,29.4,back moderate headache started dizziness prescription refill no allergies,Non-Urgent
+57,58,128,64,96.4,8,96.7,3,2,22,0,1,1,1,1,24.2,fever headache moderate moderate,Urgent
+35,83,144,72,100.5,18,92.0,0,0,23,0,6,1,0,2,29.8,back associated history of denies days ago breathing,Urgent
+34,73,115,50,96.6,20,97.8,8,0,18,1,3,0,1,0,26.6,fever intermittent severe abdominal presenting with patient reports pain,Emergent
+45,128,187,96,98.8,14,99.4,5,0,17,1,2,0,0,2,28.1,vomiting patient reports dizziness,Emergent
+81,90,116,86,97.0,19,94.4,2,0,10,1,2,1,0,1,23.3,patient reports dizziness sprained ankle cough chest,Urgent
+50,72,115,91,100.4,8,99.0,8,0,6,0,2,0,0,3,22.6,weakness denies rash patient reports days ago started,Urgent
+33,62,109,88,97.3,19,94.7,1,0,14,0,2,0,0,2,23.5,no allergies intermittent worsening cough rash taking medication headache,Non-Urgent
+32,80,126,78,98.8,18,95.7,3,1,9,0,5,0,0,0,24.4,onset abdominal rash started breathing pain nausea,Emergent
+44,87,137,66,97.0,20,100.0,3,0,10,0,1,1,0,2,28.9,no allergies patient reports worsening weakness worsening,Emergent
+37,74,155,67,96.5,13,100.0,0,0,3,0,1,1,0,1,20.5,abdominal states nausea no allergies patient reports patient reports,Urgent
+28,87,103,76,100.6,16,91.4,4,1,9,0,1,1,0,2,26.2,headache complains of started weakness,Emergent
+31,106,151,97,103.0,13,100.0,7,2,18,1,2,0,0,3,33.5,states altered mental weakness moderate,Emergent
+69,94,106,91,96.4,16,99.0,0,1,10,0,2,1,1,1,28.1,nausea abdominal started,Non-Urgent
+65,73,143,60,97.6,26,83.8,0,1,11,0,2,0,1,1,28.3,days ago difficulty breathing back denies history of presenting with,Emergent
+80,80,140,82,99.4,19,92.5,7,0,8,0,1,0,0,0,30.2,started weakness breathing alert oriented complains of dizziness history of,Non-Urgent
+20,76,121,61,96.1,8,100.0,10,0,10,0,3,0,0,3,31.5,denies worsening chest,Urgent
+44,55,114,93,98.8,14,100.0,0,0,14,0,4,1,1,2,21.5,back cough associated,Urgent
+44,76,100,78,99.1,14,99.1,0,0,11,0,2,1,1,0,33.1,onset onset patient reports patient reports no allergies vomiting,Non-Urgent
+55,65,121,56,98.4,21,97.4,0,0,23,0,2,0,1,0,21.3,nausea intermittent cough,Non-Urgent
+55,107,128,68,97.1,8,91.4,2,0,9,0,3,0,0,1,25.4,presenting with nausea patient reports headache onset,Non-Urgent
+1,70,133,50,96.7,19,100.0,0,1,1,1,3,0,0,0,32.4,back no allergies worsening taking medication patient reports abdominal worsening,Non-Urgent
+65,68,163,93,98.1,13,99.8,10,1,1,0,3,0,1,0,25.0,states worsening insect bite nausea,Non-Urgent
+84,61,108,83,97.9,12,93.8,4,0,0,0,0,0,1,1,29.7,pain presenting with vomiting laceration intermittent headache abdominal fever,Urgent
+40,74,105,84,99.2,10,92.0,6,1,12,1,3,0,0,1,30.7,abdominal presenting with sprained ankle chest denies started,Urgent
+63,116,139,65,100.6,28,97.6,2,0,5,0,0,0,1,1,27.3,moderate rash abdominal alert oriented history of breathing onset,Emergent
+36,73,127,83,98.2,12,98.9,5,0,4,1,2,0,1,0,28.1,associated chest vomiting,Non-Urgent
+27,127,80,74,98.1,21,95.8,5,0,1,0,5,0,0,2,31.0,abdominal worsening taking medication history of,Immediate
+39,72,152,83,96.3,18,99.8,0,0,11,0,5,1,0,2,33.0,severe abdominal weakness abdominal alert oriented complains of pain,Emergent
+70,73,152,85,98.4,18,92.0,0,1,23,1,1,0,0,0,33.0,no allergies abdominal laceration started,Urgent
+53,54,158,114,93.9,10,91.5,6,0,6,0,2,1,0,1,36.8,chest abdominal taking medication nausea altered mental taking medication,Emergent
+29,68,95,92,96.0,18,100.0,5,0,22,0,2,1,1,0,22.7,nausea states alert oriented taking medication onset breathing,Non-Urgent
+44,126,140,50,98.3,11,82.0,8,0,11,1,0,0,1,2,23.6,abdominal patient reports abdominal nausea chest severe hemorrhage denies,Immediate
+36,97,142,64,97.3,13,91.2,0,1,6,0,1,1,1,1,27.0,taking medication abdominal intermittent patient reports onset persistent cough no allergies,Urgent
+94,90,155,96,98.4,20,90.0,5,0,2,0,4,0,1,1,32.1,cough moderate history of days ago patient reports,Emergent
+49,71,159,81,100.1,15,93.7,6,1,8,0,3,1,0,1,29.2,headache days ago pain dizziness weakness nausea no allergies,Urgent
+54,96,94,95,98.5,11,91.0,7,0,20,0,0,0,1,1,19.7,sprained ankle fever presenting with pain,Urgent
+73,71,115,65,94.2,13,91.7,0,0,5,1,3,1,1,1,20.8,onset started swelling follow up presenting with alert oriented headache,Non-Urgent
+77,91,105,108,96.7,10,92.6,0,0,13,0,4,0,0,1,20.8,nausea rash taking medication weakness rash worsening abdominal,Non-Urgent
+48,83,200,104,96.8,10,95.8,10,2,23,0,1,0,1,1,21.2,rash taking medication patient reports intermittent taking medication onset worsening,Immediate
+48,91,182,82,100.3,22,95.0,2,0,13,0,5,0,0,0,25.9,intermittent abdominal vomiting no allergies onset,Urgent
+48,75,134,50,98.0,20,91.5,6,0,15,1,2,0,1,0,30.4,persistent cough states states history of history of days ago back chest,Urgent
+35,80,113,65,100.4,13,91.0,7,1,7,0,3,0,0,1,27.4,breathing abdominal weakness intermittent associated headache cardiac arrest,Immediate
+41,145,148,65,98.1,16,78.7,3,0,5,0,3,0,0,5,24.7,weakness taking medication patient reports days ago onset abdominal,Immediate
+39,96,113,85,99.2,15,100.0,5,1,1,1,2,0,0,0,24.6,no allergies history of patient reports headache worsening dizziness cough,Urgent
+99,94,100,79,99.4,19,94.9,10,0,6,0,3,0,0,1,29.0,dizziness fever associated swelling,Non-Urgent
+63,74,116,85,100.3,8,99.8,7,0,22,1,2,0,0,0,42.9,no allergies headache moderate taking medication back,Urgent
+51,99,98,94,101.1,23,92.5,4,0,2,0,1,0,1,1,30.0,denies back back dizziness,Urgent
+35,103,148,103,99.9,18,98.0,10,0,4,0,2,1,1,0,28.6,onset taking medication history of states headache pain cardiac arrest,Immediate
+43,83,199,112,97.3,20,90.3,8,2,15,0,2,1,0,2,29.0,breathing intermittent vomiting associated,Immediate
+55,82,125,106,101.6,19,99.7,0,0,20,0,4,0,0,3,15.1,history of alert oriented difficulty breathing nausea,Emergent
+29,92,142,114,99.2,26,96.5,3,2,5,0,4,0,0,0,32.7,intermittent no allergies started headache abdominal patient reports back,Urgent
+58,62,137,92,94.3,20,96.9,2,0,8,1,0,0,0,3,26.1,fever swelling swelling pain,Non-Urgent
+36,114,139,95,98.3,18,97.2,5,0,3,1,4,0,0,1,34.7,no allergies patient reports history of,Urgent
+70,63,92,51,96.3,9,96.6,1,0,18,1,4,0,0,1,29.9,patient reports alert oriented cough patient reports weakness intermittent pain,Non-Urgent
+23,93,99,57,97.6,13,93.3,4,0,4,0,4,0,0,2,32.7,cardiac arrest weakness moderate no allergies,Immediate
+69,75,143,93,97.6,21,100.0,10,2,9,0,3,0,0,0,31.1,difficulty breathing headache worsening rash history of,Emergent
+1,103,144,80,99.6,20,98.6,10,0,1,0,0,0,1,1,35.1,cough nausea days ago,Emergent
+56,69,106,74,98.0,11,94.9,4,2,21,0,4,0,0,0,36.1,started breathing onset worsening,Urgent
+45,106,135,66,100.5,21,90.4,9,0,20,0,1,1,0,0,30.3,breathing complains of nausea swelling,Urgent
+30,75,102,77,100.2,9,85.6,1,0,16,1,4,1,0,0,36.6,rash moderate fever associated fever fever dizziness,Emergent
+58,138,109,81,99.6,11,94.0,2,1,6,0,4,1,1,1,30.0,headache intermittent days ago alert oriented patient reports complains of started,Urgent
+48,86,150,72,98.5,14,100.0,5,1,20,0,1,1,1,1,21.4,chest back intermittent swelling pain worsening no allergies,Urgent
+62,128,163,86,100.1,19,89.5,8,1,2,1,0,1,0,1,35.4,vomiting sprained ankle worsening fever cough pain vomiting,Urgent
+29,78,121,95,97.7,14,99.0,4,0,19,0,1,1,1,0,27.8,states altered mental patient reports days ago abdominal rash complains of denies,Emergent
+63,79,95,83,97.7,12,86.1,3,0,17,0,2,0,0,2,35.2,onset complains of denies cough complains of worsening,Urgent
+39,93,99,67,97.3,16,100.0,9,0,12,0,3,0,0,0,35.7,nausea onset swelling presenting with laceration,Urgent
+82,40,150,70,99.6,15,100.0,4,0,3,0,0,0,1,1,25.9,vomiting follow up headache started patient reports breathing chest,Non-Urgent
+77,165,171,90,101.3,19,93.9,7,2,4,1,1,0,0,0,31.1,alert oriented abdominal nausea associated associated,Emergent
+72,86,166,83,99.5,23,97.8,9,0,15,1,2,1,0,0,33.0,difficulty breathing history of abdominal headache worsening,Emergent
+58,116,127,91,96.6,21,94.3,3,0,18,0,1,0,0,1,23.7,states started nausea taking medication prescription refill fever,Non-Urgent
+53,57,114,125,99.7,12,92.6,4,1,13,0,2,1,0,1,32.7,abdominal vomiting pain back patient reports,Emergent
+63,89,146,98,98.7,19,98.5,3,0,19,0,4,0,1,0,32.7,laceration dizziness breathing states,Urgent
+45,98,110,81,97.5,8,100.0,1,1,20,1,2,0,1,0,15.0,alert oriented vomiting dizziness pain patient reports fever,Urgent
+34,109,80,91,98.3,19,94.4,4,0,4,0,4,0,1,0,32.0,history of vomiting patient reports sprained ankle intermittent,Urgent
+50,44,116,101,97.8,15,100.0,3,0,2,0,2,1,0,1,23.9,taking medication swelling abdominal insect bite complains of onset,Non-Urgent
+26,110,129,87,97.3,25,97.8,5,0,16,1,2,0,0,1,20.8,onset intermittent chest,Emergent
+28,95,113,84,93.7,22,96.7,0,0,21,0,2,0,0,0,19.9,headache fever abdominal,Urgent
+95,61,177,95,95.2,14,89.1,6,0,12,0,1,1,0,1,22.3,worsening history of worsening days ago weakness cough cough,Non-Urgent
+44,65,116,86,99.1,19,96.7,7,2,17,1,4,0,1,2,21.1,complains of started presenting with cough started,Urgent
+62,76,124,68,98.3,18,100.0,3,0,2,0,6,0,1,1,22.5,history of back headache weakness complains of follow up alert oriented intermittent,Non-Urgent
+62,112,154,93,98.1,8,93.6,10,0,13,0,3,1,1,3,26.2,alert oriented days ago vomiting associated dizziness started,Immediate
+61,103,143,70,97.0,20,89.8,0,2,10,0,2,0,1,1,41.5,headache associated presenting with breathing history of breathing,Emergent
+27,97,148,85,99.7,22,88.0,0,0,11,0,2,0,0,3,31.8,taking medication presenting with alert oriented,Urgent
+51,91,150,83,97.0,19,90.5,0,0,18,0,0,0,0,0,30.8,no allergies fever abdominal,Non-Urgent
+51,108,149,85,98.7,22,97.7,4,0,23,0,0,0,0,1,32.5,abdominal pain days ago,Non-Urgent
+40,96,144,93,100.1,27,98.2,0,2,6,0,2,0,0,0,28.9,moderate onset history of weakness headache no allergies altered mental,Emergent
+48,116,150,59,98.2,24,100.0,6,0,19,0,0,1,0,0,29.7,fever chest onset started denies cough intermittent,Urgent
+65,101,116,76,96.8,11,100.0,0,0,1,1,4,0,1,0,25.8,insect bite onset denies abdominal,Non-Urgent
+32,76,104,78,100.3,22,89.1,2,0,23,0,1,0,0,2,23.3,no allergies days ago associated pain dizziness states weakness,Non-Urgent
+49,135,189,50,100.5,17,82.6,10,1,18,1,5,0,1,0,22.1,alert oriented nausea fever breathing moderate moderate abdominal,Immediate
+52,68,135,91,95.3,16,93.1,0,0,17,1,3,0,1,0,21.1,prescription refill associated vomiting dizziness,Non-Urgent
+68,81,81,132,101.5,8,87.8,0,0,8,0,1,1,1,1,27.9,chest presenting with worsening patient reports chest taking medication worsening,Urgent
+27,79,127,89,99.2,12,96.1,8,0,21,0,2,1,1,1,27.6,moderate presenting with worsening,Non-Urgent
+53,91,119,96,96.3,8,90.7,4,2,19,0,4,0,0,1,20.3,chest persistent cough abdominal pain,Urgent
+63,73,186,103,99.8,28,94.5,4,0,5,0,3,0,0,1,36.6,alert oriented nausea prescription refill breathing history of back swelling,Non-Urgent
+93,85,130,57,96.3,18,100.0,9,1,6,0,2,0,1,2,29.2,breathing denies history of,Emergent
+53,76,99,73,97.1,25,91.4,8,2,1,0,1,0,0,0,25.3,moderate back vomiting laceration abdominal days ago breathing,Urgent
+39,150,155,87,100.7,16,93.4,5,1,2,0,0,1,0,0,32.1,swelling presenting with denies headache days ago breathing fever,Emergent
+30,63,131,84,100.3,9,86.4,3,2,1,0,2,1,0,1,27.1,cough rash back laceration swelling,Urgent
+46,92,135,90,102.4,8,98.0,2,2,0,0,4,1,0,3,38.0,nausea taking medication alert oriented,Emergent
+19,64,118,117,98.0,11,100.0,7,0,0,0,2,0,1,2,23.9,vomiting started weakness headache worsening fever,Non-Urgent
+71,82,80,91,97.2,16,99.9,10,0,12,0,5,1,0,2,24.7,associated days ago alert oriented days ago abdominal denies,Urgent
+71,56,163,103,99.3,24,98.4,6,0,22,0,1,1,0,0,25.3,associated rash abdominal states headache prescription refill,Non-Urgent
+31,123,132,86,97.7,20,100.0,2,0,19,0,1,0,1,2,25.4,no allergies back patient reports no allergies abdominal back persistent cough history of,Urgent
+34,80,112,78,99.1,11,98.6,9,1,6,1,4,1,0,3,29.3,denies fever denies weakness taking medication days ago difficulty breathing,Emergent
+46,71,141,76,98.8,24,87.4,6,0,10,0,1,1,0,2,30.8,history of onset moderate worsening back,Emergent
+73,67,146,73,98.3,26,97.3,6,0,14,1,3,0,0,0,40.2,back breathing onset nausea,Urgent
+73,112,142,113,96.3,10,94.2,0,0,19,0,4,1,1,0,21.9,fever dizziness started patient reports presenting with vomiting intermittent,Non-Urgent
+47,85,80,84,96.5,19,100.0,1,1,6,0,3,0,1,2,32.2,denies worsening alert oriented swelling presenting with breathing,Non-Urgent
+82,71,128,67,97.4,24,98.1,3,0,4,0,0,1,1,1,30.5,states started breathing complains of nausea,Non-Urgent
+62,108,113,88,98.0,18,93.3,1,1,2,0,1,0,0,0,27.9,breathing days ago worsening started sprained ankle,Urgent
+19,98,155,68,97.1,14,95.2,5,0,21,0,5,0,0,1,27.1,laceration onset rash no allergies days ago,Urgent
+6,106,147,105,99.5,24,93.1,5,0,5,0,0,0,0,1,15.0,pain cough weakness fever denies weakness,Emergent
+49,92,110,113,99.1,14,94.5,8,0,0,0,1,1,0,2,28.2,history of complains of history of taking medication started dizziness worsening,Urgent
+79,82,142,88,100.4,19,100.0,0,0,6,1,1,0,0,1,36.7,back chest insect bite presenting with fever complains of,Non-Urgent
+45,68,142,62,97.1,19,100.0,3,1,23,1,1,0,1,0,18.2,alert oriented worsening dizziness,Non-Urgent
+14,97,153,67,100.4,17,88.9,0,2,17,1,4,1,0,0,28.5,denies rash headache nausea history of,Urgent
+83,96,141,97,95.5,23,98.3,0,0,14,0,4,0,1,1,31.1,nausea chest denies,Non-Urgent
+53,95,147,75,95.9,13,94.0,8,0,3,0,3,1,0,0,25.5,abdominal rash presenting with taking medication intermittent back,Emergent
+3,98,109,117,96.1,11,98.3,5,0,11,0,5,0,1,1,17.8,taking medication no allergies presenting with complains of no allergies,Emergent
+67,91,124,50,97.4,12,100.0,0,1,22,0,0,0,0,0,18.6,follow up fever weakness moderate days ago chest,Non-Urgent
+60,96,103,62,95.9,21,97.5,4,0,2,0,2,0,0,2,19.9,history of altered mental states fever abdominal rash back worsening,Emergent
+33,74,167,62,99.3,15,90.8,2,1,22,0,0,0,0,0,41.4,started headache moderate chest breathing history of,Non-Urgent
+6,91,120,105,100.4,10,96.6,2,0,1,0,2,1,1,1,29.9,severe abdominal worsening history of vomiting,Emergent
+69,66,163,99,99.3,12,99.0,0,0,2,0,2,0,0,1,19.6,days ago persistent cough days ago pain,Urgent
+80,76,87,73,100.2,24,96.2,0,0,0,1,7,1,0,0,22.6,patient reports denies associated back worsening breathing insect bite,Non-Urgent
+69,92,151,87,97.4,27,100.0,2,0,12,0,2,0,0,0,29.7,intermittent alert oriented rash persistent cough,Urgent
+47,71,108,70,98.9,15,91.9,0,0,19,0,1,0,1,2,38.2,denies back cough back moderate onset,Non-Urgent
+52,111,99,70,98.0,18,99.9,5,0,19,0,3,1,0,2,23.8,follow up history of moderate abdominal,Non-Urgent
+28,95,122,68,99.6,15,93.7,6,0,13,1,1,0,0,1,29.4,abdominal complains of headache difficulty breathing states nausea,Emergent
+60,130,165,94,99.2,16,98.2,6,1,4,1,4,0,0,1,31.8,days ago onset persistent cough abdominal states,Urgent
+52,90,89,86,96.9,16,93.0,3,1,9,1,1,0,1,1,18.9,days ago associated history of back vomiting,Urgent
+57,65,140,76,99.6,10,98.3,7,0,8,0,2,1,0,2,30.3,nausea swelling pain headache sprained ankle,Urgent
+67,55,135,91,98.4,8,90.9,8,0,15,1,0,0,0,1,21.5,denies no allergies weakness rash,Urgent
+39,135,157,90,99.7,15,90.1,0,0,12,0,3,0,0,0,41.8,intermittent dizziness moderate headache alert oriented dizziness,Urgent
+26,84,104,79,100.6,19,96.2,2,1,13,1,2,0,1,1,41.2,states breathing swelling days ago laceration,Urgent
+43,89,126,86,99.0,18,96.6,0,0,15,0,1,0,0,2,42.4,swelling associated days ago,Emergent
+86,100,151,76,99.0,21,87.8,3,0,15,0,1,0,1,1,28.0,alert oriented altered mental pain dizziness vomiting rash rash,Emergent
+51,105,168,50,98.9,16,98.9,5,0,6,1,3,0,0,1,25.4,denies presenting with states laceration states swelling associated taking medication,Urgent
+31,87,80,62,95.9,16,91.2,2,1,1,0,3,0,0,0,23.5,pain altered mental days ago nausea pain abdominal,Emergent
+19,80,134,102,98.7,20,98.8,2,0,19,1,1,0,0,3,21.9,headache moderate insect bite dizziness started presenting with pain,Non-Urgent
+38,62,81,71,100.0,25,93.2,4,0,9,1,2,0,0,3,31.7,rash started back sprained ankle,Urgent
+48,81,123,115,100.3,14,99.5,0,0,3,0,5,1,1,1,23.9,follow up headache abdominal vomiting weakness,Non-Urgent
+29,80,167,65,96.5,8,100.0,0,0,23,0,2,0,0,0,23.2,cough swelling persistent cough fever,Urgent
+63,90,180,90,96.6,25,87.7,10,0,0,0,0,0,0,1,31.5,history of worsening no allergies severe hemorrhage complains of no allergies,Immediate
+53,81,158,50,99.1,19,87.0,9,0,22,0,1,1,1,1,23.3,pain taking medication started history of severe hemorrhage denies no allergies,Immediate
+34,78,115,58,95.8,11,98.2,8,1,7,1,2,0,0,0,24.2,worsening laceration headache pain dizziness,Urgent
+57,107,105,68,102.2,22,90.2,5,1,23,0,3,1,1,3,34.2,complains of altered mental vomiting states,Emergent
+44,76,136,116,100.4,19,97.6,7,0,16,0,3,0,1,0,22.2,nausea moderate rash,Emergent
+88,76,147,85,94.6,19,95.9,3,1,15,1,2,0,0,0,24.7,pain alert oriented back no allergies weakness history of chest,Urgent
+47,67,157,75,98.7,18,78.3,5,0,22,0,3,0,1,1,26.2,pain breathing associated back,Emergent
+59,60,137,71,99.4,19,100.0,8,0,12,0,6,0,1,0,32.5,nausea presenting with rash cough swelling breathing nausea,Urgent
+42,78,130,87,96.8,10,89.9,9,0,0,0,1,0,0,1,35.7,onset worsening swelling patient reports headache intermittent breathing,Emergent
+50,100,91,87,97.1,19,96.9,2,1,8,0,2,0,1,0,22.9,fever back sprained ankle fever swelling presenting with dizziness patient reports,Urgent
+42,118,174,64,97.4,8,99.2,4,1,7,0,3,0,1,2,25.0,nausea associated denies pain,Immediate
+28,100,122,87,96.0,19,100.0,3,0,1,0,2,0,0,1,26.9,associated rash moderate cough intermittent intermittent swelling,Non-Urgent
+33,94,152,56,98.8,19,95.0,7,0,22,0,2,0,1,1,18.3,states vomiting days ago denies nausea back persistent cough,Urgent
+50,92,110,84,99.8,21,94.0,6,0,11,0,1,0,0,3,38.6,back breathing denies moderate pain intermittent,Urgent
+36,92,104,105,98.2,18,94.5,4,0,23,0,2,1,0,1,16.1,laceration cough taking medication intermittent no allergies,Urgent
+63,63,100,50,99.0,9,92.0,0,0,4,0,2,0,0,2,32.6,intermittent swelling breathing chest abdominal alert oriented,Non-Urgent
+46,56,97,73,97.2,16,100.0,6,0,22,0,0,1,0,0,29.2,pain weakness back intermittent pain,Non-Urgent
+57,79,88,103,100.5,26,94.6,4,0,9,0,2,0,1,0,27.4,weakness back breathing presenting with moderate states cough,Non-Urgent
+36,75,100,85,97.7,14,100.0,0,0,0,0,4,1,1,1,26.3,alert oriented onset denies insect bite complains of alert oriented breathing weakness,Non-Urgent
+46,64,134,86,100.3,21,100.0,2,0,20,0,7,1,0,1,20.6,alert oriented headache worsening onset back headache pain,Non-Urgent
+86,74,124,90,93.2,23,93.0,0,1,12,1,2,0,0,1,25.3,started follow up states started presenting with breathing swelling,Non-Urgent
+42,71,177,89,98.7,22,97.6,10,0,11,0,3,1,1,0,22.5,headache denies chest swelling,Emergent
+35,76,114,73,98.6,17,91.9,0,1,14,0,2,1,1,3,28.5,taking medication dizziness breathing,Non-Urgent
+50,89,151,94,98.3,17,99.0,8,0,4,0,2,1,0,1,35.1,states presenting with intermittent,Urgent
+13,100,159,88,99.1,14,87.5,4,0,17,1,2,0,1,0,24.5,pain fever no allergies,Urgent
+37,93,85,72,97.1,15,100.0,4,0,3,0,2,0,0,2,30.3,moderate moderate back fever persistent cough worsening,Urgent
+34,61,111,86,97.0,10,87.1,0,0,5,0,3,0,0,0,25.8,alert oriented taking medication weakness headache,Non-Urgent
+96,102,169,116,99.5,23,90.2,4,0,2,0,2,1,0,1,28.3,back laceration nausea chest presenting with denies patient reports,Urgent
+42,86,127,50,98.0,13,87.9,5,1,20,1,2,1,1,1,26.7,moderate vomiting difficulty breathing alert oriented chest,Emergent
+55,43,139,97,99.6,16,99.9,5,2,2,1,2,0,1,1,17.8,intermittent presenting with no allergies sprained ankle,Urgent
+58,61,138,60,95.1,23,99.9,0,0,18,0,1,0,1,1,33.4,complains of breathing abdominal intermittent abdominal rash breathing,Urgent
+81,102,128,95,97.8,12,100.0,0,0,16,0,1,0,1,1,24.9,chest vomiting weakness denies intermittent insect bite abdominal,Non-Urgent
+45,159,166,61,99.8,8,90.6,6,0,23,0,3,0,1,1,27.7,worsening unresponsive no allergies worsening,Immediate
+71,72,81,102,98.8,9,85.5,3,2,9,1,2,0,0,0,17.6,history of started breathing no allergies,Non-Urgent
+39,72,152,74,98.7,15,89.0,5,1,18,0,2,0,1,0,25.7,onset cough altered mental worsening chest complains of moderate,Emergent
+94,87,143,83,97.2,21,90.1,3,0,1,0,3,0,0,2,34.3,cough cough patient reports worsening days ago,Urgent
+70,65,128,89,99.9,19,99.6,4,0,12,0,1,1,1,1,18.9,states alert oriented cough patient reports nausea pain history of,Non-Urgent
+53,92,138,116,97.4,8,88.3,5,0,6,0,1,0,0,0,19.3,rash fever presenting with abdominal severe abdominal pain breathing denies,Emergent
+44,76,118,75,96.9,11,90.6,3,0,12,0,1,0,0,1,21.1,complains of abdominal swelling back vomiting prescription refill dizziness,Non-Urgent
+23,97,145,84,94.7,17,92.6,9,0,22,0,4,1,0,0,20.9,persistent cough headache alert oriented started moderate alert oriented alert oriented,Urgent
+80,83,107,56,100.3,14,87.9,10,0,4,1,2,0,1,1,25.9,started severe hemorrhage fever started taking medication,Immediate
+36,78,145,51,96.9,15,94.5,10,2,22,0,3,0,0,2,35.0,swelling fever worsening nausea alert oriented,Urgent
+75,85,121,76,98.9,20,97.3,5,2,12,0,1,0,0,3,18.8,breathing fever laceration fever fever associated presenting with presenting with,Urgent
+23,62,122,109,99.9,12,97.7,8,0,5,1,1,0,1,2,19.5,weakness abdominal history of,Non-Urgent
+58,103,185,112,98.7,16,90.3,4,0,23,0,0,0,0,2,29.0,intermittent abdominal worsening presenting with,Urgent
+43,77,113,77,97.0,17,92.4,3,1,14,1,3,0,0,0,25.6,presenting with vomiting onset associated,Urgent
+69,69,107,67,101.2,17,94.2,6,2,15,0,2,0,0,1,24.5,swelling rash alert oriented breathing moderate patient reports nausea,Urgent
+53,61,142,97,98.6,20,100.0,4,0,9,0,1,0,1,2,22.0,associated states swelling alert oriented swelling taking medication,Urgent
+42,67,161,75,98.9,10,97.4,2,0,21,1,2,1,1,1,22.5,abdominal nausea intermittent patient reports insect bite swelling,Non-Urgent
+71,112,120,56,95.8,30,98.1,0,0,23,1,1,0,0,0,21.6,moderate chest complains of prescription refill cough,Non-Urgent
+46,79,92,86,95.2,17,88.7,0,1,3,0,2,0,1,2,26.1,abdominal no allergies vomiting breathing complains of cough abdominal,Non-Urgent
+68,102,96,56,96.8,8,86.1,4,1,5,0,2,1,0,2,22.4,nausea rash fever pain back days ago,Non-Urgent
+41,96,148,75,97.9,16,92.4,0,2,19,0,1,0,1,1,33.6,alert oriented headache fever fever altered mental denies started,Emergent
+43,79,118,88,98.5,17,85.9,6,2,20,1,1,1,0,0,35.2,moderate dizziness persistent cough fever abdominal intermittent,Urgent
+33,64,103,108,98.1,16,95.0,2,0,0,0,4,0,1,0,33.6,chest nausea nausea,Non-Urgent
+41,87,164,67,100.6,8,97.6,0,0,16,0,1,0,1,3,35.3,back started days ago associated rash sprained ankle,Urgent
+21,116,141,130,101.0,15,99.9,4,0,3,0,3,0,1,0,34.5,onset alert oriented states states cough vomiting no allergies,Non-Urgent
+18,51,143,54,98.5,17,89.6,0,0,0,0,2,1,0,0,15.6,cough complains of weakness follow up associated no allergies history of,Non-Urgent
+39,68,186,80,97.2,9,88.6,0,0,9,0,1,1,0,4,15.0,intermittent intermittent rash patient reports chest breathing,Non-Urgent
+63,71,133,76,99.5,10,96.0,0,2,7,0,3,1,0,1,18.4,dizziness rash worsening taking medication,Non-Urgent
+53,82,120,88,100.9,17,100.0,0,0,14,1,4,0,1,0,36.1,breathing alert oriented chest persistent cough headache onset denies,Urgent
+35,104,112,95,99.7,19,83.5,0,0,23,1,4,1,0,0,33.7,weakness cough patient reports taking medication,Immediate
+35,81,179,97,99.0,20,94.2,2,0,14,0,0,0,0,1,31.6,associated headache severe abdominal started fever dizziness,Emergent
+46,91,140,109,96.6,25,96.5,0,1,8,1,3,0,0,1,28.5,no allergies presenting with persistent cough pain,Urgent
+56,85,133,75,96.1,8,100.0,5,0,20,0,3,0,0,1,23.6,laceration dizziness vomiting dizziness fever pain worsening headache,Urgent
+39,41,128,113,97.1,15,97.5,5,0,11,0,2,0,0,1,23.6,no allergies taking medication nausea breathing associated,Non-Urgent
+42,89,134,64,100.0,14,92.4,0,0,23,0,5,0,1,2,29.3,breathing follow up moderate moderate presenting with,Non-Urgent
+20,58,114,66,97.2,15,93.2,0,1,10,0,5,1,0,1,42.9,severe abdominal states intermittent associated,Emergent
+42,79,115,65,98.6,19,95.2,0,0,6,1,2,0,0,2,15.0,cough started complains of rash persistent cough presenting with states rash,Urgent
+60,77,186,93,98.1,28,82.9,6,0,18,0,2,1,0,0,24.2,cardiac arrest chest patient reports weakness intermittent,Immediate
+14,80,125,56,95.4,10,92.8,10,0,15,0,2,0,0,2,25.8,taking medication altered mental onset presenting with,Emergent
+7,124,159,79,99.2,9,90.4,10,2,2,1,0,0,0,2,26.7,cardiac arrest dizziness back alert oriented states associated,Immediate
+13,60,141,67,96.8,8,96.1,7,1,15,0,4,1,0,3,22.3,no allergies vomiting weakness weakness complains of alert oriented laceration,Urgent
+27,90,96,50,97.1,13,100.0,2,0,6,0,1,0,0,0,41.2,laceration fever swelling fever,Urgent
+47,76,112,110,99.9,19,84.4,7,2,5,0,1,1,0,0,21.9,laceration patient reports presenting with alert oriented moderate started,Urgent
+79,129,184,96,98.4,26,87.5,9,2,16,0,0,1,1,0,27.0,swelling fever no allergies no allergies abdominal taking medication cardiac arrest swelling,Immediate
+22,42,80,103,98.3,16,97.5,2,0,18,0,3,1,1,2,35.7,patient reports dizziness breathing,Urgent
+49,94,119,69,99.2,21,93.9,0,0,13,0,5,0,0,0,38.7,swelling nausea moderate history of days ago,Urgent
+71,58,142,107,96.5,9,92.9,10,1,17,0,3,0,0,3,32.5,sprained ankle pain abdominal history of,Urgent
+44,97,120,82,99.7,11,98.5,4,0,0,0,2,0,0,0,30.2,back started persistent cough associated alert oriented dizziness associated swelling,Urgent
+36,45,155,50,97.7,17,100.0,4,1,14,0,0,0,0,0,30.5,denies days ago presenting with states dizziness,Non-Urgent
+80,109,88,83,100.8,16,96.5,0,0,15,0,5,0,1,0,31.5,breathing days ago worsening,Non-Urgent
+52,104,114,89,100.1,17,95.9,5,0,5,0,4,0,0,1,22.0,rash history of worsening complains of difficulty breathing associated,Emergent
+50,111,92,79,99.8,9,100.0,8,0,15,1,2,1,0,1,27.9,intermittent associated associated back started intermittent,Non-Urgent
+28,85,153,91,92.8,23,99.2,5,0,18,0,1,0,1,2,27.7,fever complains of no allergies worsening onset associated worsening,Urgent
+59,100,187,103,97.8,18,95.3,5,0,22,0,2,1,0,0,15.6,no allergies alert oriented states difficulty breathing started,Emergent
+23,92,134,50,98.0,13,100.0,7,0,8,0,2,0,0,1,20.9,associated history of intermittent pain history of fever states,Non-Urgent
+24,115,163,100,99.9,16,94.6,4,0,3,0,1,0,0,1,32.2,states taking medication headache fever cough intermittent states,Urgent
+21,85,166,93,97.8,17,99.3,4,1,0,0,3,1,0,1,31.8,states pain patient reports,Urgent
+51,83,80,82,98.7,30,100.0,4,0,16,0,1,0,0,0,19.1,dizziness rash cough,Urgent
+20,43,120,98,95.9,28,97.4,6,0,13,0,2,0,0,0,41.2,headache sprained ankle swelling states associated,Urgent
+1,94,83,60,99.6,26,91.2,8,0,12,0,2,0,1,0,36.4,taking medication onset abdominal history of cardiac arrest dizziness weakness weakness,Immediate
+80,97,159,67,99.2,15,91.0,2,1,15,0,2,1,0,0,35.3,complains of vomiting taking medication,Urgent
+63,88,149,80,98.0,13,97.9,7,0,1,1,3,0,0,0,20.8,prescription refill started denies abdominal,Non-Urgent
+37,111,156,53,97.5,24,95.4,5,0,0,0,0,0,0,1,30.2,taking medication altered mental rash cough,Emergent
+48,40,80,84,95.3,12,92.7,5,0,10,0,0,0,0,0,19.1,persistent cough breathing no allergies dizziness abdominal fever patient reports alert oriented,Urgent
+82,86,119,65,99.9,16,100.0,2,0,4,1,1,1,0,0,30.9,back severe abdominal no allergies intermittent,Emergent
+82,46,129,101,98.3,8,100.0,6,0,21,0,2,0,0,1,21.1,abdominal patient reports headache taking medication,Non-Urgent
+92,108,126,64,98.1,14,82.5,2,1,8,0,1,0,1,1,21.0,abdominal days ago moderate,Emergent
+75,91,126,107,97.7,21,99.8,3,0,2,0,7,1,0,1,23.5,fever taking medication breathing patient reports fever,Non-Urgent
+34,73,108,90,95.5,12,97.1,7,0,2,0,1,0,0,1,20.7,rash history of follow up states moderate,Non-Urgent
+52,123,191,79,99.8,16,91.1,10,2,16,0,3,1,1,0,25.2,days ago swelling denies swelling,Immediate
+100,127,124,70,96.4,23,99.8,4,0,12,1,0,0,1,1,24.8,no allergies vomiting associated headache persistent cough fever breathing worsening,Urgent
+66,71,161,65,94.0,16,97.2,1,0,18,0,0,0,0,1,25.5,started back pain worsening headache,Non-Urgent
+59,63,90,80,97.1,26,97.8,3,0,21,1,2,0,0,0,26.3,insect bite states weakness patient reports complains of,Non-Urgent
+41,94,143,62,98.0,16,100.0,4,0,4,0,2,1,0,1,35.7,onset associated patient reports chest moderate swelling associated,Urgent
+37,84,103,74,95.4,8,96.8,3,0,17,1,3,0,1,2,25.7,persistent cough days ago chest dizziness associated days ago onset,Urgent
+21,111,95,91,100.7,17,99.5,7,0,2,0,2,0,1,1,32.7,days ago sprained ankle onset days ago chest,Urgent
+50,89,147,75,96.7,21,97.7,0,2,13,0,0,0,0,2,32.1,worsening associated headache fever back started,Non-Urgent
+33,99,145,63,96.3,21,96.6,2,0,21,0,1,0,1,1,26.7,fever chest days ago weakness,Non-Urgent
+66,62,179,70,98.9,10,99.6,5,0,11,0,0,0,1,1,26.1,insect bite days ago onset taking medication swelling started cough chest,Non-Urgent
+43,121,177,98,96.6,9,92.5,10,0,11,0,4,0,1,0,27.0,fever onset fever pain chest,Immediate
+89,96,178,87,100.9,14,96.9,2,0,9,0,2,0,1,1,30.9,taking medication intermittent moderate alert oriented severe hemorrhage swelling breathing,Immediate
+1,76,184,78,98.9,19,98.2,5,0,8,0,0,0,1,1,27.3,taking medication worsening nausea abdominal follow up vomiting,Non-Urgent
+36,102,142,119,100.2,24,100.0,1,2,3,0,1,0,0,3,29.0,pain sprained ankle abdominal rash back,Urgent
+58,104,193,58,98.0,8,97.1,5,0,15,0,2,0,0,1,39.9,states fever onset abdominal no allergies complains of chest,Urgent
+55,90,122,95,99.5,15,93.7,7,1,4,0,5,0,1,1,39.6,moderate moderate presenting with,Urgent
+79,119,148,91,98.4,18,95.8,0,1,2,1,1,1,0,0,33.1,weakness nausea states weakness,Urgent
+52,62,152,91,99.2,14,100.0,0,0,14,1,3,0,1,1,31.0,weakness vomiting prescription refill fever,Non-Urgent
+82,67,136,85,100.2,12,100.0,6,0,20,1,2,0,0,0,22.5,pain history of dizziness insect bite,Non-Urgent
+38,89,133,104,98.2,12,100.0,1,0,5,0,3,0,0,1,28.5,states chest breathing pain moderate worsening dizziness follow up,Non-Urgent
+65,56,89,87,97.4,18,96.6,2,0,3,1,1,0,1,0,38.2,patient reports headache back presenting with,Urgent
+53,99,161,50,97.8,17,89.5,4,0,2,1,4,0,0,0,15.0,days ago laceration taking medication dizziness,Urgent
+38,86,144,103,95.3,17,100.0,8,0,18,0,1,0,0,2,27.8,nausea worsening chest intermittent taking medication,Emergent
+42,90,92,84,97.9,17,94.7,8,0,22,0,3,1,0,0,28.3,intermittent weakness patient reports onset sprained ankle,Urgent
+36,69,144,77,96.0,17,99.9,4,1,13,0,1,0,1,0,30.8,onset dizziness breathing weakness headache taking medication,Non-Urgent
+66,76,144,59,97.7,26,97.6,7,2,14,1,4,0,0,0,25.3,swelling nausea patient reports history of intermittent,Urgent
+42,105,177,87,103.3,11,88.0,10,1,17,0,3,0,0,2,30.0,intermittent days ago pain,Immediate
+57,69,151,72,101.5,16,97.0,0,1,8,0,1,0,0,0,21.1,patient reports headache onset laceration,Urgent
+28,129,80,74,100.5,9,92.4,5,0,19,0,4,0,1,1,28.0,worsening cough taking medication history of history of headache insect bite taking medication,Non-Urgent
+46,49,134,102,97.6,21,100.0,3,0,6,0,0,0,0,0,15.0,started fever swelling alert oriented cough,Emergent
+11,68,148,80,97.1,19,100.0,0,0,7,0,1,0,0,0,26.4,states complains of alert oriented no allergies intermittent,Non-Urgent
+47,83,155,111,96.4,17,100.0,3,0,16,0,3,0,0,1,18.9,breathing rash states nausea denies,Non-Urgent
+33,73,119,116,98.6,16,88.7,0,0,6,0,3,0,1,1,18.3,cough presenting with worsening intermittent rash taking medication history of,Emergent
+82,105,165,77,99.6,8,97.2,9,0,0,0,1,1,0,0,15.0,history of back severe abdominal history of,Emergent
+50,88,87,83,100.3,8,100.0,0,0,18,0,3,1,0,1,25.1,denies alert oriented fever presenting with presenting with associated denies insect bite,Non-Urgent
+49,87,167,50,100.3,12,100.0,9,0,12,0,6,0,0,1,25.9,history of swelling onset cough abdominal difficulty breathing abdominal breathing,Emergent
+61,96,132,73,95.6,23,96.6,3,0,22,0,4,0,0,2,29.7,onset history of breathing swelling,Non-Urgent
+28,87,134,83,97.9,22,100.0,1,0,13,1,2,1,1,1,29.8,vomiting presenting with started,Urgent
+44,116,150,50,99.4,15,93.1,7,0,14,1,3,0,0,0,38.9,no allergies weakness dizziness associated,Immediate
+61,97,139,63,99.4,17,98.5,0,0,20,0,2,1,1,1,29.4,days ago prescription refill onset patient reports rash,Non-Urgent
+64,98,98,97,97.4,14,99.2,10,0,17,0,2,0,1,0,24.5,back cough persistent cough nausea,Urgent
+43,45,105,97,93.4,8,92.6,1,0,23,0,1,1,0,1,30.4,dizziness worsening swelling vomiting,Non-Urgent
+46,53,141,71,98.7,19,95.1,8,0,5,1,1,0,0,0,25.7,days ago fever back,Urgent
+34,93,105,61,97.8,26,95.4,4,0,4,0,2,0,0,1,21.1,insect bite intermittent started onset alert oriented worsening no allergies,Non-Urgent
+26,109,89,79,97.9,20,96.0,0,0,18,0,0,0,0,2,24.4,back insect bite days ago started cough,Non-Urgent
+60,101,141,81,95.1,15,91.8,5,0,11,0,3,1,0,0,27.0,started pain dizziness started laceration,Urgent
+58,78,136,77,98.7,20,97.4,5,0,2,0,1,0,0,1,24.5,headache chest no allergies worsening persistent cough moderate back vomiting,Urgent
+9,97,119,72,99.9,8,96.3,1,0,8,0,2,0,1,1,29.6,rash back rash associated started worsening fever,Non-Urgent
+14,52,132,69,95.6,21,89.4,7,1,5,0,2,1,0,2,26.0,pain altered mental swelling breathing,Emergent
+82,102,143,102,97.9,26,89.2,9,1,0,0,3,0,1,0,29.7,severe hemorrhage pain alert oriented states,Immediate
+34,96,140,84,99.8,17,94.6,0,1,12,1,1,1,1,1,27.8,complains of weakness abdominal presenting with,Emergent
+71,108,120,65,96.4,10,99.5,1,0,19,1,1,0,0,1,34.4,fever breathing pain dizziness,Non-Urgent
+57,103,108,91,102.6,21,97.2,5,0,3,0,3,1,0,0,25.5,chest insect bite breathing denies headache worsening,Non-Urgent
+35,93,105,86,96.9,22,96.1,4,0,1,0,0,0,0,0,37.5,chest fever taking medication moderate back presenting with cough,Non-Urgent
+45,40,166,79,97.1,13,89.2,4,0,12,0,1,1,0,0,26.4,intermittent rash insect bite alert oriented complains of,Non-Urgent
+53,89,97,72,101.8,10,87.0,5,0,19,1,2,0,0,1,27.0,abdominal patient reports breathing persistent cough started fever chest,Urgent
+11,84,103,69,99.1,20,93.6,5,2,16,0,1,0,0,2,23.9,history of denies patient reports cough laceration swelling no allergies breathing,Urgent
+46,75,173,77,96.7,11,99.5,6,1,15,1,0,0,1,4,27.8,severe abdominal worsening presenting with rash denies,Emergent
+56,63,117,57,96.4,8,92.7,1,2,22,0,0,0,0,0,33.7,associated no allergies alert oriented sprained ankle abdominal complains of,Urgent
+39,91,105,58,100.9,8,100.0,0,0,3,0,3,0,1,2,35.8,alert oriented breathing abdominal vomiting taking medication complains of insect bite,Non-Urgent
+54,107,160,84,98.9,14,89.2,2,2,0,0,2,0,0,0,37.3,rash alert oriented associated fever nausea back,Urgent
+36,137,140,107,97.5,13,83.4,9,2,10,0,4,0,0,2,28.8,abdominal swelling started worsening laceration,Urgent
+50,57,157,104,97.1,22,100.0,0,0,3,0,3,1,1,1,16.3,taking medication rash nausea abdominal days ago abdominal,Urgent
+58,114,121,70,95.2,20,100.0,0,1,7,0,4,0,0,0,22.1,cough associated nausea alert oriented fever,Non-Urgent
+64,95,166,80,97.0,19,89.2,0,1,22,0,2,0,0,1,25.6,complains of dizziness dizziness alert oriented states cough nausea,Emergent
+7,78,109,77,98.6,22,89.2,2,0,5,1,1,0,1,1,31.2,breathing associated states fever pain altered mental started,Emergent
+65,91,144,84,97.9,20,87.0,2,2,20,0,1,1,1,3,34.7,swelling days ago breathing swelling vomiting dizziness moderate persistent cough,Urgent
+55,108,176,104,98.9,13,90.4,6,0,15,0,1,0,1,3,24.8,moderate back sprained ankle onset headache presenting with,Urgent
+65,58,134,90,99.1,14,100.0,4,1,5,0,2,0,0,3,27.3,denies rash follow up complains of states,Non-Urgent
+52,95,109,67,98.2,8,94.1,0,0,16,1,2,1,0,1,26.3,back taking medication weakness,Urgent
+49,80,125,82,100.9,22,98.9,0,1,0,0,0,0,0,0,25.8,no allergies abdominal cough complains of onset states dizziness,Urgent
+19,114,163,73,98.5,22,100.0,2,0,7,0,0,0,0,1,33.5,onset days ago abdominal no allergies breathing,Urgent
+32,59,124,77,98.1,12,93.9,5,0,3,1,2,0,0,2,29.3,swelling vomiting taking medication days ago rash headache prescription refill,Non-Urgent
+66,71,149,88,97.3,11,89.6,1,0,2,0,4,0,0,1,19.9,complains of rash abdominal days ago prescription refill rash,Non-Urgent
+65,97,139,93,97.3,23,100.0,0,0,12,0,1,0,1,2,25.8,swelling presenting with moderate cough,Emergent
+43,56,138,78,99.7,19,96.2,2,1,19,0,2,0,0,0,31.6,patient reports history of cough worsening breathing,Urgent
+81,57,147,71,94.2,14,97.8,5,2,10,1,0,0,0,2,17.8,denies prescription refill patient reports taking medication days ago alert oriented,Non-Urgent
+43,77,126,60,97.8,16,93.7,5,1,7,0,2,1,0,1,21.9,history of started breathing history of onset headache,Urgent
+23,105,130,82,98.4,8,96.7,7,0,14,0,3,0,0,2,26.2,moderate taking medication rash moderate associated history of,Urgent
+42,82,117,86,96.2,18,94.1,0,0,20,0,4,0,1,1,17.5,fever onset complains of states,Urgent
+69,100,169,74,99.2,16,84.8,6,0,0,0,0,1,0,1,16.5,days ago back started severe hemorrhage,Immediate
+47,85,176,66,100.5,19,89.0,3,0,23,0,0,0,0,1,18.1,fever nausea history of difficulty breathing,Emergent
+28,77,122,64,96.4,14,100.0,0,0,23,1,4,0,0,1,20.5,history of associated follow up associated,Non-Urgent
+1,82,99,58,99.9,15,96.3,5,0,7,0,1,0,1,1,27.8,headache rash breathing worsening presenting with rash,Emergent
+22,91,165,50,94.5,15,99.5,2,0,8,0,2,0,1,0,24.3,sprained ankle abdominal intermittent dizziness,Urgent
+50,121,157,83,100.5,20,98.0,4,0,7,0,5,0,0,0,37.5,severe abdominal patient reports vomiting onset,Emergent
+68,68,89,67,95.4,23,95.8,7,0,15,0,1,0,1,0,29.3,history of onset cough taking medication,Urgent
+48,97,114,97,100.5,22,100.0,0,0,3,0,0,1,0,1,27.4,cough pain prescription refill no allergies,Non-Urgent
+58,89,180,103,94.3,22,95.3,5,0,5,1,3,0,0,1,25.5,intermittent days ago states,Urgent
+68,57,129,87,96.9,23,95.1,3,0,20,0,1,1,0,2,21.4,rash rash sprained ankle onset pain dizziness taking medication chest,Urgent
+56,42,113,65,98.5,21,92.4,5,0,12,0,2,0,0,0,28.4,follow up patient reports taking medication rash headache onset,Non-Urgent
+55,87,112,117,101.3,18,91.4,1,2,11,0,1,0,0,2,35.2,days ago fever moderate rash abdominal,Urgent
+61,80,174,72,96.9,13,98.1,2,0,2,1,3,1,0,1,16.7,days ago presenting with swelling back abdominal vomiting no allergies,Urgent
+49,120,149,69,95.9,14,88.4,10,0,16,0,4,1,0,2,27.5,swelling pain difficulty breathing history of onset weakness worsening abdominal,Emergent
+46,50,120,109,98.2,8,96.3,2,0,3,1,3,1,0,2,22.5,intermittent difficulty breathing complains of fever,Emergent
+40,87,136,72,99.1,17,96.8,10,1,0,0,1,0,0,1,22.9,taking medication onset weakness dizziness,Emergent
+55,83,145,63,98.4,21,95.2,3,0,2,0,1,0,0,0,27.6,chest vomiting rash,Urgent
+91,88,93,62,96.4,25,99.2,0,1,10,0,1,1,0,2,37.8,patient reports history of patient reports breathing sprained ankle denies intermittent,Urgent
+81,69,167,63,99.3,22,91.9,6,0,0,1,0,0,0,0,23.3,worsening breathing breathing rash,Emergent
+36,59,136,64,100.1,20,90.2,0,0,6,0,0,0,0,0,22.5,onset fever breathing taking medication history of difficulty breathing,Emergent
+38,95,150,69,99.3,23,99.9,10,0,13,1,0,0,1,1,32.3,associated patient reports headache associated started presenting with denies,Emergent
+20,80,130,72,102.2,8,97.8,1,0,8,0,0,0,0,0,29.8,headache cough cough chest cough,Urgent
+4,122,159,74,97.1,18,82.5,6,0,16,1,2,0,0,0,23.2,no allergies worsening states breathing no allergies taking medication intermittent,Immediate
+73,100,109,67,95.7,19,92.3,7,0,6,0,2,0,0,0,25.3,back denies altered mental nausea moderate fever complains of,Emergent
+67,80,129,87,96.3,26,100.0,4,0,8,0,3,0,0,1,29.6,denies moderate taking medication alert oriented rash vomiting chest,Non-Urgent
+45,88,129,50,98.4,21,100.0,2,1,21,0,6,1,0,0,33.8,states sprained ankle no allergies breathing associated breathing,Urgent
+79,56,196,85,96.3,9,96.4,7,1,0,0,0,0,0,2,27.4,started taking medication denies states history of presenting with,Non-Urgent
+78,69,98,98,99.3,17,98.6,0,0,17,1,3,0,0,1,36.2,swelling breathing nausea,Urgent
+66,114,166,88,98.6,24,97.0,2,0,4,0,4,0,0,3,34.3,pain moderate moderate associated patient reports,Emergent
+52,81,138,50,98.3,16,94.2,4,0,23,0,1,0,0,0,26.8,abdominal cough back complains of,Urgent
+64,100,121,69,94.7,21,95.5,2,0,10,0,2,0,1,0,29.4,states fever associated vomiting,Non-Urgent
+37,89,153,89,97.2,23,91.3,1,2,5,1,1,0,0,2,30.1,headache pain history of altered mental breathing taking medication presenting with,Emergent
+78,57,168,61,100.2,21,100.0,5,0,0,0,0,0,0,0,15.3,days ago history of headache started vomiting days ago states,Urgent
+46,54,149,101,96.2,10,100.0,3,0,9,0,2,1,1,2,20.2,no allergies moderate moderate fever insect bite,Non-Urgent
+21,100,210,50,101.5,12,88.3,3,1,8,0,1,0,1,2,28.0,swelling chest taking medication started,Emergent
+67,144,158,105,98.8,21,92.0,7,1,18,0,1,0,1,0,26.8,alert oriented breathing difficulty breathing chest dizziness nausea abdominal pain,Emergent
+64,78,88,102,101.1,19,99.8,6,0,15,0,3,0,1,1,29.1,back sprained ankle worsening rash,Urgent
+34,77,106,101,95.1,20,90.5,0,0,23,0,4,0,0,1,25.4,moderate swelling intermittent headache,Urgent
+31,92,147,61,97.6,18,95.5,10,0,11,1,3,0,0,1,17.2,headache denies onset no allergies alert oriented,Non-Urgent
+54,94,100,69,98.1,10,87.8,10,0,16,0,1,1,1,1,32.2,started persistent cough complains of vomiting,Urgent
+53,72,140,88,100.0,19,97.7,2,0,4,1,2,1,0,0,24.0,onset states fever insect bite abdominal chest vomiting,Non-Urgent
+46,66,114,76,102.0,17,96.2,1,0,9,0,0,0,1,3,29.4,worsening insect bite nausea swelling,Non-Urgent
+22,97,163,87,100.2,17,92.5,5,0,17,0,0,0,0,1,19.7,denies worsening patient reports,Non-Urgent
+48,54,113,92,101.4,13,94.8,1,1,16,0,1,0,0,0,34.4,pain no allergies states moderate days ago dizziness,Urgent
+54,99,114,109,99.6,8,100.0,5,0,14,0,4,1,0,2,26.1,taking medication persistent cough denies alert oriented,Urgent
+73,105,87,81,96.5,24,92.0,5,0,7,1,0,0,0,0,24.5,taking medication alert oriented pain,Urgent
+68,76,154,50,98.2,23,98.3,9,2,16,0,2,1,1,0,32.5,fever worsening associated,Urgent
+19,87,164,89,98.5,14,100.0,3,2,2,0,1,0,0,1,22.5,fever presenting with rash,Non-Urgent
+21,122,134,87,97.8,14,96.8,5,0,11,0,1,0,1,0,30.5,breathing laceration denies back started nausea,Urgent
+53,105,103,85,98.4,12,97.0,6,0,5,1,1,0,1,0,32.6,fever taking medication no allergies states,Non-Urgent
+33,98,148,94,101.0,19,91.7,8,2,4,1,2,0,0,1,32.3,taking medication headache presenting with nausea follow up history of swelling worsening,Non-Urgent
+81,145,122,59,99.4,17,88.1,7,1,21,1,1,0,1,1,31.0,fever vomiting presenting with,Immediate
+58,103,91,61,98.9,18,98.2,4,0,8,1,1,1,0,3,22.8,associated rash moderate chest worsening,Emergent
+49,73,94,97,99.7,18,100.0,3,0,10,0,1,0,0,1,32.1,associated taking medication alert oriented,Urgent
+69,77,130,89,95.2,16,94.3,2,0,22,1,1,0,0,2,32.0,complains of swelling cough patient reports cough alert oriented prescription refill,Non-Urgent
+49,82,114,117,98.6,16,84.2,0,0,12,1,2,0,0,2,15.0,severe abdominal breathing presenting with weakness vomiting,Emergent
+36,61,126,116,99.2,15,89.4,3,0,9,0,1,1,0,2,23.4,states presenting with cough insect bite no allergies,Non-Urgent
+1,113,147,82,98.6,27,92.7,4,0,15,1,5,0,0,1,17.8,chest denies weakness denies headache,Immediate
+47,96,174,69,97.5,23,100.0,3,0,20,0,1,0,0,0,26.6,days ago taking medication pain persistent cough chest states complains of fever,Urgent
+60,41,117,59,94.6,21,93.6,0,0,18,1,0,0,1,0,30.0,denies worsening days ago follow up,Non-Urgent
+42,65,143,111,98.9,17,100.0,1,2,10,0,1,0,0,2,29.7,difficulty breathing onset complains of intermittent states cough patient reports,Emergent
+76,115,116,84,98.8,14,97.5,1,0,14,0,7,0,0,0,33.4,dizziness complains of pain swelling moderate fever history of,Urgent
+37,98,116,95,100.5,19,99.6,10,0,12,0,1,0,1,0,21.9,history of history of alert oriented onset moderate difficulty breathing states,Emergent
+58,76,123,56,94.0,24,95.6,1,0,14,0,0,1,1,3,20.8,cough nausea worsening,Urgent
+77,85,125,57,96.4,19,99.7,7,0,16,1,5,0,1,1,24.7,abdominal taking medication moderate intermittent patient reports nausea associated,Non-Urgent
+49,67,131,63,97.7,18,100.0,0,1,21,0,2,1,1,0,29.3,back abdominal persistent cough associated weakness rash,Urgent
+55,119,92,126,95.4,19,95.0,6,1,23,0,1,1,0,0,27.0,alert oriented breathing complains of weakness moderate,Emergent
+38,114,119,72,97.8,14,92.3,8,2,23,1,5,0,1,1,20.0,rash abdominal weakness moderate weakness alert oriented no allergies,Emergent
+55,93,198,102,101.2,18,94.9,2,0,3,0,0,0,0,1,31.3,breathing pain weakness onset,Emergent
+53,85,125,59,101.2,26,99.4,6,0,15,1,2,1,0,0,30.9,days ago presenting with moderate,Urgent
+51,84,140,82,96.2,22,94.3,0,0,2,0,0,0,0,2,35.9,nausea cough complains of nausea started nausea patient reports,Urgent
+47,50,95,104,99.8,18,83.7,0,1,6,0,3,0,0,1,26.9,history of swelling laceration no allergies states,Urgent
+50,55,82,111,96.2,12,100.0,7,0,12,0,3,0,1,4,32.1,breathing dizziness fever nausea patient reports no allergies history of,Emergent
+63,94,124,57,98.7,8,95.4,4,0,3,0,2,0,0,2,33.2,days ago abdominal swelling nausea pain states moderate,Emergent
+93,105,119,80,101.4,26,99.7,3,0,20,1,1,0,0,1,25.2,taking medication associated severe abdominal presenting with,Emergent
+15,115,110,84,97.6,19,95.7,4,0,8,0,3,0,0,2,38.4,associated chest swelling worsening patient reports severe hemorrhage,Immediate
+53,101,131,50,100.0,16,93.3,7,0,7,0,4,1,0,1,30.9,cough presenting with severe hemorrhage chest abdominal onset days ago,Immediate
+67,83,87,105,97.7,16,96.5,7,0,17,0,1,0,0,1,28.6,vomiting no allergies started,Urgent
+50,115,141,74,95.9,18,96.7,0,0,14,0,4,0,0,1,26.6,cough presenting with taking medication back days ago back headache,Non-Urgent
+62,101,166,80,98.2,16,97.1,4,0,0,0,3,1,1,0,26.9,sprained ankle back vomiting history of onset fever dizziness,Urgent
+51,67,115,96,98.0,20,97.1,10,1,21,1,2,0,0,3,31.0,altered mental fever denies alert oriented alert oriented swelling no allergies,Emergent
+28,91,92,77,96.5,15,92.1,3,0,6,0,2,0,0,1,20.9,presenting with insect bite started abdominal complains of,Non-Urgent
+88,85,144,55,97.6,16,98.4,6,0,20,0,1,0,0,2,25.6,swelling headache fever rash chest,Urgent
+41,118,113,80,100.2,12,95.4,5,0,4,1,0,0,1,3,28.4,patient reports no allergies intermittent moderate rash,Emergent
+68,125,118,90,96.3,17,89.6,9,1,8,0,0,1,0,1,38.4,denies started difficulty breathing cough days ago days ago,Emergent
+58,79,125,54,95.2,14,87.7,2,0,14,0,2,1,0,1,31.4,patient reports breathing complains of intermittent vomiting onset complains of,Non-Urgent
+53,106,140,50,96.9,19,100.0,5,0,14,0,1,0,0,0,34.3,started worsening headache back chest presenting with altered mental weakness,Emergent
+41,56,150,102,102.3,15,85.5,0,2,19,1,2,1,0,0,27.7,persistent cough dizziness vomiting pain history of abdominal taking medication,Urgent
+63,105,80,73,95.2,10,95.3,0,0,17,0,4,0,0,2,22.6,cough days ago follow up vomiting states,Non-Urgent
+56,67,159,65,98.3,17,91.2,0,1,0,0,1,1,1,2,32.8,swelling complains of days ago pain persistent cough patient reports presenting with,Urgent
+30,74,163,50,98.5,15,98.1,5,0,20,1,3,1,0,0,21.7,swelling started sprained ankle breathing onset no allergies fever,Urgent
+54,78,113,97,98.9,19,89.8,1,0,8,0,1,0,0,0,34.6,difficulty breathing history of cough complains of no allergies taking medication rash started,Emergent
+63,61,97,123,98.7,13,92.9,0,0,6,0,2,0,0,0,25.9,dizziness vomiting swelling pain taking medication nausea days ago,Non-Urgent
+29,112,153,65,95.0,27,95.0,7,1,17,0,0,0,0,3,19.4,denies started worsening,Immediate
+15,83,135,64,96.9,19,90.6,1,0,21,1,2,1,0,1,33.9,started back breathing insect bite patient reports onset no allergies dizziness,Non-Urgent
+67,101,122,100,100.2,18,100.0,7,1,19,0,4,1,0,1,37.1,patient reports denies dizziness nausea,Emergent
+44,69,118,99,98.0,15,93.3,5,0,12,0,3,0,0,2,39.9,worsening onset complains of fever,Urgent
+87,46,144,73,99.6,19,100.0,4,0,8,1,4,1,0,0,29.8,history of history of weakness,Urgent
+26,87,127,53,97.1,13,84.1,2,0,11,1,3,0,1,0,25.9,laceration patient reports moderate breathing onset presenting with,Urgent
+25,100,136,87,98.2,8,100.0,5,1,23,0,1,1,0,3,27.7,cough abdominal weakness vomiting taking medication,Urgent
+42,69,110,83,98.7,19,92.5,2,0,7,0,1,0,1,1,27.8,moderate back laceration abdominal,Urgent
+90,75,129,75,98.2,25,97.6,2,0,0,0,3,1,0,4,16.6,dizziness chest history of,Non-Urgent
+93,90,136,97,98.5,23,100.0,5,0,19,0,2,1,0,1,23.4,chest associated days ago follow up intermittent complains of onset taking medication,Non-Urgent
+63,65,132,88,98.3,16,92.5,5,1,6,0,2,0,1,2,29.0,weakness onset states vomiting severe abdominal nausea alert oriented fever,Emergent
+45,85,104,56,97.7,11,96.6,3,0,14,0,2,1,0,3,22.8,back breathing rash laceration alert oriented denies associated history of,Urgent
+81,110,169,103,97.1,8,96.9,8,0,19,0,1,1,1,2,22.3,breathing dizziness breathing breathing,Urgent
+50,138,163,58,102.7,20,89.2,7,2,22,0,0,0,0,2,27.3,fever vomiting headache denies back rash,Immediate
+16,107,183,67,99.6,18,94.5,5,0,20,1,2,0,1,4,37.2,no allergies headache denies presenting with taking medication fever,Immediate
+42,93,124,71,100.0,20,96.7,0,0,14,0,2,0,0,3,34.2,started weakness headache follow up breathing,Non-Urgent
+37,101,111,88,100.8,8,98.8,5,2,15,0,0,0,1,0,20.3,abdominal onset altered mental taking medication vomiting,Emergent
+22,80,111,68,99.0,14,95.2,5,0,11,1,1,0,1,1,27.7,chest no allergies breathing alert oriented,Urgent
+62,126,176,53,104.5,18,98.9,10,0,5,0,0,1,1,1,29.3,no allergies presenting with taking medication,Immediate
+69,118,82,60,97.5,11,84.8,10,2,12,0,2,0,0,2,28.1,started weakness states presenting with states weakness,Emergent
+35,75,133,79,98.1,8,97.3,5,2,3,0,2,0,1,0,25.3,dizziness breathing weakness alert oriented swelling,Urgent
+47,77,115,72,96.4,14,100.0,1,0,14,0,1,1,0,1,32.4,moderate laceration breathing nausea abdominal swelling vomiting nausea,Urgent
+71,78,115,86,98.7,20,93.3,4,0,21,0,1,0,0,2,19.3,associated dizziness started abdominal history of associated,Non-Urgent
+68,79,135,111,99.6,23,85.7,10,0,14,0,2,0,0,1,18.5,swelling headache unresponsive patient reports history of associated,Immediate
+54,92,87,71,95.5,19,91.4,2,0,0,0,3,0,0,3,22.8,started onset persistent cough associated weakness swelling,Urgent
+1,91,128,116,96.3,13,97.8,8,0,6,0,1,0,0,0,23.9,breathing vomiting denies weakness patient reports worsening sprained ankle,Urgent
+63,87,131,62,98.8,11,94.5,0,0,6,0,0,1,0,0,42.4,started vomiting vomiting,Non-Urgent
+15,96,155,56,98.3,8,88.8,6,0,22,1,1,1,0,4,27.4,associated patient reports back moderate difficulty breathing,Emergent
+51,125,106,88,99.9,8,99.2,4,1,19,0,2,0,1,2,25.0,sprained ankle taking medication moderate states fever alert oriented,Urgent
+48,86,126,88,97.9,19,98.6,8,1,11,0,2,1,0,3,26.0,chest onset cough started pain pain,Urgent
+29,97,125,78,97.9,18,97.4,0,1,2,1,1,0,1,3,23.7,history of moderate days ago days ago weakness severe abdominal onset days ago,Emergent
+47,102,114,97,99.3,20,93.6,7,0,12,0,4,1,0,1,27.9,swelling vomiting vomiting nausea associated vomiting,Urgent
+37,126,148,61,98.8,18,93.9,3,1,4,1,2,0,1,2,25.7,nausea difficulty breathing started chest associated cough,Emergent
+34,115,90,61,99.6,12,94.4,10,0,14,0,0,0,1,3,19.8,denies vomiting back breathing,Non-Urgent
+74,40,156,104,97.8,16,92.8,5,0,2,1,4,1,0,0,28.7,onset cough intermittent persistent cough,Urgent
+37,77,180,84,95.2,13,100.0,2,0,23,0,5,0,1,1,23.2,denies moderate cough breathing persistent cough,Urgent
+27,80,143,50,98.5,10,90.4,8,1,22,1,0,1,0,0,30.6,back alert oriented started,Emergent
+9,83,176,79,97.6,13,92.1,9,0,12,0,1,0,0,2,25.1,laceration breathing intermittent back back,Urgent
+82,67,80,67,96.4,17,100.0,10,0,2,1,3,1,1,4,34.6,breathing associated onset alert oriented,Non-Urgent
+39,66,127,69,102.7,8,86.7,0,0,20,0,3,0,0,0,28.4,nausea rash fever onset nausea presenting with,Emergent
+9,102,159,89,97.4,23,96.3,7,1,19,0,3,0,0,0,29.8,vomiting swelling states severe abdominal back abdominal onset,Emergent
+25,118,171,74,97.8,13,95.0,5,1,4,0,0,0,1,0,26.7,breathing intermittent patient reports pain,Immediate
+1,79,140,58,97.4,8,97.2,1,0,4,0,2,1,1,1,17.5,onset rash vomiting,Urgent
+47,95,80,79,97.4,16,93.9,6,0,10,0,1,0,0,0,24.7,vomiting rash patient reports back onset,Non-Urgent
+29,89,138,79,96.8,9,100.0,8,0,1,0,5,0,0,3,25.1,onset laceration pain taking medication nausea,Urgent
+65,46,121,94,99.5,16,100.0,0,1,7,0,4,0,0,0,27.5,started intermittent weakness,Non-Urgent
+77,116,200,58,101.4,13,88.2,10,0,13,1,0,0,0,0,22.9,no allergies severe hemorrhage fever nausea,Immediate
+36,77,136,88,99.7,8,92.6,1,0,11,1,4,0,0,1,35.0,insect bite onset days ago cough started cough taking medication,Non-Urgent
+57,80,107,86,95.3,22,100.0,0,0,7,0,1,0,0,0,28.8,fever moderate alert oriented,Urgent
+43,84,143,75,102.4,23,87.7,4,1,7,0,1,0,1,1,37.9,alert oriented abdominal onset altered mental dizziness fever taking medication,Emergent
+62,78,128,106,98.2,8,93.1,4,0,9,0,3,0,0,1,16.6,fever fever no allergies taking medication presenting with associated cough,Urgent
+51,49,134,65,98.2,12,100.0,0,0,11,0,5,1,1,0,22.0,presenting with states weakness weakness insect bite,Non-Urgent
+44,132,163,71,99.5,10,97.0,7,0,1,1,1,0,1,0,32.6,unresponsive patient reports intermittent complains of days ago,Immediate
+56,90,117,83,97.1,25,92.9,3,0,5,0,2,0,1,2,34.7,sprained ankle no allergies no allergies swelling,Urgent
+49,63,93,88,100.5,17,98.2,0,2,19,0,5,0,0,1,19.0,laceration patient reports complains of states moderate cough breathing,Urgent
+74,46,89,64,98.9,16,100.0,0,0,16,0,2,1,0,0,40.5,vomiting presenting with prescription refill chest,Non-Urgent
+50,99,80,55,98.0,17,96.0,4,0,5,0,3,0,0,3,19.4,started swelling intermittent no allergies pain,Urgent
+35,106,93,66,101.8,16,95.3,1,0,9,0,1,1,0,0,27.0,denies moderate onset,Urgent
+27,74,141,73,96.4,21,96.4,7,0,4,0,1,0,1,2,23.5,started associated days ago sprained ankle,Urgent
+32,75,94,73,98.2,20,95.8,1,0,10,1,5,0,0,4,40.6,chest abdominal back dizziness swelling headache,Non-Urgent
+72,54,188,83,99.7,21,100.0,8,0,21,0,3,1,0,0,30.0,history of fever alert oriented days ago associated,Non-Urgent
+41,44,147,81,99.4,8,90.2,7,0,18,0,0,0,1,3,23.9,abdominal back abdominal intermittent dizziness alert oriented vomiting,Urgent
+60,74,121,78,96.2,9,97.3,1,0,7,1,1,1,0,2,28.5,associated back moderate worsening back breathing,Non-Urgent
+40,67,87,50,98.4,15,100.0,4,1,19,0,1,1,0,0,26.0,weakness moderate intermittent,Non-Urgent
+55,85,152,107,100.2,17,97.4,0,0,10,0,0,0,0,0,24.1,breathing presenting with back weakness days ago,Urgent
+60,77,133,67,101.3,12,84.6,7,1,4,1,1,1,1,3,27.0,days ago chest taking medication states,Urgent
+49,100,93,60,97.1,24,98.8,5,1,20,0,2,1,1,0,21.8,presenting with fever fever laceration complains of,Urgent
+48,73,132,98,100.1,8,93.0,2,2,8,0,1,1,0,1,35.9,weakness dizziness rash taking medication pain history of days ago,Urgent
+23,95,141,65,98.0,15,92.6,6,0,18,1,1,0,0,2,23.7,onset rash onset chest taking medication,Emergent
+17,112,85,72,99.9,24,96.0,0,0,12,0,3,0,0,1,21.6,pain worsening headache states back weakness,Non-Urgent
+2,124,152,72,99.5,12,97.5,1,2,16,0,3,0,0,2,27.7,chest associated chest associated persistent cough headache,Urgent
+32,79,106,119,96.5,18,96.4,0,0,3,0,0,0,0,2,20.8,breathing taking medication cough,Non-Urgent
+34,84,124,65,98.4,29,82.4,10,1,4,0,3,1,0,1,28.6,denies worsening no allergies history of,Emergent
+39,98,112,62,96.9,8,91.1,6,0,15,0,2,0,0,1,36.6,moderate fever associated days ago persistent cough,Urgent
+51,115,151,113,101.1,8,89.6,8,0,5,1,4,0,0,1,25.4,weakness dizziness history of fever days ago denies,Immediate
+65,69,170,57,98.0,19,89.1,3,0,20,1,1,0,0,0,15.9,chest prescription refill headache intermittent patient reports,Non-Urgent
+48,84,181,50,96.8,8,97.7,3,1,5,0,4,1,1,0,29.6,presenting with worsening started associated worsening insect bite,Non-Urgent
+34,80,146,68,100.2,19,96.6,0,0,4,1,3,0,0,1,24.1,states fever history of cough swelling patient reports vomiting,Non-Urgent
+63,50,143,61,96.9,12,100.0,5,0,13,0,3,0,0,1,32.3,cough follow up fever days ago chest intermittent,Non-Urgent
+57,66,94,75,96.2,25,96.6,4,0,11,0,1,1,1,2,20.7,severe abdominal vomiting nausea abdominal,Emergent
+58,76,124,73,98.0,12,91.7,1,1,5,0,0,0,0,1,30.8,headache worsening states associated fever nausea alert oriented,Emergent
+2,72,103,63,98.1,19,93.5,6,1,16,0,1,0,1,2,32.0,cough no allergies moderate laceration associated associated headache,Urgent
+49,89,115,115,96.0,23,87.9,3,1,1,0,3,0,1,1,26.9,days ago intermittent nausea onset persistent cough complains of abdominal,Urgent
+1,57,132,68,97.9,8,97.5,8,2,3,1,1,0,0,0,47.4,prescription refill no allergies back patient reports cough rash,Non-Urgent
+5,107,139,77,99.7,23,100.0,6,1,19,0,2,1,0,0,25.4,cough intermittent back abdominal altered mental rash,Emergent
+67,92,117,68,98.9,23,96.2,4,1,18,0,1,0,1,1,25.6,vomiting complains of follow up breathing,Non-Urgent
+50,103,146,94,97.9,23,91.4,6,2,22,0,2,0,1,1,22.7,persistent cough started fever breathing moderate,Urgent
+68,84,80,101,102.3,12,100.0,10,0,16,0,2,1,1,1,30.7,alert oriented denies days ago rash denies breathing laceration patient reports,Urgent
+71,43,119,73,95.7,15,94.2,4,2,23,1,1,1,0,2,34.9,no allergies pain swelling difficulty breathing states worsening,Emergent
+79,85,131,77,95.6,15,100.0,6,2,12,0,3,1,0,0,27.7,chest patient reports pain cough worsening worsening persistent cough,Urgent

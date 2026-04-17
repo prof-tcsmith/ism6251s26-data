@@ -1,0 +1,701 @@
+id,customer_tier,account_age_months,num_open_tickets,priority_level,submission_hour,is_weekend,num_users_on_account,monthly_spend,product_module,days_since_last_ticket,escalation_history_count,ticket_description
+0,1,62,5,1,23,0,2,1614.98,3,77,2,service change contact change need crash issue error team
+1,1,5,0,1,15,0,25,791.3,5,28,1,migration not working page please getting started check team
+2,2,14,2,2,3,0,7,32.42,3,3,2,update import data service today user
+3,1,35,2,1,14,1,8,426.64,2,14,0,time page check please vulnerability fix update time yesterday please
+4,0,25,3,2,21,1,3,323.22,1,39,1,information help refund user time
+5,0,25,1,2,23,0,5,464.97,3,17,1,access support need login login system page change support
+6,0,12,1,1,12,0,7,269.18,4,39,1,contact help request refund please resolved account update problem
+7,1,2,2,1,2,0,2,23.81,5,3,0,getting started need team request error account page page not working
+8,0,9,1,1,2,0,2,1740.15,4,30,1,please loading request check support broken setup time not working change
+9,0,34,4,1,23,0,10,1046.22,1,48,2,help overcharge issue system need
+10,0,44,0,1,17,0,17,207.49,2,28,1,change issue change need help timeout information
+11,2,20,0,1,18,1,38,403.66,3,1,2,time permission fix team resolved account
+12,1,27,2,1,18,0,3,355.7,2,57,0,subscription broken time support please not working unable
+13,1,3,2,1,21,0,8,611.81,2,54,1,check time roadmap error check page
+14,1,1,1,1,21,0,1,2562.47,4,117,1,support update refund problem information need change
+15,0,44,1,2,3,0,52,168.63,2,13,0,user change page user error subscription
+16,1,23,4,3,10,0,8,2893.81,5,4,0,team invoice error need not working request urgent details issue
+17,0,66,4,1,14,0,8,858.27,1,13,0,today unable access loading invoice contact fix
+18,0,43,3,1,7,1,2,555.12,5,48,1,fix error access contact crash error broken unable
+19,1,1,1,3,17,0,7,454.05,0,24,0,need enhance help enhance page unable not working contact
+20,0,58,2,1,4,0,34,1005.86,1,37,1,support request user unable information API
+21,2,31,2,2,14,0,9,3255.0,0,5,0,please not working loading error crash account update team not working
+22,1,18,1,1,19,0,12,3446.26,1,13,1,need vulnerability update time yesterday
+23,2,16,4,2,6,1,14,630.61,4,53,0,please need account account time broken
+24,0,1,3,2,3,0,1,226.45,2,64,1,error please not working contact access update unable login information contact
+25,2,17,2,1,6,0,33,49.43,1,2,0,setup change access update getting started not working check account broken today check
+26,2,1,4,1,13,0,2,143.12,3,74,1,page change yesterday service setup urgent update update update
+27,2,1,1,2,2,0,10,296.3,0,19,1,issue access system migration unable information today user
+28,0,20,0,2,12,0,1,149.67,4,32,1,getting started urgent details contact page not working fix
+29,1,8,3,1,10,0,14,254.3,2,0,0,details error account resolved problem check subscription yesterday change
+30,2,2,0,1,11,1,6,554.98,3,59,2,system request support yesterday roadmap request loading change user yesterday
+31,0,1,1,2,7,0,2,1713.66,5,30,0,user page contact broken contact problem permission
+32,0,25,2,1,9,0,9,1219.74,2,8,0,error team help today fix crash service details
+33,0,18,0,1,18,0,2,4508.1,1,50,0,system contact contact problem access please support password check
+34,2,41,0,1,10,0,1,190.84,4,59,0,error problem roadmap fix account account urgent
+35,1,2,1,3,11,1,5,212.45,4,37,1,please service not working invoice help loading team team
+36,3,29,4,1,13,0,21,4821.59,2,5,1,service service bug yesterday fix team account
+37,2,3,4,1,3,0,1,1459.84,0,7,0,overcharge need not working system not working loading page page user yesterday
+38,1,12,2,2,2,1,3,457.91,0,6,1,user login check system update
+39,1,21,1,1,4,0,2,1740.72,5,42,0,support loading loading SSO account user fix page
+40,0,78,2,3,6,0,10,732.78,2,90,0,account team need access loading system account please yesterday SSO
+41,1,55,0,2,2,1,60,53.11,3,7,0,help import data change team page details team
+42,0,72,0,1,13,1,6,63.15,2,27,0,system please getting started broken resolved not working
+43,2,21,2,2,0,0,4,135.53,3,0,1,user system fix support change user need bug
+44,0,23,3,3,23,0,9,771.48,4,13,0,urgent information system yesterday resolved need access problem API
+45,0,4,0,1,3,0,12,566.57,4,4,0,error loading user need bug support
+46,1,40,2,1,23,0,3,2598.51,1,26,1,broken account change update vulnerability support service broken resolved
+47,1,100,0,1,1,0,7,4865.81,4,84,1,please account access contact problem support migration need page
+48,3,37,1,2,21,0,6,2436.06,0,47,0,contact time account refund resolved
+49,2,49,7,3,19,0,5,1764.23,2,10,1,API update loading user urgent
+50,3,35,3,2,5,0,1,344.36,5,6,0,details please page bug user
+51,1,11,4,3,1,1,15,368.92,3,20,1,details need broken error import data
+52,1,1,3,2,7,0,21,821.57,2,2,1,subscription support issue team not working loading urgent loading problem unable
+53,0,13,2,3,16,0,10,2040.15,2,23,0,information crash please details not working timeout please need system user
+54,0,2,2,1,21,0,41,229.29,4,2,0,unable system account today time change resolved crash not working
+55,1,120,2,2,13,1,2,108.6,0,24,1,loading unauthorized team fix yesterday
+56,0,35,3,2,1,0,32,242.2,0,61,0,check details error issue not working enhance
+57,3,1,3,1,2,0,3,851.01,1,15,4,broken unable fix issue yesterday
+58,2,46,2,1,14,0,2,789.44,2,18,0,not working error broken check urgent broken
+59,3,12,1,1,7,1,2,147.27,0,45,0,service unable unable not working not working please
+60,3,39,1,1,0,0,5,1417.18,5,1,0,login service issue error change need error service user
+61,3,1,2,1,21,1,3,94.58,5,77,1,system service support page contact please password unable system
+62,3,8,0,2,9,1,16,429.17,1,43,0,user not working request contact details vulnerability information problem unable account
+63,1,5,2,1,18,0,8,1112.13,1,19,2,fix breach today information resolved
+64,3,121,2,2,1,0,15,3318.56,0,2,2,change unable user check
+65,1,101,4,2,16,0,6,1091.88,5,4,2,yesterday loading help API please
+66,3,1,2,1,5,0,17,318.62,4,19,0,system time service time user
+67,3,60,0,2,16,0,12,1077.36,5,4,2,urgent page problem problem broken invoice problem check access
+68,1,35,1,1,14,0,12,386.03,2,67,2,refund refund request service page broken resolved fix today
+69,1,1,1,1,9,0,4,2168.12,5,20,0,API information please service API details unable
+70,1,14,2,1,3,0,9,243.46,4,66,0,unable unable support update service today user refund
+71,3,2,3,2,6,0,3,42.5,3,29,2,user check timeout team need error
+72,3,39,4,1,23,0,4,970.24,5,4,1,error access broken error service crash service account contact
+73,2,6,1,1,10,0,1,666.46,4,52,1,information page fix support support would like change
+74,1,2,3,2,8,0,5,198.42,0,3,0,refund time urgent error unable urgent broken issue broken
+75,2,17,2,2,22,0,6,1117.36,5,92,0,please time password service page page broken error
+76,0,67,0,1,15,0,32,48.27,3,9,1,problem system urgent update support support time help subscription
+77,3,13,0,3,18,0,6,1882.75,4,25,1,user issue help loading team crash information need
+78,0,44,0,2,0,0,1,1143.0,3,71,1,information service team setup account change
+79,1,8,1,1,19,0,15,720.51,1,9,0,today contact unable need yesterday migration team today fix details
+80,1,27,1,2,14,1,6,1920.2,3,22,0,please overcharge system today user account broken unable support contact
+81,3,82,0,2,18,0,2,2132.74,1,4,0,yesterday yesterday error error crash update service fix
+82,3,9,1,1,1,0,3,738.42,0,6,0,API help team time not working error system change problem issue
+83,3,23,2,3,0,0,6,138.94,1,16,0,user problem phishing not working please
+84,0,9,1,3,21,0,1,2158.06,1,16,0,change account error crash check bug broken request
+85,0,33,1,3,13,0,6,57.31,2,54,0,problem API account broken page contact fix
+86,3,11,2,1,20,0,25,247.49,5,65,0,today issue details urgent account support refund unable
+87,2,92,2,2,16,0,7,720.6,2,154,0,account details resolved invoice help today service
+88,1,3,1,3,6,0,7,637.16,3,26,0,update API time time help not working
+89,3,6,2,1,11,0,14,3938.91,1,32,1,urgent time yesterday access request overcharge urgent issue details support
+90,2,29,3,3,21,0,5,448.75,0,7,0,today page contact import data check team update fix unable
+91,1,72,3,1,18,0,6,894.11,2,34,0,urgent phishing team change yesterday check support time resolved
+92,2,27,2,2,3,1,23,89.6,3,60,1,issue user check error timeout timeout urgent not working yesterday contact
+93,3,25,3,1,5,0,1,845.59,2,0,0,broken problem please urgent account issue unauthorized problem time urgent
+94,3,32,1,1,2,0,5,445.16,0,11,1,contact urgent bug contact fix
+95,0,17,1,1,14,0,9,1372.12,5,61,1,invoice update unable user details need information
+96,3,25,0,1,17,0,5,631.28,5,6,1,breach team user today urgent contact service error resolved need
+97,3,73,1,3,17,0,17,157.67,3,29,0,please account support setup urgent not working system
+98,1,58,1,1,19,0,7,724.67,3,23,0,issue today time unable request team loading API information fix
+99,2,37,4,3,8,1,44,2251.49,0,37,1,need need details request need account unable
+100,0,54,3,1,17,0,5,685.25,0,172,1,issue overcharge team check page change request unable
+101,1,11,3,1,3,0,1,476.38,1,4,2,need information fix support today error time access
+102,1,26,0,1,11,0,12,3999.9,0,30,1,check information issue issue details crash
+103,0,43,1,1,10,0,26,1415.13,2,16,2,update team resolved yesterday please not working account SSO support
+104,1,42,2,3,2,0,4,332.74,5,31,0,help fix change resolved details request account
+105,2,31,2,2,13,1,6,149.03,1,24,0,support urgent password request fix
+106,1,12,2,2,18,0,6,261.97,3,11,0,need migration urgent yesterday loading change
+107,1,16,1,2,2,0,4,519.52,5,17,1,team crash time yesterday unable contact API service support
+108,0,3,0,1,2,0,11,280.59,4,5,0,fix contact support issue crash information time urgent please
+109,3,20,1,1,22,0,6,777.67,4,0,0,service broken access issue fix add feature update check please contact
+110,3,9,2,2,13,0,5,274.63,2,1,0,enhance error system page change today resolved contact support
+111,1,23,1,1,5,0,21,151.67,4,17,0,request contact account yesterday SSO broken
+112,3,21,1,1,13,0,9,226.75,5,5,1,loading details access information help help
+113,0,13,1,2,3,0,25,110.17,1,0,0,user crash unable resolved unable change unable resolved crash
+114,1,13,2,1,4,1,25,179.13,5,79,1,service yesterday today broken problem today update system password problem
+115,0,46,6,2,3,0,1,430.23,1,44,0,urgent crash request today page update access bug
+116,0,9,1,1,18,0,4,92.4,0,28,0,change service team request team API need
+117,0,3,1,2,11,0,6,349.43,0,27,1,refund yesterday error broken help overcharge
+118,0,4,0,3,11,0,13,1411.27,2,25,0,request time update contact account time issue urgent enhance today
+119,0,31,2,1,6,0,7,923.59,1,18,1,please not working system change page yesterday
+120,1,50,0,1,11,0,3,5.74,5,37,1,migration yesterday information access please
+121,2,12,2,2,5,0,5,681.34,2,42,1,check system not working timeout user
+122,0,6,2,2,18,0,7,451.74,1,5,0,vulnerability need error support not working request time information
+123,2,14,2,1,19,0,9,74.54,3,21,0,page service team subscription loading
+124,0,1,3,1,12,1,8,235.34,0,51,0,update page issue API loading not working time account not working
+125,1,47,0,1,5,1,2,1550.59,2,65,2,change issue update system
+126,2,4,0,1,14,0,8,533.28,4,14,0,change timeout unable not working broken service unable
+127,3,63,0,1,18,0,5,5820.58,1,22,1,account refund help time contact invoice user account
+128,1,140,0,1,16,0,8,233.45,2,16,1,resolved account request help
+129,2,3,1,2,7,0,4,11410.49,5,5,0,information access issue yesterday urgent information
+130,3,4,2,2,15,0,13,287.94,3,31,1,broken details yesterday need change
+131,3,4,0,1,14,0,2,419.55,0,11,1,yesterday team need update page details change setup support access
+132,3,3,0,1,20,0,4,165.62,1,76,0,time fix resolved crash broken information loading
+133,3,28,1,1,12,0,2,183.33,1,40,0,access add feature fix not working contact
+134,1,36,5,1,18,1,9,2679.83,5,67,1,help support support need broken issue contact enhance access change
+135,2,3,2,1,8,0,3,78.49,2,3,0,time error today issue information help
+136,1,47,1,1,15,0,3,827.82,1,9,0,issue permission request permission service user account
+137,1,14,3,1,18,0,12,1228.04,0,0,0,not working not working help account problem broken please information
+138,3,1,2,3,3,0,26,45.68,4,4,2,error information subscription account broken today
+139,2,14,2,3,17,0,9,310.15,2,35,1,subscription loading please check user
+140,0,24,2,1,11,0,8,259.88,4,11,1,problem request page fix team broken migration not working error
+141,2,19,2,1,4,0,20,921.06,1,72,1,check access service permission account system broken issue help check
+142,1,5,1,1,2,0,28,87.27,1,11,0,refund access details resolved error change information refund support information information
+143,1,31,0,3,13,0,26,216.83,4,167,0,urgent request access access
+144,1,18,2,3,6,0,15,1892.46,3,27,0,team details yesterday time details setup unable details need
+145,0,1,1,1,22,0,9,1333.38,2,15,1,fix check timeout API today check page
+146,3,11,1,2,4,0,5,262.0,5,1,0,urgent user resolved team loading urgent loading time login
+147,1,3,0,2,8,0,1,699.2,2,59,1,check information request yesterday team support update error refund today
+148,0,27,3,1,20,1,2,233.47,0,13,1,page user update page import data account need
+149,1,41,1,1,17,0,5,219.81,5,18,2,details service system urgent problem information error
+150,1,37,1,1,9,0,27,131.7,4,9,0,urgent time help unable not working issue would like change
+151,0,17,3,1,4,0,18,243.29,0,0,0,check problem not working invoice page contact problem
+152,2,10,2,1,19,0,29,1027.18,4,28,2,system update account yesterday bug
+153,2,16,1,1,21,1,28,110.33,0,14,1,page update getting started team check
+154,1,42,3,3,10,0,5,232.98,5,1,0,help request contact not working setup not working broken unable
+155,3,20,3,1,6,0,2,621.36,4,20,0,system not working broken urgent urgent support page information not working
+156,3,33,1,2,4,0,4,93.13,3,37,1,getting started getting started help contact unable access
+157,0,60,1,2,12,0,45,576.11,2,15,0,broken contact enhance urgent need account yesterday issue problem
+158,0,59,2,3,2,0,14,600.39,2,3,0,user please page please loading loading import data getting started fix loading
+159,3,64,2,1,18,0,32,1002.42,1,34,0,help details problem resolved check API
+160,1,60,1,1,12,0,8,694.05,1,13,0,please information please loading
+161,3,2,0,2,5,0,4,97.6,5,8,0,timeout resolved unable request change team
+162,2,11,1,1,12,1,24,210.99,4,25,0,contact error resolved contact API access
+163,3,6,1,2,20,0,21,75.01,4,28,1,issue invoice problem time account
+164,1,14,2,3,17,0,1,176.77,1,13,1,broken change help information
+165,1,18,1,1,5,0,24,3168.18,3,28,1,not working loading user not working today problem loading migration
+166,2,21,0,1,3,0,5,157.39,5,37,0,getting started urgent error resolved please fix today service fix
+167,0,31,2,3,9,0,8,2617.21,2,9,0,update change need service password urgent issue
+168,3,14,0,1,20,0,4,1070.35,0,3,0,crash not working information fix access system
+169,2,51,4,1,17,0,3,31.68,0,8,0,resolved change update not working change
+170,1,5,1,1,15,0,2,84.35,2,52,0,roadmap change information not working need update account resolved
+171,2,31,1,1,5,0,7,1173.74,3,18,0,setup time yesterday service contact support time change broken migration
+172,1,9,1,1,18,0,5,277.45,4,5,0,fix change account access yesterday problem today
+173,1,1,2,2,11,0,3,435.48,3,80,1,error subscription account page team not working change fix unable check
+174,1,11,2,3,14,0,9,337.28,1,68,0,yesterday team team check update contact unable please yesterday bug
+175,2,26,1,2,9,0,7,1412.3,4,2,0,error password user time resolved
+176,2,88,1,1,7,0,2,39.76,2,16,2,need please fix issue issue fix yesterday problem API resolved
+177,3,58,2,1,3,0,5,153.63,1,15,0,loading system would like time help access fix
+178,1,4,2,1,9,0,4,585.25,0,16,0,support update support user team service change migration
+179,0,51,0,1,4,0,70,692.48,0,40,0,unable fix loading today API error information contact time
+180,2,8,1,1,12,0,3,160.19,1,20,2,check help today information SSO system problem check details broken
+181,3,46,1,1,7,1,79,220.15,2,3,0,urgent today fix error change issue broken please request
+182,2,27,3,1,10,0,21,97.34,5,47,1,refund today support not working contact yesterday user system invoice change yesterday
+183,2,24,4,1,10,1,18,852.32,2,72,1,issue help today refund team
+184,2,44,1,2,12,0,3,358.48,5,18,0,refund access details account not working
+185,2,13,1,1,0,0,8,354.61,0,18,0,change change API please account urgent service help system
+186,0,29,2,1,17,0,5,1905.77,5,3,0,enhance issue contact service access system check
+187,2,11,2,2,14,0,12,139.36,0,15,1,update check please refund details
+188,2,41,2,2,1,0,2,407.88,2,40,1,fix error SSO not working check time permission not working unable system details
+189,3,3,3,2,0,1,6,578.27,5,21,0,crash user access broken please bug account team need
+190,0,19,0,1,18,0,1,214.84,0,34,1,contact account resolved request problem time contact resolved
+191,3,1,2,1,15,0,9,944.72,3,37,0,phishing breach fix details update request loading page service need support
+192,0,14,4,2,3,0,9,121.65,1,43,1,check support broken resolved error unauthorized broken
+193,0,39,1,1,16,0,8,1102.02,3,42,0,need update problem help account getting started
+194,2,2,1,2,23,0,9,466.48,0,13,0,import data change time page request help team user
+195,2,1,2,1,21,0,6,316.96,0,86,0,yesterday error refund help resolved resolved
+196,0,8,2,1,6,0,12,429.87,4,30,0,team change urgent today change not working yesterday
+197,1,1,3,1,14,0,9,271.67,1,97,1,help details information not working breach
+198,1,12,1,1,8,0,5,966.64,0,2,3,broken service setup service information
+199,1,5,0,1,14,0,2,550.93,2,48,1,error today resolved getting started team user
+200,0,29,0,1,3,1,22,878.36,3,1,2,need API check update request support
+201,3,1,0,1,13,0,4,330.56,4,2,2,information need problem support error getting started check contact check
+202,3,35,1,2,14,1,6,564.55,3,0,0,system update change service details broken error access bug system
+203,2,9,2,1,21,0,2,448.71,1,33,0,details time details user import data change service today information
+204,2,21,0,2,15,1,15,195.11,4,68,0,not working please today please error problem urgent login change account
+205,1,9,0,1,3,0,10,345.81,5,11,0,contact today update access need support today details API fix
+206,0,118,1,3,16,0,18,30.7,5,18,1,contact today broken team fix contact support invoice loading resolved
+207,2,90,1,2,17,0,29,447.73,5,2,0,service change getting started today resolved check
+208,0,14,4,1,12,0,3,145.67,5,3,1,invoice fix access overcharge time problem information access
+209,0,28,5,2,9,0,1,275.17,1,0,0,import data update please error page request need
+210,0,66,1,1,16,0,30,65.73,1,25,0,support problem details contact urgent system check import data urgent
+211,2,26,1,1,20,1,1,190.39,2,46,3,details support bug service request unable issue time API urgent
+212,0,18,0,3,12,0,6,203.95,1,17,1,contact getting started broken time contact need
+213,3,58,4,1,10,0,5,1505.19,0,73,0,information update change page time system
+214,1,13,0,2,1,0,5,831.53,2,6,0,team not working check time not working not working migration resolved
+215,1,13,0,3,3,0,6,305.88,5,20,0,broken invoice unable yesterday not working urgent today help
+216,2,75,0,2,6,0,5,3587.16,0,69,0,permission request loading error access today contact information yesterday
+217,0,3,2,2,10,0,19,1343.76,3,4,0,urgent fix not working account unable refund change
+218,0,3,0,1,13,1,9,449.49,4,2,2,broken change issue need broken support add feature yesterday information
+219,0,4,5,3,6,0,15,131.51,2,10,0,password issue resolved update request
+220,2,26,0,1,23,0,26,1299.7,2,1,1,help page account permission time contact user need loading details
+221,0,13,1,2,20,0,21,1065.95,4,7,1,help contact today service issue bug details need
+222,1,35,0,2,21,1,2,286.79,0,52,0,subscription service page need please
+223,3,18,1,2,3,0,10,225.61,4,5,1,not working help subscription page user yesterday not working access help
+224,0,28,2,1,0,0,1,9415.74,5,2,0,account access team invoice user
+225,0,4,0,2,4,0,12,269.46,3,22,0,permission yesterday access need today resolved contact yesterday contact change
+226,0,20,2,1,18,0,22,51.33,0,18,3,urgent not working issue broken fix
+227,3,12,1,2,10,0,2,75.97,2,8,0,today resolved request time check problem loading not working refund
+228,3,16,1,2,23,0,22,44.22,3,49,0,request account check subscription not working details page
+229,0,2,1,1,11,0,2,437.35,0,3,0,update fix login service issue unable unable
+230,0,8,4,1,5,0,8,5744.98,4,9,0,help request loading please issue team access system API
+231,1,10,1,1,20,0,16,957.4,3,8,0,page update support getting started account support account
+232,0,13,2,2,9,0,1,280.67,0,38,0,update user need issue bug issue system system error issue
+233,1,6,3,1,8,0,22,220.9,1,28,2,check not working enhance user details fix
+234,2,1,2,3,17,0,16,315.37,5,3,0,not working information time not working problem need
+235,2,40,1,3,9,0,9,159.05,5,86,1,support information page contact account invoice contact details subscription loading today
+236,2,14,1,2,5,1,3,3312.83,2,2,1,support resolved please yesterday service enhance issue error
+237,1,23,1,1,8,0,9,286.84,4,3,0,loading change help details
+238,1,12,2,1,1,0,1,54.48,2,4,0,would like team update resolved fix
+239,1,44,2,1,9,0,41,289.83,5,44,1,team information information update support help bug problem
+240,3,64,0,2,1,0,3,964.6,2,4,0,team broken contact invoice team
+241,0,2,0,1,7,0,16,247.73,3,13,0,yesterday broken user page API details user
+242,1,81,0,2,18,0,2,1873.9,1,73,0,error service team today login unable change service
+243,1,17,1,2,0,0,11,387.44,5,1,0,account unable fix system refund
+244,2,8,2,3,22,0,12,387.46,3,7,1,urgent overcharge service yesterday urgent check loading loading change
+245,1,2,3,1,6,0,4,66.57,2,51,1,access system system check unable check subscription support user
+246,0,11,1,1,12,0,4,334.62,0,9,1,fix today information not working resolved invoice support service please
+247,3,1,2,1,15,1,17,144.87,2,9,1,unable today timeout details not working
+248,1,10,1,1,13,0,16,908.5,5,45,0,page bug check details service time fix access need
+249,0,3,1,2,14,0,2,341.89,2,26,0,request getting started not working issue request import data
+250,3,4,1,2,13,0,1,128.37,1,22,1,check loading update urgent please timeout information update today yesterday
+251,2,16,1,3,21,1,12,178.91,3,17,1,today error time urgent service timeout yesterday urgent
+252,1,29,0,2,20,0,8,368.09,1,54,0,today urgent broken problem would like resolved contact time today need
+253,0,1,2,1,7,0,8,930.01,5,44,0,today contact account system page urgent
+254,2,3,0,1,14,0,13,748.36,3,13,0,problem urgent subscription account contact team contact account update
+255,3,40,3,1,22,0,4,1442.37,2,69,0,problem user loading loading API
+256,3,34,1,1,0,1,2,260.89,0,0,1,help broken access help urgent getting started support need information unable
+257,3,36,1,2,13,0,6,230.59,4,17,0,enhance support fix loading system
+258,2,2,3,1,18,0,19,466.35,4,26,0,urgent service need subscription request broken
+259,1,35,2,1,12,0,32,2199.88,0,9,1,service please subscription loading subscription today resolved
+260,1,17,1,2,12,0,5,2446.5,4,26,1,update today information yesterday system need page request timeout
+261,3,49,0,1,17,0,56,313.54,1,42,0,need vulnerability check support page system resolved
+262,0,82,1,1,6,0,30,62.52,5,10,2,change loading subscription user check
+263,0,21,1,1,7,0,48,249.21,4,10,1,update problem today user password
+264,2,161,2,1,17,0,77,171.58,3,8,0,loading resolved account getting started change time please time yesterday request
+265,0,26,0,1,19,0,11,483.89,4,11,1,need team help unable service account update yesterday team
+266,0,97,3,1,4,0,7,1755.88,0,19,1,team not working unable crash change API access details not working request
+267,0,6,0,2,6,1,1,1419.89,2,18,0,yesterday issue account user refund fix team
+268,2,2,1,1,15,0,13,841.78,0,56,0,time urgent yesterday time need yesterday update error overcharge
+269,3,6,3,2,12,0,16,124.75,1,14,0,would like details today need fix
+270,3,8,1,1,3,0,24,272.89,2,1,0,change phishing change problem information help change request today
+271,1,36,0,2,10,0,12,84.82,4,1,1,help fix breach need team
+272,1,32,0,1,23,0,4,1984.24,2,74,3,API today help today time loading
+273,3,24,0,1,23,0,4,452.17,2,74,0,information fix update request team
+274,3,27,2,1,5,0,19,295.44,1,14,2,issue SSO broken update contact
+275,3,17,0,1,4,0,16,1497.63,5,44,0,check need help service broken service request issue broken
+276,2,26,1,3,22,1,2,77.51,1,10,0,please issue yesterday urgent broken setup information
+277,2,24,1,1,22,0,7,2137.66,2,7,1,not working account page subscription time check team
+278,1,40,1,1,18,0,2,247.25,4,34,0,page page refund issue not working today please please please
+279,1,12,4,1,9,1,5,798.71,1,0,0,change broken information update unable update crash support API team
+280,2,8,3,2,1,1,52,99.71,0,41,0,resolved fix support system yesterday support broken breach
+281,2,58,0,1,16,0,2,3228.12,1,12,0,information system loading overcharge team page today refund change
+282,1,24,1,1,0,0,3,1140.84,1,35,0,details system system subscription need access please
+283,2,19,1,2,21,0,7,1819.01,5,23,0,time timeout urgent request details please account
+284,3,24,0,2,7,0,1,1272.69,4,46,2,refund details page information user page account change
+285,3,23,1,1,4,1,5,189.04,0,37,0,service team system contact bug update
+286,0,4,3,2,14,0,2,389.22,5,6,2,support service account information invoice yesterday problem broken team check
+287,0,35,4,1,14,0,64,94.06,2,22,0,request contact error contact page user today user system SSO
+288,3,62,2,1,16,0,3,511.37,2,104,0,change unable unable problem unable loading API not working fix not working
+289,0,1,4,1,4,1,23,1374.93,4,11,1,timeout system change yesterday fix today
+290,1,14,2,1,14,0,7,466.37,5,12,0,not working error urgent service today time
+291,3,13,4,2,19,0,9,228.27,1,13,0,urgent issue crash resolved information access update access unable information
+292,2,2,0,2,10,0,2,1014.29,4,118,1,invoice problem problem need user
+293,0,1,1,1,23,0,12,233.37,2,0,1,system error unauthorized help page service support
+294,2,24,5,1,23,0,26,1454.31,2,69,1,bug loading loading unable time today fix
+295,2,1,2,1,10,0,2,259.28,3,6,2,overcharge problem contact time time check unable help
+296,0,11,0,2,14,0,9,444.82,0,2,1,support loading help information help issue loading update refund team
+297,0,77,3,1,18,0,14,85.14,2,24,2,need update breach please account team information user
+298,3,21,1,1,11,0,25,721.62,2,1,0,access check account help crash
+299,0,8,0,1,0,0,6,968.9,0,26,0,check request add feature today information change details details broken need
+300,1,4,3,1,18,0,23,704.04,1,49,0,help error error resolved problem
+301,3,2,1,1,12,0,8,19.57,5,11,0,loading not working unable unable
+302,3,20,2,1,10,1,7,852.86,1,62,0,crash please urgent please page page
+303,2,87,0,1,13,0,44,4192.13,5,5,0,account support account service
+304,0,16,0,1,23,0,1,46.8,2,13,2,broken support account team check today team password issue
+305,0,23,0,2,10,0,9,427.32,3,48,1,API service need problem today
+306,3,12,2,1,21,0,17,375.37,4,31,1,team not working error page service
+307,2,3,0,1,13,0,3,275.67,2,6,1,resolved loading account setup team
+308,2,39,1,1,9,0,5,347.62,4,135,1,details error resolved bug request issue
+309,0,69,1,2,18,1,15,1396.59,4,5,0,request fix page user account login
+310,2,4,0,1,9,0,4,1975.53,0,54,1,not working today access fix time not working
+311,3,18,0,1,14,0,18,415.03,0,13,2,user system vulnerability access please information today information
+312,3,21,4,1,12,0,2,1368.87,1,116,0,problem urgent need contact error access help
+313,3,8,1,2,6,0,2,327.02,1,5,0,help check change please broken unable issue service permission access
+314,0,27,2,1,13,1,3,177.5,0,41,0,account please account user urgent page
+315,3,4,4,3,19,0,56,308.58,4,12,2,support problem contact system account change urgent need broken
+316,3,65,1,1,0,1,11,483.72,4,17,0,request help unable issue timeout contact account
+317,3,1,0,1,22,0,34,219.85,5,61,0,not working bug yesterday system information page issue fix not working team
+318,2,49,3,3,9,0,8,959.53,4,35,0,not working time please system loading crash
+319,0,26,2,3,1,0,21,480.74,4,5,1,team information need unable time
+320,2,57,2,2,18,1,3,49.9,2,30,1,urgent need user unable resolved time bug today timeout unable
+321,2,44,2,2,16,0,7,107.51,2,24,1,details request service details update team contact
+322,1,16,1,1,11,1,15,451.7,2,73,0,page support account import data fix
+323,1,10,1,1,12,1,8,561.81,5,90,0,password please service resolved broken
+324,2,43,2,1,4,0,9,235.34,5,51,3,contact check problem user request issue account details help
+325,0,3,1,2,14,0,11,808.83,0,37,0,contact would like problem issue urgent
+326,0,27,2,1,7,0,4,437.12,2,3,1,resolved page subscription need account
+327,2,41,1,2,2,0,1,113.06,3,17,0,broken help contact information crash system
+328,3,24,0,1,5,0,6,323.32,0,47,1,system details would like change yesterday broken loading
+329,0,29,2,2,17,0,4,729.77,4,11,1,problem team loading broken time not working import data need
+330,0,14,5,3,23,0,22,688.36,5,4,0,account change please subscription information
+331,3,63,0,1,19,0,5,1034.58,1,15,0,yesterday broken loading issue need error SSO request
+332,2,25,2,1,5,0,5,34.26,5,39,1,help update contact request
+333,3,19,2,1,13,1,16,132.81,0,15,1,bug urgent service request fix
+334,1,11,1,3,6,0,24,254.92,1,34,1,page user loading information account loading broken
+335,3,1,0,1,0,0,2,3205.34,5,18,0,page problem account loading
+336,0,1,0,1,19,0,8,85.52,4,17,1,change team not working timeout broken
+337,1,3,1,1,1,0,1,420.94,4,52,0,resolved change please urgent information breach need fix
+338,2,26,0,1,21,0,14,36.67,5,9,1,help information time add feature resolved team resolved fix
+339,1,1,2,2,17,1,10,203.8,3,10,1,support yesterday time system SSO
+340,1,50,1,1,19,0,77,422.94,2,29,2,please not working please loading today time import data time user need
+341,1,21,0,2,21,0,14,1399.73,2,13,1,system crash problem support change system
+342,3,2,2,2,16,0,5,80.86,5,150,0,loading would like request details account error help today broken contact
+343,3,18,3,3,19,0,1,117.5,4,23,0,fix change account API bug contact
+344,0,12,3,1,1,0,7,954.81,4,5,0,fix not working broken access page phishing page system breach error
+345,2,87,1,2,16,0,2,894.23,1,45,0,check invoice loading invoice information system broken team information urgent update
+346,2,21,2,3,9,0,3,64.35,3,24,0,not working page not working page broken account need breach
+347,2,9,2,1,4,1,7,731.97,4,22,0,update issue yesterday please crash change loading
+348,3,36,5,1,19,0,7,1037.5,0,24,0,please check SSO not working information team request problem access SSO
+349,0,11,3,2,7,0,12,3018.28,3,2,0,today today team check crash user system fix page
+350,0,9,0,1,10,0,4,73.02,4,37,1,user need today bug update today change yesterday not working loading
+351,0,16,2,1,20,0,3,206.75,3,28,0,yesterday urgent refund team error contact page request account loading
+352,3,9,2,1,13,0,39,4677.94,2,22,1,fix support urgent vulnerability contact contact
+353,3,14,0,2,5,0,70,617.36,4,2,0,access team request details unable change invoice unable yesterday
+354,3,10,1,2,19,0,31,688.71,2,47,2,today subscription error update user broken urgent contact issue request
+355,3,9,0,2,11,0,3,121.07,5,57,0,today yesterday fix yesterday today request password permission urgent
+356,2,14,0,1,12,0,6,265.96,2,15,0,user need please subscription urgent user account
+357,2,57,2,2,1,0,6,227.91,1,39,0,support bug API account today change
+358,3,35,2,1,20,1,3,1203.99,3,8,0,not working resolved issue check import data problem
+359,3,33,0,1,21,0,17,324.43,5,43,0,not working check help request resolved
+360,3,3,1,3,3,0,1,30.33,1,10,0,fix problem support SSO support please urgent update update
+361,0,1,2,2,19,0,3,769.07,0,60,0,urgent not working broken user change
+362,3,3,2,2,12,0,6,1685.08,5,8,0,request please unable invoice details problem details issue user page
+363,3,6,2,2,6,1,19,1025.6,4,38,0,contact subscription overcharge yesterday change resolved not working
+364,0,32,2,1,12,0,25,396.13,1,15,1,update please not working resolved fix
+365,2,21,4,1,7,0,7,637.24,3,43,0,account please not working crash issue support access broken support time
+366,0,52,3,3,10,0,6,76.66,3,40,0,broken issue system enhance check change
+367,2,9,1,1,18,0,14,159.73,4,18,0,request resolved today broken migration time not working not working
+368,3,52,0,3,12,0,11,110.26,4,21,0,please time permission user today error
+369,3,9,1,2,1,0,3,1355.37,5,14,1,urgent need urgent time not working subscription
+370,0,144,0,3,4,1,11,178.59,1,12,1,issue not working team help access bug
+371,0,11,3,2,14,0,15,358.19,3,22,0,not working broken service details issue error breach fix information service
+372,0,2,1,1,9,0,12,1358.05,2,12,1,broken user resolved need invoice update
+373,2,57,1,3,6,0,23,368.26,1,19,0,account help timeout please update information page
+374,3,17,1,2,18,0,3,3149.79,3,13,0,team error check service help overcharge
+375,3,37,2,1,23,1,8,2232.84,5,13,1,not working setup not working details user today check help contact today
+376,2,3,2,1,16,0,7,389.48,2,86,1,issue loading bug contact update
+377,2,42,3,2,16,0,24,382.35,2,24,0,error broken problem access please check please problem check
+378,3,37,2,1,15,0,4,254.23,0,0,0,error please help fix information need would like
+379,0,16,2,2,7,0,18,87.49,2,43,1,update login problem urgent request information SSO resolved today
+380,3,27,0,1,2,0,4,1237.5,0,4,0,system problem time resolved vulnerability fix yesterday broken
+381,1,17,1,1,16,0,12,2474.06,5,26,1,contact information error fix support system request problem
+382,1,3,2,2,4,0,7,100.61,3,17,2,account crash today check service
+383,3,8,3,1,15,0,3,285.74,3,43,0,phishing error need yesterday loading unable error
+384,0,37,2,1,8,0,2,2198.16,2,77,0,problem bug time help system team
+385,2,14,0,1,2,0,5,138.51,2,33,2,change yesterday roadmap please system problem need help loading
+386,2,28,0,2,2,0,4,341.99,3,37,2,page help check loading unable unauthorized contact unauthorized unable please user
+387,0,1,1,2,1,0,7,178.47,0,0,0,subscription loading yesterday fix today refund please not working yesterday
+388,2,60,1,1,11,0,83,133.32,3,57,1,error page help today help
+389,0,25,0,2,15,0,4,53.49,3,19,0,unable unable information today fix access page invoice support request
+390,1,3,1,1,1,1,15,349.64,4,8,0,today team support page information help access
+391,2,32,0,1,16,0,17,207.33,0,8,0,API loading resolved urgent yesterday error today
+392,2,43,1,1,1,0,15,104.61,5,31,0,refund broken check user error check
+393,1,12,0,3,13,0,12,7108.69,4,7,0,problem help please account change support today timeout broken
+394,1,6,0,2,14,0,2,245.54,4,75,0,yesterday request please check password issue user
+395,3,33,1,3,16,0,4,924.76,3,11,0,broken support API team loading problem problem
+396,1,37,1,1,13,0,3,94.67,4,7,0,access resolved need refund change contact contact
+397,1,40,2,3,14,1,3,2571.95,0,80,1,update today loading change
+398,0,1,3,1,0,1,10,750.71,4,4,0,user details broken migration problem details please broken update
+399,3,23,4,2,9,0,104,70.31,0,7,1,information page problem user unable enhance
+400,3,33,1,1,14,0,23,133.11,1,113,0,help not working broken phishing urgent
+401,3,1,3,3,11,0,1,937.11,3,20,0,refund broken update request check user
+402,1,6,1,2,14,0,1,1234.22,4,2,1,update time broken page system support access yesterday import data
+403,1,11,2,1,22,0,11,189.79,0,11,1,not working system password urgent issue information problem
+404,1,18,2,1,1,0,2,443.78,5,27,1,need timeout issue change urgent change
+405,3,25,2,2,11,0,32,441.24,0,1,0,resolved fix need overcharge information
+406,2,8,1,1,23,0,18,144.24,3,18,0,today unable user support user refund broken request
+407,1,16,3,2,15,0,18,1041.93,0,14,1,issue enhance access time help service problem please
+408,0,83,0,2,5,0,8,2140.29,4,46,1,problem yesterday migration need page
+409,2,35,0,1,17,0,8,126.31,2,2,0,yesterday broken user timeout time user account account
+410,0,2,1,1,19,0,2,483.08,3,35,1,loading details not working access urgent problem add feature fix not working support
+411,0,4,2,2,5,1,10,302.51,1,16,0,loading error API change check resolved support today system resolved
+412,1,4,2,1,7,0,9,2011.21,2,42,0,problem support service invoice check information invoice help
+413,0,14,0,1,18,1,5,86.12,4,15,1,details resolved not working help fix API API service
+414,1,93,2,2,12,0,2,1128.33,3,6,1,import data yesterday team fix service support yesterday
+415,0,21,2,2,16,0,1,213.33,0,3,0,please access details change account
+416,1,36,0,2,9,0,2,1451.0,0,25,0,system information setup fix request access
+417,1,5,3,1,12,0,8,611.37,3,6,0,update urgent help access permission
+418,3,21,2,3,18,0,14,1694.93,2,11,1,issue check support system support service contact not working permission
+419,3,1,1,2,18,0,6,236.23,4,7,1,yesterday crash check request user support resolved contact timeout support help
+420,3,29,2,2,5,1,14,1268.96,3,11,1,details details change time fix page yesterday yesterday
+421,2,16,2,3,5,0,25,987.41,3,15,1,service help account urgent please access vulnerability
+422,2,17,2,1,7,0,20,352.22,0,22,0,urgent problem information contact urgent account subscription today yesterday issue
+423,0,8,2,2,5,0,5,152.79,1,5,1,resolved support need API yesterday not working fix yesterday help update
+424,3,12,1,2,16,0,42,822.97,0,31,1,loading details please refund loading time details
+425,0,103,2,1,2,0,23,1498.41,3,77,0,resolved team page service API
+426,3,57,2,3,17,0,3,28.71,4,10,0,request not working not working resolved SSO
+427,3,18,2,2,1,0,10,210.84,4,4,0,yesterday account change page change change fix password help support
+428,1,11,2,3,22,1,1,208.47,0,37,0,need support issue unauthorized fix request check system
+429,2,10,0,1,20,0,5,888.29,3,37,0,details not working account today loading page subscription
+430,3,16,0,2,22,0,7,75.44,1,12,0,service information urgent not working service login page
+431,3,21,1,1,1,0,8,569.07,2,16,2,details account time breach support
+432,3,21,0,2,21,0,19,56.85,1,11,2,system details please service change API service
+433,3,8,2,2,2,0,2,376.49,5,10,1,details error details broken details urgent update account bug account
+434,2,20,0,1,1,0,1,910.51,5,83,0,vulnerability problem need fix need unauthorized loading problem
+435,0,21,0,2,19,0,4,1855.76,2,10,0,resolved fix error update
+436,0,77,0,1,2,1,6,394.4,4,9,0,page password team permission page unable today
+437,3,9,0,3,1,0,2,628.15,5,2,0,issue user user information login unable check help
+438,3,4,1,2,16,1,4,757.32,2,55,2,system problem SSO service urgent
+439,3,1,3,2,17,0,5,817.47,5,42,0,migration update system page please
+440,2,1,3,2,0,0,10,160.93,2,13,0,urgent resolved information getting started information account fix migration
+441,1,56,0,1,22,0,1,5823.96,4,10,1,loading overcharge help urgent service
+442,2,2,4,1,1,0,17,468.15,3,67,0,fix account details access service help problem not working loading
+443,2,17,1,2,20,0,7,490.84,0,69,0,check loading request check bug contact fix
+444,1,35,2,1,15,1,1,630.44,0,11,1,page API loading time contact service not working information today
+445,1,50,0,1,6,1,1,500.02,4,21,0,fix service change refund not working problem
+446,1,18,3,3,12,0,2,48.85,4,17,0,issue API page request not working
+447,0,40,2,1,1,0,2,920.52,2,2,2,would like contact change contact support today
+448,2,1,3,1,1,0,3,215.2,5,18,0,user support setup urgent support support account issue
+449,3,26,3,1,13,0,49,337.46,0,18,1,issue issue change need refund service contact not working check overcharge error
+450,2,11,2,3,12,1,2,586.89,4,0,1,please check import data check fix need team details details
+451,0,31,2,2,2,0,49,214.21,1,3,0,urgent team issue details overcharge check yesterday
+452,3,2,2,2,0,0,28,502.47,3,24,0,information broken add feature contact broken not working account system broken
+453,2,18,2,2,5,0,9,305.79,4,23,0,check need service please support system bug time
+454,0,29,1,2,0,0,3,1138.53,3,17,0,information loading issue today check setup
+455,1,66,2,1,12,0,18,245.85,5,34,0,system change unable loading need urgent update change bug
+456,2,14,1,2,8,1,3,1517.95,1,27,0,team problem change need time resolved API page account
+457,3,60,1,3,17,0,7,5191.42,0,44,0,check details service change team change not working contact change timeout
+458,3,1,1,3,3,0,6,78.4,5,38,0,help broken enhance contact change system
+459,0,37,1,1,4,1,30,195.53,1,6,0,overcharge details help access problem user support change
+460,1,12,0,1,0,1,9,1939.76,2,40,1,need issue help API contact
+461,3,3,0,1,18,0,12,1122.48,1,7,0,update support timeout today issue change team
+462,2,171,0,2,20,0,17,69.86,5,47,0,bug yesterday team service time yesterday information change
+463,0,83,1,1,14,0,17,155.99,1,13,0,service system unable error account update password today issue
+464,1,12,0,2,0,0,8,3062.74,0,4,0,need password problem not working loading
+465,1,2,1,1,7,0,52,1172.19,2,16,1,not working page user yesterday service invoice update
+466,3,36,1,2,14,0,9,60.21,3,7,0,problem unable loading problem invoice account fix invoice fix not working fix
+467,0,25,0,2,6,0,1,43.6,2,1,0,bug not working access details today problem problem service request issue
+468,0,29,0,2,12,0,1,33.52,5,0,1,fix problem user update service
+469,2,12,0,1,17,0,20,107.68,2,12,0,details check refund information support
+470,0,10,2,2,1,1,5,303.53,4,48,0,resolved request account not working broken fix update
+471,1,11,1,3,15,0,3,5382.02,2,40,0,resolved user getting started yesterday broken
+472,0,29,0,1,4,0,41,168.95,2,49,0,help user urgent please system subscription fix contact problem
+473,1,32,2,2,0,1,13,438.34,0,38,0,details issue change error not working
+474,2,49,0,3,4,0,14,720.87,2,15,0,support details crash not working not working
+475,1,40,2,2,10,0,4,342.12,1,30,0,support broken user check broken access crash error not working time
+476,0,18,2,1,14,0,4,195.04,4,1,0,error please fix resolved fix API
+477,0,19,2,2,22,0,31,7781.04,4,48,0,contact time error request refund loading support
+478,1,16,1,1,14,0,8,157.14,3,8,0,crash system yesterday broken check please
+479,2,3,2,1,14,0,7,4400.08,0,22,1,request error please overcharge change resolved
+480,1,1,0,2,0,0,34,1099.63,1,10,0,not working update migration request service service
+481,0,25,1,2,1,0,16,737.86,3,75,0,request access change help today information error problem
+482,0,14,1,2,7,0,12,225.51,5,11,2,account change request SSO resolved request fix support
+483,0,4,1,1,6,0,39,212.13,2,33,1,today please resolved request yesterday account
+484,0,35,1,2,10,0,3,370.72,4,19,0,urgent change today account issue urgent fix time refund support
+485,1,16,1,2,2,0,2,279.29,2,43,1,user update issue system
+486,0,12,1,2,0,0,6,2178.06,1,0,0,details phishing fix request user need please account unable
+487,3,93,2,3,15,1,14,510.83,3,2,1,overcharge fix service help fix support
+488,3,26,3,1,13,1,6,243.69,2,28,0,subscription urgent check problem information yesterday
+489,3,55,0,1,7,0,14,53.57,0,16,1,fix subscription change please broken service check resolved please
+490,1,17,1,3,8,1,12,178.76,5,14,1,enhance page access problem update team error
+491,2,8,2,2,12,1,11,377.37,1,101,0,not working resolved yesterday please
+492,2,18,2,1,0,0,6,883.03,0,23,0,enhance unable roadmap yesterday today system request support fix information request
+493,0,26,1,1,13,1,29,261.22,1,8,0,check details service urgent timeout
+494,1,13,3,2,6,0,5,119.02,0,27,3,access account yesterday team
+495,1,8,2,2,18,0,21,194.46,5,29,0,page support user overcharge loading resolved error resolved
+496,1,51,2,1,18,1,10,175.58,4,7,1,contact permission fix time error page change fix access
+497,2,11,0,2,8,0,6,290.33,0,12,1,check account team problem add feature error request
+498,1,36,1,1,19,1,10,632.0,3,17,2,support problem subscription loading request time change
+499,0,63,1,1,7,0,1,105.94,4,15,0,invoice error request fix check update details time resolved details
+500,3,79,1,2,18,0,2,2132.49,1,3,0,page request service overcharge update urgent change details
+501,1,3,3,2,12,0,5,382.03,4,15,0,page roadmap team page error service yesterday yesterday user information
+502,2,12,2,1,19,0,8,439.47,3,51,0,urgent information access contact fix system
+503,1,2,1,1,7,0,2,399.39,5,6,0,service account access update update team page
+504,1,49,4,1,4,0,1,278.83,2,6,0,yesterday crash today account user yesterday
+505,3,3,1,1,20,0,23,689.36,2,37,0,yesterday please problem request urgent page
+506,0,14,5,1,3,0,1,1118.6,5,51,0,change access yesterday resolved request timeout resolved loading resolved
+507,1,155,3,3,7,0,13,958.55,2,23,0,today help contact details change setup
+508,2,8,2,1,6,0,17,318.23,4,70,1,please today invoice urgent unable
+509,0,58,1,3,12,0,17,1975.82,0,147,0,user not working check urgent support migration team time request
+510,2,98,1,1,23,0,11,308.52,5,10,1,unable enhance request please urgent
+511,0,4,0,2,22,1,5,549.33,1,1,0,information check today API change
+512,2,1,1,3,19,0,7,648.85,4,52,1,unable error vulnerability resolved urgent help
+513,3,8,0,1,6,1,15,269.57,3,49,0,problem change loading fix information loading yesterday error
+514,3,16,1,1,18,1,5,1286.73,0,13,1,yesterday team page update contact check subscription access urgent
+515,0,2,3,2,19,1,4,649.51,1,22,1,change problem page page
+516,1,28,1,2,8,0,82,92.54,1,64,0,team service resolved contact page problem
+517,0,60,1,1,20,0,16,3394.65,4,38,0,change resolved need timeout resolved access service help
+518,1,121,0,3,12,0,30,211.64,5,13,2,not working service change team help today login page page team
+519,1,11,3,2,20,0,7,1289.96,4,113,1,SSO update check request update
+520,1,27,3,3,20,0,10,347.53,1,1,2,problem yesterday yesterday password change
+521,0,24,0,2,19,0,9,207.71,0,7,0,please help refund unable account
+522,2,11,1,1,1,0,10,777.04,5,13,0,broken enhance information not working not working
+523,0,43,1,2,1,0,37,377.73,1,26,1,unable details team yesterday time login loading user
+524,1,6,2,1,21,0,27,294.89,3,23,0,subscription subscription system user request yesterday check
+525,1,3,1,1,22,0,2,79.6,4,1,1,service service not working overcharge time time problem system
+526,1,14,0,2,19,0,27,58.01,3,19,0,today help fix yesterday login help loading resolved
+527,1,27,1,1,9,0,13,1714.0,5,9,0,service help team issue loading problem refund
+528,3,16,4,1,21,0,59,319.05,3,41,1,loading team need change system request overcharge need page not working
+529,0,3,1,1,12,1,14,62.22,4,2,1,invoice overcharge information update broken loading
+530,2,14,0,3,14,0,3,887.08,3,19,1,problem import data unable check urgent user yesterday unable need
+531,1,13,2,1,3,0,3,1558.63,5,22,1,unable access problem yesterday problem subscription loading team
+532,0,52,1,1,21,0,8,323.01,5,91,1,bug crash not working issue system yesterday problem user
+533,2,4,2,2,7,0,17,129.27,2,68,0,yesterday bug page problem information need yesterday loading user unable
+534,3,44,0,2,2,0,8,448.0,1,53,1,error time support API team
+535,0,13,1,3,19,0,26,963.56,2,17,0,team update broken account
+536,0,3,2,2,20,0,3,176.63,4,41,0,yesterday account API support urgent
+537,1,23,1,3,15,0,11,3738.21,0,42,1,details team login change password page issue page team unable unable
+538,3,4,1,1,3,0,7,688.45,3,24,1,account update information unable breach issue
+539,3,18,2,1,9,0,24,330.73,3,68,0,urgent account today check error roadmap
+540,0,28,1,2,21,0,24,223.18,5,10,0,request service details time setup
+541,2,20,1,2,17,0,9,185.8,3,9,0,refund request need not working unable today loading
+542,2,2,2,1,23,0,7,476.56,4,14,0,request not working support timeout need
+543,1,12,1,1,14,0,3,38.98,0,113,1,not working login error change contact
+544,2,24,3,1,12,0,2,217.34,5,38,1,contact roadmap would like details time account page change system
+545,3,5,0,1,2,0,13,6236.03,0,30,0,team help change issue bug today time support support
+546,3,1,3,1,13,0,40,262.45,2,23,0,service please problem service service time yesterday change
+547,3,23,1,1,17,0,11,313.13,1,29,3,error access fix help password yesterday
+548,2,1,1,1,14,0,10,379.13,4,4,0,today password support broken issue system page
+549,1,25,0,2,1,0,3,592.37,2,1,0,help permission yesterday support loading access
+550,2,14,1,2,5,0,3,781.28,1,11,1,not working check team not working API time loading resolved please
+551,3,2,0,1,5,0,12,454.92,5,34,1,yesterday error information not working request bug
+552,1,6,3,2,16,0,33,728.24,2,54,1,user resolved please issue loading contact urgent system import data
+553,0,5,0,1,4,0,5,679.38,4,14,1,unable urgent timeout loading help timeout page
+554,1,24,2,1,6,0,29,3080.07,3,8,0,bug check please page support unable
+555,0,60,2,1,4,0,3,96.54,4,69,0,time help please password user
+556,2,1,2,2,22,0,2,57.7,5,2,0,unable urgent team broken crash please need contact contact
+557,2,49,1,1,21,1,1,1561.63,5,24,1,page please unable invoice broken unable
+558,1,3,0,2,2,0,4,911.37,3,32,0,unable update help bug fix
+559,0,3,2,1,1,1,3,650.49,2,6,0,broken problem password need not working yesterday change request loading
+560,0,35,0,2,10,0,5,82.81,0,62,0,broken access subscription user error today request issue help
+561,0,1,0,1,10,0,4,165.02,0,38,0,would like yesterday user please team resolved
+562,3,1,1,1,7,1,8,547.46,2,83,0,team resolved support yesterday information breach
+563,1,27,0,1,7,0,3,106.76,0,2,0,request timeout service yesterday time request
+564,3,23,3,3,6,1,1,116.04,1,34,0,user resolved today team
+565,1,21,0,3,6,0,4,924.89,1,13,1,timeout support update contact unable error details system yesterday unable
+566,1,13,2,1,22,0,22,101.64,1,79,2,page request unable request help update API
+567,2,11,1,2,6,0,4,299.14,2,0,1,page overcharge account check not working
+568,0,67,0,1,17,1,15,19.28,3,30,0,information need not working support team access loading login system account
+569,0,9,3,1,13,0,4,932.5,3,21,2,broken API access system broken
+570,0,12,0,1,9,0,13,339.46,2,9,2,system request details service enhance yesterday
+571,3,14,1,1,16,0,10,194.23,5,77,1,unable urgent invoice contact loading problem need
+572,3,17,4,1,3,0,167,154.71,1,6,0,time check overcharge page today
+573,3,23,1,1,12,0,3,56.39,5,0,0,urgent not working crash yesterday account
+574,3,33,0,3,20,0,9,246.32,2,1,0,API time details unable check bug system help request not working not working
+575,2,57,2,1,12,0,1,295.53,0,12,0,broken change user access page
+576,0,3,1,2,16,1,2,520.7,2,27,2,request access crash account update request issue support loading
+577,1,5,1,2,3,0,8,129.37,5,15,0,API account please fix loading
+578,3,31,0,2,23,1,5,482.41,0,16,0,resolved SSO unable broken issue
+579,2,10,2,1,14,0,10,1072.5,4,42,1,resolved API yesterday details service unable
+580,2,3,3,2,10,0,9,1714.56,4,41,1,issue crash system resolved change
+581,2,16,3,2,8,0,11,518.67,0,23,0,contact system system contact change enhance urgent update today
+582,2,3,2,2,17,0,5,1527.75,0,5,1,invoice change error page help request support
+583,2,4,1,2,10,0,35,1163.71,1,18,2,unable time page check service broken user today enhance error
+584,3,29,1,1,23,0,8,151.93,5,0,0,API issue account API help broken
+585,0,10,1,1,9,0,18,1205.46,0,41,0,urgent system update error today need help not working system
+586,2,24,4,2,21,0,9,663.47,1,10,3,problem loading contact information loading user access issue bug
+587,3,42,2,1,21,1,1,1308.42,0,4,0,permission check unable service fix
+588,1,11,1,2,9,0,15,2077.56,1,3,0,request check today details migration urgent help
+589,3,1,1,1,15,0,13,91.33,1,27,1,loading error page fix problem unable support please SSO request
+590,0,9,3,2,14,0,13,20.02,3,13,0,API broken system fix access resolved service
+591,3,17,1,1,20,0,5,944.47,0,55,1,page urgent issue yesterday not working details API support
+592,1,16,3,3,13,0,22,364.15,5,14,0,information help not working time timeout
+593,1,8,3,2,20,0,2,454.08,5,2,0,unable time team check refund account
+594,2,1,3,3,15,1,23,1029.02,4,21,0,issue check broken please time user team would like contact broken
+595,2,24,2,1,19,1,18,913.57,3,15,1,change need password fix urgent team not working help urgent
+596,0,2,2,3,4,0,5,43.16,5,45,0,update crash unable yesterday issue
+597,2,17,5,1,9,0,8,41.61,1,8,0,invoice access fix details help
+598,1,5,4,3,9,0,5,76.36,3,25,1,account check user contact overcharge today
+599,2,26,1,1,22,0,10,1192.18,1,91,0,check account page today bug request resolved access time help
+600,0,57,4,1,12,0,2,1211.49,0,12,0,issue broken page please access urgent check not working roadmap not working
+601,2,1,3,2,8,1,5,464.27,5,8,0,account details issue would like urgent information
+602,2,25,2,1,14,0,30,35.67,2,16,0,broken yesterday loading user error not working help time
+603,2,3,2,3,6,0,13,547.06,5,28,1,today help loading service permission
+604,0,29,1,1,9,0,1,410.06,2,2,0,time check fix today please loading problem need check invoice
+605,1,1,1,1,5,0,18,123.25,2,72,2,urgent urgent need access user update update setup broken fix
+606,0,11,3,3,12,0,7,843.04,4,58,2,access error today fix change broken resolved error yesterday
+607,2,13,0,1,22,0,50,1155.5,0,58,0,permission please help need contact contact page service resolved
+608,2,10,1,1,9,1,8,214.62,5,30,0,breach help update not working resolved unauthorized
+609,2,49,6,1,13,1,8,99.29,5,88,0,error problem urgent urgent help problem broken urgent enhance
+610,3,6,3,3,10,0,3,117.39,3,10,0,yesterday not working urgent loading user resolved problem unable change
+611,0,1,1,1,6,0,2,496.53,4,8,0,contact loading today resolved user phishing user user
+612,3,63,2,2,18,0,2,200.84,0,46,0,fix yesterday issue bug help
+613,3,2,2,1,20,0,2,1800.02,0,13,0,please change support timeout account service
+614,3,10,1,2,6,0,8,185.12,0,40,0,broken page user contact invoice system
+615,2,32,1,2,1,0,6,1781.51,1,23,1,fix help yesterday urgent details unable import data access need service
+616,1,25,1,1,17,0,8,308.39,2,9,0,timeout check team page need access not working
+617,0,36,0,2,0,0,85,675.61,2,9,0,account service password information access yesterday
+618,3,46,0,2,14,0,16,576.74,0,2,0,password account resolved contact contact issue loading
+619,2,56,1,1,1,0,4,91.0,4,30,0,please yesterday yesterday page support breach user request
+620,1,17,0,1,4,1,1,837.8,5,21,1,user information team unable request fix crash contact
+621,3,3,2,1,13,0,2,1349.38,1,6,1,please problem unable check unable team permission yesterday
+622,0,6,4,1,21,0,4,1176.83,5,3,0,team overcharge today time team today
+623,0,5,1,3,17,0,9,731.58,0,38,0,crash time request error check
+624,3,56,0,1,17,0,6,146.9,3,89,1,details account change fix contact system invoice
+625,1,12,0,2,12,0,2,509.96,2,13,0,bug update timeout access user account access today problem please details
+626,1,11,1,1,9,1,5,303.59,0,76,0,change loading yesterday resolved crash timeout system
+627,1,37,0,2,20,0,1,247.76,1,10,0,information yesterday service migration page account need
+628,0,1,2,1,14,0,1,223.23,1,13,0,service access yesterday change service change API
+629,1,8,0,2,22,0,3,608.95,5,7,1,access access broken bug time problem API team information error
+630,2,9,1,2,21,0,7,756.06,3,70,0,page enhance page not working yesterday
+631,3,36,1,2,9,1,14,732.89,3,15,1,request please urgent urgent add feature fix
+632,1,52,2,1,13,0,6,994.72,3,11,2,error access page service team change access
+633,0,47,0,1,1,0,2,1216.64,4,15,0,page account fix today need issue resolved bug need help
+634,1,37,0,1,12,0,5,191.87,5,42,1,need need time information invoice team
+635,2,3,0,2,4,1,22,6617.39,3,81,0,error change help fix help system page request
+636,1,1,3,3,15,0,2,155.42,4,49,0,system page system help invoice resolved
+637,2,18,0,1,3,1,10,744.19,4,43,1,page unable problem update yesterday update update
+638,2,17,1,2,1,0,10,157.67,0,22,0,details time details bug fix account
+639,1,89,1,2,22,0,1,116.83,4,12,0,urgent error change system user fix loading yesterday setup contact
+640,2,1,0,3,16,0,9,454.61,0,0,1,please service page change
+641,3,74,2,2,14,0,3,77.15,5,5,0,fix request today invoice change
+642,1,3,1,1,20,0,33,283.21,1,12,0,need account access issue invoice loading check
+643,2,1,3,2,9,0,21,735.86,1,35,0,help help broken details system urgent resolved contact overcharge
+644,2,13,0,1,12,0,9,483.33,1,82,0,not working request timeout support urgent
+645,2,3,1,2,6,0,8,1343.51,1,12,2,details error help loading add feature user problem not working support
+646,2,72,0,1,18,0,2,197.7,0,39,0,contact issue error update support information bug details team
+647,0,10,2,1,17,0,7,157.07,3,8,0,user problem check page access permission check
+648,2,39,1,2,12,0,13,432.32,0,6,0,error problem system invoice check issue subscription urgent user access
+649,1,26,1,2,14,0,2,213.31,1,187,1,error issue timeout bug account system
+650,1,43,2,2,8,0,4,137.84,4,60,0,unable unauthorized not working breach yesterday error support
+651,1,31,1,1,0,0,18,161.77,0,6,0,service request change user system API
+652,2,1,0,1,5,0,16,1285.22,0,32,0,fix page issue refund access team today
+653,0,12,3,2,15,0,6,184.23,0,29,0,request account information migration urgent error error broken
+654,2,17,1,1,8,0,5,363.33,2,26,1,timeout loading contact broken today team time request
+655,2,54,1,1,5,0,8,402.65,4,60,1,need service account broken today setup account details
+656,3,11,1,1,19,0,32,142.12,0,21,1,user change error urgent password
+657,3,29,1,2,17,0,1,332.46,3,44,1,user bug resolved not working system update
+658,0,13,1,1,18,0,1,4783.79,3,0,0,resolved broken change account check account enhance contact access
+659,3,2,0,1,3,0,4,175.98,3,48,1,check please password contact check access
+660,2,5,2,2,8,0,41,1038.08,3,15,0,error request today change overcharge user information
+661,2,4,0,2,2,0,14,2207.58,5,23,0,resolved request vulnerability issue please support contact
+662,1,71,1,2,2,0,17,628.95,4,28,0,yesterday account timeout support account unable urgent
+663,2,52,3,1,12,0,2,1033.69,4,26,1,invoice team need fix error
+664,2,102,1,2,3,0,3,645.88,0,7,0,fix time broken error problem information change team crash
+665,1,5,1,2,11,1,3,522.41,4,36,0,fix please check information broken error today information
+666,2,52,0,2,9,0,2,100.04,5,19,1,broken today need user service subscription contact
+667,2,48,0,2,10,0,100,125.32,4,9,1,details help fix details migration not working system contact
+668,1,4,1,3,16,0,20,180.94,3,47,0,contact contact support request broken account unable update password user
+669,0,2,2,1,11,1,3,529.19,1,30,0,loading access resolved information import data urgent access
+670,3,1,1,2,22,0,4,270.05,4,4,0,overcharge information system page need urgent fix issue broken request
+671,3,10,1,1,20,0,26,695.38,0,77,0,broken need resolved access support issue problem
+672,3,114,1,2,22,0,3,1897.54,5,22,0,contact unable access yesterday bug information
+673,2,46,0,1,7,0,46,165.24,3,27,0,contact broken subscription details user resolved change resolved subscription yesterday
+674,1,6,3,1,14,0,16,4204.32,2,2,0,help fix fix help please setup please
+675,0,10,0,2,11,0,1,292.09,2,67,0,change user support error time request today support timeout
+676,1,1,2,1,15,1,1,225.21,5,0,1,unable please problem help request resolved phishing
+677,2,9,2,3,18,0,10,612.1,3,102,0,error change problem change team check time getting started please
+678,2,54,4,3,13,0,1,5748.33,0,156,0,urgent today broken please page check timeout loading
+679,3,17,2,2,19,0,14,185.28,2,65,1,error resolved time service would like
+680,0,25,5,1,18,0,19,1219.0,2,102,2,service today unable time urgent account subscription refund
+681,2,52,1,3,18,1,18,1383.65,3,38,0,please SSO change page system time account request request yesterday
+682,2,48,0,2,3,0,16,759.64,1,22,2,team unable not working account not working breach
+683,0,85,0,3,6,0,1,1275.5,3,1,0,broken fix today phishing problem team help access not working system
+684,0,11,1,2,4,0,2,1006.15,1,47,1,check broken broken resolved access broken information issue invoice
+685,3,26,3,1,2,1,15,1489.79,1,40,2,team error fix subscription help check broken
+686,2,8,0,2,14,0,12,132.59,4,67,0,information update request refund unable error
+687,2,1,1,1,19,0,6,431.49,2,55,1,timeout update today check details loading update API check
+688,2,18,2,1,12,0,5,304.66,3,29,1,system user yesterday fix loading change issue system request
+689,0,55,1,3,9,0,10,1698.07,0,7,0,support login today not working update update page time resolved
+690,3,5,3,2,22,0,7,1383.34,5,16,1,problem system request subscription support yesterday request fix
+691,3,21,1,1,23,1,1,91.8,1,58,1,service error login resolved loading need
+692,1,28,3,2,23,0,3,209.05,1,13,0,support page check user breach fix user check not working unable
+693,2,12,2,1,6,0,25,4652.47,5,16,0,time not working access system access check add feature yesterday error account
+694,3,35,1,1,11,0,16,410.22,1,3,0,broken access account phishing vulnerability urgent
+695,2,10,3,2,17,0,15,1919.86,4,8,1,issue account would like unable change
+696,3,9,1,2,21,0,14,100.37,2,103,1,team access loading team access access user unable page
+697,0,11,1,1,5,0,4,1175.57,3,58,0,timeout account problem loading broken fix today error resolved account
+698,1,10,2,2,7,0,88,163.39,5,30,0,loading not working broken help details error account overcharge details
+699,1,83,0,3,19,0,35,231.92,2,23,1,resolved team change need account error urgent check user refund
