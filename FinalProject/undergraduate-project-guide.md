@@ -5,13 +5,13 @@
 
 **Due Date:** Week 12 (May 8 — Finals Week)
 **Weight:** 30% of final grade
-**Format:** Individual project
+**Format:** Team project (3–4 students per team)
 
 ---
 
 ## What This Project Is
 
-You will act as a data science consultant hired by an organization facing a specific business problem that requires a binary classifier (yes/no, fraud/legitimate, churn/retain, etc.). You select **one** of 20 provided scenarios, each with:
+Your team will act as a data science consulting group hired by an organization facing a specific business problem that requires a binary classifier (yes/no, fraud/legitimate, churn/retain, etc.). Your team selects **one** of 20 provided scenarios, each with:
 
 - A realistic business narrative describing the problem
 - A specific cost structure for false positives and false negatives
@@ -28,11 +28,11 @@ Every scenario gives you explicit dollar amounts: *what does a false positive co
 - **What classification threshold you pick** (the default 0.5 is almost never optimal)
 - **Which model you recommend deploying** (the highest-AUC model may not be the most cost-effective)
 
-A student who chooses XGBoost because "XGBoost is the best" has missed the point. A student who chooses Logistic Regression with a carefully tuned threshold and explains why that decision minimizes total business cost has understood the point.
+A team that picks XGBoost because "XGBoost is the best" has missed the point. A team that picks Logistic Regression with a carefully tuned threshold and explains why that decision minimizes total business cost has understood the point.
 
 ### What Makes This Project Hard (and Valuable)
 
-- **No single correct answer.** Two students working on the same scenario can arrive at different final models and both earn full marks if their reasoning is sound.
+- **No single correct answer.** Two teams working on the same scenario can arrive at different final models and both earn full marks if their reasoning is sound.
 - **Scenarios are not equally difficult.** Some have clear signal and obvious answers; others have weak signal where even a well-tuned model barely beats the naive baseline. *Your grade is based on your process, not on your savings magnitude.*
 - **The "no model" baseline is your true competition.** Before deploying ML, the business would either do nothing (ignore all risks) or flag everything (treat everyone as a risk). A model that doesn't clearly beat both of these naive strategies probably shouldn't be deployed.
 
@@ -113,7 +113,7 @@ Train **at least four** model types. You must include:
 | A boosted model | XGBoost, LightGBM, sklearn GradientBoosting |
 | An ensemble combination | VotingClassifier or StackingClassifier |
 
-> **Note on ensembles at 3K-row scale:** VotingClassifier and StackingClassifier often fail to improve over your best individual model on small tabular datasets. **This is acceptable — and worth discussing.** A student who tries an ensemble, finds it doesn't help, and explains *why* (base learners too correlated, insufficient data diversity, etc.) demonstrates real understanding. A student who silently drops the ensemble because it didn't help loses points.
+> **Note on ensembles at 3K-row scale:** VotingClassifier and StackingClassifier often fail to improve over your best individual model on small tabular datasets. **This is acceptable — and worth discussing.** A team that tries an ensemble, finds it doesn't help, and explains *why* (base learners too correlated, insufficient data diversity, etc.) demonstrates real understanding. A team that silently drops the ensemble because it didn't help loses points.
 
 For each model: specify the hyperparameters you tuned and why, use 5-fold cross-validation (not just train/test), use early stopping for boosting, and report the metric you chose in Part 1.2.
 
@@ -190,9 +190,9 @@ This section is what separates a student who built a model from a student who ca
 
 ### Part 5: Critical Reflection (15%)
 
-> **⚠ Part 5 must be written without AI assistance. You must also present it in a submitted video in Week 12.**
+> **⚠ Part 5 must be written without AI assistance. The team presents it together in a single recorded video in Week 12.**
 >
-> **Video presentation:** Record a 5–7 minute video in which you walk through your Part 5 answers in your own words. Talking-head plus a screen share of your notebook or write-up is fine. The video is pass/fail — failing it (no submission, or answers that don't demonstrate ownership) forfeits all Part 5 points. Submit via the course portal by the Week 12 deadline (May 8).
+> **Video presentation:** The team records a single video using **Microsoft Teams** in which *every* team member presents a portion of the team's Part 5 answers in their own words. Talking-head plus a screen share of the notebook or write-up is fine. Target length is **~10 minutes total, with a hard cutoff at 11 minutes** — anything recorded past 11:00 will not be reviewed, so plan the division of speaking time in advance. Each member must demonstrate ownership of the portion they present (and be able to speak to the whole project). The video is pass/fail per student; failing (didn't speak, or what you presented doesn't demonstrate ownership) forfeits that student's Part 5 points. The team's Parts 1–4 and 6 are unaffected.
 
 **5.1 Algorithm Suitability**
 For each model type you tried, explain in 2–3 sentences why it was or wasn't well-suited to this specific problem. Connect your reasoning to algorithm mechanics: bias-variance tradeoff, decision boundary shape, feature interaction handling, scale sensitivity. "It performed well" is not an answer; "it worked well here because the decision boundary is non-linear and this algorithm can capture axis-aligned interactions without requiring manual feature engineering" is.
@@ -207,8 +207,10 @@ For each of these (3–5 sentences):
 - What if a key feature became unavailable in production? How robust is your model?
 - What if the class balance shifted significantly after deployment? What would break?
 
-**5.4 Lessons Learned**
-What surprised you? What would you do differently? What's the single most important thing you learned about model selection?
+**5.4 Team Reflection**
+- How did your team divide the work? What worked? What would you do differently?
+- What surprised you? What's the single most important thing you learned about model selection?
+- Where did disagreements arise on methodology, and how did you resolve them?
 
 *See `templates/example-responses.md` for calibration of what A-level vs C-level writing looks like.*
 
@@ -226,15 +228,17 @@ Brief card documenting what the model does, what it doesn't do, performance on t
 
 ## Deliverables
 
-Submit three files to the course portal by the deadline:
+Submit as a team through the course portal by the deadline:
 
-1. **`LastName_FirstName_FinalProject.ipynb`** — Your complete analysis notebook. Must run top-to-bottom without errors. Use `random_state=42` throughout for reproducibility.
+1. **`TeamName_FinalProject.ipynb`** — Your team's complete analysis notebook. Must run top-to-bottom without errors. Use `random_state=42` throughout for reproducibility.
 
-2. **`LastName_FirstName_holdout_predictions.csv`** — Your model's predicted probabilities on the holdout features.
+2. **`TeamName_holdout_predictions.csv`** — Your team's model's predicted probabilities on the holdout features.
    - Exactly two columns: `id` (matching the `id` column from `holdout_features.csv`) and `predicted_probability` (float in [0, 1])
    - Run `python templates/validate_submission.py YOUR_FILE XX` before submitting (where XX is your scenario number)
 
-3. **`LastName_FirstName_ExecSummary.pdf`** — 1-page executive summary
+3. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
+
+4. **`TeamName_PeerEvaluation.csv`** — Each team member submits individually, rating team member contributions (100% = full contribution, 90% = minor shortfall, 80% = significant shortfall). Individual grade = Team grade × Peer Evaluation Factor.
 
 ---
 
@@ -263,24 +267,26 @@ Your submitted predictions are compared against the instructor's private holdout
 | Data Exploration & Prep | 15% | Every preprocessing decision justified; no data leakage; meaningful EDA |
 | Model Development | 25% | 4+ model types including required ensemble; proper CV and tuning; threshold optimization tied to costs |
 | Evaluation & Selection | 20% | Final model defended with trade-offs and runner-up discussion; confusion-matrix cells interpreted in business terms (per Part 3.4 table); deployment impact addressed across all four components — financial, operational, stakeholder, ethical/regulatory (Part 4.5) |
-| Critical Reflection | 15% | Written in your own voice; passes video presentation; counterfactuals show real algorithmic understanding |
+| Critical Reflection | 15% | Written in the team's own voice; per-student video presentation demonstrates ownership; counterfactuals show real algorithmic understanding |
 | Stakeholder Communication | 10% | Executive summary readable by a non-technical reader in under 2 minutes; model card complete |
 
 ---
 
 ## Rules
 
-1. **Do not attempt to obtain the holdout labels.** You have `holdout_features.csv` only. Attempting to infer or reconstruct labels, or obtaining them from any source (including other students, solution leaks, or previous semesters) will result in a zero.
+1. **Do not attempt to obtain the holdout labels.** You have `holdout_features.csv` only. Attempting to infer or reconstruct labels, or obtaining them from any source (including other teams, solution leaks, or previous semesters) will result in a zero.
 
-2. **Part 5 is your own work.** AI-assisted answers will fail the video presentation. See Part 5 description.
+2. **Part 5 is your team's own work.** AI-assisted answers will fail the individual video presentations. See Part 5 description.
 
 3. **You may use AI assistance** for Parts 1–4, 6. Document significant AI interactions briefly in your notebook.
 
 4. **Reproducibility:** Use `random_state=42` for every model, split, and CV operation. Your notebook must produce identical results when re-run.
 
-5. **Scenario selection by Week 11** via the course portal. First-come, first-served on a per-section basis.
+5. **Team formation by Week 9** via the course portal. **Scenario selection by Week 10** — first-come, first-served on a per-section basis; no two teams in the same section may take the same scenario.
 
-6. **Late submissions** lose 10% per day per the syllabus.
+6. **Peer evaluations are mandatory.** Failure to submit one → capped at 80% peer factor.
+
+7. **Late submissions** lose 10% per day per the syllabus.
 
 ---
 
@@ -288,10 +294,10 @@ Your submitted predictions are compared against the instructor's private holdout
 
 | Week | Milestone |
 |------|-----------|
-| 9  | Scenario selected. Submit Part 1.2 cost analysis for peer feedback in class. |
-| 10 | "Show your worst model" session — share a model that underperformed and discuss why. |
-| 11 | Draft Part 5 (no AI). Record your 5–7 minute video presentation. |
-| 12 | Submit final project notebook + video presentation via the course portal. Due May 8. |
+| 9  | Teams formed. Roles assigned within team. |
+| 10 | Scenario selected. Submit Part 1.2 cost analysis for peer feedback in class. |
+| 11 | "Show your worst model" session — share a model that underperformed and discuss why. Part 5 drafting (no AI). Team records combined video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents). |
+| 12 | Submit team project + team video presentation via the course portal. Due May 8. |
 
 ---
 
@@ -310,4 +316,4 @@ Sample solutions in `solutions/` show **technical mechanics** (which models to t
 
 ---
 
-*Undergraduate Project Guide — Version 2.0 — Spring 2026*
+*Undergraduate Project Guide — Version 3.0 — Spring 2026*

@@ -212,9 +212,9 @@ Where does the model fail? Are certain classes harder (multi-class)? Are certain
 
 ### Part 5: Critical Reflection (15%)
 
-> **⚠ Part 5 must be written without AI assistance. Each team member must also present the work in an individually-recorded video in Week 12.**
+> **⚠ Part 5 must be written without AI assistance. The team presents it together in a single recorded video in Week 12.**
 >
-> **Video presentation:** Each team member records an individual 5–7 minute video walking through the team's Part 5 answers in their own words. Talking-head plus a screen share of your notebook or write-up is fine. Each member must demonstrate ownership of the team's reasoning — not every member needs to have written every section, but every member must be able to speak to the whole project. The video is pass/fail per student; failing (no submission, or a presentation that doesn't demonstrate ownership) forfeits your Part 5 points (the team's Parts 1–4 and 6 are unaffected).
+> **Video presentation:** The team records a single video using **Microsoft Teams** in which *every* team member presents a portion of the team's Part 5 answers in their own words. Talking-head plus a screen share of the notebook or write-up is fine. Target length is **~10 minutes total, with a hard cutoff at 11 minutes** — anything recorded past 11:00 will not be reviewed, so plan the division of speaking time in advance. Each member must demonstrate ownership of the portion they present (and be able to speak to the whole project, since question-style probes may appear in-video). The video is pass/fail per student; failing (didn't speak, or what you presented doesn't demonstrate ownership) forfeits that student's Part 5 points. The team's Parts 1–4 and 6 are unaffected.
 
 **5.1 Text Representation Decisions**
 - Why did TF-IDF with your chosen parameters work (or not) for this problem? What would bigram-only or trigram-only have missed?
@@ -317,8 +317,8 @@ The instructor will evaluate your holdout predictions using the metric specified
 |------|-----------|
 | 9  | Teams formed. Roles assigned within team. |
 | 10 | Scenario selected. In-class presentation of Part 1 (5 min per team). |
-| 11 | Ablation study intermediate results shared — peer feedback session. Individual Part 5 drafting begins (no AI). Record individual video presentations. |
-| 12 | Submit team project + individual video presentations via the course portal. Due May 8. |
+| 11 | Ablation study intermediate results shared — peer feedback session. Part 5 drafting (no AI). Team records combined video presentation (MS Teams, ~10 min, 11 min hard cutoff; every member presents). |
+| 12 | Submit team project + team video presentation via the course portal. Due May 8. |
 
 ---
 

@@ -8,7 +8,7 @@ This folder contains all materials for the course final project.
 
 Read [`undergraduate-project-guide.md`](undergraduate-project-guide.md).
 
-You will select **one of 20 binary classification scenarios** (scenarios 01–20). Individual project. Due Week 12 (May 8).
+Your team will select **one of 20 binary classification scenarios** (scenarios 01–20). Team project (3–4 students). Due Week 12 (May 8).
 
 ### Graduate Students
 
@@ -47,10 +47,10 @@ FinalProject/
 
 | Week | Undergrad | Graduate |
 |------|-----------|----------|
-| 9  | Scenario selected; cost-analysis peer session | Teams formed; roles assigned |
-| 10 | "Show your worst model" peer session | Scenario selected; Part 1 team presentation |
-| 11 | Draft Part 5 (no AI); record video presentation | Ablation intermediate results; peer feedback; individual Part 5 drafting + video recording |
-| 12 | Submit final project + video presentation (May 8) | Submit team project + individual video presentations (May 8) |
+| 9  | Teams formed; roles assigned | Teams formed; roles assigned |
+| 10 | Scenario selected; cost-analysis peer session | Scenario selected; Part 1 team presentation |
+| 11 | "Show your worst model" peer session; Part 5 drafting; team records combined video (MS Teams, ~10 min, 11 min hard cutoff; every member presents) | Ablation intermediate results; peer feedback; Part 5 drafting; team records combined video (MS Teams, ~10 min, 11 min hard cutoff; every member presents) |
+| 12 | Submit team project + team video presentation (May 8) | Submit team project + team video presentation (May 8) |
 
 ---
 

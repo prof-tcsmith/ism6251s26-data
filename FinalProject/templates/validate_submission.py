@@ -3,11 +3,11 @@
 Validate a final project holdout predictions submission.
 
 Usage:
-    python validate_submission.py path/to/LastName_FirstName_holdout_predictions.csv SCENARIO_NUM
+    python validate_submission.py path/to/TeamName_holdout_predictions.csv SCENARIO_NUM
 
 Example:
-    python validate_submission.py Smith_Jane_holdout_predictions.csv 06
-    python validate_submission.py TeamName_holdout_predictions.csv 25
+    python validate_submission.py DataWranglers_holdout_predictions.csv 06
+    python validate_submission.py TextMiners_holdout_predictions.csv 25
 
 The scenario number is required — it determines which submission format is expected:
     - Binary scenarios (01-20, 29):     id, predicted_probability
