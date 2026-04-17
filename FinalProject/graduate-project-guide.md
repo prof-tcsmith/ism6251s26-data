@@ -263,7 +263,7 @@ Submit as a team through the course portal:
 
 3. **`TeamName_ExecSummary.pdf`** — 1-page executive summary
 
-4. **`TeamName_PeerEvaluation.csv`** — Each team member submits individually, rating team member contributions (100% = full contribution, 90% = minor shortfall, 80% = significant shortfall). Individual grade = Team grade × Peer Evaluation Factor.
+**Peer evaluation (submitted separately, by email):** Immediately after the final project submission deadline, the instructor will post an announcement requesting peer evaluations. **Each student must email the instructor a score out of 10 for every other team member.** A score of 10/10 means full contribution; score a teammate lower if you feel they did not contribute fairly. The purpose is to ensure every student participates — the default expectation is 10/10. Your individual grade on the team project is adjusted by a peer-evaluation factor computed from the average score your teammates give you (10/10 = no adjustment; lower scores scale your team grade down proportionally).
 
 ---
 
@@ -307,7 +307,7 @@ The instructor will evaluate your holdout predictions using the metric specified
 
 5. **Team formation by Week 10** via the course portal. Scenario selection by Week 11. First-come, first-served on scenario assignment — no two teams in the same section may take the same scenario.
 
-6. **Peer evaluations are mandatory.** Failure to submit one → capped at 80% peer factor.
+6. **Peer evaluations are mandatory.** You must email your per-teammate scores after the instructor's post-submission announcement. Failure to send peer scores → your own peer-evaluation factor is capped at 80%.
 
 ---
 
