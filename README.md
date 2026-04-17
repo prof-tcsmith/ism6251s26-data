@@ -1,9 +1,6 @@
-# ISM Course Data Repository
+# ISM 6251 Course Data Repository
 
-Public datasets and student-facing materials for two courses taught by Dr. Tim Smith at the University of South Florida:
-
-- **ISM 6251 — Machine Learning for Business Applications** (Spring 2026, graduate)
-- **ISM 4641 — Python for Business Analytics** (Summer 2026, undergraduate)
+Public datasets and student-facing materials for **ISM 6251 — Machine Learning for Business Applications** (Spring 2026, graduate), taught by Dr. Tim Smith at the University of South Florida.
 
 ## Structure
 
